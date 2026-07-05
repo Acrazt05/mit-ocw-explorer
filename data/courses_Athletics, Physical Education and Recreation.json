@@ -1,0 +1,221 @@
+[
+  {
+    "id": 9695,
+    "title": "Physical Intelligence",
+    "description": "",
+    "coursenum": "PE.910",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Physical Education and Recreation",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-910-physical-intelligence-january-iap-2002/a3ed64e97dc56779ad8357d98706a50f_pe-910iap02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9769,
+    "title": "Archery",
+    "description": "",
+    "coursenum": "PE.730",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-730-archery-spring-2006/468d2091d406d924060c6e625898b4bb_pe-730s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11573,
+    "title": "Designing Your Life",
+    "description": "",
+    "coursenum": "PE.550",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Mental Health"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-550-designing-your-life-january-iap-2007/57642935d9b50d50ed23317d2303214c_pe-550iap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9514,
+    "title": "Tennis",
+    "description": "",
+    "coursenum": "PE.710",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-710-tennis-spring-2007/8a7a5270a2665efef6c461b6df94c0e1_pe-710s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7752,
+    "title": "SCUBA",
+    "description": "",
+    "coursenum": "PE.210",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-210-scuba-spring-2007/6b45d9859e5da887fd7b263e80da3f0e_pe-210s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8001,
+    "title": "Sailing",
+    "description": "",
+    "coursenum": "PE.810",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-810-sailing-spring-2007/1342b186752a55dc2c03f810447aeac1_pe-810s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7994,
+    "title": "PE for ME",
+    "description": "",
+    "coursenum": "PE.920",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-920-pe-for-me-spring-2005/14ba7a0a27e3cfaad9c2039663d36919_pe-920s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8786,
+    "title": "Designing Your Life",
+    "description": "",
+    "coursenum": "PE.550",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Mental Health"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-550-designing-your-life-spring-2009/16f8552dc3ed252d06dd13a261c06841_pe-550s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8148,
+    "title": "Weight Training",
+    "description": "",
+    "coursenum": "PE.720",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation",
+      "Health and Exercise Science"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-720-weight-training-spring-2006/c6ca61c4d0217b8291e38502b3c93e72_pe-720s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8316,
+    "title": "Fencing",
+    "description": "",
+    "coursenum": "PE.740",
+    "department": [
+      "Athletics, Physical Education and Recreation"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Physical Education and Recreation"
+    ],
+    "url": "",
+    "image_src": "/courses/pe-740-fencing-spring-2007/def042500e576559b4d6b2a05e74bde5_pe-740s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  }
+]

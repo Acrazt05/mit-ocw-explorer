@@ -1,0 +1,2160 @@
+[
+  {
+    "id": 10012,
+    "title": "Political Economy and Economic Development",
+    "description": "",
+    "coursenum": "14.75",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Economy",
+      "Developmental Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-75-political-economy-and-economic-development-fall-2012/0b2ae84560348b9529a3b04b766f989a_14-75f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12059,
+    "title": "The Challenges of Global Poverty",
+    "description": "",
+    "coursenum": "14.73x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.73x.jpg?v=b7ce961774d5d79edb9b0e22135f5b5b8ca006dc",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12058,
+    "title": "Political Economy and Economic Development",
+    "description": "",
+    "coursenum": "14.750x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.750x_-_course_image_-_MITxO.png?v=bd34e10f5cff294d912767cd86807b25980a1963",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7813,
+    "title": "Labor Economics II",
+    "description": "",
+    "coursenum": "14.662",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Labor Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-662-labor-economics-ii-spring-2015/ec0332cdd12b0e3808ede3c1a59e0532_14-662s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7737,
+    "title": "Game Theory",
+    "description": "",
+    "coursenum": "14.126",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-126-game-theory-spring-2016/99bac9f27050a36246a0a6227839776a_14-126s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8411,
+    "title": "Microeconomic Theory and Public Policy",
+    "description": "",
+    "coursenum": "14.03",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Microeconomics",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/14-03-microeconomic-theory-and-public-policy-fall-2016/a3ddcf4e69858104ee19e7371ddba88d_14-03f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8383,
+    "title": "International Economics I",
+    "description": "",
+    "coursenum": "14.581",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-581-international-economics-i-spring-2013/7d36ecf8202f37773231f0d10ff5e56c_14-581s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8376,
+    "title": "Econometrics",
+    "description": "",
+    "coursenum": "14.32",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-32-econometrics-spring-2007/d1c7acfec893edd815a26f6cb05748e6_14-32s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8063,
+    "title": "Intermediate Macroeconomics",
+    "description": "",
+    "coursenum": "14.05",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-05-intermediate-macroeconomics-spring-2013/c9cb05a46301f892adf8931fa52a00e4_14-05s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8075,
+    "title": "Competition in Telecommunications",
+    "description": "",
+    "coursenum": "15.020",
+    "department": [
+      "Sloan School of Management",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Economics",
+      "Social Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Industrial Organization",
+      "Telecommunications"
+    ],
+    "url": "",
+    "image_src": "/courses/15-020-competition-in-telecommunications-fall-2003/292b4048a8cec5c0418751da86757274_15-020f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5201,
+    "title": "Data Analysis in Social Science—Assessing Your Knowledge",
+    "description": "",
+    "coursenum": "14.310Fx",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/48708e7e-0152-4a4b-ad4c-2dadce29c87f-1b12f52e380e.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7694,
+    "title": "Political Economy I",
+    "description": "",
+    "coursenum": "17.100J",
+    "department": [
+      "Political Science",
+      "Sloan School of Management",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Political Economy"
+    ],
+    "url": "",
+    "image_src": "/courses/17-100j-political-economy-i-spring-2016/86cf04aef235e3e428868f3c0b37ffcf_17-100js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7966,
+    "title": "Microeconomic Theory I",
+    "description": "",
+    "coursenum": "14.121",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-121-microeconomic-theory-i-fall-2015/ebb3bff7cdb6c7561f68f1b02f2ebd3b_14-121f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8734,
+    "title": "Development Economics: Macroeconomics",
+    "description": "",
+    "coursenum": "14.772",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics",
+      "Developmental Economics",
+      "Macroeconomics",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-772-development-economics-macroeconomics-spring-2013/c394de3ba76d9c2de7b5645fcec20c89_14-772s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8723,
+    "title": "Microeconomic Theory II",
+    "description": "",
+    "coursenum": "14.122",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-122-microeconomic-theory-ii-fall-2002/65c7006659268063e6bf51b998455f49_14-122f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8159,
+    "title": "Economic Growth",
+    "description": "",
+    "coursenum": "14.452",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Developmental Economics",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-452-economic-growth-fall-2016/c7f5caa9821bc04c986b25b501465d09_14-452f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9255,
+    "title": "Environmental Policy and Economics",
+    "description": "",
+    "coursenum": "14.42",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Public Policy",
+      "Environmental Policy",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/14-42-environmental-policy-and-economics-spring-2011/cc02626b6e233fba160abb49b0517a18_14-42s11.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8854,
+    "title": "Economic History",
+    "description": "",
+    "coursenum": "14.731",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Labor Economics",
+      "World History",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-731-economic-history-spring-2009/9a8deb65b125807fd27f10f3a5cbd562_14-731s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13166,
+    "title": "Game Theory",
+    "description": "",
+    "coursenum": "14.126",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14.126-game-theory-spring-2024/mit14_126_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8013,
+    "title": "Principles of Microeconomics",
+    "description": "",
+    "coursenum": "14.01SC",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-01sc-principles-of-microeconomics-fall-2011/4aca9caa520d6e6ce06d163f4c3ba7f8_14-01scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Exams",
+      "Lecture Notes",
+      "Supplemental Exam Materials",
+      "Problem Sets",
+      "Open Textbooks",
+      "Problem Set Solutions",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13206,
+    "title": "Public Finance and Public Policy",
+    "description": "",
+    "coursenum": "14.41",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Economics",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-41-public-finance-and-public-policy-fall-2024/mit14_41_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13093,
+    "title": "Industrial Organization I",
+    "description": "",
+    "coursenum": "14.271",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-271-industrial-organization-i-fall-2022/mit14_271_f22_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Readings",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10008,
+    "title": "Organizational Economics",
+    "description": "",
+    "coursenum": "14.282",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Microeconomics",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-282-organizational-economics-spring-2009/9c86a69cb623f5008a8ca310c4d6f7a0_14-282s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8761,
+    "title": "Economic Applications of Game Theory",
+    "description": "",
+    "coursenum": "14.12",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-12-economic-applications-of-game-theory-fall-2012/67cbe75fb46e9d36621e265cb6ae7133_14-12f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8952,
+    "title": "Microeconomic Theory III",
+    "description": "",
+    "coursenum": "14.123",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-123-microeconomic-theory-iii-spring-2015/382000ab464dd745420b11a36c8de103_14-123s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12758,
+    "title": "Development Economics",
+    "description": "",
+    "coursenum": "14.771",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics",
+      "Developmental Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-771-development-economics-fall-2021/14-771f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Lecture Notes",
+      "Videos",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13036,
+    "title": "Data Analysis for Social Scientists",
+    "description": "",
+    "coursenum": "14.310x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-310x-data-analysis-for-social-scientists-spring-2023/mit14_310x_s23_chp.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13113,
+    "title": "Data Analysis for Social Scientists:Enhanced",
+    "description": "",
+    "coursenum": "14.310GZ",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/static/images/mit-dome.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9987,
+    "title": "Nonlinear Econometric Analysis",
+    "description": "",
+    "coursenum": "14.385",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Microeconomics",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-385-nonlinear-econometric-analysis-fall-2007/82855878c26b9b1c0c111102b4320d38_14-385f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10756,
+    "title": "Economic History",
+    "description": "",
+    "coursenum": "14.731",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "World History",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-731-economic-history-fall-2006/2c9b44da71dacde72e7940693cb037d2_14-731f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10434,
+    "title": "Macroeconomic Theory I",
+    "description": "",
+    "coursenum": "14.451",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-451-macroeconomic-theory-i-spring-2007/0a3fc76f11f79505d8c06315d9f63b76_14-451s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12435,
+    "title": "AP® Microeconomics",
+    "description": "",
+    "coursenum": "14.01x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.01x_Course_Image_MITxO.png?v=f6aacc1df41d983b5cda78201a7fc86751229a62",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12746,
+    "title": "The Roosevelt Project",
+    "description": "",
+    "coursenum": "RES.14-003",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Public Policy",
+      "Climate",
+      "Environmental Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/res-14-003-the-roosevelt-project-spring-2023/res-14-003s23.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7760,
+    "title": "Dynamic Optimization & Economic Applications (Recursive Methods)",
+    "description": "",
+    "coursenum": "14.128",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Game Theory",
+      "Systems Optimization",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/9041e9b2306b4b47c108749d14f73d38_14-128s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8173,
+    "title": "International Trade",
+    "description": "",
+    "coursenum": "14.54",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Globalization",
+      "Macroeconomics",
+      "Financial Economics",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-54-international-trade-fall-2016/7f6a4910fef95f7f4009e920f4403986_14-54f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8017,
+    "title": "Advanced Macroeconomics I",
+    "description": "",
+    "coursenum": "14.461",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-461-advanced-macroeconomics-i-fall-2012/f5e0524d1abe3c1a742351dfa75dba0e_14-461f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8037,
+    "title": "Introduction to Statistical Methods in Economics",
+    "description": "",
+    "coursenum": "14.30",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-30-introduction-to-statistical-methods-in-economics-spring-2009/955ef7f6a4c64a0a05b039b159fd5bcc_14-30s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7946,
+    "title": "Information Technology and the Labor Market",
+    "description": "",
+    "coursenum": "11.128",
+    "department": [
+      "Urban Studies and Planning",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Sociology",
+      "Information Technology",
+      "Labor Economics",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/11-128-information-technology-and-the-labor-market-spring-2005/78544b50ccd0a1eba04b4fd5c0de4985_11-128s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7948,
+    "title": "Econometrics",
+    "description": "",
+    "coursenum": "14.382",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-382-econometrics-spring-2017/a555d61b6f6aa37ec7d121ac246e9286_14-382s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12095,
+    "title": "Data Analysis for Social Scientists",
+    "description": "",
+    "coursenum": "14.310x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+14.310x+2T2021+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12056,
+    "title": "Good Economics for Hard Times",
+    "description": "",
+    "coursenum": "14.009x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.009x_-_course_image_-_SMALL.jpg?v=52e6adb90be9d738874676756fe22cd1ad9e1965",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12055,
+    "title": "Foundations of Development Policy",
+    "description": "",
+    "coursenum": "14.740x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.740x_-_course_image_-_MITxO_Ub7YAbD.png?v=0d86718655e3e33ac2f32aecb08be0f1a95b0c93",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8434,
+    "title": "Economic Institutions and Growth Policy Analysis",
+    "description": "",
+    "coursenum": "11.486J",
+    "department": [
+      "Urban Studies and Planning",
+      "Economics",
+      "Political Science"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Organizational Behavior",
+      "Industrial Organization",
+      "Public Policy",
+      "Public Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/11-486j-economic-institutions-and-growth-policy-analysis-fall-2005/dcf6e6391798f053dac9a2260a259e1d_11-486jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8615,
+    "title": "Microeconomic Theory IV",
+    "description": "",
+    "coursenum": "14.124",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-124-microeconomic-theory-iv-spring-2017/7de4a40ba2d4c37ba95a926673285f57_14-124s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8969,
+    "title": "Statistical Method in Economics",
+    "description": "",
+    "coursenum": "14.381",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-381-statistical-method-in-economics-fall-2018/1b547c144281a4f14020220ad3ede9f8_14-381f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8764,
+    "title": "Public Economics II",
+    "description": "",
+    "coursenum": "14.472",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Political Economy",
+      "Public Policy",
+      "Public Economics",
+      "Social Welfare"
+    ],
+    "url": "",
+    "image_src": "/courses/14-472-public-economics-ii-spring-2004/3a21d008eec762af5d424acda36b92e6_14-472s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8281,
+    "title": "Time Series Analysis",
+    "description": "",
+    "coursenum": "14.384",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Macroeconomics",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-384-time-series-analysis-fall-2013/e8555999b1db782b11e84f95cbcd3c3b_14-384f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9393,
+    "title": "Economic Crises",
+    "description": "",
+    "coursenum": "14.454",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Economy",
+      "Macroeconomics",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-454-economic-crises-spring-2011/26c9634192697816a6a134745f22877b_14-454s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8686,
+    "title": "Capitalism and Its Critics",
+    "description": "",
+    "coursenum": "14.72",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Economics",
+      "Social Science",
+      "Philosophy",
+      "Labor Economics",
+      "Political Philosophy",
+      "Political Economy"
+    ],
+    "url": "",
+    "image_src": "/courses/14-72-capitalism-and-its-critics-fall-2013/4cca4a5f7bff331e34f8fe27b477b006_14-72f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8842,
+    "title": "Advanced Macroeconomics II",
+    "description": "",
+    "coursenum": "14.462",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Labor Economics",
+      "Macroeconomics",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-462-advanced-macroeconomics-ii-spring-2007/7df967565f0db8d118d21bdd10441f03_14-462s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9463,
+    "title": "Foundations of Development Policy",
+    "description": "",
+    "coursenum": "14.74",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Developmental Economics",
+      "International Development",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/14-74-foundations-of-development-policy-spring-2009/a32a113e9f29bef6e83aca4d8bd9bdba_14-74s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11512,
+    "title": "Macroeconomic Theory II",
+    "description": "",
+    "coursenum": "14.452",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-452-macroeconomic-theory-ii-spring-2007/19b0cd0b46d548780baa5ccd03527d2e_14-452s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9752,
+    "title": "The Challenge of World Poverty",
+    "description": "",
+    "coursenum": "14.73",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Society",
+      "Business",
+      "Globalization",
+      "Global Poverty",
+      "Developmental Economics",
+      "Social Welfare"
+    ],
+    "url": "",
+    "image_src": "/courses/14-73-the-challenge-of-world-poverty-spring-2011/7b1027ee0a8ca83157541417c999bcb4_14-73s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13058,
+    "title": "Principles of Macroeconomics",
+    "description": "",
+    "coursenum": "14.02",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-02-principles-of-macroeconomics-spring-2023/14_02_s23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7751,
+    "title": "Energy Economics",
+    "description": "",
+    "coursenum": "14.44",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Energy",
+      "Microeconomics",
+      "Political Economy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Environmental Policy",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/14-44-energy-economics-spring-2007/d499f976ac3dbfb644f752f80bf650dd_14-44s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8387,
+    "title": "Energy Decisions, Markets, and Policies",
+    "description": "",
+    "coursenum": "15.031J",
+    "department": [
+      "Sloan School of Management",
+      "Economics",
+      "Anthropology",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Business",
+      "Globalization",
+      "Science and Technology Policy",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/eab08f39ff3c71f01d8a97fd0d2de47a_15-031js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8864,
+    "title": "Topics in Game Theory",
+    "description": "",
+    "coursenum": "14.147",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-147-topics-in-game-theory-fall-2009/280c58b7724f420cfe3052740d8fc6a2_14-147f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8847,
+    "title": "Intermediate Macroeconomic Theory",
+    "description": "",
+    "coursenum": "14.06",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Systems Optimization",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-06-intermediate-macroeconomic-theory-spring-2004/f9bed8115c2b43da40c1ecb4bedf5e10_14-06s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9438,
+    "title": "Financial Crises",
+    "description": "",
+    "coursenum": "14.09",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-09-financial-crises-january-iap-2016/51ff79f1c0bf3b2176d0311d6d424b2c_14-09iap16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9524,
+    "title": "Introduction to Political Economy",
+    "description": "",
+    "coursenum": "14.770",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Political Economy"
+    ],
+    "url": "",
+    "image_src": "/courses/14-770-introduction-to-political-economy-fall-2017/cbe011c3729fd18afe2e0478f843b68d_14-770F17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9012,
+    "title": "Public Economics I",
+    "description": "",
+    "coursenum": "14.471",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-471-public-economics-i-fall-2012/fc3e7c73337605fb7f4ace9f7cd5c8e8_14-471f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11162,
+    "title": "Topics in Game Theory",
+    "description": "",
+    "coursenum": "14.147",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-147-topics-in-game-theory-spring-2005/dc3696b81c5dd539aadc9de04bb29f46_14-147s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12111,
+    "title": "Networks",
+    "description": "",
+    "coursenum": "14.15",
+    "department": [
+      "Economics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Economics",
+      "Social Science",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/14-15-networks-spring-2022/14-15s22.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12808,
+    "title": "Microeconomic Theory and Public Policy",
+    "description": "",
+    "coursenum": "14.003x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.003x_-_course_image_-_MITxO.png?v=f28339445ccb3f0cb93b907e43f45bd29a2e17c9",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13174,
+    "title": "Labor Economics I",
+    "description": "",
+    "coursenum": "14.661",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Labor Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-661-labor-economics-i-fall-2024/mit14-661-f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Supplemental Exam Materials",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8074,
+    "title": "Medieval Economic History in Comparative Perspective",
+    "description": "",
+    "coursenum": "21H.134J",
+    "department": [
+      "History",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "European History",
+      "Asian History",
+      "Medieval History",
+      "Comparative History"
+    ],
+    "url": "",
+    "image_src": "/courses/21h-134j-medieval-economic-history-in-comparative-perspective-spring-2012/c36416ee43b27332c315e89f052c93ed_21h-134js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7722,
+    "title": "Dynamic Optimization Methods with Applications",
+    "description": "",
+    "coursenum": "14.451",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Applied Mathematics",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-451-dynamic-optimization-methods-with-applications-fall-2009/3928efab2538977dedfea04726a0fd21_14-451f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8588,
+    "title": "Labor Economics I",
+    "description": "",
+    "coursenum": "14.661",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Labor Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-661-labor-economics-i-fall-2017/5503ef364608a026dcca500beecc7979_14-661f17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8688,
+    "title": "Labor Economics and Public Policy",
+    "description": "",
+    "coursenum": "14.64",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Microeconomics",
+      "Labor Economics",
+      "Public Policy",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-64-labor-economics-and-public-policy-fall-2009/b8ecaa82e0dcc2dcaa9eeddd61f67023_14-64f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9173,
+    "title": "Macroeconomic Theory III",
+    "description": "",
+    "coursenum": "14.453",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-453-macroeconomic-theory-iii-fall-2006/f36ae448152095098da2276afc37cd85_14-453f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9233,
+    "title": "Economic History of Financial Crises",
+    "description": "",
+    "coursenum": "14.71",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Microeconomics",
+      "Modern History",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-71-economic-history-of-financial-crises-fall-2009/c3002738b1b5ed604b4651414fc5e6a7_14-71f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9613,
+    "title": "Applied Econometrics: Mostly Harmless Big Data",
+    "description": "",
+    "coursenum": "14.387",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Data Mining",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/3680ab46f388d7a8d1dbfe391a776ee7_14-387f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10061,
+    "title": "Strategy and Information",
+    "description": "",
+    "coursenum": "14.16",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-16-strategy-and-information-spring-2016/74e0538d1769815fefdeae33a8b57855_14-16s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10537,
+    "title": "Intermediate Macroeconomic Theory",
+    "description": "",
+    "coursenum": "14.06",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Systems Optimization",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-06-intermediate-macroeconomic-theory-spring-2003/e115b1c9982a2133b4b0e510ef1b96ed_14-06s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8883,
+    "title": "Economics and E-Commerce",
+    "description": "",
+    "coursenum": "14.27",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/14-27-economics-and-e-commerce-fall-2014/6b9dbb10a00fae1497352c94121eb0de_14-27f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9247,
+    "title": "Economics of Education",
+    "description": "",
+    "coursenum": "11.126J",
+    "department": [
+      "Urban Studies and Planning",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Teaching and Education",
+      "Education Policy",
+      "Public Economics",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/11-126j-economics-of-education-spring-2007/eb3f253f4f889941f103a5a18a15b6f9_11-126js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11353,
+    "title": "Advanced Macroeconomics II",
+    "description": "",
+    "coursenum": "14.462",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Industrial Organization",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-462-advanced-macroeconomics-ii-spring-2004/eb981c9f19c1563a1faca0d4422e090e_14-462s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12057,
+    "title": "Microeconomics",
+    "description": "",
+    "coursenum": "14.100x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.100x.jpg?v=8fe621cc0d80ebe4e57fd1b240e9f95d8c2b31db",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12053,
+    "title": "Data Analysis for Social Scientists",
+    "description": "",
+    "coursenum": "14.310x",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/14.310x_-_course_image_-_MITxO.png?v=247f537a5edc2b1a9dcdbfba3a1e09fd562f3e8a",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8194,
+    "title": "Industrial Organization and Public Policy",
+    "description": "",
+    "coursenum": "14.20",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Microeconomics",
+      "Industrial Organization",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/14-20-industrial-organization-and-public-policy-spring-2003/a466b4fedbd0094afe2c936efd12fbb5_14-20s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11944,
+    "title": "Psychology and Economics",
+    "description": "",
+    "coursenum": "14.13",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/14-13-psychology-and-economics-spring-2020/54c907ff4b73578998347a493375ad0c_14-13s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Podcasts",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10751,
+    "title": "Introduction to Statistical Method in Economics",
+    "description": "",
+    "coursenum": "14.30",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Econometrics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-30-introduction-to-statistical-method-in-economics-spring-2006/14db030c7a7703f7242ed86c233bf6c3_14-30s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8213,
+    "title": "Networks",
+    "description": "",
+    "coursenum": "14.15J",
+    "department": [
+      "Economics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Economics",
+      "Social Science",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/14-15j-networks-spring-2018/dca94841d9a3b023e8cab2830caf3460_14-15JS18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13165,
+    "title": "Principles of Microeconomics",
+    "description": "",
+    "coursenum": "14.01",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-01-principles-of-microeconomics-fall-2023/mit14_01_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12039,
+    "title": "Intermediate Microeconomic Theory",
+    "description": "",
+    "coursenum": "14.04",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/14-04-intermediate-microeconomic-theory-fall-2020/14-04f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Readings",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13227,
+    "title": "Economic Applications of Game Theory",
+    "description": "",
+    "coursenum": "14.12",
+    "department": [
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/14-12-economic-applications-of-game-theory-fall-2025/mit14_12_f25_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Videos",
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  }
+]

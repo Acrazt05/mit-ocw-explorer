@@ -1,0 +1,2930 @@
+[
+  {
+    "id": 9877,
+    "title": "Mechanics and Design of Concrete Structures",
+    "description": "",
+    "coursenum": "1.054",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/1-054-mechanics-and-design-of-concrete-structures-spring-2004/8e12e986c09864fc4410f26f624ac191_1-054s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10013,
+    "title": "Computer Algorithms in Systems Engineering",
+    "description": "",
+    "coursenum": "1.204",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/1-204-computer-algorithms-in-systems-engineering-spring-2010/525f640b5d015b557de808df09f4acb3_1-204s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10908,
+    "title": "Project Management",
+    "description": "",
+    "coursenum": "1.040",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-040-project-management-spring-2004/ed78302ef0194f93b950119b5e7e24f5_1-040s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9598,
+    "title": "Introduction to Network Models",
+    "description": "",
+    "coursenum": "1.022",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/1-022-introduction-to-network-models-fall-2018/b0e554b2867acd3580bce8938a2986dc_1-022f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9730,
+    "title": "Atmospheric Chemistry",
+    "description": "",
+    "coursenum": "1.84J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Energy",
+      "Atmospheric Science",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/1-84j-atmospheric-chemistry-fall-2013/aea7f5215f80326880c9c3be83afadc1_1-84jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7769,
+    "title": "Transportation Systems Analysis: Demand and Economics",
+    "description": "",
+    "coursenum": "1.201J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Economics",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Transportation Planning",
+      "Financial Economics",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-201j-transportation-systems-analysis-demand-and-economics-fall-2008/0c62366c41d2af0b8e1ec4b9dc3748d7_1-201jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8420,
+    "title": "E-Commerce and the Internet in Real Estate and Construction",
+    "description": "",
+    "coursenum": "1.464",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Information Technology",
+      "Operations Management",
+      "Real Estate"
+    ],
+    "url": "",
+    "image_src": "/courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/e0442c6c1f43d94c7d5a62b304e90f1e_1-464s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8413,
+    "title": "Manufacturing System and Supply Chain Design",
+    "description": "",
+    "coursenum": "15.763J",
+    "department": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1a7951328ea94209e663d0aab03d627e_15-763js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8262,
+    "title": "Structural Engineering Design",
+    "description": "",
+    "coursenum": "1.051",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/1-051-structural-engineering-design-fall-2003/1e323cb9b50e5a4f8a8ca1c76d4486c0_1-051f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Projects",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8224,
+    "title": "Supply Chain Planning",
+    "description": "",
+    "coursenum": "15.762J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-762j-supply-chain-planning-spring-2011/12b4faeba1b4a271a2f6630a9e35c46f_15-762js11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8954,
+    "title": "Nonlinear Dynamics and Waves",
+    "description": "",
+    "coursenum": "2.034J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/a925748279d59197fcad924c0ba5a75a_2-034js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8110,
+    "title": "Ecology II: Engineering for Sustainability",
+    "description": "",
+    "coursenum": "1.020",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science",
+      "Biology",
+      "Civil Engineering",
+      "Environmental Science",
+      "Ecology",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/1-020-ecology-ii-engineering-for-sustainability-spring-2008/1f6e6928aa30d00ffac1baf0fe2ce516_1-020s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8140,
+    "title": "Nonlinear Dynamics II: Continuum Systems",
+    "description": "",
+    "coursenum": "18.354J",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Applied Mathematics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/5f04d067eae392953c52e25806c392cc_18-354js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9318,
+    "title": "Wavelets, Filter Banks and Applications",
+    "description": "",
+    "coursenum": "18.327",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Electrical Engineering",
+      "Applied Mathematics",
+      "Signal Processing",
+      "Algebra and Number Theory",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/80fac9361345a9f0dfd8afcded63c663_18-327s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9260,
+    "title": "Civil Engineering Materials Laboratory",
+    "description": "",
+    "coursenum": "1.103",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Civil Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-103-civil-engineering-materials-laboratory-spring-2004/c54cae7b6918731e67bea86da4fe14dc_1-103s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9287,
+    "title": "Motion Based Design",
+    "description": "",
+    "coursenum": "1.561",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-561-motion-based-design-fall-2003/a14ba76a5db06d7c6f6972be71322be1_1-561f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9333,
+    "title": "The Impact of Globalization on the Built Environment",
+    "description": "",
+    "coursenum": "1.463J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Globalization",
+      "Civil Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-463j-the-impact-of-globalization-on-the-built-environment-fall-2009/a5fc95402ee8521049709e454e7e5515_1-463jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8699,
+    "title": "Design for Sustainability",
+    "description": "",
+    "coursenum": "1.964",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Architecture",
+      "Fine Arts",
+      "Earth Science",
+      "Environmental Engineering",
+      "Environmental Design",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/1-964-design-for-sustainability-fall-2006/74a3407b35f388485c9c87952957e353_1-964f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8521,
+    "title": "Transportation Systems",
+    "description": "",
+    "coursenum": "1.221J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-221j-transportation-systems-fall-2004/7b789dd189d4638798e6775374387127_1-221jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8490,
+    "title": "Airline Schedule Planning",
+    "description": "",
+    "coursenum": "1.206J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Systems Optimization",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-206j-airline-schedule-planning-spring-2003/aa0c42369bc09b11f258a91b3245f612_1-206js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8879,
+    "title": "Introduction to Computers and Engineering Problem Solving",
+    "description": "",
+    "coursenum": "1.00",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Software Design and Engineering",
+      "Programming Languages",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-00-introduction-to-computers-and-engineering-problem-solving-spring-2012/457598d84426c61f83ab06ad2aa39c04_1-00s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Programming Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9497,
+    "title": "Engineering Systems Analysis for Design",
+    "description": "",
+    "coursenum": "ESD.71",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Materials Science and Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/f9f2ec5403e745f4a459543023201fa5_esd-71f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9021,
+    "title": "Logistics Systems",
+    "description": "",
+    "coursenum": "ESD.260J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-260j-logistics-systems-fall-2006/e24dfa80ea3094c0fc1b37b1268efc93_esd-260jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11587,
+    "title": "Environmental Engineering Applications of Geographic Information Systems",
+    "description": "",
+    "coursenum": "1.963",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Business",
+      "Information Technology",
+      "Environmental Engineering",
+      "Data Mining",
+      "Geography"
+    ],
+    "url": "",
+    "image_src": "/courses/1-963-environmental-engineering-applications-of-geographic-information-systems-fall-2004/c87498ea277de033187229bbf8dac9d6_1-963f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13003,
+    "title": "Project Evaluation: Essays and Case Studies",
+    "description": "",
+    "coursenum": "RES.1-001",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Economics",
+      "Social Science",
+      "Energy",
+      "Business",
+      "Real Estate",
+      "Civil Engineering",
+      "Project Management",
+      "Buildings",
+      "Transportation"
+    ],
+    "url": "",
+    "image_src": "/courses/res-1-001-project-evaluation-essays-and-case-studies-fall-2023/mitres_1_001_f23_chp.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Problem Sets",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9977,
+    "title": "Systems Perspectives on Industrial Ecology",
+    "description": "",
+    "coursenum": "ESD.123J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Materials Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "Environmental Engineering",
+      "Industrial Organization",
+      "Environmental Management",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-123j-systems-perspectives-on-industrial-ecology-spring-2006/8ad52071c05db1e5a904cfa6a4baf25a_esd-123js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9876,
+    "title": "Foundations of Software Engineering",
+    "description": "",
+    "coursenum": "1.124J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-124j-foundations-of-software-engineering-fall-2000/8dbc5849588872a20e2e980691c5e512_1-124jf00.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Programming Assignments with Examples",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8815,
+    "title": "Structural Mechanics",
+    "description": "",
+    "coursenum": "2.080J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-080j-structural-mechanics-fall-2013/969a1ebf4a9ff1f78b9a8dd01f084516_2-080jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9840,
+    "title": "Chemicals in the Environment: Toxicology and Public Health (BE.104J)",
+    "description": "",
+    "coursenum": "20.104J",
+    "department": [
+      "Biological Engineering",
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Earth Science",
+      "Public Health",
+      "Environmental Science",
+      "Pharmacology and Toxicology",
+      "Biostatistics"
+    ],
+    "url": "",
+    "image_src": "/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/ab70931f359e46de9e431df1ed019aaf_20-104js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10625,
+    "title": "Dynamics and Control I",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-control-i-spring-2007/c1242a72e6977b2df486f349a1131f92_2-003js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10847,
+    "title": "Introduction to Transportation Systems",
+    "description": "",
+    "coursenum": "1.201J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Urban Studies",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-201j-introduction-to-transportation-systems-fall-2006/eff87cb32ec1a32b3d268b90e0a30ed0_1-201jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10333,
+    "title": "Land, Water, Food, and Climate",
+    "description": "",
+    "coursenum": "1.74",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Energy",
+      "Environmental Science",
+      "Climate Studies",
+      "Climate",
+      "Renewables",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/1-74-land-water-food-and-climate-fall-2020/91c7e46aac2bd5748ba131e1e5a55ee2_1-74s19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11044,
+    "title": "Environmental Engineering Masters of Engineering Project",
+    "description": "",
+    "coursenum": "1.782",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Environmental Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2003-spring-2004/b43fe165b83741b9aaa7db80081c004d_1-782f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12751,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7743,
+    "title": "Public Transportation Systems",
+    "description": "",
+    "coursenum": "1.258J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-258j-public-transportation-systems-spring-2017/f05dd8f8311ee9d6d192ab981cbbdf3e_1-258Js17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7834,
+    "title": "Transport Processes in the Environment",
+    "description": "",
+    "coursenum": "1.061",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Transport Processes",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-061-transport-processes-in-the-environment-fall-2008/c7c2146d0db632cbdd748084dbe0765f_1-061f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Simulation Videos",
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8436,
+    "title": "Project Evaluation",
+    "description": "",
+    "coursenum": "1.011",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/1-011-project-evaluation-spring-2011/4c61af83eb0702badcf9de1eeecc4487_1-011s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7947,
+    "title": "Project Management",
+    "description": "",
+    "coursenum": "1.040",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Civil Engineering",
+      "Construction Management",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-040-project-management-spring-2009/2ee32d068981d65519c8c094c5c11c03_1-040s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8486,
+    "title": "Computational Geometry",
+    "description": "",
+    "coursenum": "2.158J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Topology and Geometry",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-158j-computational-geometry-spring-2003/8fdf4f6b75e719f287c46946c5a09062_2-158js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8518,
+    "title": "Masters of Engineering Concepts of Engineering Practice",
+    "description": "",
+    "coursenum": "1.133",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Civil Engineering",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-133-masters-of-engineering-concepts-of-engineering-practice-fall-2007/99305f837f221444496dac011f478796_1-133f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8531,
+    "title": "Introduction to Modeling and Simulation",
+    "description": "",
+    "coursenum": "3.021J",
+    "department": [
+      "Materials Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Materials Science and Engineering",
+      "Computational Modeling and Simulation",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9648,
+    "title": "Systems Optimization: Models and Computation (SMA 5223)",
+    "description": "",
+    "coursenum": "15.094J",
+    "department": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Computation",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/995ba6399e8d2e63387355e220776313_15-094js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9415,
+    "title": "From Nano to Macro: Introduction to Atomistic Modeling Techniques",
+    "description": "",
+    "coursenum": "1.978",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Nanotechnology",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Computational Modeling and Simulation",
+      "Microtechnology"
+    ],
+    "url": "",
+    "image_src": "/courses/1-978-from-nano-to-macro-introduction-to-atomistic-modeling-techniques-january-iap-2007/0d65d247755b1b27775736fcc54da9ed_1-978iap07.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9554,
+    "title": "Transportation Policy, Strategy, and Management",
+    "description": "",
+    "coursenum": "1.223J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Operations Management",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-223j-transportation-policy-strategy-and-management-fall-2004/039922776124dfdf6774da232244ba81_1-223jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9745,
+    "title": "Structural Analysis and Control",
+    "description": "",
+    "coursenum": "1.571",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/1-571-structural-analysis-and-control-spring-2004/9759393a54c131055b9c589d3dbc94dc_1-571s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9743,
+    "title": "Waste Containment and Remediation Technology",
+    "description": "",
+    "coursenum": "1.34",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Environmental Management",
+      "Geotechnical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-34-waste-containment-and-remediation-technology-spring-2004/56f8ea093b9b026e2cf0d57f21446193_1-34s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10063,
+    "title": "Environmental Microbiology",
+    "description": "",
+    "coursenum": "1.89",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Biology",
+      "Environmental Science",
+      "Microbiology"
+    ],
+    "url": "",
+    "image_src": "/courses/1-89-environmental-microbiology-fall-2004/b197d8e3921012386aa5a237521c5be5_1-89f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10032,
+    "title": "Advanced Soil Mechanics",
+    "description": "",
+    "coursenum": "1.361",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science",
+      "Civil Engineering",
+      "Geology",
+      "Geotechnical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-361-advanced-soil-mechanics-fall-2004/fa3337fdeff06378e0b7bde1b7d8af30_1-361f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10065,
+    "title": "Probability and Statistics in Engineering",
+    "description": "",
+    "coursenum": "1.151",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Probability and Statistics",
+      "Civil Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-151-probability-and-statistics-in-engineering-spring-2005/cc0e239e2d730454459867f54eedd719_1-151s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7988,
+    "title": "Database, Internet, and Systems Integration Technologies",
+    "description": "",
+    "coursenum": "1.264J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Information Technology",
+      "Software Design and Engineering",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/729565869a02be36b0f6a7881590be46_1-264jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Written Assignments with Examples",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9074,
+    "title": "Computing and Data Analysis for Environmental Applications",
+    "description": "",
+    "coursenum": "1.017",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Environmental Engineering",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/f2fb0154d9cee6cefea6e2bc5d2914d2_1-017f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8025,
+    "title": "Chemicals in the Environment: Fate and Transport",
+    "description": "",
+    "coursenum": "1.725J",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Earth Science",
+      "Environmental Engineering",
+      "Transport Processes",
+      "Environmental Science",
+      "Hydrology and Water Resource Systems",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-725j-chemicals-in-the-environment-fate-and-transport-fall-2004/c697e232993c6233e589a1e866e7cd3e_1-725jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8836,
+    "title": "Ecology I: The Earth System",
+    "description": "",
+    "coursenum": "1.018J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Biology",
+      "Ecology"
+    ],
+    "url": "",
+    "image_src": "/courses/1-018j-ecology-i-the-earth-system-fall-2009/6fb954a330c3fe950f2305df362b755a_1-018jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8391,
+    "title": "Structural Mechanics in Nuclear Power Technology",
+    "description": "",
+    "coursenum": "22.314J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Energy",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a62aa88b04b90e0108fed056752fd507_22-314jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8323,
+    "title": "Water and Wastewater Treatment Engineering",
+    "description": "",
+    "coursenum": "1.85",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control"
+    ],
+    "url": "",
+    "image_src": "/courses/1-85-water-and-wastewater-treatment-engineering-spring-2006/5e23ac55e86cbd568daa8dd8b2662b59_1-85s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7781,
+    "title": "Introduction to Sustainable Energy",
+    "description": "",
+    "coursenum": "22.081J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Electrical Engineering",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Electric Power",
+      "Science and Technology Policy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Renewables",
+      "Combustion",
+      "Transportation",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7775,
+    "title": "Systems Microbiology",
+    "description": "",
+    "coursenum": "20.106J",
+    "department": [
+      "Biological Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Ecology",
+      "Microbiology",
+      "Computation and Systems Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-106j-systems-microbiology-fall-2006/143e8064abe7d168bd7917b66bc5a4a1_20-106jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7853,
+    "title": "Analyzing and Accounting for Regional Economic Growth",
+    "description": "",
+    "coursenum": "11.481J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Urban Studies",
+      "Political Economy",
+      "Macroeconomics",
+      "Regional Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-481j-analyzing-and-accounting-for-regional-economic-growth-spring-2009/764609b92dd22944a2f90fc593337f68_11-481js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8388,
+    "title": "A Sustainable Transportation Plan for MIT",
+    "description": "",
+    "coursenum": "1.963",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Urban Studies",
+      "Public Policy",
+      "Sustainability",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-963-a-sustainable-transportation-plan-for-mit-spring-2007/18135af8f5d5f0152273689aa14eb4bc_1-963s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8202,
+    "title": "Engineering Mechanics I",
+    "description": "",
+    "coursenum": "1.050",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-050-engineering-mechanics-i-fall-2007/ba36b42898988e4581d42067ac439546_1-050f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8254,
+    "title": "Transit Management",
+    "description": "",
+    "coursenum": "1.259J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Operations Management",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-259j-transit-management-fall-2006/795b388de4e759f79b52dcb644ceb895_1-259jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8055,
+    "title": "Uncertainty in Engineering",
+    "description": "",
+    "coursenum": "1.010",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Probability and Statistics",
+      "Civil Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-010-uncertainty-in-engineering-fall-2008/7c5e8d87cb6fb29f75ce8c7b1ae69189_1-010f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8079,
+    "title": "Regional Socioeconomic Impact Analyses and Modeling",
+    "description": "",
+    "coursenum": "11.482J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Political Economy",
+      "Macroeconomics",
+      "Regional Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2008/d944e6acec36be2f827c8647ca05e12e_11-482jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9271,
+    "title": "Urban Transportation Planning",
+    "description": "",
+    "coursenum": "1.252J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Urban Studies",
+      "Civil Engineering",
+      "Urban Planning",
+      "Public Policy",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-252j-urban-transportation-planning-fall-2016/da01775110f44dcb70ce6a87159c9ef3_1-252F16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9313,
+    "title": "Advanced Fluid Dynamics of the Environment",
+    "description": "",
+    "coursenum": "1.63",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Environmental Engineering",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Hydrodynamics and Coastal Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-63-advanced-fluid-dynamics-of-the-environment-fall-2002/3f2d7124b2f556748bf2449858ad6329_1-63f02.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8811,
+    "title": "Frameworks and Models in Engineering Systems / Engineering System Design",
+    "description": "",
+    "coursenum": "ESD.04J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Energy",
+      "Computational Modeling and Simulation",
+      "Nuclear",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-04j-frameworks-and-models-in-engineering-systems-engineering-system-design-spring-2007/cb708f01a05d5042adbd279a58a4aa3d_esd-04js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8880,
+    "title": "Design of Electromechanical Robotic Systems",
+    "description": "",
+    "coursenum": "2.017J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Applied Mathematics",
+      "Robotics and Control Systems",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3603c65f2db2f01086d68508804bd3f4_2-017jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11133,
+    "title": "Regional Socioeconomic Impact Analyses and Modeling",
+    "description": "",
+    "coursenum": "11.482J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Political Economy",
+      "Macroeconomics",
+      "Regional Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-482j-regional-socioeconomic-impact-analyses-and-modeling-fall-2007/90b29d404917899163df7d9a5c8bb122_11-482jf07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11820,
+    "title": "Solid Mechanics",
+    "description": "",
+    "coursenum": "1.050",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-050-solid-mechanics-fall-2004/4d081ba3e0fc2d081d37cad4861d70f5_1-050f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Design Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12818,
+    "title": "Urban Energy Systems and Policy",
+    "description": "",
+    "coursenum": "11.165J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Energy",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-165j-urban-energy-systems-and-policy-fall-2022/11-165f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments",
+      "Readings",
+      "Open Textbooks",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8201,
+    "title": "Airline Management",
+    "description": "",
+    "coursenum": "16.75J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Operations Management",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-75j-airline-management-spring-2006/c9eb53586a78df3c447797061efef126_16-75js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8240,
+    "title": "Water Resource Systems",
+    "description": "",
+    "coursenum": "1.731",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Hydrodynamics and Coastal Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-731-water-resource-systems-fall-2006/7ddf960729a6748d9d037592aecf12c6_1-731f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7951,
+    "title": "Water and Sanitation Infrastructure in Developing Countries",
+    "description": "",
+    "coursenum": "11.479J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Health and Medicine",
+      "The Developing World",
+      "Society",
+      "Public Health",
+      "Urban Studies",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Environmental Management",
+      "Environmental Policy",
+      "Regional Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-479j-water-and-sanitation-infrastructure-in-developing-countries-spring-2007/c09cdb3dc08bfddf9a01ec0d94ab5a39_11-479js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7955,
+    "title": "Strategic Management in the Design and Construction Value Chain",
+    "description": "",
+    "coursenum": "1.46",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-46-strategic-management-in-the-design-and-construction-value-chain-fall-2003/ff3105e9bc44982f1fdd5ee25c8b1016_1-46f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8911,
+    "title": "Pattern Recognition and Analysis",
+    "description": "",
+    "coursenum": "MAS.622J",
+    "department": [
+      "Media Arts and Sciences",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/b25342ba460a1b4b373299237c7e735e_mas-622jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8987,
+    "title": "Dynamics and Control I",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-control-i-fall-2007/8616c4522a27a8fb7a2c4d1b56bcf3fe_2-003jf07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Programming Assignments with Examples",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8733,
+    "title": "Transportation Policy and Environmental Limits",
+    "description": "",
+    "coursenum": "1.253J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Environmental Science",
+      "Public Policy",
+      "Environmental Policy",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-253j-transportation-policy-and-environmental-limits-spring-2004/1747d58e11d38e30fa944e969edc4752_1-253js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8310,
+    "title": "Engineering Economy Module",
+    "description": "",
+    "coursenum": "ESD.70J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-70j-engineering-economy-module-fall-2009/6d7fbb84c2f211e21d52c6ad7df4aaf7_esd-70jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8338,
+    "title": "An Introduction to Intelligent Transportation Systems",
+    "description": "",
+    "coursenum": "1.212J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-212j-an-introduction-to-intelligent-transportation-systems-spring-2005/ebb322261f4976e34d4b802e4573a686_1-212js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8275,
+    "title": "Water Quality Control",
+    "description": "",
+    "coursenum": "1.77",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Hydrodynamics and Coastal Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-77-water-quality-control-spring-2006/1a36a73e3e002f5f1af523b07fd393d8_1-77s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8335,
+    "title": "Introduction to Civil and Environmental Engineering Design I",
+    "description": "",
+    "coursenum": "1.101",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Environmental Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2006/7315eeb76ec2f89fdaa0c31e38a417ca_1-101f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8655,
+    "title": "Wave Propagation",
+    "description": "",
+    "coursenum": "2.062J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Earth Science",
+      "Environmental Engineering",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Hydrodynamics",
+      "Geophysics",
+      "Classical Mechanics",
+      "Hydrodynamics and Coastal Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-062j-wave-propagation-spring-2017/ea2eda724319cfa0fe266291b8b0f0de_2-062js17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9212,
+    "title": "Carrier Systems",
+    "description": "",
+    "coursenum": "1.224J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Operations Management",
+      "Civil Engineering",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-224j-carrier-systems-fall-2003/ac46175ca6bf59bd6e6a5d431ce53594_1-224jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9548,
+    "title": "Planning for Sustainable Development",
+    "description": "",
+    "coursenum": "11.366J",
+    "department": [
+      "Urban Studies and Planning",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Earth Science",
+      "Urban Studies",
+      "Environmental Engineering",
+      "Urban Planning",
+      "Environmental Management",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/11-366j-planning-for-sustainable-development-spring-2006/bfa1234211b56196fe404888c286314c_11-366js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9728,
+    "title": "Soil Behavior",
+    "description": "",
+    "coursenum": "1.322",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science",
+      "Civil Engineering",
+      "Geology",
+      "Geotechnical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-322-soil-behavior-spring-2005/8861085b34f2189b8df958563a9bfa61_1-322s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9637,
+    "title": "Environmental Engineering Masters of Engineering Project",
+    "description": "",
+    "coursenum": "1.782",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control"
+    ],
+    "url": "",
+    "image_src": "/courses/1-782-environmental-engineering-masters-of-engineering-project-fall-2007-spring-2008/418e19dca2209b9866a1fbb154225db8_1-782f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9806,
+    "title": "Introduction to Civil Engineering Design",
+    "description": "",
+    "coursenum": "1.012",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Construction Management"
+    ],
+    "url": "",
+    "image_src": "/courses/1-012-introduction-to-civil-engineering-design-spring-2002/3c80a0fc2e318beb48a7faa712431604_1-012s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9862,
+    "title": "Transportation Flow Systems",
+    "description": "",
+    "coursenum": "1.225J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Computational Modeling and Simulation",
+      "Transportation Planning",
+      "Transportation Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-225j-transportation-flow-systems-fall-2002/b3cb1a1fa9da65088f2ab2a8456d3fd1_1-225jf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9879,
+    "title": "Solid Mechanics Laboratory",
+    "description": "",
+    "coursenum": "1.105",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Solid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/1-105-solid-mechanics-laboratory-fall-2003/534249ea11553513cea4d655e7a1825d_1-105f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9886,
+    "title": "Advanced Geotechnical Engineering",
+    "description": "",
+    "coursenum": "1.364",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Geotechnical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-364-advanced-geotechnical-engineering-fall-2003/177fecd5a44eecda6d9a4282cfe9a588_1-364f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9856,
+    "title": "Groundwater Hydrology",
+    "description": "",
+    "coursenum": "1.72",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Geology"
+    ],
+    "url": "",
+    "image_src": "/courses/1-72-groundwater-hydrology-fall-2005/9421d305756c28fd7b8450cd18b4e5a0_1-72f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Simulation Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Other Video"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9866,
+    "title": "Logistics and Supply Chain Management",
+    "description": "",
+    "coursenum": "ESD.273J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/d6c0ba942db999a9a5126ba375296175_esd-273jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10733,
+    "title": "Introduction to Civil and Environmental Engineering Design I",
+    "description": "",
+    "coursenum": "1.101",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Environmental Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/171f2a2730533552622d882edd1151d4_1-101f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10626,
+    "title": "Dynamics and Vibration (13.013J)",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Ocean Structures",
+      "Classical Mechanics",
+      "Ocean Engineering",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/42786cdf46c9e441bec41b93cbc26ef0_2-003jf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10285,
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "description": "",
+    "coursenum": "10.01",
+    "department": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9992,
+    "title": "Engineering Risk-Benefit Analysis",
+    "description": "",
+    "coursenum": "ESD.72",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13045,
+    "title": "Introduction to R and Geographic Information Systems (GIS)",
+    "description": "",
+    "coursenum": "RES.1-002",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Environmental Engineering",
+      "Programming Languages",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/introduction-to-r-and-gis-fall-2023/mitres_1_002_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7934,
+    "title": "Aquatic Chemistry",
+    "description": "",
+    "coursenum": "1.76",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Environmental Engineering",
+      "Hydrology and Water Resource Systems",
+      "Aquatic Sciences and Water Quality Control",
+      "Hydrodynamics and Coastal Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-76-aquatic-chemistry-fall-2005/56c864c93177fa867fc6deae47940c96_1-76f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9243,
+    "title": "Engineering Dynamics",
+    "description": "",
+    "coursenum": "2.003SC",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003sc-engineering-dynamics-fall-2011/e541b119638faca8fbbefb815ef3cc30_2-003scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8373,
+    "title": "Fundamentals of Energy in Buildings",
+    "description": "",
+    "coursenum": "4.42J",
+    "department": [
+      "Architecture",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/f3f02f4df67ed359def8909015647fb3_4-42jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Design Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8225,
+    "title": "Mechanics of Material Systems: An Energy Approach",
+    "description": "",
+    "coursenum": "1.033",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Technology",
+      "Materials Science and Engineering",
+      "Solid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/7aed83844e32314844b43b8f604b3af9_1-033f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8432,
+    "title": "Logistical and Transportation Planning Methods",
+    "description": "",
+    "coursenum": "1.203J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Systems Optimization",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/8c16650624f18bbf15e018ae956d456b_1-203jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9572,
+    "title": "Engineering Mechanics II",
+    "description": "",
+    "coursenum": "1.060",
+    "department": [
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/1-060-engineering-mechanics-ii-spring-2006/243ff68e47159af4f8d771f29ed91f40_1-060s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

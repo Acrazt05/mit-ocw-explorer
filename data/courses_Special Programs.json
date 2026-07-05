@@ -1,0 +1,44 @@
+[
+  {
+    "id": 13071,
+    "title": "NEET Ways of Thinking",
+    "description": "",
+    "coursenum": "SP.248",
+    "department": [
+      "Special Programs"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/sp-248-neet-ways-of-thinking-fall-2023/mitsp_248_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Demonstration Videos",
+      "Design Assignments",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13080,
+    "title": "Defining Real-World Problems With the D.I.S. Method: Describe, Inquire, State",
+    "description": "",
+    "coursenum": "RES.SP-001",
+    "department": [
+      "Special Programs"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/res-sp-001-defining-real-world-problems-with-the-d-i-s-method-describe-inquire-state-spring-2024/mit_res_sp_001_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  }
+]

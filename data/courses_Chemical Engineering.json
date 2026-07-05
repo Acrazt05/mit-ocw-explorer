@@ -1,0 +1,1523 @@
+[
+  {
+    "id": 11895,
+    "title": "Physics of COVID-19 Transmission",
+    "description": "",
+    "coursenum": "RES.10-S95",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Public Health",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/res-10-s95-physics-of-covid-19-transmission-fall-2020/2a92f492061700fed74dbbe31b8ab94a_res-10-s95f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12131,
+    "title": "Analysis of Transport Phenomena: Electrochemical Transport",
+    "description": "",
+    "coursenum": "10.50.CH09x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_red_MITxO.jpg?v=ac20ccb6a5250fcd998c16b6ec0b92c7b49c999b",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9730,
+    "title": "Atmospheric Chemistry",
+    "description": "",
+    "coursenum": "1.84J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Energy",
+      "Atmospheric Science",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/1-84j-atmospheric-chemistry-fall-2013/aea7f5215f80326880c9c3be83afadc1_1-84jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 4917,
+    "title": "Making Biologic Medicines for Patients: The Principles of Biopharmaceutical Manufacturing",
+    "description": "",
+    "coursenum": "10.03x_2",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6bc1a53b-db42-4b35-b03b-daf37eb86f46.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7714,
+    "title": "Technology, Law, and the Working Environment",
+    "description": "",
+    "coursenum": "10.805J",
+    "department": [
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Health and Medicine",
+      "Public Health",
+      "Business",
+      "Legal Studies",
+      "Environmental Engineering",
+      "Science and Technology Policy",
+      "Industrial Relations and Human Resource Management",
+      "Environmental Management"
+    ],
+    "url": "",
+    "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7942,
+    "title": "Experimental Biology - Communications Intensive",
+    "description": "",
+    "coursenum": "7.02CI",
+    "department": [
+      "Biology",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Literature",
+      "Biology",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/4184f92e4530a6b3a595725ce6c8c933_7-02cis05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9091,
+    "title": "Biochemical Engineering",
+    "description": "",
+    "coursenum": "10.442",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Microbiology",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-442-biochemical-engineering-spring-2005/336be85fd2547401b271b202ae71a8da_10-442s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9444,
+    "title": "Mechanics of Fluids",
+    "description": "",
+    "coursenum": "10.52",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/10-52-mechanics-of-fluids-spring-2006/af54d39ee2824a01e381936768722b01_10-52s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9500,
+    "title": "Integrated Chemical Engineering Topics I: Introduction to Biocatalysis",
+    "description": "",
+    "coursenum": "10.492-2",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Organic Chemistry",
+      "Biochemistry",
+      "Chemical Engineering",
+      "Biomaterials",
+      "Process Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/10-492-2-integrated-chemical-engineering-topics-i-introduction-to-biocatalysis-fall-2004/c306a039220d84fa430dc7f3d81c61de_10-492-2f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9516,
+    "title": "Transport Processes",
+    "description": "",
+    "coursenum": "10.302",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-302-transport-processes-fall-2004/ebf14a46d72d9805fe43bd520c34d978_10-302f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9011,
+    "title": "Integrated Chemical Engineering Topics I: Process Control by Design",
+    "description": "",
+    "coursenum": "10.492-1",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Environmental Engineering",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Environmental Management",
+      "Process Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/5c554eb9211fa1360feb77cf87bb5dec_10-492-1f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12781,
+    "title": "Math Boot Camp for Engineers",
+    "description": "",
+    "coursenum": "10.MBCx",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.MBCx_AboutPage.png?v=0a50a27121bd17ae91dea6949876081ea9de2835",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9621,
+    "title": "Macromolecular Hydrodynamics",
+    "description": "",
+    "coursenum": "2.341J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Fluid Mechanics",
+      "Chemical Engineering",
+      "Molecular Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-341j-macromolecular-hydrodynamics-spring-2016/d1ce14274cf922b8b3f8d09c99e78bea_2-341js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12943,
+    "title": "Physics of COVID-19 Transmission",
+    "description": "",
+    "coursenum": "10.S95x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10_S95x_about_v2_MITxO.png?v=c60cf094582aeb3355da8dcd1c6ba74b4c0f047b",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9938,
+    "title": "Integrated Chemical Engineering II",
+    "description": "",
+    "coursenum": "10.491",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Environmental Engineering",
+      "Chemical Engineering",
+      "Environmental Management"
+    ],
+    "url": "",
+    "image_src": "/courses/10-491-integrated-chemical-engineering-ii-spring-2006/c835ea5d7c58875e9efc4476bdcd01cb_10-491s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9865,
+    "title": "Radiative Transfer",
+    "description": "",
+    "coursenum": "2.58J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Energy",
+      "Technology",
+      "Transport Processes",
+      "Particle Physics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Climate",
+      "Combustion",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/2-58j-radiative-transfer-spring-2006/82566101ea5c181aecf5ec0e199c65f0_2-58js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9560,
+    "title": "Making Science and Engineering Pictures: A Practical Guide to Presenting Your Work",
+    "description": "",
+    "coursenum": "RES.10-001",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Chemistry",
+      "Artificial Intelligence",
+      "Health and Medicine",
+      "Teaching and Education",
+      "Visual Arts",
+      "Fine Arts",
+      "Biology",
+      "Graphic Design",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/res-10-001-making-science-and-engineering-pictures-a-practical-guide-to-presenting-your-work-spring-2026/mitres_10_001_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments with Examples",
+      "Instructor Insights",
+      "Lecture Audio"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12128,
+    "title": "Analysis of Transport Phenomena: Fluid Mechanics",
+    "description": "",
+    "coursenum": "10.50.CH06x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_ltBlue_MITxO.jpg?v=76ede8a2dfb7508d43ae89d52895c245e40524da",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12124,
+    "title": "Analysis of Transport Phenomena: Mathematical Formulation",
+    "description": "",
+    "coursenum": "10.50.CH02x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkGreen_MITxO.jpg?v=abb5132c1113a8c4319f9498dbae9e17c82b5b36",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12127,
+    "title": "Analysis of Transport Phenomena: Series Expansions",
+    "description": "",
+    "coursenum": "10.50.CH05x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_brown_MITxO.jpg?v=303c5e5f189d14bc24d60db1c8c37802d7015bfa",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12747,
+    "title": "Ethics of AI Bias",
+    "description": "",
+    "coursenum": "RES.10-002",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/res-10-002-ethics-of-ai-bias-spring-2023/res-10-002s23.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7765,
+    "title": "Proseminar in Manufacturing",
+    "description": "",
+    "coursenum": "15.792J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8416,
+    "title": "Principles and Practice of Drug Development",
+    "description": "",
+    "coursenum": "15.136J",
+    "department": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8531,
+    "title": "Introduction to Modeling and Simulation",
+    "description": "",
+    "coursenum": "3.021J",
+    "department": [
+      "Materials Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Materials Science and Engineering",
+      "Computational Modeling and Simulation",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8912,
+    "title": "Protein Folding and Human Disease",
+    "description": "",
+    "coursenum": "7.88J",
+    "department": [
+      "Biology",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Proteomics",
+      "Virology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8853,
+    "title": "Process Dynamics, Operations, and Control",
+    "description": "",
+    "coursenum": "10.450",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Dynamics and Control",
+      "Process Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/10-450-process-dynamics-operations-and-control-spring-2006/19d71d773488c191173186e90d7bc362_10-450s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8996,
+    "title": "Biomolecular Kinetics and Cellular Dynamics (BE.420J)",
+    "description": "",
+    "coursenum": "20.420J",
+    "department": [
+      "Biological Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-420j-biomolecular-kinetics-and-cellular-dynamics-be-420j-fall-2004/ec443edc179b4dd44f89b6d9330ea3db_20-420jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11777,
+    "title": "Numerical Methods Applied to Chemical Engineering",
+    "description": "",
+    "coursenum": "10.34",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2005/5ff3cee9611b77244fa57f43e6c1bc7b_10-34f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7717,
+    "title": "Management in Engineering",
+    "description": "",
+    "coursenum": "2.96",
+    "department": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/2-96-management-in-engineering-fall-2012/aac891868c06653ecc96bcb25398741c_2-96f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8128,
+    "title": "Numerical Methods Applied to Chemical Engineering",
+    "description": "",
+    "coursenum": "10.34",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-34-numerical-methods-applied-to-chemical-engineering-fall-2015/a76b08480d431902ca6c0f4873fbc0dc_10-34f15-1.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments",
+      "Lecture Videos",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8754,
+    "title": "Chemical and Biological Reaction Engineering",
+    "description": "",
+    "coursenum": "10.37",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Transport Processes",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-37-chemical-and-biological-reaction-engineering-spring-2007/bccea16fcc804939417af606da191833_10-37s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7781,
+    "title": "Introduction to Sustainable Energy",
+    "description": "",
+    "coursenum": "22.081J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Electrical Engineering",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Electric Power",
+      "Science and Technology Policy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Renewables",
+      "Combustion",
+      "Transportation",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8377,
+    "title": "Molecular Aspects of Chemical Engineering",
+    "description": "",
+    "coursenum": "10.520",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-520-molecular-aspects-of-chemical-engineering-fall-2004/17cc828df8e9a5986ec838e785ef61b8_10-520f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8066,
+    "title": "Chemical Engineering Thermodynamics",
+    "description": "",
+    "coursenum": "10.40",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e95dfac16b288eb5e00dcb58b0be6c3f_10-40f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9391,
+    "title": "Fields, Forces, and Flows in Biological Systems",
+    "description": "",
+    "coursenum": "20.430J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9368,
+    "title": "Tumor Pathophysiology and Transport Phenomena",
+    "description": "",
+    "coursenum": "HST.525J",
+    "department": [
+      "Health Sciences and Technology",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Health and Medicine",
+      "Transport Processes",
+      "Chemical Engineering",
+      "Pathology and Pathophysiology",
+      "Cancer"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-525j-tumor-pathophysiology-and-transport-phenomena-fall-2005/08fd50a4d2cf05479beda0377b5ec497_hst-525jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11928,
+    "title": "Fundamentals of Advanced Energy Conversion",
+    "description": "",
+    "coursenum": "2.60J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Energy",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Nuclear",
+      "Renewables",
+      "Combustion",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/92fc5969d1aa2ec6a7e2ed62f781e38b_2-60js20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12130,
+    "title": "Analysis of Transport Phenomena: Nonequilibrium Thermodynamics",
+    "description": "",
+    "coursenum": "10.50.CH08x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_orange_MITxO.jpg?v=5af85cd2839c42e40fe1932f1dd09128170f2958",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12125,
+    "title": "Analysis of Transport Phenomena: Scaling",
+    "description": "",
+    "coursenum": "10.50.CH03x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_purple_MITxO.jpg?v=8d67c5376cbaab3718bc94c6814233cadb7194a0",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12123,
+    "title": "Analysis of Transport Phenomena: Models",
+    "description": "",
+    "coursenum": "10.50.CH01x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_ltGreen_MITxO.jpg?v=fc89fef3b7ed47a2bbf316813d748f6cf551b906",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12129,
+    "title": "Analysis of Transport Phenomena: Convection",
+    "description": "",
+    "coursenum": "10.50.CH07x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkBlue_MITxO.jpg?v=7ae955d0db8b19b7b82aa8b1eb5e594352392178",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12126,
+    "title": "Analysis of Transport Phenomena: Asymptotics",
+    "description": "",
+    "coursenum": "10.50.CH04x",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/10.50x_drkpurple_MITxO.jpg?v=a3da6c637426738ca06d1bfe502c46faf19c5848",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13192,
+    "title": "Innovation Teams",
+    "description": "",
+    "coursenum": "10.807/2.907/15.371",
+    "department": [
+      "Sloan School of Management",
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Entrepreneurship",
+      "Innovation",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-371-innovation-teams-fall-2024/mitocw15_371j_f24.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Videos",
+      "Projects",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7696,
+    "title": "Integrated Chemical Engineering I",
+    "description": "",
+    "coursenum": "10.490",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-490-integrated-chemical-engineering-i-fall-2006/5f16c1d6b57e11947ed9a604479568fe_10-490f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8619,
+    "title": "Atmospheric Physics and Chemistry",
+    "description": "",
+    "coursenum": "10.571J",
+    "department": [
+      "Chemical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Geochemistry",
+      "Atmospheric Science",
+      "Geophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/10-571j-atmospheric-physics-and-chemistry-spring-2006/73123c7ea414a257dde4ae35dde88f7a_10-571js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8970,
+    "title": "Synthesis of Polymers",
+    "description": "",
+    "coursenum": "10.569",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Nanotechnology",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Molecular Engineering",
+      "Process Control Systems",
+      "Polymers",
+      "Polymeric Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/10-569-synthesis-of-polymers-fall-2006/3095d349824ff0645f97e13262462970_10-569f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8328,
+    "title": "Polymer Science Laboratory",
+    "description": "",
+    "coursenum": "10.467",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Physical Chemistry",
+      "Polymers",
+      "Polymeric Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/10-467-polymer-science-laboratory-fall-2005/2d74349d8e4eef92ce757e32209c3efa_10-467f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8267,
+    "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+    "description": "",
+    "coursenum": "10.675J",
+    "department": [
+      "Chemical Engineering",
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Quantum Mechanics",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8700,
+    "title": "Separation Processes",
+    "description": "",
+    "coursenum": "10.32",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Separation Processes",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-32-separation-processes-spring-2005/0f3999d4ed9f6aade03466caca1d490b_10-32s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9830,
+    "title": "Statistical Thermodynamics of Complex Liquids",
+    "description": "",
+    "coursenum": "22.52J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/b810ec94d82d16488adde930a516473a_22-52js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10064,
+    "title": "Separation Processes for Biochemical Products",
+    "description": "",
+    "coursenum": "10.445",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Separation Processes",
+      "Biochemistry",
+      "Chemical Engineering",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-445-separation-processes-for-biochemical-products-summer-2005/eab4a09142661cb058d7070264a8eb43_10-445su05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10070,
+    "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+    "description": "",
+    "coursenum": "20.410J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10285,
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "description": "",
+    "coursenum": "10.01",
+    "department": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9992,
+    "title": "Engineering Risk-Benefit Analysis",
+    "description": "",
+    "coursenum": "ESD.72",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9853,
+    "title": "Thermal Hydraulics in Power Technology",
+    "description": "",
+    "coursenum": "22.313J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Nuclear Engineering",
+      "Fossil Fuels",
+      "Nuclear"
+    ],
+    "url": "",
+    "image_src": "/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/dd95060549e1144887b9d0dc3a37ecc4_22-313js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9758,
+    "title": "Electrochemical Energy Systems",
+    "description": "",
+    "coursenum": "10.626",
+    "department": [
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Materials Science and Engineering",
+      "Transport Processes",
+      "Electronic Materials",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/10-626-electrochemical-energy-systems-spring-2014/5a6cbfd9b7dc6a716189faf1f70f86d8_10-626s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8014,
+    "title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+    "description": "",
+    "coursenum": "2.993J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Algorithms and Data Structures",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/42c023fdcb96e8fb3e8ff7c9c8ca197f_2-993js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

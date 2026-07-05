@@ -1,0 +1,3049 @@
+[
+  {
+    "id": 9888,
+    "title": "Introduction to Art History",
+    "description": "",
+    "coursenum": "4.601",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Fine Arts",
+      "Art History"
+    ],
+    "url": "",
+    "image_src": "/courses/4-601-introduction-to-art-history-fall-2018/0e12552343a6c667bf99846358e5ec50_4-601f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10055,
+    "title": "Ecuador Workshop",
+    "description": "",
+    "coursenum": "4.170",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Sociology",
+      "Architectural Design",
+      "Environmental Design",
+      "Community Development"
+    ],
+    "url": "",
+    "image_src": "/courses/4-170-ecuador-workshop-fall-2006/0de7b273b93760987e298b7440df07f7_4-170f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10041,
+    "title": "Form-Finding and Structural Optimization: Gaudi Workshop",
+    "description": "",
+    "coursenum": "4.491",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/4-491-form-finding-and-structural-optimization-gaudi-workshop-fall-2004/e5f6a466617a072a19b3a51e49ab513c_4-491f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10358,
+    "title": "Introduction to Building Technology",
+    "description": "",
+    "coursenum": "4.401",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Energy",
+      "Technology",
+      "Civil Engineering",
+      "Architectural Design",
+      "Structural Engineering",
+      "Environmental Design",
+      "Buildings"
+    ],
+    "url": "",
+    "image_src": "/courses/4-401-introduction-to-building-technology-spring-2006/88cc1886840dcfc338ee7922806e2842_chp_street.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11043,
+    "title": "Power of Place: Media Technology, Youth, and City Design and Development",
+    "description": "",
+    "coursenum": "11.948",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Teaching and Education",
+      "Fine Arts",
+      "Business",
+      "Sociology",
+      "Urban Studies",
+      "Information Technology",
+      "Curriculum and Teaching",
+      "Environmental Design",
+      "Community Development",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-948-power-of-place-media-technology-youth-and-city-design-and-development-spring-2001/d14e74bc7d602a8b7688d8c2ba253ed4_11-948s01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9167,
+    "title": "Daylighting",
+    "description": "",
+    "coursenum": "4.430",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Energy",
+      "Architectural Design",
+      "Architectural Engineering",
+      "Buildings"
+    ],
+    "url": "",
+    "image_src": "/courses/4-430-daylighting-spring-2012/3fedaeb909ac118ad511c31346d7d6e4_4-430s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Activity Assignments",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9170,
+    "title": "The Production of Space: Art, Architecture and Urbanism in Dialogue",
+    "description": "",
+    "coursenum": "4.303",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-303-the-production-of-space-art-architecture-and-urbanism-in-dialogue-fall-2006/8a3fa466a21d7f44621d53b43f0f73c4_4-303f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9588,
+    "title": "Computational Design I: Theory and Applications",
+    "description": "",
+    "coursenum": "4.520",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-520-computational-design-i-theory-and-applications-fall-2005/464a8008f971b2ab72cb121b1a53ed4b_4-520f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9604,
+    "title": "Introduction to Shape Grammars I",
+    "description": "",
+    "coursenum": "4.540",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Mathematics",
+      "Fine Arts",
+      "Architectural Design",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/4-540-introduction-to-shape-grammars-i-fall-2018/d9a1ba907a9d671e3f5ea4071c44453e_4-540f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9608,
+    "title": "Introduction to Sculpture",
+    "description": "",
+    "coursenum": "4.322",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Visual Arts",
+      "Fine Arts",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-322-introduction-to-sculpture-fall-2003/325fb3d794be116cf9cd6236436192c5_4-322f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9672,
+    "title": "Sensing Place: Photography as Inquiry",
+    "description": "",
+    "coursenum": "11.309J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/cb6820fd7e585e3e471fc7da64369639_11-309jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9647,
+    "title": "BSAD Foundations in the Visual Arts",
+    "description": "",
+    "coursenum": "4.302",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Visual Arts",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-302-bsad-foundations-in-the-visual-arts-fall-2003/ea26bd5eb7e42ce9f5df134a28709ee0_4-302f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9675,
+    "title": "Experiencing Architecture Studio",
+    "description": "",
+    "coursenum": "4.101",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-101-experiencing-architecture-studio-spring-2003/ac7d61d2bc5bdaaca291b36bd07d819a_4-101s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7784,
+    "title": "Introduction to Photography and Related Media",
+    "description": "",
+    "coursenum": "4.341",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-341-introduction-to-photography-and-related-media-fall-2007/3c49e995cbb347e3841c485dbf36f803_4-341f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8372,
+    "title": "Architecture Design Fundamentals I: Nano-Machines",
+    "description": "",
+    "coursenum": "4.112",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-112-architecture-design-fundamentals-i-nano-machines-fall-2012/1eb20339cf00914bf6a0fcd6c63c78b8_4-112f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Projects with Examples",
+      "Design Assignments with Examples",
+      "Media Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8437,
+    "title": "Natural Light in Design",
+    "description": "",
+    "coursenum": "4.493",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/4-493-natural-light-in-design-january-iap-2006/e3705f0cfd1225f429872e93d67ad782_4-493iap06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8061,
+    "title": "Introduction to Architecture & Environmental Design",
+    "description": "",
+    "coursenum": "4.111",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-111-introduction-to-architecture-environmental-design-spring-2014/b8ed9900fbd0f1085de7b220cd6454a2_4-111s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8016,
+    "title": "History of Urban Form: Locating Capitalism: Producing Early Modern Cities and Objects",
+    "description": "",
+    "coursenum": "4.663",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Art History",
+      "Architectural History and Criticism",
+      "Modern History",
+      "Historiography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-663-history-of-urban-form-locating-capitalism-producing-early-modern-cities-and-objects-spring-2014/62827744125d49b2e06612e873b6a2d6_4-663s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 4995,
+    "title": "A Global History of Architecture",
+    "description": "",
+    "coursenum": "4.605x",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "History",
+      "Architecture"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/89508395-9972-49c6-9ff4-1e276f9cc83b-cf6f5acadccd.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8579,
+    "title": "Architecture Studio: Building in Landscapes",
+    "description": "",
+    "coursenum": "4.125",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-125-architecture-studio-building-in-landscapes-fall-2002/f83ae2cf0d90b155781c3825100491da_4-125f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Projects with Examples",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8908,
+    "title": "Introduction to Urban Design and Development",
+    "description": "",
+    "coursenum": "11.001J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Architectural Design",
+      "Environmental Design",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-001j-introduction-to-urban-design-and-development-spring-2006/68b4bc4de4ed3665710c2b0689bd37c7_11-001js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8896,
+    "title": "Analysis of Historic Structures",
+    "description": "",
+    "coursenum": "4.448",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-448-analysis-of-historic-structures-fall-2004/e5da27f2cf33a27151ca95149e9128f4_4-448f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8790,
+    "title": "Theory and Method in the Study of Architecture and Art",
+    "description": "",
+    "coursenum": "4.661",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Art History",
+      "Architectural History and Criticism",
+      "Historiography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-661-theory-and-method-in-the-study-of-architecture-and-art-fall-2015/5ed4545d5706593591164dd139d313fa_4-661f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9099,
+    "title": "Unmanageability: Pathless Realities and Approaches",
+    "description": "",
+    "coursenum": "4.S33",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Innovation",
+      "Social Science",
+      "Teaching and Education",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Sociology",
+      "Organizational Behavior",
+      "Philosophy",
+      "American History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/4-s33-unmanageability-pathless-realities-and-approaches-spring-2015/4cc9736587b9373b95d5cac0ea545731_4-s33s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9110,
+    "title": "Topics in the Avant-Garde in Literature and Cinema",
+    "description": "",
+    "coursenum": "21G.031J",
+    "department": [
+      "Global Studies and Languages",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Anthropology",
+      "Art History",
+      "Film and Video",
+      "Comparative Literature",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21g-031j-topics-in-the-avant-garde-in-literature-and-cinema-spring-2003/12dee8e4581b6e628a582fb8f8868f16_21g-031js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9090,
+    "title": "Urban Housing: Paris, London, New York",
+    "description": "",
+    "coursenum": "4.220",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Housing Development"
+    ],
+    "url": "",
+    "image_src": "/courses/4-220-urban-housing-paris-london-new-york-fall-2004/077f33d16aac55f58f9671e04d43cd85_4-220f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8272,
+    "title": "The Once and Future City",
+    "description": "",
+    "coursenum": "11.016J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Sociology",
+      "Urban Studies",
+      "Community Development",
+      "Urban Planning",
+      "American History",
+      "Geography"
+    ],
+    "url": "",
+    "image_src": "/courses/11-016j-the-once-and-future-city-spring-2015/9ae5dbc53596262f9c45b5f013d85363_11-016js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9352,
+    "title": "Sustainable Design and Technology Research Workshop",
+    "description": "",
+    "coursenum": "4.183",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Earth Science",
+      "Urban Studies",
+      "Architectural Design",
+      "Urban Planning",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/9e4e90143a2063cd0af24f6730d905fe_4-183s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8884,
+    "title": "Urban Design Politics",
+    "description": "",
+    "coursenum": "11.302J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Public Administration",
+      "Political Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/11-302j-urban-design-politics-spring-2010/36063fdccca43fd9bd3589ee7fa856cd_11-302js10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8869,
+    "title": "Building Technology I: Materials and Construction",
+    "description": "",
+    "coursenum": "4.461",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Materials Science and Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-461-building-technology-i-materials-and-construction-fall-2004/98dbd6790062f55321758bbba7e15007_4-461f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8855,
+    "title": "Nationalism, Internationalism, and Globalism in Modern Art",
+    "description": "",
+    "coursenum": "4.671",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Art History",
+      "World History",
+      "European History",
+      "Comparative History"
+    ],
+    "url": "",
+    "image_src": "/courses/4-671-nationalism-internationalism-and-globalism-in-modern-art-spring-2016/ee4e9a1d872cd5941c030ac68f576289_4-671s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9504,
+    "title": "Furniture Making",
+    "description": "",
+    "coursenum": "4.296",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Mechanical Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-296-furniture-making-spring-2005/611057c6a5b49dd51e52dd48d47fbaca_4-296s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9481,
+    "title": "CityScope: New Orleans",
+    "description": "",
+    "coursenum": "4.001J",
+    "department": [
+      "Architecture",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Civil Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-001j-cityscope-new-orleans-spring-2007/8b2090c1632cbc606c0a3d5b3a838d90_4-001js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9484,
+    "title": "Introduction to Design Inquiry",
+    "description": "",
+    "coursenum": "4.273",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-273-introduction-to-design-inquiry-fall-2004/cd95f461a9ba5785475a76cca5c87735_4-273f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9443,
+    "title": "Art Since 1940",
+    "description": "",
+    "coursenum": "4.651",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Fine Arts",
+      "Anthropology",
+      "Art History",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/4-651-art-since-1940-fall-2010/59c0421dabc4bb273993f8e6d3638098_4-651f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9056,
+    "title": "The Space Between Workshop",
+    "description": "",
+    "coursenum": "4.171",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-171-the-space-between-workshop-fall-2004/e1a320c53673439b9cff1d8549cabf57_4-171f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9001,
+    "title": "Introduction to the Visual Arts",
+    "description": "",
+    "coursenum": "4.301",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/4-301-introduction-to-the-visual-arts-spring-2007/b419a6abe5137c9464d6b81395ae0b11_4-301s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Image Gallery",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9767,
+    "title": "Urban Design",
+    "description": "",
+    "coursenum": "11.332J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-332j-urban-design-fall-2003/3d11876b69713b2025b7012502f9c06a_11-332jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13048,
+    "title": "Sensing Place: Photography as Inquiry",
+    "description": "",
+    "coursenum": "11.309J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/11-309j-sensing-place-photography-as-inquiry-spring-2024/mit11_309j_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Media Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9928,
+    "title": "Special Problems in Architecture Studies",
+    "description": "",
+    "coursenum": "4.297",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Teaching and Education",
+      "Media Studies",
+      "Educational Technology",
+      "Fine Arts",
+      "Environmental Design",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/4-297-special-problems-in-architecture-studies-fall-2000/f651a0dd0f14e9502cbeb0b968275aa9_4-297f00.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 13223,
+    "title": "The Making of Cities",
+    "description": "",
+    "coursenum": "4.241J",
+    "department": [
+      "Architecture",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/4-241j-the-making-of-cities-spring-2025/mit4_241_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Student Work"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13047,
+    "title": "Ecological Urbanism",
+    "description": "",
+    "coursenum": "11.308J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-308j-ecological-urbanism-spring-2024/mit11_308j_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Media Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10031,
+    "title": "Research Topics in Architecture: Citizen-Centered Design of Open Governance Systems",
+    "description": "",
+    "coursenum": "4.285",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Social Science",
+      "Public Administration",
+      "Media Studies",
+      "Fine Arts",
+      "Environmental Design",
+      "Digital Media",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-285-research-topics-in-architecture-citizen-centered-design-of-open-governance-systems-fall-2002/92643b1f733281c2f85517e904d590a4_4-285f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10964,
+    "title": "Emergent Materials II",
+    "description": "",
+    "coursenum": "4.493",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Materials Science and Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-493-emergent-materials-ii-spring-2005/2b9ea5643e14c1878243ff5f5d5aec76_4-493s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7777,
+    "title": "Beijing Urban Design Studio",
+    "description": "",
+    "coursenum": "11.307",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "International Relations",
+      "Urban Planning",
+      "International Development"
+    ],
+    "url": "",
+    "image_src": "/courses/11-307-beijing-urban-design-studio-summer-2008/1eee44767791f6d54ac531067cf51ae2_11-307su08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7759,
+    "title": "Case Studies in City Form",
+    "description": "",
+    "coursenum": "4.175",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-175-case-studies-in-city-form-fall-2005/409639b3a577655476e946e68a6f20b0_4-175f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7811,
+    "title": "Digital Mock-Up Workshop",
+    "description": "",
+    "coursenum": "4.511",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/4-511-digital-mock-up-workshop-spring-2006/3d436501c1efd879a2745f7204dfa148_4-511s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8403,
+    "title": "Architectural Design, Level II: Material Essence: The Glass House",
+    "description": "",
+    "coursenum": "4.131",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-131-architectural-design-level-ii-material-essence-the-glass-house-fall-2003/390eccae030e983e215b2d56bf4e1093_4-131f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8242,
+    "title": "Precedents in Critical Practice",
+    "description": "",
+    "coursenum": "4.210",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-210-precedents-in-critical-practice-fall-2012/c6252e5579554f515dd700da6b94241a_4-210f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8046,
+    "title": "Architectural Design, Level II: Material and Tectonic Transformations: The Herreshoff Museum",
+    "description": "",
+    "coursenum": "4.131B",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-131b-architectural-design-level-ii-material-and-tectonic-transformations-the-herreshoff-museum-fall-2003/04f40391ff47fd20dba373f2de54b434_4-131bf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8002,
+    "title": "Introduction to Design Computing",
+    "description": "",
+    "coursenum": "4.500",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Computational Modeling and Simulation",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/4-500-introduction-to-design-computing-fall-2008/e55e2e3396a46a5b6b3caa6d8037888d_4-500f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7909,
+    "title": "Advanced Seminar: Urban Nature and City Design",
+    "description": "",
+    "coursenum": "11.308J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-308j-advanced-seminar-urban-nature-and-city-design-fall-2012/d5d3efcc79bb5981b591fbdbbb3b35a0_11-308jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9636,
+    "title": "Thinking About Architecture: In History and at Present",
+    "description": "",
+    "coursenum": "4.607",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-607-thinking-about-architecture-in-history-and-at-present-fall-2009/f975a0905845682e31125fc094b59797_4-607f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9697,
+    "title": "A Global History of Architecture Writing Seminar",
+    "description": "",
+    "coursenum": "4.696",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Architecture",
+      "Teaching and Education",
+      "Fine Arts",
+      "Curriculum and Teaching",
+      "Architectural History and Criticism",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/4-696-a-global-history-of-architecture-writing-seminar-spring-2008/904436e5a37803052d858c72fd5123ae_4-696s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8774,
+    "title": "Religious Architecture and Islamic Cultures",
+    "description": "",
+    "coursenum": "4.614",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Society",
+      "Architectural History and Criticism",
+      "Middle Eastern Studies",
+      "Religious Architecture"
+    ],
+    "url": "",
+    "image_src": "/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7370719a890e90587a579880b1bb2c1f_4-614f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8773,
+    "title": "Environmental Technologies in Buildings",
+    "description": "",
+    "coursenum": "4.401",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Energy",
+      "Environmental Design",
+      "Buildings"
+    ],
+    "url": "",
+    "image_src": "/courses/4-401-environmental-technologies-in-buildings-fall-2018/3dabcea4815af7e1fdbc9fd88a814bab_4-401f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9151,
+    "title": "Urban Design Policy and Action",
+    "description": "",
+    "coursenum": "11.337J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Public Administration",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/11-337j-urban-design-policy-and-action-spring-2009/6e5607a4092b2dc71b6b5a418583ad4b_11-337js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8133,
+    "title": "Architectural Design, Level II: New Orleans Studio",
+    "description": "",
+    "coursenum": "4.144",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-144-architectural-design-level-ii-new-orleans-studio-spring-2006/77c05fe57fe093706e346ebdf4b5f477_4-144s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8334,
+    "title": "Architecture Studio: Intentions",
+    "description": "",
+    "coursenum": "4.104",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-104-architecture-studio-intentions-spring-2005/b5447088d1d469b4232714b9d013b434_4-104s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9292,
+    "title": "Special Problems in Architectural Design",
+    "description": "",
+    "coursenum": "4.195",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Architecture",
+      "Media Studies",
+      "Fine Arts",
+      "Architectural Design",
+      "Digital Media",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/4-195-special-problems-in-architectural-design-spring-2005/b2f466b270f328d10f359e8fb2a0661b_4-195s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9312,
+    "title": "Architectural Construction and Computation",
+    "description": "",
+    "coursenum": "4.501",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/4-501-architectural-construction-and-computation-fall-2005/0a9994123eb0183f3a6da2f51c7075a9_4-501f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9420,
+    "title": "Architectural Design, Level III: A Student Center for MIT",
+    "description": "",
+    "coursenum": "4.155B",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-155b-architectural-design-level-iii-a-student-center-for-mit-fall-2004/64e33b3dbccd64a9738f6b5cde86c097_4-155bf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9378,
+    "title": "Introduction to the History and Theory of Architecture",
+    "description": "",
+    "coursenum": "4.605",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "World History",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-605-introduction-to-the-history-and-theory-of-architecture-spring-2012/c36227f176d7ae5e632dc3adbcb91f4d_4-605s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8653,
+    "title": "Introduction to Video",
+    "description": "",
+    "coursenum": "4.351",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/4-351-introduction-to-video-spring-2004/b38cc7b61ace544f708b59eb124387e4_4-351s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Media Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8651,
+    "title": "Beijing Urban Design Studio",
+    "description": "",
+    "coursenum": "11.946J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "International Relations",
+      "Urban Planning",
+      "International Development"
+    ],
+    "url": "",
+    "image_src": "/courses/11-946j-beijing-urban-design-studio-summer-2004/f1495a8bea5c73d67ea413a4929c9b92_11-946jsu04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8808,
+    "title": "Drawings & Numbers: Five Centuries of Digital Design",
+    "description": "",
+    "coursenum": "4.638",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Mathematics",
+      "Fine Arts",
+      "Applied Mathematics",
+      "Architectural Engineering",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-638-drawings-numbers-five-centuries-of-digital-design-fall-2002/efaafaaad346ffcb371136bad412f8e7_4-638f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9510,
+    "title": "Property Rights in Transition",
+    "description": "",
+    "coursenum": "11.467J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture",
+      "Political Science"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Sociology",
+      "Urban Studies",
+      "Real Estate",
+      "Philosophy",
+      "Legal Studies",
+      "Social Justice",
+      "Political Philosophy",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/11-467j-property-rights-in-transition-spring-2005/db9262adb5501b68e9af9bdd1b86b4e8_11-467js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9507,
+    "title": "Building Technology Laboratory",
+    "description": "",
+    "coursenum": "4.411",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Energy",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Environmental Design",
+      "Architectural Engineering",
+      "Buildings"
+    ],
+    "url": "",
+    "image_src": "/courses/4-411-building-technology-laboratory-spring-2004/8b799287543b2a3c32614da3acf62201_4-411s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9002,
+    "title": "Geometric Disciplines and Architecture Skills: Reciprocal Methodologies",
+    "description": "",
+    "coursenum": "4.105",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-105-geometric-disciplines-and-architecture-skills-reciprocal-methodologies-fall-2012/0ea6f62ce7c589f12d6fce9ee89a75d1_4-105f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9013,
+    "title": "Studio Seminar in Public Art",
+    "description": "",
+    "coursenum": "4.367",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Visual Arts",
+      "Fine Arts",
+      "Art History",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-367-studio-seminar-in-public-art-spring-2006/1c1b81e86991ff601d78980904dc69f8_4-367s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9194,
+    "title": "Analysis of Contemporary Architecture",
+    "description": "",
+    "coursenum": "4.205",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-205-analysis-of-contemporary-architecture-fall-2009/101f7f82705a7b977b8b4137c1bbc7ba_4-205f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9549,
+    "title": "Contemporary Architecture and Critical Debate",
+    "description": "",
+    "coursenum": "4.665",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-665-contemporary-architecture-and-critical-debate-spring-2002/9a5adfd404e8c1292f80aec22537cab8_4-665s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9757,
+    "title": "Urban Design Seminar",
+    "description": "",
+    "coursenum": "11.333",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "The Developing World",
+      "Society",
+      "Energy",
+      "Business",
+      "Urban Studies",
+      "Globalization",
+      "Real Estate",
+      "Technology",
+      "Architectural Design",
+      "Environmental Design",
+      "Architectural Engineering",
+      "Buildings"
+    ],
+    "url": "",
+    "image_src": "/courses/11-333-urban-design-seminar-spring-2016/da49c7b4db4000ac905b6e4969a5a518_11-333s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9811,
+    "title": "Territory: Spatial Reification of Power",
+    "description": "",
+    "coursenum": "4.S26",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "The Developing World",
+      "Society",
+      "Business",
+      "Globalization",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-s26-territory-spatial-reification-of-power-spring-2016/13664d3249e13fa5f9c5229f1fed9422_4-s26s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9794,
+    "title": "Building Technology III: Building Structural Systems",
+    "description": "",
+    "coursenum": "4.463",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Materials Science and Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-463-building-technology-iii-building-structural-systems-fall-2004/4a6143f97837b83c56370f22dfc7d7df_4-463f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11776,
+    "title": "Architectural Design: Intentions",
+    "description": "",
+    "coursenum": "4.104",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-104-architectural-design-intentions-spring-2004/748532cdc3b6779735410bf70b3aedbc_4-104s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11317,
+    "title": "Urban Design Policy and Action",
+    "description": "",
+    "coursenum": "11.337J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Public Administration",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/11-337j-urban-design-policy-and-action-spring-2007/c07b046c6ac548cfa100b4bcc00e89d5_11-337js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11170,
+    "title": "Media Technology and City Design and Development",
+    "description": "",
+    "coursenum": "11.310J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Sociology",
+      "Urban Studies",
+      "Digital Media",
+      "Community Development",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-310j-media-technology-and-city-design-and-development-spring-2002/c4b99edfe6632fead219df9565121858_11-310js02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9427,
+    "title": "Theory of City Form",
+    "description": "",
+    "coursenum": "4.241J",
+    "department": [
+      "Architecture",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Sociology",
+      "Urban Studies",
+      "Architectural Design",
+      "Community Development"
+    ],
+    "url": "",
+    "image_src": "/courses/4-241j-theory-of-city-form-spring-2013/121f278b7066ebae182261855776df1e_4-241js13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9496,
+    "title": "Photography and Related Media",
+    "description": "",
+    "coursenum": "4.343",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-343-photography-and-related-media-fall-2002/a512092a9e02cf06fece40eeb0701732_4-343f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9055,
+    "title": "Urban Design Studio: Providence",
+    "description": "",
+    "coursenum": "4.163J",
+    "department": [
+      "Architecture",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Architectural Design",
+      "Environmental Design",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/4-163j-urban-design-studio-providence-spring-2005/2a189d882210f602fe04906bf426560c_4-163js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9022,
+    "title": "Architecture Studio: Building in Landscapes",
+    "description": "",
+    "coursenum": "4.125B",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-125b-architecture-studio-building-in-landscapes-fall-2005/a501f6f3f08ecaaee16bd7357e2b03c8_4-125bf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11336,
+    "title": "Introduction to Design Inquiry",
+    "description": "",
+    "coursenum": "4.273",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-273-introduction-to-design-inquiry-fall-2001/08b3ff8cbf8ad65fd216c6ab3f64a690_4-273f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11228,
+    "title": "Dialogue in Art, Architecture, and Urbanism",
+    "description": "",
+    "coursenum": "4.303",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-303-dialogue-in-art-architecture-and-urbanism-fall-2003/527223122e7ce1ffab76254f4a9e09d7_4-303f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Other Video"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11674,
+    "title": "Beijing Urban Design Studio",
+    "description": "",
+    "coursenum": "11.307",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "International Relations",
+      "Urban Planning",
+      "International Development"
+    ],
+    "url": "",
+    "image_src": "/courses/11-307-beijing-urban-design-studio-summer-2006/2d9bd8cd59cea6345a124694c318e43a_11-307su06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Projects with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11825,
+    "title": "Building Technologies III: Building Structural Systems II",
+    "description": "",
+    "coursenum": "4.463",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Materials Science and Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-463-building-technologies-iii-building-structural-systems-ii-fall-2002/8c5d2a142bf92e7cb06f0a67570a64ad_4-463f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8189,
+    "title": "Introduction to Urban Design and Development",
+    "description": "",
+    "coursenum": "11.301J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Architectural Design",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-301j-introduction-to-urban-design-and-development-fall-2016/e2e811b52da0b8152b35f4e4d7a58d35_11-301Jf16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8191,
+    "title": "Advanced Projects in the Visual Arts: Personal Narrative",
+    "description": "",
+    "coursenum": "4.366",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/4-366-advanced-projects-in-the-visual-arts-personal-narrative-spring-2004/aeec1711e0234a512c0dcf0f06ab94a4_4-366s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Media Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5224,
+    "title": "Sustainable Building Design",
+    "description": "",
+    "coursenum": "4.464x",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Earth Science"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/d12ac3f6-79c9-4a53-89de-96f927808538-93d29a128f32.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8614,
+    "title": "Design Across Scales, Disciplines and Problem Contexts",
+    "description": "",
+    "coursenum": "4.110J",
+    "department": [
+      "Architecture",
+      "Media Arts and Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-110j-design-across-scales-disciplines-and-problem-contexts-spring-2013/3fe2b0c7a2d9d714237b7d0c456f77ce_4-110js13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8944,
+    "title": "Introduction to Integrated Design",
+    "description": "",
+    "coursenum": "4.191",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-191-introduction-to-integrated-design-fall-2006/1beeb83d2887144aaab02c343b164991_4-191f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8713,
+    "title": "Immaterial Limits: Process and Duration",
+    "description": "",
+    "coursenum": "4.143",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Engineering",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-143-immaterial-limits-process-and-duration-fall-2002/f7287222ebb66a1abfd720fe987c4d1d_4-143f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9111,
+    "title": "Ecologies of Construction",
+    "description": "",
+    "coursenum": "4.406",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Environmental Design",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-406-ecologies-of-construction-spring-2007/ebfa98a9aee91be67864e63f5261ed65_4-406s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9137,
+    "title": "Basic Structural Design",
+    "description": "",
+    "coursenum": "4.440",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-440-basic-structural-design-spring-2009/bc484a2f7a48bbbfbd7078a6b3a5f31b_4-440s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Projects",
+      "Problem Sets",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9081,
+    "title": "Selected Topics in Architecture: Architecture from 1750 to the Present",
+    "description": "",
+    "coursenum": "4.645",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-645-selected-topics-in-architecture-architecture-from-1750-to-the-present-fall-2004/d8d8194482eea424103c3f54758e0bc0_4-645f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8142,
+    "title": "Digital Design Fabrication",
+    "description": "",
+    "coursenum": "4.510",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-510-digital-design-fabrication-fall-2008/505a6ea83ef01d1a60e07f0212c819e4_4-510f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8091,
+    "title": "Advanced Studio on the Production of Space",
+    "description": "",
+    "coursenum": "4.313",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Fine Arts",
+      "Civil Engineering",
+      "Environmental Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-313-advanced-studio-on-the-production-of-space-fall-2016/7b3266744082c0c5becb4e6d46405806_4-313f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8695,
+    "title": "The Architecture of Cairo",
+    "description": "",
+    "coursenum": "4.615",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Architectural History and Criticism",
+      "Middle Eastern History",
+      "Religious Architecture"
+    ],
+    "url": "",
+    "image_src": "/courses/4-615-the-architecture-of-cairo-spring-2002/7081edfce65f4f2896b19385e5110309_4-615s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8478,
+    "title": "Site and Infrastructure Systems Planning",
+    "description": "",
+    "coursenum": "11.304J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Civil Engineering",
+      "Environmental Design",
+      "Urban Planning",
+      "Housing Development"
+    ],
+    "url": "",
+    "image_src": "/courses/11-304j-site-and-infrastructure-systems-planning-spring-2009/c264508cfe130ba1022fb7c22148144a_11-304js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8455,
+    "title": "Architectural Design Workshop: Collage - Method and Form",
+    "description": "",
+    "coursenum": "4.184",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Art History",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-184-architectural-design-workshop-collage-method-and-form-spring-2004/47ecfd61809009e3c1a37aeb5381e45b_4-184s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9533,
+    "title": "Stories Without Words: Photographing the First Year",
+    "description": "",
+    "coursenum": "4.A21",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Fine Arts",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-a21-stories-without-words-photographing-the-first-year-fall-2006/c13e88d87dde1844094d854e607e5181_4-a21f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Image Gallery",
+      "Media Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9680,
+    "title": "Architecture Design, Level II: Cuba Studio",
+    "description": "",
+    "coursenum": "4.196",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Anthropology",
+      "Architectural Design",
+      "Environmental Design",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/4-196-architecture-design-level-ii-cuba-studio-spring-2004/c87eec30c64ad3f57c6c6ba75a03d7ca_4-196s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Video Materials"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9689,
+    "title": "Urban Design Skills: Observing, Interpreting, and Representing the City",
+    "description": "",
+    "coursenum": "11.328J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/9a522ab06d15947e341015dbc8361752_11-328jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Design Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9667,
+    "title": "MArch Portfolio Seminar",
+    "description": "",
+    "coursenum": "4.107",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-107-march-portfolio-seminar-fall-2003/9e1d1a27af3f2831c4b862d8f6d030a7_4-107f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9692,
+    "title": "Historiography of Islamic Architecture",
+    "description": "",
+    "coursenum": "4.619",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism",
+      "Middle Eastern History",
+      "Historiography",
+      "Religious Architecture"
+    ],
+    "url": "",
+    "image_src": "/courses/4-619-historiography-of-islamic-architecture-fall-2014/e01628e140ecd3223d96c98365515b78_4-619f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9756,
+    "title": "The Art Museum: History, Theory, Controversy",
+    "description": "",
+    "coursenum": "4.609",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Art History",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-609-the-art-museum-history-theory-controversy-spring-2014/deebbed447be0f63ec525658a06f2ffb_4-609s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9754,
+    "title": "Interrogative Design Workshop",
+    "description": "",
+    "coursenum": "4.370",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Art History"
+    ],
+    "url": "",
+    "image_src": "/courses/4-370-interrogative-design-workshop-fall-2005/768958767e6302f3e2a1365ab738d72e_4-370f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9809,
+    "title": "Modern Art and Mass Culture",
+    "description": "",
+    "coursenum": "4.602",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/4-602-modern-art-and-mass-culture-spring-2012/ba6a6a64334211c716fc759afd500eed_4-602s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9763,
+    "title": "Landscape Experience: Seminar in Land/Art",
+    "description": "",
+    "coursenum": "4.S67",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-s67-landscape-experience-seminar-in-land-art-fall-2016/e1205024926376c74b99fb82628c49d4_4-s67f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10589,
+    "title": "Sites in Sight: Photography as Inquiry",
+    "description": "",
+    "coursenum": "11.309J",
+    "department": [
+      "Urban Studies and Planning",
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Urban Studies",
+      "Environmental Design",
+      "Urban Planning",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/11-309j-sites-in-sight-photography-as-inquiry-fall-2003/df9a94e7e0710c552072fa664bc09260_11-309jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Media Assignments with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10539,
+    "title": "Introduction to Photography",
+    "description": "",
+    "coursenum": "4.341",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Fine Arts",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/4-341-introduction-to-photography-fall-2002/6762cff43d83f7681690d1525fbe2ef2_4-341f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10372,
+    "title": "Architectural Design Workshops: Computational Design for Housing",
+    "description": "",
+    "coursenum": "4.184",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Social Science",
+      "Fine Arts",
+      "Urban Studies",
+      "Architectural Design",
+      "Housing Development",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-184-architectural-design-workshops-computational-design-for-housing-spring-2002/1dc959a9acb417bf5677a403532c01db_4-184s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9991,
+    "title": "Technopolitics, Culture, Intervention",
+    "description": "",
+    "coursenum": "4.647",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design",
+      "Architectural History and Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/4-647-technopolitics-culture-intervention-fall-2014/c45b61dc1bcd675e2cbab5f9b8b63c23_4-647f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9917,
+    "title": "Architectural Design, Level I: Perceptions and Processes",
+    "description": "",
+    "coursenum": "4.123",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-123-architectural-design-level-i-perceptions-and-processes-fall-2003/186fcfedbb5dc4311322cf100c7c66e0_4-123f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10000,
+    "title": "Architecture Studio: Building in Landscapes",
+    "description": "",
+    "coursenum": "4.125A",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/4-125a-architecture-studio-building-in-landscapes-fall-2005/774340f84b768813f74f08659a72d590_4-125af05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9959,
+    "title": "Inquiry into Computation and Design",
+    "description": "",
+    "coursenum": "4.580",
+    "department": [
+      "Architecture"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Architecture",
+      "Systems Engineering",
+      "Fine Arts",
+      "Architectural Design",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-580-inquiry-into-computation-and-design-fall-2006/37aeabd4e7dd9b466df76d7b599e801b_4-580f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8373,
+    "title": "Fundamentals of Energy in Buildings",
+    "description": "",
+    "coursenum": "4.42J",
+    "department": [
+      "Architecture",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/f3f02f4df67ed359def8909015647fb3_4-42jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Design Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

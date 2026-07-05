@@ -1,0 +1,2469 @@
+[
+  {
+    "id": 9910,
+    "title": "Structural Mechanics",
+    "description": "",
+    "coursenum": "16.20",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-20-structural-mechanics-fall-2002/4a43947d888832920df15e7cdc705e33_16-20f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10712,
+    "title": "Engineering Design and Rapid Prototyping",
+    "description": "",
+    "coursenum": "16.810",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Structural Mechanics",
+      "Systems Optimization",
+      "Aerospace Engineering",
+      "Mechanical Design",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2005/c7dc493ba0e742986ecfb617699db103_16-810iap05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11406,
+    "title": "Aircraft Systems Engineering",
+    "description": "",
+    "coursenum": "16.885J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Aerospace Engineering",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/16-885j-aircraft-systems-engineering-fall-2004/e8412ad543e1f017bc52915cfd3a460d_16-885jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9208,
+    "title": "The Aerospace Industry",
+    "description": "",
+    "coursenum": "16.812",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Industrial Organization",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/16-812-the-aerospace-industry-spring-2004/54a669556f12fa2cb251f099cd602851_16-812s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9180,
+    "title": "Rocket Propulsion",
+    "description": "",
+    "coursenum": "16.512",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Thermodynamics",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-512-rocket-propulsion-fall-2005/69bdff0f76c07bfda8f37bae4776087e_16-512f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7806,
+    "title": "Lean Enterprise en Español",
+    "description": "",
+    "coursenum": "RES.16-001",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Leadership",
+      "Health Care Management",
+      "Business",
+      "Operations Management",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/res-16-001-lean-enterprise-en-espanol-january-iap-2012/f39077c65e71361964e2f2ffaa061426_res-16-001iap2012.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7886,
+    "title": "Aircraft Systems Engineering",
+    "description": "",
+    "coursenum": "16.885J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Aerospace Engineering",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/16-885j-aircraft-systems-engineering-fall-2005/09cced96aa9ab8c4f9220ad837b8adeb_16-885jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Image Gallery",
+      "Demonstration Videos",
+      "Lecture Notes",
+      "Projects",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8080,
+    "title": "Numerical Methods for Partial Differential Equations (SMA 5212)",
+    "description": "",
+    "coursenum": "16.920J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/f3f453b7050707ceba4c18c12041e393_16-920js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 4953,
+    "title": "Introduction to Aerospace Engineering: Astronautics and Human Spaceflight",
+    "description": "",
+    "coursenum": "16.00x",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5d81639b-9ad6-4288-90de-8f733e1845d6-e5b59895de62.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7702,
+    "title": "Integrating the Lean Enterprise",
+    "description": "",
+    "coursenum": "16.852J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management",
+      "Systems Optimization",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/16-852j-integrating-the-lean-enterprise-fall-2005/4fbaac4d6d3620d103291bee67581a1f_16-852jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8621,
+    "title": "Space Systems Engineering",
+    "description": "",
+    "coursenum": "16.89J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-89j-space-systems-engineering-spring-2007/2a01cea04000d318a1d63c46d451a0d4_16-89js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8796,
+    "title": "Ionized Gases",
+    "description": "",
+    "coursenum": "16.55",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-55-ionized-gases-fall-2014/1d356d606ef1272ff8aa3719c7e74ecb_16_55f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9144,
+    "title": "Software Engineering Concepts",
+    "description": "",
+    "coursenum": "16.355J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Business",
+      "Software Design and Engineering",
+      "Project Management",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-355j-software-engineering-concepts-fall-2005/8418b32501d762759b8279b1e289ae3f_16-355jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9135,
+    "title": "System Safety",
+    "description": "",
+    "coursenum": "16.63J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-63j-system-safety-spring-2016/fb6e7f0f774b88759b1f9d0bb33d1259_16-63js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8157,
+    "title": "Principles of Autonomy and Decision Making",
+    "description": "",
+    "coursenum": "16.410",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Systems Engineering",
+      "Social Science",
+      "Cognitive Science",
+      "Game Theory",
+      "Algorithms and Data Structures",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/559a0686d643e1459e7bdb572688a022_16-410f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Design Assignments",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8127,
+    "title": "Satellite Engineering",
+    "description": "",
+    "coursenum": "16.851",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Astrodynamics",
+      "Guidance and Control Systems",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-851-satellite-engineering-fall-2003/ae8609b3b01123f6393f7bc8bb24193f_c16-851f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments with Examples",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8354,
+    "title": "Stochastic Estimation and Control",
+    "description": "",
+    "coursenum": "16.322",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Probability and Statistics",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-322-stochastic-estimation-and-control-fall-2004/5d09512f3c708dd94fa17f334ec713ec_16-322f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9332,
+    "title": "Data Communication Networks",
+    "description": "",
+    "coursenum": "6.263J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Telecommunications",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/6-263j-data-communication-networks-fall-2002/f9043247c5f29e16c46a707de10bc4c5_6-263jf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9367,
+    "title": "Introduction to Aerospace Engineering and Design",
+    "description": "",
+    "coursenum": "16.00",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-00-introduction-to-aerospace-engineering-and-design-spring-2003/20bc7ef9a5b39a007880a512f9d5af94_16-00s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments",
+      "Activity Assignments with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9407,
+    "title": "Engineering Apollo: The Moon Project as a Complex System",
+    "description": "",
+    "coursenum": "STS.471J",
+    "department": [
+      "Science, Technology, and Society",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/0e13c467a5a66eea788b98bbe644c1b5_sts-471js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8676,
+    "title": "Computational Mechanics of Materials",
+    "description": "",
+    "coursenum": "16.225",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    "url": "",
+    "image_src": "/courses/16-225-computational-mechanics-of-materials-fall-2003/b1779785992850379a4a5f058b83c3f8_16-225f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8530,
+    "title": "Human Supervisory Control of Automated Systems",
+    "description": "",
+    "coursenum": "16.422",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Electrical Engineering",
+      "Cognitive Science",
+      "Robotics and Control Systems",
+      "Aerospace Engineering",
+      "Human-Computer Interfaces",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-422-human-supervisory-control-of-automated-systems-spring-2004/010a137e25b1183f78cd70610b81ff9d_16-422s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8490,
+    "title": "Airline Schedule Planning",
+    "description": "",
+    "coursenum": "1.206J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Systems Optimization",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-206j-airline-schedule-planning-spring-2003/aa0c42369bc09b11f258a91b3245f612_1-206js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9497,
+    "title": "Engineering Systems Analysis for Design",
+    "description": "",
+    "coursenum": "ESD.71",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Materials Science and Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-71-engineering-systems-analysis-for-design-fall-2008/f9f2ec5403e745f4a459543023201fa5_esd-71f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9519,
+    "title": "Air Traffic Control",
+    "description": "",
+    "coursenum": "16.72",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Urban Studies",
+      "Aerospace Engineering",
+      "Guidance and Control Systems",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/16-72-air-traffic-control-fall-2006/1e436f76d0ed6f8b6a6a7f77733735c0_16-72f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9034,
+    "title": "Random Matrix Theory and Its Applications",
+    "description": "",
+    "coursenum": "18.996",
+    "department": [
+      "Mathematics",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/1819ac3c1b925ddd9ff03c2319ed7a22_18-996s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9766,
+    "title": "The Engineer of 2020",
+    "description": "",
+    "coursenum": "16.A47",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Business",
+      "Globalization",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/16-a47-the-engineer-of-2020-fall-2009/546332d6d42998b9891652cab34214fb_16-a47f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9073,
+    "title": "Robust System Design",
+    "description": "",
+    "coursenum": "16.881",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Computational Modeling and Simulation",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-881-robust-system-design-summer-1998/6291e753908e3d66adbc7cda198fe0a3_16-881su98.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8705,
+    "title": "Techniques for Structural Analysis and Design",
+    "description": "",
+    "coursenum": "16.21",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    "url": "",
+    "image_src": "/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/98097b7ae3ecc6077ee6b69df32ffaee_16-21s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9896,
+    "title": "Internal Flows in Turbomachines",
+    "description": "",
+    "coursenum": "16.540",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-540-internal-flows-in-turbomachines-spring-2006/8953874166127b4187dc43f49a7a2b14_16-540s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10034,
+    "title": "Experimental Projects I",
+    "description": "",
+    "coursenum": "16.621",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Systems Engineering",
+      "Data Mining",
+      "Aerospace Engineering",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-621-experimental-projects-i-spring-2003/7d39ca1d8574312e876232ef920acfe8_16-621s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12751,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7765,
+    "title": "Proseminar in Manufacturing",
+    "description": "",
+    "coursenum": "15.792J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7783,
+    "title": "Air Transportation Systems Architecting",
+    "description": "",
+    "coursenum": "16.886",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Operations Management",
+      "Aerospace Engineering",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/16-886-air-transportation-systems-architecting-spring-2004/189e920b482a297276c4462add95d292_16-888s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7892,
+    "title": "Space Propulsion",
+    "description": "",
+    "coursenum": "16.522",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-522-space-propulsion-spring-2015/3795abdba0da0d591132325dd394900d_16-522s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8438,
+    "title": "Fundamentals of Systems Engineering",
+    "description": "",
+    "coursenum": "16.842",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-842-fundamentals-of-systems-engineering-fall-2015/726dfc67e86050ec2c1f83c5c248961d_16-842f15.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Design Assignments",
+      "Written Assignments",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8197,
+    "title": "Exploring Sea, Space, & Earth: Fundamentals of Engineering Design",
+    "description": "",
+    "coursenum": "2.00AJ",
+    "department": [
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Ocean Engineering",
+      "Mechanical Design",
+      "Systems Design",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b6a31a6a85998d664ea826a766d9032b_2-00ajs09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments with Examples",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 4955,
+    "title": "Flight Vehicle Aerodynamics",
+    "description": "",
+    "coursenum": "16.110x_2",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/663b60da-d279-4455-9be2-0960e2fd3500.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5214,
+    "title": "Introduction to Aerodynamics",
+    "description": "",
+    "coursenum": "16.101x",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/07420393-692d-47b0-9e92-ce21de95d421-932982dff642.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7715,
+    "title": "Analytical Subsonic Aerodynamics",
+    "description": "",
+    "coursenum": "16.121",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-121-analytical-subsonic-aerodynamics-fall-2017/f90f8d184d192834954581bd81377a46_16-121f17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7968,
+    "title": "Aerospace Dynamics",
+    "description": "",
+    "coursenum": "16.61",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Aerospace Engineering",
+      "Dynamics and Control",
+      "Astrodynamics",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-61-aerospace-dynamics-spring-2003/2b635ac99c48a5453881238d450daa98_16-61s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8486,
+    "title": "Computational Geometry",
+    "description": "",
+    "coursenum": "2.158J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Topology and Geometry",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-158j-computational-geometry-spring-2003/8fdf4f6b75e719f287c46946c5a09062_2-158js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11899,
+    "title": "Visual Navigation for Autonomous Vehicles (VNAV)",
+    "description": "",
+    "coursenum": "16.485",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Aerospace Engineering",
+      "Graphics and Visualization",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-485-visual-navigation-for-autonomous-vehicles-vnav-fall-2020/8aee2783553654f2684bb522fbf9044a_16-485f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Programming Assignments",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11920,
+    "title": "Risk Aware and Robust Nonlinear Planning",
+    "description": "",
+    "coursenum": "16.S498",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/16-s498-risk-aware-and-robust-nonlinear-planning-fall-2019/ddd4674d0074bae8c31ca7558f944cd4_16-s498f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11940,
+    "title": "Engineering the Space Shuttle",
+    "description": "",
+    "coursenum": "16.893x",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "History"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/65deb012-00d8-49c7-abd1-add318ed12bb-20d18f7523a6.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8958,
+    "title": "Space Policy Seminar",
+    "description": "",
+    "coursenum": "16.891J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy",
+      "Modern History",
+      "Public Policy",
+      "Security Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/16-891j-space-policy-seminar-spring-2003/bc44c4da0cf6be8aba8539d70e3d4f74_16-891js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8803,
+    "title": "Private Pilot Ground School",
+    "description": "",
+    "coursenum": "16.687",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-687-private-pilot-ground-school-january-iap-2019/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9128,
+    "title": "Principles of Automatic Control",
+    "description": "",
+    "coursenum": "16.06",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-06-principles-of-automatic-control-fall-2012/a752f4a6855ebd3ecdfdadbe8d2ca954_16-06f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9280,
+    "title": "Dynamic Systems and Control",
+    "description": "",
+    "coursenum": "6.241J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Electrical Engineering",
+      "Theory of Computation",
+      "Robotics and Control Systems",
+      "Systems Optimization",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-241j-dynamic-systems-and-control-spring-2011/1eea91bfc5791185e053d9b740cde269_6-241js11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9402,
+    "title": "Bioengineering Journal Article Seminar",
+    "description": "",
+    "coursenum": "16.459",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Aerospace Engineering",
+      "Human-Computer Interfaces",
+      "Bioastronautics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-459-bioengineering-journal-article-seminar-fall-2011/a4bc9ea5a80861c47e7bd5997904b309_16-459f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8673,
+    "title": "Compressible Flow",
+    "description": "",
+    "coursenum": "16.120",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-120-compressible-flow-spring-2003/307c45f159d8b1d9f045da588399890c_16-120s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10231,
+    "title": "Engineering the Space Shuttle",
+    "description": "",
+    "coursenum": "16.885x",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+16.885x+3T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11491,
+    "title": "Prototyping Avionics",
+    "description": "",
+    "coursenum": "16.682",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electrical Engineering",
+      "Aerospace Engineering",
+      "Avionics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-682-prototyping-avionics-spring-2006/f9a37fcc22f329957b931a1b9de8a9a3_16-682s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10036,
+    "title": "Dynamics of Nonlinear Systems",
+    "description": "",
+    "coursenum": "6.243J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Theory of Computation",
+      "Robotics and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/9b772f92b8b6b6024b83d408283d9706_6-243jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8565,
+    "title": "Technology in Transportation",
+    "description": "",
+    "coursenum": "16.682",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-682-technology-in-transportation-spring-2011/e79220e09bfba790b6fa79d4fbedc270_16-682s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7717,
+    "title": "Management in Engineering",
+    "description": "",
+    "coursenum": "2.96",
+    "department": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/2-96-management-in-engineering-fall-2012/aac891868c06653ecc96bcb25398741c_2-96f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7816,
+    "title": "Unified Engineering I, II, III, & IV",
+    "description": "",
+    "coursenum": "16.01",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Business",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Aerospace Engineering",
+      "Project Management",
+      "Materials Selection",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/8f56bbb35d0e456dc8b70911bec7cd0d_16-01f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Competition Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12836,
+    "title": "Unified Engineering: Materials and Structures",
+    "description": "",
+    "coursenum": "16.001",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    "url": "",
+    "image_src": "/courses/16-001-unified-engineering-materials-and-structures-fall-2021/16_001f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Laboratory Assignments",
+      "Open Textbooks",
+      "Readings",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8496,
+    "title": "Inventions and Patents",
+    "description": "",
+    "coursenum": "6.901",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Materials Science and Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Social Science",
+      "Business",
+      "Legal Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/6-901-inventions-and-patents-fall-2005/feb093dadb30e505117b3d97f15657e7_6-901f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Student Work"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7871,
+    "title": "Experimental Projects II",
+    "description": "",
+    "coursenum": "16.622",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Systems Engineering",
+      "Data Mining",
+      "Aerospace Engineering",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-622-experimental-projects-ii-fall-2003/a4d12fd9efd5d60f3e44642079636462_16-622f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7821,
+    "title": "Bio-Inspired Structures",
+    "description": "",
+    "coursenum": "16.982",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Nanotechnology",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Materials Selection"
+    ],
+    "url": "",
+    "image_src": "/courses/16-982-bio-inspired-structures-spring-2009/60074637ce7370e0ecdb4160e5ebfc07_16-982s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8424,
+    "title": "Engineering Design and Rapid Prototyping",
+    "description": "",
+    "coursenum": "16.810",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Structural Mechanics",
+      "Systems Optimization",
+      "Aerospace Engineering",
+      "Mechanical Design",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-810-engineering-design-and-rapid-prototyping-january-iap-2007/728bd85d8a16feb8a936385161cce1d4_16-810iap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Demonstration Videos",
+      "Design Assignments with Examples",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9347,
+    "title": "Space System Architecture and Design",
+    "description": "",
+    "coursenum": "16.892J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization",
+      "Aerospace Engineering",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-892j-space-system-architecture-and-design-fall-2004/5e8057f1968d9efcc7bf4fb0d8cfed53_16-892jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9364,
+    "title": "Feedback Control Systems",
+    "description": "",
+    "coursenum": "16.30",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems",
+      "Avionics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-30-feedback-control-systems-fall-2010/7ea0bbc3dd1926024bf807fd907e2300_16-30f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8893,
+    "title": "Aerodynamics",
+    "description": "",
+    "coursenum": "16.100",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-100-aerodynamics-fall-2005/d7cb9a6dcebc796c85e96d971b9eb10e_16-100f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9007,
+    "title": "Infinite Random Matrix Theory",
+    "description": "",
+    "coursenum": "18.338J",
+    "department": [
+      "Mathematics",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Theoretical Physics",
+      "Algebra and Number Theory",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-338j-infinite-random-matrix-theory-fall-2004/c9bcb94e91dc1350b9d9fd260bbd9535_18-338jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8201,
+    "title": "Airline Management",
+    "description": "",
+    "coursenum": "16.75J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Operations Management",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-75j-airline-management-spring-2006/c9eb53586a78df3c447797061efef126_16-75js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8247,
+    "title": "Aircraft Stability and Control",
+    "description": "",
+    "coursenum": "16.333",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems",
+      "Aerodynamics",
+      "Avionics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-333-aircraft-stability-and-control-fall-2004/135e2d2d162803422022ba25154c7b52_16-333f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8188,
+    "title": "Introduction to Numerical Simulation (SMA 5211)",
+    "description": "",
+    "coursenum": "6.336J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/2f9f608720e7c40876ad3dcf8218c28a_6-336jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8244,
+    "title": "Biomedical Signal and Image Processing",
+    "description": "",
+    "coursenum": "HST.582J",
+    "department": [
+      "Health Sciences and Technology",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electrical Engineering",
+      "Health and Medicine",
+      "Biomedicine",
+      "Signal Processing",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-582j-biomedical-signal-and-image-processing-spring-2007/df677ce9b7eec6a7e645631330a7846e_hst-582js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8545,
+    "title": "System Safety",
+    "description": "",
+    "coursenum": "16.863J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-863j-system-safety-spring-2016/40b9cb5fdf60d814b4a50963694a75e2_16-863js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8907,
+    "title": "Human Factors Engineering",
+    "description": "",
+    "coursenum": "16.400",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Aerospace Engineering",
+      "Human-Computer Interfaces",
+      "Bioastronautics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-400-human-factors-engineering-fall-2011/6bdfd812de298a9626647c1c8480568a_16-400f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8797,
+    "title": "Principles of Optimal Control",
+    "description": "",
+    "coursenum": "16.323",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization",
+      "Aerospace Engineering",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-323-principles-of-optimal-control-spring-2008/57901042c0bc0d8c795e1e286efce639_16-323s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9156,
+    "title": "Plates and Shells",
+    "description": "",
+    "coursenum": "2.081J",
+    "department": [
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Fluid Mechanics",
+      "Ocean Structures",
+      "Aerospace Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-081j-plates-and-shells-spring-2007/dd98fd9285494cb2ccc9fb94b75b4577_2-081js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8099,
+    "title": "Aerodynamics of Viscous Fluids",
+    "description": "",
+    "coursenum": "16.13",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Aerospace Engineering",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-13-aerodynamics-of-viscous-fluids-fall-2003/b26b6aed1229cfe00b9d9c46d80bf22c_16-13f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8151,
+    "title": "Introduction to Lean Six Sigma Methods",
+    "description": "",
+    "coursenum": "16.660J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Leadership",
+      "Health Care Management",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Systems Optimization",
+      "Aerospace Engineering",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/16-660j-introduction-to-lean-six-sigma-methods-january-iap-2012/bb2b9f6f539febfaab4c819728f1a081_16-660iap12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8283,
+    "title": "Thermal Energy",
+    "description": "",
+    "coursenum": "16.050",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Thermodynamics",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-050-thermal-energy-fall-2002/5984462d8df0d53da9ca3ef8843f1905_16-050f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8327,
+    "title": "Dynamics",
+    "description": "",
+    "coursenum": "16.07",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Classical Mechanics",
+      "Aerospace Engineering",
+      "Dynamics and Control",
+      "Astrodynamics",
+      "Aerodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-07-dynamics-fall-2009/d840d43fb6e90fb2a1427e896c0501f1_16-07f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8290,
+    "title": "Communication Systems Engineering",
+    "description": "",
+    "coursenum": "16.36",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Telecommunications",
+      "Computer Networks",
+      "Digital Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-36-communication-systems-engineering-spring-2009/507700b1314befc395d36d7651b0e5a1_16-36s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9184,
+    "title": "Multidisciplinary System Design Optimization",
+    "description": "",
+    "coursenum": "IDS.338J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Systems Optimization",
+      "Project Management",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9021d53e7c8531a050f752695115501c_ids-77s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9596,
+    "title": "Cognitive Robotics",
+    "description": "",
+    "coursenum": "16.412J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-412j-cognitive-robotics-spring-2016/54d1a777a7666799ad583f802b147c0d_16-412js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Programming Assignments",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10058,
+    "title": "Astrodynamics",
+    "description": "",
+    "coursenum": "16.346",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Astrodynamics",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-346-astrodynamics-fall-2008/77986f60806567e9ae5ef12bd3f6d759_16-346f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10099,
+    "title": "Introduction to Aerospace Engineering: Astronautics and Human Spaceflight",
+    "description": "",
+    "coursenum": "16.00x",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+16.00x+2T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10035,
+    "title": "Sensory-Neural Systems: Spatial Orientation from End Organs to Behavior and Adaptation",
+    "description": "",
+    "coursenum": "16.430J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Aerospace Engineering",
+      "Bioastronautics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-430j-sensory-neural-systems-spatial-orientation-from-end-organs-to-behavior-and-adaptation-spring-2012/2e4b3a5d1ebc5fa509ac147f6b3e5cf2_16-430js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10285,
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "description": "",
+    "coursenum": "10.01",
+    "department": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9954,
+    "title": "Space Systems Engineering",
+    "description": "",
+    "coursenum": "16.83X",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business",
+      "Aerospace Engineering",
+      "Project Management",
+      "Astrodynamics",
+      "Guidance and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-83x-space-systems-engineering-spring-2002-spring-2003/4e2dfbac2a5077d7e2441bdbe6f8afba_16-83xs02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9992,
+    "title": "Engineering Risk-Benefit Analysis",
+    "description": "",
+    "coursenum": "ESD.72",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8160,
+    "title": "Aerospace Biomedical and Life Support Engineering",
+    "description": "",
+    "coursenum": "16.423J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Health Sciences and Technology",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomechanics",
+      "Aerospace Engineering",
+      "Biomedical Instrumentation",
+      "Bioastronautics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ae295f205947c1937ece436557f4e472_16-423js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9555,
+    "title": "Introduction to Propulsion Systems",
+    "description": "",
+    "coursenum": "16.50",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/16-50-introduction-to-propulsion-systems-spring-2012/715c92947e203669c550882dc974afa4_16-50s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8432,
+    "title": "Logistical and Transportation Planning Methods",
+    "description": "",
+    "coursenum": "1.203J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Systems Optimization",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/8c16650624f18bbf15e018ae956d456b_1-203jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11416,
+    "title": "Estimation and Control of Aerospace Systems",
+    "description": "",
+    "coursenum": "16.30",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Guidance and Control Systems",
+      "Avionics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/41d20af55cfd568d06abfb76e1af9701_16-30s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13042,
+    "title": "How to CAD Almost Anything",
+    "description": "",
+    "coursenum": "RES.16-002",
+    "department": [
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/mit_res_16_002_s24.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  }
+]

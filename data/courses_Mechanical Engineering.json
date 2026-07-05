@@ -1,0 +1,4603 @@
+[
+  {
+    "id": 9873,
+    "title": "Desalination and Water Purification",
+    "description": "",
+    "coursenum": "2.500",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Energy",
+      "Environmental Engineering",
+      "Oceanic Pollution Control",
+      "Hydrology and Water Resource Systems",
+      "Separation Processes",
+      "Aquatic Sciences and Water Quality Control",
+      "Chemical Engineering",
+      "Ocean Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/2-500-desalination-and-water-purification-spring-2009/e49f672b88e589aa7a4591d86ddf9c21_2-500s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9828,
+    "title": "Project Laboratory",
+    "description": "",
+    "coursenum": "2.672",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-672-project-laboratory-spring-2009/50d9834bef6060179d6ab94dfe808f28_2-672s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9829,
+    "title": "Micro/Nano Engineering Laboratory",
+    "description": "",
+    "coursenum": "2.674",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    "url": "",
+    "image_src": "/courses/2-674-micro-nano-engineering-laboratory-spring-2016/eaff5ae18e1b0b2246deaf6b7a7a36e6_2-674s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10974,
+    "title": "Numerical Marine Hydrodynamics (13.024)",
+    "description": "",
+    "coursenum": "2.29",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Numerical Simulation",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Differential Equations",
+      "Ocean Engineering",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-29-numerical-marine-hydrodynamics-13-024-spring-2003/fd4ecc4a1d959695cd8a647999c2baef_2-29s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11879,
+    "title": "Advanced Fluid Mechanics 2: The Navier-Stokes Equations for Viscous Flows",
+    "description": "",
+    "coursenum": "2.25.2x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/e3236081-409a-40e8-b352-0a3921687d34-9821a4ed76bb.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11967,
+    "title": "Toy Product Design",
+    "description": "",
+    "coursenum": "2.00B",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-00b-toy-product-design-spring-2021/0b041769992e2841d2d316087eedb2cb_2-00bs21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12133,
+    "title": "Thermodynamics and Climate Change",
+    "description": "",
+    "coursenum": "RES.2-008",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Thermodynamics",
+      "Climate Studies",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/res-2-008-thermodynamics-and-climate-change-summer-2020/res-2-008-sum22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9181,
+    "title": "Biomedical Information Technology",
+    "description": "",
+    "coursenum": "20.453J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomedicine",
+      "Business",
+      "Information Technology",
+      "Data Mining",
+      "Computational Biology",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/20-453j-biomedical-information-technology-fall-2008/c2dc5f4cc94aa3c22770f8e497f3734e_20-453jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9234,
+    "title": "Fluid Dynamics",
+    "description": "",
+    "coursenum": "2.06",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-06-fluid-dynamics-spring-2013/429a5f8d23b1ca6430140ce4876bf3d1_2-06s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9213,
+    "title": "Identification, Estimation, and Learning",
+    "description": "",
+    "coursenum": "2.160",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Algorithms and Data Structures",
+      "Numerical Simulation",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-160-identification-estimation-and-learning-spring-2006/a7b91a58db1b840ee197d79e436ee3b8_2-160s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9179,
+    "title": "Biomedical Devices Design Laboratory",
+    "description": "",
+    "coursenum": "2.996",
+    "department": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Health and Medicine",
+      "Biomedical Instrumentation",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-996-biomedical-devices-design-laboratory-fall-2007/d60b93bafcf01fdf9c10ad92548341f2_2-996f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9166,
+    "title": "Modeling Dynamics and Control I",
+    "description": "",
+    "coursenum": "2.003",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003-modeling-dynamics-and-control-i-spring-2005/f64b0ff219d5afc0cf4de3008dc705dd_2-003s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9193,
+    "title": "Noninvasive Imaging in Biology and Medicine",
+    "description": "",
+    "coursenum": "22.56J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/0baab77f2b778b713d47e0c909b38b67_22-56jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9587,
+    "title": "Nonlinear Dynamics I: Chaos",
+    "description": "",
+    "coursenum": "18.353J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Computation",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/77a54ac6a70457dd6db42aaa1fc8ba51_18-353jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9640,
+    "title": "MADM with Applications in Material Selection and Optimal Design",
+    "description": "",
+    "coursenum": "2.994",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Materials Science and Engineering",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-994-madm-with-applications-in-material-selection-and-optimal-design-january-iap-2007/0669d2f5ce3405526c1721d9757e584f_2-994iap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7881,
+    "title": "D-Lab II: Design",
+    "description": "",
+    "coursenum": "EC.720J",
+    "department": [
+      "Edgerton Center",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "The Developing World",
+      "Society",
+      "Developmental Economics",
+      "Mechanical Design",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/ec-720j-d-lab-ii-design-spring-2010/1e7f669f9a7b0af8094fcf5119d01820_ec-720js10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments",
+      "Written Assignments",
+      "Activity Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8174,
+    "title": "Undergraduate Thesis for Course 2-A",
+    "description": "",
+    "coursenum": "2.ThA",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Humanities",
+      "Literature",
+      "Mechanical Engineering",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/2-tha-undergraduate-thesis-for-course-2-a-january-iap-2007/7160346d55f2f2de4f03016615898280_2-THAiap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8045,
+    "title": "Manufacturing Systems Analysis",
+    "description": "",
+    "coursenum": "2.852",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Business",
+      "Operations Management",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-852-manufacturing-systems-analysis-spring-2010/75d323e27b516a81c462720b7b13e92f_2-852s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8080,
+    "title": "Numerical Methods for Partial Differential Equations (SMA 5212)",
+    "description": "",
+    "coursenum": "16.920J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/16-920j-numerical-methods-for-partial-differential-equations-sma-5212-spring-2003/f3f453b7050707ceba4c18c12041e393_16-920js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5164,
+    "title": "Manufacturing Systems I",
+    "description": "",
+    "coursenum": "2.854.1x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/7a7d4897-584a-4667-aeeb-c3a87a0cc15c-99186295b0b7.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5103,
+    "title": "Fundamentals of Manufacturing Processes",
+    "description": "",
+    "coursenum": "2.008x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/fad3ebe3-b29b-4cea-a629-3122790ddbb8-67b579f7ab0b.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5196,
+    "title": "Computational Thinking for Modeling and Simulation",
+    "description": "",
+    "coursenum": "2.086x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/10b4fbe2-d60d-4d5e-9d7e-f01b0a317c5d-69a1400f32d5.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7704,
+    "title": "2nd Summer Introduction to Design",
+    "description": "",
+    "coursenum": "2.971",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-971-2nd-summer-introduction-to-design-january-iap-2003/6a2f1ed9c756d1acc2cbb600ee61761e_2-971iap03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7963,
+    "title": "Design and Fabrication of Microelectromechanical Devices",
+    "description": "",
+    "coursenum": "6.777J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electronics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Nanotechnology",
+      "Microtechnology",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/6-777j-design-and-fabrication-of-microelectromechanical-devices-spring-2007/48d6e35d863672759d9e08a0056cb84b_6-777js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8954,
+    "title": "Nonlinear Dynamics and Waves",
+    "description": "",
+    "coursenum": "2.034J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/a925748279d59197fcad924c0ba5a75a_2-034js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8739,
+    "title": "Girls Who Build Cameras",
+    "description": "",
+    "coursenum": "RES.2-006",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Energy",
+      "Technology",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-2-006-girls-who-build-cameras-summer-2016/79dbf8496c35fd78c2c1336060c66402_res-2-006sum16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Image Gallery",
+      "Lecture Notes",
+      "Activity Assignments with Examples",
+      "Programming Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9132,
+    "title": "Biological Engineering II: Instrumentation and Measurement",
+    "description": "",
+    "coursenum": "20.309",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electronics",
+      "Biological Engineering",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/20-309-biological-engineering-ii-instrumentation-and-measurement-fall-2006/a599a67054decb5975ac24a94fc58f43_20-309f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Tutorial Videos",
+      "Problem Sets",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9159,
+    "title": "Introduction to Robotics",
+    "description": "",
+    "coursenum": "2.12",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Classical Mechanics",
+      "Dynamics and Control",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-12-introduction-to-robotics-fall-2005/f18fe14051d490b79151933ab9f29d35_2-12f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8141,
+    "title": "Introduction to Manufacturing Systems",
+    "description": "",
+    "coursenum": "2.854",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/2-854-introduction-to-manufacturing-systems-fall-2016/2f7e440bee90798e05905d5b5f88453e_2-854f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8330,
+    "title": "Mechanical Engineering Tools",
+    "description": "",
+    "coursenum": "2.670",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-670-mechanical-engineering-tools-january-iap-2004/6a511c4d14a287fd76406a52a27ec82d_2-670iap04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8319,
+    "title": "Mechatronics",
+    "description": "",
+    "coursenum": "2.737",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Dynamics and Control",
+      "Digital Systems",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-737-mechatronics-fall-2014/093876dfe125e9c11146260d12b0ec0a_2-737f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9405,
+    "title": "Girls Who Build: Make Your Own Wearables Workshop",
+    "description": "",
+    "coursenum": "RES.2-005",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mechanical Engineering",
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-2-005-girls-who-build-make-your-own-wearables-workshop-spring-2015/576a148b994ad12c915c30e593a90ff7_res-2-005.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Tutorial Videos",
+      "Activity Assignments",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9386,
+    "title": "How and Why Machines Work",
+    "description": "",
+    "coursenum": "2.000",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-000-how-and-why-machines-work-spring-2002/bca02d3a7d36b448fcde27950d22f93b_2-000s02.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8684,
+    "title": "Turbulent Flow and Transport",
+    "description": "",
+    "coursenum": "2.27",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Hydrodynamics",
+      "Chemical Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-27-turbulent-flow-and-transport-spring-2002/7e8cd5ccd301903f88f8c5692a598e2d_2-27s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8661,
+    "title": "Cell-Matrix Mechanics",
+    "description": "",
+    "coursenum": "2.785J",
+    "department": [
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Materials Science and Engineering",
+      "Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Developmental Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-785j-cell-matrix-mechanics-fall-2014/8794273a97730c712f932df66e95bcd6_2-785jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8874,
+    "title": "Fundamentals of Photovoltaics",
+    "description": "",
+    "coursenum": "2.627",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Innovation",
+      "Electrical Engineering",
+      "Energy",
+      "Business",
+      "Materials Science and Engineering",
+      "Transport Processes",
+      "Electric Power",
+      "Atomic, Molecular, Optical Physics",
+      "Electronic Materials",
+      "Chemical Engineering",
+      "Electricity",
+      "Renewables"
+    ],
+    "url": "",
+    "image_src": "/courses/2-627-fundamentals-of-photovoltaics-fall-2013/18a4814f0b288b043938e002722e19b4_2-627f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Tutorial Videos",
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8806,
+    "title": "Optical Engineering",
+    "description": "",
+    "coursenum": "2.717J",
+    "department": [
+      "Mechanical Engineering",
+      "Media Arts and Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Quantum Mechanics",
+      "Electromagnetism",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-717j-optical-engineering-spring-2002/c2248f3aa7fc26291c269e9acee1e208_2-717js02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9789,
+    "title": "Dynamics",
+    "description": "",
+    "coursenum": "2.032",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Quantum Mechanics",
+      "Classical Mechanics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-032-dynamics-fall-2004/3edcdd9f3ebeecf391575373af3a1a5d_2-032f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9746,
+    "title": "Hydrodynamics (13.012)",
+    "description": "",
+    "coursenum": "2.016",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-016-hydrodynamics-13-012-fall-2005/2ae25f4657a652bde7c31ce9549473eb_2-016f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9786,
+    "title": "Toy Product Design",
+    "description": "",
+    "coursenum": "2.00B",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-00b-toy-product-design-spring-2008/d2046f8ae3af7fc0d3e051d263cb2b4b_2-00bs08.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 12837,
+    "title": "Thermal-Fluids Engineering 1: Basics of Thermodynamics and Hydrostatics",
+    "description": "",
+    "coursenum": "2.005.1x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/7ae26b7f-af95-4cab-b9b1-c32fde69e485-a2492d844667.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13152,
+    "title": "Tissue Engineering and Organ Regeneration",
+    "description": "",
+    "coursenum": "2.787J",
+    "department": [
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Materials Science and Engineering",
+      "Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Developmental Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-787j-tissue-engineering-and-organ-regeneration-fall-2024/mit2_787j_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13162,
+    "title": "Cell-Matrix Mechanics",
+    "description": "",
+    "coursenum": "2.785J",
+    "department": [
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Materials Science and Engineering",
+      "Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Developmental Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-785j-cell-matrix-mechanics-fall-2016/mit2_785j_f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9621,
+    "title": "Macromolecular Hydrodynamics",
+    "description": "",
+    "coursenum": "2.341J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Fluid Mechanics",
+      "Chemical Engineering",
+      "Molecular Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-341j-macromolecular-hydrodynamics-spring-2016/d1ce14274cf922b8b3f8d09c99e78bea_2-341js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8756,
+    "title": "Marine Power and Propulsion",
+    "description": "",
+    "coursenum": "2.611",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Ocean Engineering",
+      "Transportation"
+    ],
+    "url": "",
+    "image_src": "/courses/2-611-marine-power-and-propulsion-fall-2006/ef5b019484bd5b5ff23d364a13aaa146_2-611f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Programming Assignments",
+      "Design Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9290,
+    "title": "Advanced Structural Dynamics and Acoustics (13.811)",
+    "description": "",
+    "coursenum": "2.067",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Ocean Structures",
+      "Quantum Mechanics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/b03d777bb9c60756e26e5339a49a85f2_2-067s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7788,
+    "title": "Special Topics in Mathematics with Applications: Linear Algebra and the Calculus of Variations",
+    "description": "",
+    "coursenum": "2.035",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Linear Algebra",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/2-035-special-topics-in-mathematics-with-applications-linear-algebra-and-the-calculus-of-variations-spring-2007/3796178fddab20ea7c5716e686252d29_2-035s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9601,
+    "title": "Introduction to Ocean Science and Engineering",
+    "description": "",
+    "coursenum": "2.011",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science",
+      "Oceanography",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/2-011-introduction-to-ocean-science-and-engineering-spring-2006/bdb2edfc26015ede826705b221419203_2-011s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Projects with Examples",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9876,
+    "title": "Foundations of Software Engineering",
+    "description": "",
+    "coursenum": "1.124J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/1-124j-foundations-of-software-engineering-fall-2000/8dbc5849588872a20e2e980691c5e512_1-124jf00.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Programming Assignments with Examples",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8345,
+    "title": "Advanced Fluid Mechanics",
+    "description": "",
+    "coursenum": "2.25",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-25-advanced-fluid-mechanics-fall-2013/fe0b243e81452333f3abd2b462058f44_2-25f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8815,
+    "title": "Structural Mechanics",
+    "description": "",
+    "coursenum": "2.080J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-080j-structural-mechanics-fall-2013/969a1ebf4a9ff1f78b9a8dd01f084516_2-080jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7803,
+    "title": "Control of Manufacturing Processes (SMA 6303)",
+    "description": "",
+    "coursenum": "2.830J",
+    "department": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Nanotechnology",
+      "Chemical Engineering",
+      "Microtechnology",
+      "Process Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/2-830j-control-of-manufacturing-processes-sma-6303-spring-2008/c4ed2a9caafe774be2fcf2d8985b872d_2-830js08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9997,
+    "title": "Finite Element Analysis of Solids and Fluids I",
+    "description": "",
+    "coursenum": "2.092",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/ba34059d5c8c4c2731a873008e9f2631_2-092f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7888,
+    "title": "Finite Element Analysis of Solids and Fluids II",
+    "description": "",
+    "coursenum": "2.094",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-094-finite-element-analysis-of-solids-and-fluids-ii-spring-2011/f5802efeb3528e22f9db1749ef604869_2-094s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9865,
+    "title": "Radiative Transfer",
+    "description": "",
+    "coursenum": "2.58J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Energy",
+      "Technology",
+      "Transport Processes",
+      "Particle Physics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Climate",
+      "Combustion",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/2-58j-radiative-transfer-spring-2006/82566101ea5c181aecf5ec0e199c65f0_2-58js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9145,
+    "title": "Mechanics and Materials II",
+    "description": "",
+    "coursenum": "2.002",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Solid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-002-mechanics-and-materials-ii-spring-2004/83cd377f8c1d6b4655e367bfdf036853_2-002s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9230,
+    "title": "Ocean Wave Interaction with Ships and Offshore Energy Systems (13.022)",
+    "description": "",
+    "coursenum": "2.24",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Energy",
+      "Civil Engineering",
+      "Environmental Engineering",
+      "Structural Engineering",
+      "Ocean Structures",
+      "Hydrodynamics",
+      "Hydrodynamics and Coastal Engineering",
+      "Ocean Engineering",
+      "Fossil Fuels",
+      "Renewables",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-24-ocean-wave-interaction-with-ships-and-offshore-energy-systems-13-022-spring-2002/44dbf398b0a490378ce0d0d494a33014_2-24s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13208,
+    "title": "Design and Manufacturing II",
+    "description": "",
+    "coursenum": "2.008",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Materials Science and Engineering",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-008-design-and-manufacturing-ii-spring-2025/mit2_008_s25_v2.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13172,
+    "title": "Design of Medical Devices and Implants",
+    "description": "",
+    "coursenum": "2.782J",
+    "department": [
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biotechnology",
+      "Mechanical Design",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-782j-design-of-medical-devices-and-implants-spring-2025/mit2_782j_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Readings",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13169,
+    "title": "Biomaterials-Tissue Interactions",
+    "description": "",
+    "coursenum": "2.79J",
+    "department": [
+      "Mechanical Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Materials Science and Engineering",
+      "Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Developmental Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-79j-biomaterials-tissue-interactions-fall-2022/mit2_79j_f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9834,
+    "title": "Statistical Thermodynamics of Biomolecular Systems (BE.011J)",
+    "description": "",
+    "coursenum": "20.011J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Thermodynamics",
+      "Biophysics",
+      "Computation and Systems Biology",
+      "Biostatistics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/20-011j-statistical-thermodynamics-of-biomolecular-systems-be-011j-spring-2004/9b735be947a92b7bc53688370345842b_20-011js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9901,
+    "title": "Superconducting Magnets",
+    "description": "",
+    "coursenum": "22.68J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics",
+      "Condensed Matter Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/22-68j-superconducting-magnets-spring-2003/a23f486d2b0b1148ace5f5c787fff897_22-68js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9953,
+    "title": "Introduction to Heat Transfer",
+    "description": "",
+    "coursenum": "2.051",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-051-introduction-to-heat-transfer-fall-2015/7a7befd513bbfb5d0b05841210552334_2-051f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10046,
+    "title": "Compressible Fluid Dynamics",
+    "description": "",
+    "coursenum": "2.26",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Hydrodynamics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-26-compressible-fluid-dynamics-spring-2004/d75c065ffe3fbc6c9f01f4552cb08a8d_2-26s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10522,
+    "title": "Designing Paths to Peace",
+    "description": "",
+    "coursenum": "2.993",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Visual Arts",
+      "Fine Arts",
+      "Graphic Design",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-993-designing-paths-to-peace-fall-2002/61b3327fc0b6d6485220773b66973ac7_2-993f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10625,
+    "title": "Dynamics and Control I",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-control-i-spring-2007/c1242a72e6977b2df486f349a1131f92_2-003js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10349,
+    "title": "Advanced Fluid Mechanics 1: Fundamentals",
+    "description": "",
+    "coursenum": "2.25.1x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/69eb1e0c-917f-453c-a205-34fc98da1779-c4e771511969.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10930,
+    "title": "Sailing Yacht Design (13.734)",
+    "description": "",
+    "coursenum": "2.996",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Ocean Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-996-sailing-yacht-design-13-734-fall-2003/66f1af5a862009323d890dbf6092bc07_2-996f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11092,
+    "title": "Decision Making in Large Scale Systems",
+    "description": "",
+    "coursenum": "2.997",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Social Science",
+      "Game Theory",
+      "Algorithms and Data Structures",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-997-decision-making-in-large-scale-systems-spring-2004/efa3a05337188bb5a7202f87fe6fcf79_2-997s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7765,
+    "title": "Proseminar in Manufacturing",
+    "description": "",
+    "coursenum": "15.792J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7809,
+    "title": "Precision Machine Design",
+    "description": "",
+    "coursenum": "2.75",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-75-precision-machine-design-fall-2001/df5466251bdcc08ee9205f3ee42fbd5e_2-75f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Design Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7891,
+    "title": "Quantitative Physiology: Cells and Tissues",
+    "description": "",
+    "coursenum": "6.021J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Molecular Biology",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/6-021j-quantitative-physiology-cells-and-tissues-fall-2004/17364cc98645e0ab3e6f218d8cc93e7c_6-021jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7828,
+    "title": "Design of Medical Devices and Implants",
+    "description": "",
+    "coursenum": "2.782J",
+    "department": [
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biotechnology",
+      "Mechanical Design",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/2-782j-design-of-medical-devices-and-implants-spring-2006/65650082d488092ca06baf6e4050018b_2-782js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8198,
+    "title": "Special Topics in Mechanical Engineering: The Art and Science of Boat Design",
+    "description": "",
+    "coursenum": "2.993",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Ocean Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-993-special-topics-in-mechanical-engineering-the-art-and-science-of-boat-design-january-iap-2007/7bc5155780b293a6bc5a37c8d0911886_2-993iap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Image Gallery"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8197,
+    "title": "Exploring Sea, Space, & Earth: Fundamentals of Engineering Design",
+    "description": "",
+    "coursenum": "2.00AJ",
+    "department": [
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Ocean Engineering",
+      "Mechanical Design",
+      "Systems Design",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b6a31a6a85998d664ea826a766d9032b_2-00ajs09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments with Examples",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8009,
+    "title": "Acoustical Oceanography",
+    "description": "",
+    "coursenum": "2.682",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Earth Science",
+      "Oceanography",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-682-acoustical-oceanography-spring-2012/3e921d8674aea039073766c1e2801db4_2-682s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5162,
+    "title": "Management in Engineering: Accounting and Planning",
+    "description": "",
+    "coursenum": "2.961.1x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/e1605d94-573b-4e48-86f1-b43487b3024f-03eb82907ae5.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4962,
+    "title": "Dynamics",
+    "description": "",
+    "coursenum": "2.03x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/fc17df83-c262-4634-88b8-6ebf28d7ac76-91a2114ebf95.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5163,
+    "title": "Management in Engineering: Strategy and Leadership",
+    "description": "",
+    "coursenum": "2.961.2x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/47bff645-35a4-451b-9558-6918e631d907-72c12cfd2b05.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7931,
+    "title": "Molecular, Cellular, and Tissue Biomechanics",
+    "description": "",
+    "coursenum": "20.310J",
+    "department": [
+      "Biological Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell and Tissue Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/20-310j-molecular-cellular-and-tissue-biomechanics-spring-2015/da998b322ebfd224e91101606a61d96b_20-310js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8486,
+    "title": "Computational Geometry",
+    "description": "",
+    "coursenum": "2.158J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Topology and Geometry",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-158j-computational-geometry-spring-2003/8fdf4f6b75e719f287c46946c5a09062_2-158js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9634,
+    "title": "System Optimization and Analysis for Manufacturing",
+    "description": "",
+    "coursenum": "15.066J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Business",
+      "Operations Management",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/fb9a0d06ec610dd2fb726ba1a1607e12_15-066jsu03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8538,
+    "title": "Elements of Mechanical Design",
+    "description": "",
+    "coursenum": "2.72",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Business",
+      "Project Management",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-72-elements-of-mechanical-design-spring-2009/0c4310d1a90b3759953c6efc965c779b_2-72s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8905,
+    "title": "Product Design and Development",
+    "description": "",
+    "coursenum": "15.783J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Innovation",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Marketing",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/15-783j-product-design-and-development-spring-2006/4aee7a25f2f6571b121c1a958a00c83e_15-783js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8731,
+    "title": "Economics of Marine Transportation Industries",
+    "description": "",
+    "coursenum": "2.964",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/2-964-economics-of-marine-transportation-industries-fall-2006/7248b859ecb4a8336442d570a3bde37b_2-964f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9088,
+    "title": "Engineering Math: Differential Equations and Linear Algebra",
+    "description": "",
+    "coursenum": "2.087",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/2-087-engineering-math-differential-equations-and-linear-algebra-fall-2014/f3ef06c70a775a74be6b2a5a6788e1a9_2-080jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9101,
+    "title": "Ship Structural Analysis & Design (13.122)",
+    "description": "",
+    "coursenum": "2.082",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Structural Mechanics",
+      "Ocean Structures",
+      "Aerospace Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-082-ship-structural-analysis-design-13-122-spring-2003/43dfd58c0358dd809267e10ff528a5b7_2-082s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9342,
+    "title": "System Design and Analysis based on AD and Complexity Theories",
+    "description": "",
+    "coursenum": "2.882",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Nanotechnology",
+      "Theory of Computation",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-882-system-design-and-analysis-based-on-ad-and-complexity-theories-spring-2005/4360335455d93ba4844b01a2e7847ab5_2-882s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9422,
+    "title": "Mechanics & Materials I",
+    "description": "",
+    "coursenum": "2.001",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Solid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-001-mechanics-materials-i-fall-2006/6126af1cc9c996a7cf06d82795560219_2-001f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8630,
+    "title": "Tribology",
+    "description": "",
+    "coursenum": "2.800",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Nanotechnology",
+      "Materials Science and Engineering",
+      "Classical Mechanics",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-800-tribology-fall-2004/1313c86055c3e44c8cb0e4b836d8ab55_2-800f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9479,
+    "title": "Analysis and Design of Feedback Control Systems",
+    "description": "",
+    "coursenum": "2.14",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Dynamics and Control",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/cbc4d7bcf2f7e8e1c93237097afe63db_2-14s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9210,
+    "title": "Design of Ocean Systems",
+    "description": "",
+    "coursenum": "2.019",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Structural Mechanics",
+      "Fluid Mechanics",
+      "Ocean Structures",
+      "Aerospace Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-019-design-of-ocean-systems-spring-2011/61f798e00021a09a044f3f1bfc8e079e_2-019s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9160,
+    "title": "Finite Element Procedures for Solids and Structures",
+    "description": "",
+    "coursenum": "RES.2-002",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Numerical Simulation",
+      "Solid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010/ef055f740523e2ff98b3dc664239d9a6_res-2-002s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9751,
+    "title": "Design Principles for Ocean Vehicles (13.42)",
+    "description": "",
+    "coursenum": "2.22",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Ocean Structures",
+      "Hydrodynamics",
+      "Ocean Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-22-design-principles-for-ocean-vehicles-13-42-spring-2005/5cc85d069ff4e35aba433348510c72f3_2-22s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9799,
+    "title": "Principles of Naval Architecture",
+    "description": "",
+    "coursenum": "2.700",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Ocean Structures",
+      "Hydrodynamics",
+      "Ocean Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-700-principles-of-naval-architecture-fall-2014/81d6461a3c43b239713b9676d980940a_2-700f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10036,
+    "title": "Dynamics of Nonlinear Systems",
+    "description": "",
+    "coursenum": "6.243J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Theory of Computation",
+      "Robotics and Control Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/6-243j-dynamics-of-nonlinear-systems-fall-2003/9b772f92b8b6b6024b83d408283d9706_6-243jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11426,
+    "title": "Numerical Computation for Mechanical Engineers",
+    "description": "",
+    "coursenum": "2.086",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Numerical Simulation",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2012/31261a8b32593aea7bbf1f1336c2611b_2-086F12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Demonstration Videos",
+      "Programming Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7717,
+    "title": "Management in Engineering",
+    "description": "",
+    "coursenum": "2.96",
+    "department": [
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/2-96-management-in-engineering-fall-2012/aac891868c06653ecc96bcb25398741c_2-96f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8585,
+    "title": "Optics",
+    "description": "",
+    "coursenum": "2.71",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Quantum Mechanics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/2-71-optics-spring-2014/589786f4e0c311abefe5590ada139090_2-71s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8391,
+    "title": "Structural Mechanics in Nuclear Power Technology",
+    "description": "",
+    "coursenum": "22.314J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Energy",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a62aa88b04b90e0108fed056752fd507_22-314jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8881,
+    "title": "Signal Processing: Continuous and Discrete",
+    "description": "",
+    "coursenum": "2.161",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Computation",
+      "Dynamics and Control",
+      "Digital Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/2-161-signal-processing-continuous-and-discrete-fall-2008/8685512b6a846b30fc734d61ba0b02af_2-161f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Programming Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11013,
+    "title": "Quantum Computation",
+    "description": "",
+    "coursenum": "18.435J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Theory of Computation",
+      "Quantum Mechanics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-435j-quantum-computation-fall-2003/16e4d41cb81f9011b985fc465397aa7e_18-435jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7781,
+    "title": "Introduction to Sustainable Energy",
+    "description": "",
+    "coursenum": "22.081J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Electrical Engineering",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Electric Power",
+      "Science and Technology Policy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Renewables",
+      "Combustion",
+      "Transportation",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7808,
+    "title": "Dynamics and Control II",
+    "description": "",
+    "coursenum": "2.004",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-004-dynamics-and-control-ii-spring-2008/c4768f524c35138e3b5f70eada96a3c1_2-004s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7835,
+    "title": "Numerical Fluid Mechanics",
+    "description": "",
+    "coursenum": "2.29",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Computation",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-29-numerical-fluid-mechanics-spring-2015/a1736dffb564485d6115d3694f0dfb3c_2-29s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Projects",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7856,
+    "title": "Principles of Oceanographic Instrument Systems -- Sensors and Measurements (13.998)",
+    "description": "",
+    "coursenum": "2.693",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Electrical Engineering",
+      "Earth Science",
+      "Signal Processing",
+      "Environmental Science",
+      "Oceanography",
+      "Ocean Engineering",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/2-693-principles-of-oceanographic-instrument-systems-sensors-and-measurements-13-998-spring-2004/689802667f8b1b734b251097371b2fee_2-693s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8059,
+    "title": "Nano-to-Macro Transport Processes",
+    "description": "",
+    "coursenum": "2.57",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Nanotechnology",
+      "Energy",
+      "Technology",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-57-nano-to-macro-transport-processes-spring-2012/8e9a0b217b3fd7ff26c22985b770de69_2-57s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9391,
+    "title": "Fields, Forces, and Flows in Biological Systems",
+    "description": "",
+    "coursenum": "20.430J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/20-430j-fields-forces-and-flows-in-biological-systems-fall-2015/461f2d024957828df403538f21e6e3dd_20-430jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8825,
+    "title": "Thermodynamics of Biomolecular Systems",
+    "description": "",
+    "coursenum": "20.110J",
+    "department": [
+      "Biological Engineering",
+      "Chemistry",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Thermodynamics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8880,
+    "title": "Design of Electromechanical Robotic Systems",
+    "description": "",
+    "coursenum": "2.017J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Electrical Engineering",
+      "Applied Mathematics",
+      "Robotics and Control Systems",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3603c65f2db2f01086d68508804bd3f4_2-017jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9041,
+    "title": "Nonlinear Dynamics and Chaos",
+    "description": "",
+    "coursenum": "18.385J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/e26cc3c39f681a3f670f08faec11a0cf_18-385jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9044,
+    "title": "Biomolecular Feedback Systems",
+    "description": "",
+    "coursenum": "2.18",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Molecular Biology",
+      "Dynamics and Control",
+      "Computation and Systems Biology",
+      "Systems Design",
+      "Synthetic Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/2-18-biomolecular-feedback-systems-spring-2015/f3c959d8418d34cddbc35a0f520ba738_2-18s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Open Textbooks",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11427,
+    "title": "Numerical Computation for Mechanical Engineers",
+    "description": "",
+    "coursenum": "2.086",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Programming Languages",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/2-086-numerical-computation-for-mechanical-engineers-spring-2013/955379b6d3a2ab98c4dcd1fabf8c3ca5_2-086s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Open Textbooks",
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11509,
+    "title": "Nonlinear Dynamics and Chaos",
+    "description": "",
+    "coursenum": "18.385J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/095728c1dcf7bdc3d4a674f09a14d823_18-385jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11928,
+    "title": "Fundamentals of Advanced Energy Conversion",
+    "description": "",
+    "coursenum": "2.60J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Energy",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Nuclear",
+      "Renewables",
+      "Combustion",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/92fc5969d1aa2ec6a7e2ed62f781e38b_2-60js20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11886,
+    "title": "Advanced Fluid Mechanics 3: Potential Flows & Boundary Layers",
+    "description": "",
+    "coursenum": "2.25.3x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6fed1f50-bb9c-40b0-bb40-3fe334ac8db0-700a3f9a00c0.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12759,
+    "title": "Nonlinear Dynamics: Chaos",
+    "description": "",
+    "coursenum": "12.006J",
+    "department": [
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Earth Science",
+      "Applied Mathematics",
+      "Geophysics",
+      "Classical Mechanics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/12-006f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13127,
+    "title": "Advanced Thermodynamics",
+    "description": "",
+    "coursenum": "2.43",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Mechanical Engineering",
+      "Energy",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Renewables",
+      "Combustion",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/2-43-advanced-thermodynamics-spring-2024/mit2_43_s24_new.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Multiple Assignment Types with Solutions",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13192,
+    "title": "Innovation Teams",
+    "description": "",
+    "coursenum": "10.807/2.907/15.371",
+    "department": [
+      "Sloan School of Management",
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Entrepreneurship",
+      "Innovation",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-371-innovation-teams-fall-2024/mitocw15_371j_f24.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Videos",
+      "Projects",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8188,
+    "title": "Introduction to Numerical Simulation (SMA 5211)",
+    "description": "",
+    "coursenum": "6.336J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Numerical Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-336j-introduction-to-numerical-simulation-sma-5211-fall-2003/2f9f608720e7c40876ad3dcf8218c28a_6-336jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8216,
+    "title": "Numerical Computation for Mechanical Engineers",
+    "description": "",
+    "coursenum": "2.086",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Computation",
+      "Programming Languages",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/2-086-numerical-computation-for-mechanical-engineers-fall-2014/a19d79fd174c4f4081e59e53cb8149e6_2-086f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Demonstration Videos",
+      "Exams",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8048,
+    "title": "Modeling and Simulation of Dynamic Systems",
+    "description": "",
+    "coursenum": "2.141",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Dynamics and Control",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-141-modeling-and-simulation-of-dynamic-systems-fall-2006/93af9749e6eddd5d794eb02fb5c0b73d_2-141f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5158,
+    "title": "Manufacturing Process Control II",
+    "description": "",
+    "coursenum": "2.830.2x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/1e13fdc5-8cb9-4559-ab59-222ec1855d34-64c096e04a18.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5160,
+    "title": "Manufacturing Systems II",
+    "description": "",
+    "coursenum": "2.854.2x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/431d4f06-a003-4c6a-b435-21c47aa95028-b212f7bd97cd.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5153,
+    "title": "Manufacturing Process Control I",
+    "description": "",
+    "coursenum": "2.830.1x",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/9de3b8b5-c828-4ae6-b842-6b6327815288-cb3707095bb2.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7699,
+    "title": "Computational Ocean Acoustics (13.853)",
+    "description": "",
+    "coursenum": "2.068",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Earth Science",
+      "Computational Modeling and Simulation",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Hydrodynamics",
+      "Geophysics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-068-computational-ocean-acoustics-13-853-spring-2003/a8d89dd1fa663ecfbfe7b6bd8f4dd607_2-068s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8549,
+    "title": "Mechanical Assembly and Its Role in Product Development",
+    "description": "",
+    "coursenum": "2.875",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/2-875-mechanical-assembly-and-its-role-in-product-development-fall-2004/7ed741459bcb5f49217eb541e7eeab8f_2-875f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8593,
+    "title": "Hydrofoils and Propellers",
+    "description": "",
+    "coursenum": "2.23",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Ocean Structures",
+      "Hydrodynamics",
+      "Aerospace Engineering",
+      "Ocean Engineering",
+      "Mechanical Design",
+      "Propulsion Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/2-23-hydrofoils-and-propellers-spring-2007/59b885a6d9dd9952c200cc2aaec106a7_2-23s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8590,
+    "title": "Systems and Controls",
+    "description": "",
+    "coursenum": "2.04A",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-04a-systems-and-controls-spring-2013/c06619c43540fbbbb938e4f826362fc1_2-04As13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8987,
+    "title": "Dynamics and Control I",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-control-i-fall-2007/8616c4522a27a8fb7a2c4d1b56bcf3fe_2-003jf07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Programming Assignments with Examples",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9156,
+    "title": "Plates and Shells",
+    "description": "",
+    "coursenum": "2.081J",
+    "department": [
+      "Mechanical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Fluid Mechanics",
+      "Ocean Structures",
+      "Aerospace Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-081j-plates-and-shells-spring-2007/dd98fd9285494cb2ccc9fb94b75b4577_2-081js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8107,
+    "title": "Biomimetic Principles and Design",
+    "description": "",
+    "coursenum": "2.A35",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Fluid Mechanics",
+      "Biomechanics",
+      "Biophysics",
+      "Ocean Engineering",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-a35-biomimetic-principles-and-design-fall-2013/34443a93a4a1f10596bb7ba42c99cb69_2-a35f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8158,
+    "title": "Biomaterials-Tissue Interactions",
+    "description": "",
+    "coursenum": "20.441J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Cell Biology",
+      "Cell and Tissue Engineering",
+      "Biomaterials"
+    ],
+    "url": "",
+    "image_src": "/courses/20-441j-biomaterials-tissue-interactions-fall-2009/579634cee65ebf48d88003207b90f9f8_20-441jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8085,
+    "title": "Information and Entropy",
+    "description": "",
+    "coursenum": "6.050J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Computation",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-050j-information-and-entropy-spring-2008/998d75aec452abbc037264c8d220786f_6-050js08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8324,
+    "title": "Fields, Forces and Flows in Biological Systems",
+    "description": "",
+    "coursenum": "20.330J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mechanical Engineering",
+      "Biology",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Molecular Biology",
+      "Biophysics",
+      "Chemical Engineering",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/f581d528660db0b5e25e5978ef573f52_20-330js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8655,
+    "title": "Wave Propagation",
+    "description": "",
+    "coursenum": "2.062J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Earth Science",
+      "Environmental Engineering",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Hydrodynamics",
+      "Geophysics",
+      "Classical Mechanics",
+      "Hydrodynamics and Coastal Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-062j-wave-propagation-spring-2017/ea2eda724319cfa0fe266291b8b0f0de_2-062js17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8466,
+    "title": "Intermediate Heat and Mass Transfer",
+    "description": "",
+    "coursenum": "2.51",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-51-intermediate-heat-and-mass-transfer-fall-2008/4cdf7e60386d364f58dd5b7127301d5e_2-51f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8494,
+    "title": "Marine Autonomy, Sensing and Communications",
+    "description": "",
+    "coursenum": "2.S998",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Aerospace Engineering",
+      "Ocean Engineering",
+      "Guidance and Control Systems",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/2-s998-marine-autonomy-sensing-and-communications-spring-2012/e218d26e7f6bd30cc01072f67cc75d8d_2-s998s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9188,
+    "title": "Maneuvering and Control of Surface and Underwater Vehicles (13.49)",
+    "description": "",
+    "coursenum": "2.154",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering",
+      "Dynamics and Control",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-154-maneuvering-and-control-of-surface-and-underwater-vehicles-13-49-fall-2004/cb28974fff7b2ae2510166c0ab657bdf_2-154f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9171,
+    "title": "Direct Solar/Thermal to Electrical Energy Conversion Technologies",
+    "description": "",
+    "coursenum": "2.997",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electrical Engineering",
+      "Materials Science and Engineering",
+      "Transport Processes",
+      "Electric Power",
+      "Atomic, Molecular, Optical Physics",
+      "Electronic Materials",
+      "Chemical Engineering",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/2-997-direct-solar-thermal-to-electrical-energy-conversion-technologies-fall-2009/b9b0a35e445c954f38f29800f5e87553_2-997f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9790,
+    "title": "Analysis and Design of Digital Control Systems",
+    "description": "",
+    "coursenum": "2.171",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Robotics and Control Systems",
+      "Computer Design and Engineering",
+      "Dynamics and Control",
+      "Digital Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/2-171-analysis-and-design-of-digital-control-systems-fall-2006/ae6281bc7698d22a5608923d23188b0d_2-171f06.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9816,
+    "title": "The Art of Approximation in Science and Engineering",
+    "description": "",
+    "coursenum": "6.055J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-055j-the-art-of-approximation-in-science-and-engineering-spring-2008/dc0932fed5e8d55a868a31bdbcdc7ebb_6-055js08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10029,
+    "title": "Multi-Scale System Design",
+    "description": "",
+    "coursenum": "2.76",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Nanotechnology",
+      "Microtechnology",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-76-multi-scale-system-design-fall-2004/50157ef9404b4f9a433d95fa372be4b1_2-76f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10070,
+    "title": "Molecular, Cellular and Tissue Biomechanics (BE.410J)",
+    "description": "",
+    "coursenum": "20.410J",
+    "department": [
+      "Biological Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biomechanics",
+      "Biophysics",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-410j-molecular-cellular-and-tissue-biomechanics-be-410j-spring-2003/77a266ff2ecf2964113bf0502534441d_20-410js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10626,
+    "title": "Dynamics and Vibration (13.013J)",
+    "description": "",
+    "coursenum": "2.003J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Ocean Structures",
+      "Classical Mechanics",
+      "Ocean Engineering",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003j-dynamics-and-vibration-13-013j-fall-2002/42786cdf46c9e441bec41b93cbc26ef0_2-003jf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10285,
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "description": "",
+    "coursenum": "10.01",
+    "department": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10411,
+    "title": "Modeling Dynamics and Control II",
+    "description": "",
+    "coursenum": "2.004",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-004-modeling-dynamics-and-control-ii-spring-2003/66e11d0452bee58b504964715edf92a1_2-004s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10412,
+    "title": "Systems, Modeling, and Control II",
+    "description": "",
+    "coursenum": "2.004",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Differential Equations",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/2-004-systems-modeling-and-control-ii-fall-2007/8c89016f9ed05205333d55306875a3e1_2-004f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9920,
+    "title": "Submicrometer and Nanometer Technology",
+    "description": "",
+    "coursenum": "6.781J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Nanotechnology",
+      "Microtechnology"
+    ],
+    "url": "",
+    "image_src": "/courses/6-781j-submicrometer-and-nanometer-technology-spring-2006/99cabe0d8284667118af853dad242c1e_6-781js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9999,
+    "title": "Marine Hydrodynamics (13.021)",
+    "description": "",
+    "coursenum": "2.20",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics",
+      "Hydrodynamics",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-20-marine-hydrodynamics-13-021-spring-2005/886bc5f79c54f98784a75bed241c24ef_2-20s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9992,
+    "title": "Engineering Risk-Benefit Analysis",
+    "description": "",
+    "coursenum": "ESD.72",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9853,
+    "title": "Thermal Hydraulics in Power Technology",
+    "description": "",
+    "coursenum": "22.313J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Nuclear Engineering",
+      "Fossil Fuels",
+      "Nuclear"
+    ],
+    "url": "",
+    "image_src": "/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/dd95060549e1144887b9d0dc3a37ecc4_22-313js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11965,
+    "title": "Product Engineering Process",
+    "description": "",
+    "coursenum": "2.009",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Innovation",
+      "Mechanical Engineering",
+      "Systems Engineering",
+      "Business",
+      "Project Management",
+      "Mechanical Design",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-009-product-engineering-process-fall-2021/03718ae8664ed8fc94fa33f6fca72e13_2-009f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Image Gallery",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8143,
+    "title": "Design and Manufacturing I",
+    "description": "",
+    "coursenum": "2.007",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems",
+      "Mechanical Design"
+    ],
+    "url": "",
+    "image_src": "/courses/2-007-design-and-manufacturing-i-spring-2009/40036a167620d5dbd099a55e242f542b_2-007s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Competition Videos",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8409,
+    "title": "Quantitative Physiology: Organ Transport Systems",
+    "description": "",
+    "coursenum": "HST.542J",
+    "department": [
+      "Health Sciences and Technology",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Transport Processes",
+      "Biochemistry",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-542j-quantitative-physiology-organ-transport-systems-spring-2004/9c3c4cb6c0240523b5574088fa8a7722_hst-542js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9243,
+    "title": "Engineering Dynamics",
+    "description": "",
+    "coursenum": "2.003SC",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-003sc-engineering-dynamics-fall-2011/e541b119638faca8fbbefb815ef3cc30_2-003scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7749,
+    "title": "Internal Combustion Engines",
+    "description": "",
+    "coursenum": "2.61",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Combustion",
+      "Transportation"
+    ],
+    "url": "",
+    "image_src": "/courses/2-61-internal-combustion-engines-spring-2017/e2db8a7d46a344f5225c442adfd0682a_2-61s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11679,
+    "title": "Optics",
+    "description": "",
+    "coursenum": "2.71",
+    "department": [
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics",
+      "Quantum Mechanics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/2-71-optics-spring-2009/3024e300799aab2575431ee950f0205e_2-71s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Projects with Examples",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8373,
+    "title": "Fundamentals of Energy in Buildings",
+    "description": "",
+    "coursenum": "4.42J",
+    "department": [
+      "Architecture",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Architecture",
+      "Fine Arts",
+      "Architectural Design",
+      "Environmental Design",
+      "Architectural Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/4-42j-fundamentals-of-energy-in-buildings-fall-2010/f3f02f4df67ed359def8909015647fb3_4-42jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Design Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8014,
+    "title": "Introduction to Numerical Analysis for Engineering (13.002J)",
+    "description": "",
+    "coursenum": "2.993J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Algorithms and Data Structures",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/2-993j-introduction-to-numerical-analysis-for-engineering-13-002j-spring-2005/42c023fdcb96e8fb3e8ff7c9c8ca197f_2-993js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

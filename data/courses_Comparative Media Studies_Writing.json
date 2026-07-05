@@ -1,0 +1,1879 @@
+[
+  {
+    "id": 10741,
+    "title": "Game Design",
+    "description": "",
+    "coursenum": "CMS.608",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-608-game-design-spring-2008/2a760f747f561cd67e7c82a63564a51a_cms-608s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Design Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10744,
+    "title": "Game Design",
+    "description": "",
+    "coursenum": "CMS.608",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-608-game-design-fall-2010/11d03f515ca1d981dd9895aa7f41a6c4_cms-608f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10856,
+    "title": "Writing about Nature and Environmental Issues",
+    "description": "",
+    "coursenum": "21W.775",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Nonfiction Prose",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-775-writing-about-nature-and-environmental-issues-fall-2006/65e91238eb6406c0b468ab303766f048_21w-775f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10479,
+    "title": "Writing and Reading the Essay",
+    "description": "",
+    "coursenum": "21W.735",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-735-writing-and-reading-the-essay-fall-2004/3c7dfa29d0028c001ac8fd4a126aada5_21w-735f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11058,
+    "title": "Popular Culture and Narrative: Literature, Comics, and Culture",
+    "description": "",
+    "coursenum": "21L.430",
+    "department": [
+      "Literature",
+      "Women's and Gender Studies",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Fiction",
+      "Comparative Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/21l-430-popular-culture-and-narrative-literature-comics-and-culture-fall-2010/773953de80625bd2b2839bd1f54b211a_21l-430f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10894,
+    "title": "History of Media and Technology",
+    "description": "",
+    "coursenum": "CMS.876",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Media Studies",
+      "Fine Arts",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-876-history-of-media-and-technology-spring-2005/4fcd21be6633b98173c6567b94f591a7_cms-876s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11933,
+    "title": "Media Literacy in the Age of Deepfakes",
+    "description": "",
+    "coursenum": "RES.CMS-001",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Teaching and Education",
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/ddd3661035a740d400d1717ca1e4114e_res-cms-001s21.png",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11905,
+    "title": "Civic Media Codesign Studio",
+    "description": "",
+    "coursenum": "CMS.362",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Public Administration",
+      "Public Policy",
+      "Social Welfare"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-362-civic-media-codesign-studio-fall-2020/715cd5eaf1138b6ab50775d3c01c3d07_cms-362f20.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11958,
+    "title": "Playful Augmented Reality Audio Design Exploration",
+    "description": "",
+    "coursenum": "CMS.S63",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Game Theory",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-s63-playful-augmented-reality-audio-design-exploration-fall-2019/012b91c8fbb3d01295db57ff18b1c829_cms-s63f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Demonstration Videos",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11917,
+    "title": "Design Thinking for Leading and Learning",
+    "description": "",
+    "coursenum": "RES.CMS-155",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology",
+      "Education Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-155-design-thinking-for-leading-and-learning-spring-2019/f2ebf49f3e2b35e94154786a97c99eac_res-cms-155s19.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11945,
+    "title": "Launching Innovation in Schools",
+    "description": "",
+    "coursenum": "RES.CMS-154",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-154-launching-innovation-in-schools-spring-2019/afcbb03b7e970bea8ada3745e82c3bcd_RES-CMS-154S19.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 12121,
+    "title": "Sorting Truth From Fiction: Civic Online Reasoning",
+    "description": "",
+    "coursenum": "RES.CMS-504",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-504-sorting-truth-from-fiction-civic-online-reasoning-spring-2021/res-cms504s21.png",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9685,
+    "title": "Writing and Experience: Exploring Self in Society",
+    "description": "",
+    "coursenum": "21W.731-1",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Fiction",
+      "Nonfiction Prose",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-731-1-writing-and-experience-exploring-self-in-society-spring-2004/ed9a70a59d694d0e5c7ff07c9e0b1f4e_21w-731-1s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7815,
+    "title": "Data Storytelling Studio: Climate Change",
+    "description": "",
+    "coursenum": "CMS.631",
+    "department": [
+      "Media Arts and Sciences",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Ethnography",
+      "Graphic Design",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-631-data-storytelling-studio-climate-change-spring-2017/6a102252006ddb7f4bc6e80ad8e90199_cms-631s17.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8446,
+    "title": "Media and Methods: Sound",
+    "description": "",
+    "coursenum": "CMS.407",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Music",
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-407-media-and-methods-sound-fall-2012/9ca5d33f4df1f0dd81715eab008606c4_cms-407f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8000,
+    "title": "Popular Culture and Narrative: Use and Abuse of the Fairy Tale",
+    "description": "",
+    "coursenum": "21L.430",
+    "department": [
+      "Literature",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Fiction",
+      "International Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/21l-430-popular-culture-and-narrative-use-and-abuse-of-the-fairy-tale-fall-2015/4fef6e3d7378250919b91c418a426a21_21l-430f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7901,
+    "title": "Introduction to Game Design Methods",
+    "description": "",
+    "coursenum": "CMS.301",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-301-introduction-to-game-design-methods-spring-2016/0f1f41917de9685340890eba68b499d7_cms-301s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Design Assignments with Examples",
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7927,
+    "title": "Writing and Rhetoric: Designing Meaning",
+    "description": "",
+    "coursenum": "21W.016",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Philosophy",
+      "Political Philosophy",
+      "Criticism",
+      "Nonfiction Prose",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-016-writing-and-rhetoric-designing-meaning-fall-2016/a2ba15304bd64fbe7e49b99367ef9ebb_21W-016f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8620,
+    "title": "Media in Transition",
+    "description": "",
+    "coursenum": "CMS.801",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-801-media-in-transition-fall-2012/e4e1a4be085930d7fb9bf9f41c52ad67_cms-801f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8775,
+    "title": "Writing and Experience: MIT: Inside, Live",
+    "description": "",
+    "coursenum": "21W.021",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Media Studies",
+      "Fine Arts",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-021-writing-and-experience-mit-inside-live-fall-2013/fe65df58e1f82102eaffb7bf69e4e9a3_21w-021f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9103,
+    "title": "Genre Fiction Workshop: Fantasy",
+    "description": "",
+    "coursenum": "21W.758",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Fiction",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-758-genre-fiction-workshop-fantasy-fall-2016/e2974112c888c8a8b43754cbc8ce3a82_21W-758f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8297,
+    "title": "Education Technology Studio",
+    "description": "",
+    "coursenum": "CMS.594",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-594-education-technology-studio-spring-2019/8c5f3ffc4f4f97e8428d0a43c73cf69d_CMS-594S19.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9275,
+    "title": "Black Matters: Introduction to Black Studies",
+    "description": "",
+    "coursenum": "24.912",
+    "department": [
+      "Linguistics and Philosophy",
+      "Women's and Gender Studies",
+      "History",
+      "Literature",
+      "Comparative Media Studies/Writing",
+      "Music and Theater Arts",
+      "Anthropology"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Language",
+      "Society",
+      "Philosophy",
+      "African American Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/24-912-black-matters-introduction-to-black-studies-spring-2017/5397de05867bd4a28fa3135ea46cdc7d_24-912s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments with Examples",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8533,
+    "title": "Introduction to Media Studies",
+    "description": "",
+    "coursenum": "CMS.100",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-100-introduction-to-media-studies-fall-2014/fca529e0b03c6816236729be1b882c29_cms-100f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8453,
+    "title": "Introduction to Videogame Studies",
+    "description": "",
+    "coursenum": "CMS.300",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-300-introduction-to-videogame-studies-fall-2011/2454d6c2cead0cb561e07847bd06bf30_cms-300f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9513,
+    "title": "Writing About Race",
+    "description": "",
+    "coursenum": "21W.742",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology",
+      "American History"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-742-writing-about-race-spring-2013/faaea677a4a2450b9b427c98c5407890_21w-742s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9515,
+    "title": "Workshop II: Qualitative Social Science Methods for Media Studies",
+    "description": "",
+    "coursenum": "CMS.951",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Sociology",
+      "Anthropology",
+      "Social Anthropology",
+      "Ethnography"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/6b07d0ab39cadeacf4395312ec699e48_cms-951s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8993,
+    "title": "Writing about Nature and Environmental Issues",
+    "description": "",
+    "coursenum": "21W.775",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "History",
+      "American Literature",
+      "Nonfiction Prose",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-775-writing-about-nature-and-environmental-issues-spring-2017/9c9e2caf9ee317d412347b3227be5066_21W-775S17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13114,
+    "title": "Liberalism, Toleration, and Freedom of Speech",
+    "description": "",
+    "coursenum": "24.150J",
+    "department": [
+      "Linguistics and Philosophy",
+      "Political Science",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/24-150j-liberalism-toleration-and-freedom-of-speech-fall-2023/mit24_250j_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Readings",
+      "Lecture Notes",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9981,
+    "title": "Transmedia Storytelling: Modern Science Fiction",
+    "description": "",
+    "coursenum": "21W.763J",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "Digital Media",
+      "Fiction",
+      "Creative Writing",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-763j-transmedia-storytelling-modern-science-fiction-spring-2014/fa46f8f1932b4b2753515218132b082f_21w-763js14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9930,
+    "title": "Writing and Experience: Reading and Writing Autobiography",
+    "description": "",
+    "coursenum": "21W.022",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Media Studies",
+      "Fine Arts",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-022-03-writing-and-experience-reading-and-writing-autobiography-spring-2014/ee857d5b8d5ec856abc9ae6a89a00488_21w-022.03s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13201,
+    "title": "Interactive Data Visualization and Society",
+    "description": "",
+    "coursenum": "6.C35",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Urban Studies and Planning",
+      "Comparative Media Studies/Writing",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Social Science",
+      "Urban Studies",
+      "Philosophy",
+      "Housing Development",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/6-c35-interactive-data-visualization-and-society-spring-2025/mit6_c35_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Multiple Assignment Types",
+      "Projects",
+      "Readings",
+      "Laboratory Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9833,
+    "title": "At the Limit: Violence in Contemporary Representation",
+    "description": "",
+    "coursenum": "CMS.840",
+    "department": [
+      "Comparative Media Studies/Writing",
+      "Literature"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Film and Video",
+      "American Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-840-at-the-limit-violence-in-contemporary-representation-fall-2013/223456c15827ab2ecb1dc63bd74a6464_cms-840f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10783,
+    "title": "Science Writing and New Media: Communicating Science to the Public",
+    "description": "",
+    "coursenum": "21W.035",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "History",
+      "History of Science and Technology",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Technical Writing",
+      "Periodic Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-035-science-writing-and-new-media-communicating-science-to-the-public-fall-2016/b5c974b0739c5eaaaac1aaaf189efa58_21W-035f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10978,
+    "title": "Classical Rhetoric and Modern Political Discourse",
+    "description": "",
+    "coursenum": "21W.747",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Classics",
+      "Criticism",
+      "Nonfiction Prose",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-747-classical-rhetoric-and-modern-political-discourse-fall-2009/813a78a1f2b62c03d1a06303aa2e2043_21w-747f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8196,
+    "title": "Current Debates in Media",
+    "description": "",
+    "coursenum": "CMS.701",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Social Science",
+      "Public Administration",
+      "Political Science",
+      "Media Studies",
+      "Fine Arts",
+      "Society",
+      "Philosophy",
+      "Gender Studies",
+      "Public Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-701-current-debates-in-media-spring-2015/ff1b7b39d216321892a4e1a5d0e79ff6_CMS-701s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8220,
+    "title": "Rhetoric: Rhetoric of Science",
+    "description": "",
+    "coursenum": "21W.747-2",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Criticism",
+      "Nonfiction Prose",
+      "Technical Writing",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-747-2-rhetoric-rhetoric-of-science-spring-2006/580be7852b1c068c755ed133dba03ac8_21w-747-2s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8057,
+    "title": "Game Design",
+    "description": "",
+    "coursenum": "CMS.608",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-608-game-design-spring-2014/ff5dc02a5f562c9ee28b6027595b998b_cms-608s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Design Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7953,
+    "title": "Writing and Rhetoric: Writing about Sports",
+    "description": "",
+    "coursenum": "21W.015",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose",
+      "Rhetoric",
+      "Periodic Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-015-writing-and-rhetoric-writing-about-sports-fall-2013/7228febc0ce85921025126ff67c8fd6d_21w-015f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8507,
+    "title": "Media and Methods: Seeing and Expression",
+    "description": "",
+    "coursenum": "CMS.405",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Graphic Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/53583427fe480ef36b80a9e3650ba48f_CMS-405s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11946,
+    "title": "Becoming a More Equitable Educator: Mindsets and Practices",
+    "description": "",
+    "coursenum": "RES.CMS-503",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-503-becoming-a-more-equitable-educator-mindsets-and-practices-spring-2020/d3c66fa0879b06f45a47d10481ddd41f_RES-CMS-503S20.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11885,
+    "title": "Competency-Based Education: The Why, What, and How",
+    "description": "",
+    "coursenum": "RES.CMS-502",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020/53ac9f32c308db83279f7428066a811a_res-cms-502s20.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7900,
+    "title": "Rhetoric",
+    "description": "",
+    "coursenum": "21W.747",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-747-rhetoric-spring-2015/604f807c4d88638e38ec35da7ad79799_21w-747s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8741,
+    "title": "Writing Science Fiction",
+    "description": "",
+    "coursenum": "21W.759",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Fiction",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-759-writing-science-fiction-spring-2016/381a6eb81393d3e87ef491ecc43caf22_21w-759s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9130,
+    "title": "Writing About Race: Narratives of Multiraciality",
+    "description": "",
+    "coursenum": "21W.742J",
+    "department": [
+      "Comparative Media Studies/Writing",
+      "Women's and Gender Studies"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Ethnography",
+      "Fiction",
+      "Nonfiction Prose",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-742j-writing-about-race-narratives-of-multiraciality-fall-2008/02fc34488627c861d3270c955b200858_21w-742jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8102,
+    "title": "Computer Games and Simulations for Education and Exploration",
+    "description": "",
+    "coursenum": "11.127J",
+    "department": [
+      "Urban Studies and Planning",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Teaching and Education",
+      "Educational Technology",
+      "Fine Arts",
+      "Software Design and Engineering",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/11-127j-computer-games-and-simulations-for-education-and-exploration-spring-2015/8b33f48c4f3ddb22d1d4bf4454893fed_11-127js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8320,
+    "title": "Major Media Texts",
+    "description": "",
+    "coursenum": "CMS.796",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Media Studies",
+      "Fine Arts",
+      "Criticism"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-796-major-media-texts-fall-2006/f0da6dba5fb3fd34850c1d2721a7f232_cms-796f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9465,
+    "title": "Digital Humanities",
+    "description": "",
+    "coursenum": "CMS.633",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Media Studies",
+      "Fine Arts",
+      "Data Mining",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-633-digital-humanities-spring-2015/770113bf75cb37848fd0f498f2403c47_cms-633s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9749,
+    "title": "Graduate Technical Writing Workshop",
+    "description": "",
+    "coursenum": "21W.794",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Academic Writing",
+      "Technical Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/47e728342492e75124cd5b1eb7c88395_21W-794IAP19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11189,
+    "title": "Genre Fiction Workshop",
+    "description": "",
+    "coursenum": "21W.758",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "American Literature",
+      "Fiction",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-758-genre-fiction-workshop-spring-2013/91c00eb7a0189480f94578153644e0d4_21W-758s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7832,
+    "title": "Introduction to Civic Media",
+    "description": "",
+    "coursenum": "CMS.360",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-360-introduction-to-civic-media-fall-2012/d69cdf029083859a4b7531de2d7ebaa8_cms-360f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9451,
+    "title": "Networked Social Movements: Media & Mobilization",
+    "description": "",
+    "coursenum": "CMS.361",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Sociology",
+      "Social Justice"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-361-networked-social-movements-media-mobilization-spring-2014/fbfbae675df97e42a9973cde471fa53f_cms-361s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9459,
+    "title": "Science Writing and New Media: Explorations in Communicating about Science & Technology",
+    "description": "",
+    "coursenum": "21W.031",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Academic Writing",
+      "Technical Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-031-science-writing-and-new-media-explorations-in-communicating-about-science-technology-spring-2017/cdbb8b0d9f4b70afd53a51078b370c77_21W-031S17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11450,
+    "title": "Media in Cultural Context",
+    "description": "",
+    "coursenum": "21L.715",
+    "department": [
+      "Literature",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Globalization",
+      "Anthropology",
+      "Criticism",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21l-715-media-in-cultural-context-spring-2007/98e0e894ecc208b0782fe73ae572c16d_21l-715s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11735,
+    "title": "The Science Essay",
+    "description": "",
+    "coursenum": "21W.777",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-777-the-science-essay-spring-2009/76f9eaae1a456be12ab5ee4230ea3252_21w-777s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11947,
+    "title": "Envisioning the Graduate of the Future",
+    "description": "",
+    "coursenum": "RES.CMS-501",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/167096fd281d8ec140da8e21aa772946_res-cms-501s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12117,
+    "title": "Science Writing and New Media: Writing and the Environment",
+    "description": "",
+    "coursenum": "21W.036",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Science",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Earth Science",
+      "Environmental Science",
+      "Nonfiction Prose",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-036-science-writing-and-new-media-writing-and-the-environment-spring-2022/21w-036s22.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Readings",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13191,
+    "title": "Learning, Media, and Technology",
+    "description": "",
+    "coursenum": "CMS.595",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-595-learning-media-and-technology-spring-2024/mitcms_595_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Readings",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13178,
+    "title": "Fans and Fan Cultures",
+    "description": "",
+    "coursenum": "CMS.621",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Society"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-621-fans-and-fan-cultures-fall-2024/mitcms_621_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments with Examples",
+      "Readings",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8060,
+    "title": "Writing and Reading the Essay",
+    "description": "",
+    "coursenum": "21W.735",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-735-writing-and-reading-the-essay-fall-2005/85f41cd5e33a1337d36bed20b6b79de1_21w-735f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7977,
+    "title": "Science Writing and New Media: Science Writing for the Public",
+    "description": "",
+    "coursenum": "21W.035",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Technical Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-035-science-writing-and-new-media-science-writing-for-the-public-spring-2018/517c8c21130ef47ac2fd51ed2142510f_21w-035s18.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8980,
+    "title": "Writing and Rhetoric: Rhetoric and Contemporary Issues",
+    "description": "",
+    "coursenum": "21W.011",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Public Administration",
+      "Society",
+      "Global Poverty",
+      "Public Policy",
+      "Social Welfare",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-011-writing-and-rhetoric-rhetoric-and-contemporary-issues-fall-2015/5d0d69ffac7ef25fba0c834470bf924f_21w-011f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9120,
+    "title": "Writing and Reading Poems",
+    "description": "",
+    "coursenum": "21W.756",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Creative Writing",
+      "Poetry"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-756-writing-and-reading-poems-fall-2006/885365bfba43ae4427d0672c7f5089a9_21w-756f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9087,
+    "title": "Angles",
+    "description": "",
+    "coursenum": "RES.21W-01",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/res-21w-01-angles-fall-2015/2959781e4d90e150fac13e6d7e4e8125_res-21w-01f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8097,
+    "title": "Writing and Reading Short Stories",
+    "description": "",
+    "coursenum": "21W.755",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Fiction",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-755-writing-and-reading-short-stories-spring-2012/9ac987970871f8f4da20e5111c084ba7_21w-755s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8162,
+    "title": "Science Writing in Contemporary Society",
+    "description": "",
+    "coursenum": "21W.777",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Criticism",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Creative Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-777-science-writing-in-contemporary-society-spring-2017/55f5f0cdf973c8dac8f2d7c09f21a0bf_21W-777s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8145,
+    "title": "Workshop I",
+    "description": "",
+    "coursenum": "CMS.950",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-950-workshop-i-fall-2005/6a7fedb0bb2c51cccef79ce494ab42b8_cms-950f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Media Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8652,
+    "title": "Creating Video Games",
+    "description": "",
+    "coursenum": "CMS.611J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Media Studies",
+      "Fine Arts",
+      "Business",
+      "Software Design and Engineering",
+      "Digital Media",
+      "Project Management",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-611j-creating-video-games-fall-2014/68be269a8890549108049836924a39b2_cms-611jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9641,
+    "title": "Games for Social Change",
+    "description": "",
+    "coursenum": "CMS.615",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Digital Media",
+      "Game Design"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-615-games-for-social-change-fall-2013/305c942676dd31872177cf98a9972314_cms-615f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9875,
+    "title": "Science Writing and New Media: Perspectives on Medicine and Public Health",
+    "description": "",
+    "coursenum": "21W.034",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Health and Medicine",
+      "Public Health",
+      "Nonfiction Prose",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-034-science-writing-and-new-media-perspectives-on-medicine-and-public-health-fall-2016/9079b587317a936f385ea51ac20adf2a_21w-034f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10980,
+    "title": "Rhetoric",
+    "description": "",
+    "coursenum": "21W.747",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Philosophy",
+      "Political Philosophy",
+      "Criticism",
+      "Nonfiction Prose",
+      "Rhetoric"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-747-rhetoric-spring-2005/25e343794da6a8cd92dca525a1147375_21w-747s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9962,
+    "title": "Civic Media Codesign Studio",
+    "description": "",
+    "coursenum": "CMS.362",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Innovation",
+      "Leadership",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Political Science",
+      "Society",
+      "Business",
+      "Sociology",
+      "Urban Studies",
+      "Globalization",
+      "Business Ethics",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/cms-362-civic-media-codesign-studio-spring-2016/4a43a0838b2cc3617c01f907dd3069f6_cms-362s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12034,
+    "title": "Communicating in Technical Organizations",
+    "description": "",
+    "coursenum": "21W.780",
+    "department": [
+      "Comparative Media Studies/Writing"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Technical Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/21w-780-communicating-in-technical-organizations-fall-2001/dd23dcbe3fd73de7e47eed6fbba1f719_21w-780f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  }
+]

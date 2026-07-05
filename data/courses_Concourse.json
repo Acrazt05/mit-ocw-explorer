@@ -1,0 +1,125 @@
+[
+  {
+    "id": 9594,
+    "title": "Modern Conceptions of Freedom",
+    "description": "",
+    "coursenum": "CC.111",
+    "department": [
+      "Concourse"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Philosophy",
+      "Political Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/cc-111-modern-conceptions-of-freedom-spring-2013/570145f2dc2535544c89aebc302e4fc5_CC-111s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7983,
+    "title": "History and Philosophy of Mechanics: Newton's Principia Mathematica",
+    "description": "",
+    "coursenum": "CC.S10",
+    "department": [
+      "Concourse"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Philosophy",
+      "History of Science and Technology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/cc-s10-history-and-philosophy-of-mechanics-newtons-principia-mathematica-fall-2011/def07a7af9d6d9acaa6cfec6f3e63590_cc-s10f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9071,
+    "title": "Making Books: The Renaissance and Today",
+    "description": "",
+    "coursenum": "21H.343J",
+    "department": [
+      "History",
+      "Concourse"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "History",
+      "European History",
+      "History of Science and Technology",
+      "International Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/21h-343j-making-books-the-renaissance-and-today-spring-2016/fd722bbbe7df11aa1787ff2a1e257f8d_21h-343js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Image Gallery",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11589,
+    "title": "Prohibition and Permission",
+    "description": "",
+    "coursenum": "CC.S10",
+    "department": [
+      "Concourse"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Social Science",
+      "Philosophy",
+      "Legal Studies",
+      "Political Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/cc-s10-prohibition-and-permission-spring-2007/7dd059c22fd19733e92b4b324b46d5a4_cc-s10s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8600,
+    "title": "Philosophy of Love",
+    "description": "",
+    "coursenum": "CC.112",
+    "department": [
+      "Concourse"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Philosophy",
+      "Classics",
+      "Political Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/cc-112-philosophy-of-love-spring-2013/882ee59f952e689efa8dce3e404955bd_CC-112s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  }
+]

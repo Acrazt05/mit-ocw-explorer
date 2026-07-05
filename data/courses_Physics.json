@@ -1,0 +1,2722 @@
+[
+  {
+    "id": 10042,
+    "title": "Strongly Correlated Systems in Condensed Matter Physics",
+    "description": "",
+    "coursenum": "8.514",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-514-strongly-correlated-systems-in-condensed-matter-physics-fall-2003/5be6c96b00e7d62b2b324d5e4131f9b2_8-514f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10696,
+    "title": "Quantum Physics I",
+    "description": "",
+    "coursenum": "8.04",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-04-quantum-physics-i-spring-2013/f9a126fdf655de26b194279aa4e2a62b_8-04s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Exams",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10739,
+    "title": "Quantum Physics III",
+    "description": "",
+    "coursenum": "8.06",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-06-quantum-physics-iii-spring-2016/e46c57093bd056f283eeced3b3e5c765_8-06s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10324,
+    "title": "Quantum Information Science II, Part 3 - Advanced quantum algorithms and information theory",
+    "description": "",
+    "coursenum": "8.371.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.371.3x+2T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11214,
+    "title": "Strong Interactions: Effective Field Theories of QCD",
+    "description": "",
+    "coursenum": "8.851",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-851-strong-interactions-effective-field-theories-of-qcd-spring-2006/023795e672850a64515555458cdf6bb7_8-851s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11485,
+    "title": "Introduction to Plasma Physics I",
+    "description": "",
+    "coursenum": "22.611J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Astrophysics",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/00ac4e8e28b0067dc35f123d743ba91d_22-611jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11957,
+    "title": "Physics II: Electricity and Magnetism",
+    "description": "",
+    "coursenum": "8.02",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/a10d2efb59f6dd20dfeba20bc0611450_8-02s19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11921,
+    "title": "Introduction to Nuclear and Particle Physics",
+    "description": "",
+    "coursenum": "8.701",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Particle Physics",
+      "Nuclear Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-701-introduction-to-nuclear-and-particle-physics-fall-2020/ab26e5922052acb98b149656576487f4_8-701f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12072,
+    "title": "Introduction to Mechanics: Simple Harmonic Motion and Non-Inertial Reference Frames",
+    "description": "",
+    "coursenum": "8.01.4x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.01.4x_courseimage01_435p-244p.jpg?v=0a2fac7fe3be47df2d6b0651b7e57e2871f901ad",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12069,
+    "title": "Introduction to Mechanics: Kinematics and Dynamics",
+    "description": "",
+    "coursenum": "8.01.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.01.1x_Image_2022_MITxO.png?v=593cb814d4e22283198eceb20855662bf41704d8",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12079,
+    "title": "Quantum Mechanics: A First Course",
+    "description": "",
+    "coursenum": "8.04x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.04x_replacement_20200917_MITxO.png?v=7e46d6b4acddf823e47d2d90a3255397d1a3ad3c",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12070,
+    "title": "Introduction to Mechanics: Momentum and Energy",
+    "description": "",
+    "coursenum": "8.01.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.01.2x_courseImage_435p-244p.png?v=50a30ec2256f4ebb8ae26b8904f1fab41fd36650",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12105,
+    "title": "Computational Data Science in Physics I",
+    "description": "",
+    "coursenum": "8.S50.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/Final_8.S50.1x_About_Image_MITxO.png?v=7197ee492d44fc8d41b30f50961561d98ec98dcb",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9708,
+    "title": "Many-Body Theory for Condensed Matter Systems",
+    "description": "",
+    "coursenum": "8.513",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-513-many-body-theory-for-condensed-matter-systems-fall-2004/e444bb902172a156301733d5fb51c459_8-513f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8404,
+    "title": "Physics II: Electricity and Magnetism",
+    "description": "",
+    "coursenum": "8.02",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/80f23093924b68e94f4a80034902a572_8-02s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8395,
+    "title": "Statistical Physics II",
+    "description": "",
+    "coursenum": "8.08",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-08-statistical-physics-ii-spring-2005/26e184403d430cc4ef10048cdbbdcc69_8-08s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8255,
+    "title": "Statistical Physics in Biology",
+    "description": "",
+    "coursenum": "8.592J",
+    "department": [
+      "Physics",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Biological Engineering",
+      "Biology",
+      "Computation and Systems Biology",
+      "Biostatistics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-592j-statistical-physics-in-biology-spring-2011/29cab1075cd18f731334b92c858a94ee_8-592s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8232,
+    "title": "Classical Mechanics II",
+    "description": "",
+    "coursenum": "8.223",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-223-classical-mechanics-ii-january-iap-2017/10f76c13caec5bf5cc2610c53e94d6fc_8-223iap17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8203,
+    "title": "General Relativity",
+    "description": "",
+    "coursenum": "8.962",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    "url": "",
+    "image_src": "/courses/8-962-general-relativity-spring-2020/450241916ecfacb4b9810cf958762651_8-962s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8557,
+    "title": "Vibrations and Waves Problem Solving",
+    "description": "",
+    "coursenum": "RES.8-005",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-005-vibrations-and-waves-problem-solving-fall-2012/21baaf5086dee18b81aba855e0cc34cd_res-8-005f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8949,
+    "title": "Effective Field Theory",
+    "description": "",
+    "coursenum": "8.851",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-851-effective-field-theory-spring-2013/d0e8a576881c7d6b944b3d2c78a5515e_8-851s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8744,
+    "title": "Statistical Mechanics II: Statistical Physics of Fields",
+    "description": "",
+    "coursenum": "8.334",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Theoretical Physics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/5672848001bbb171070bbbc08cbb6af6_8-334s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8119,
+    "title": "Relativistic Quantum Field Theory III",
+    "description": "",
+    "coursenum": "8.325",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics",
+      "Relativity"
+    ],
+    "url": "",
+    "image_src": "/courses/8-325-relativistic-quantum-field-theory-iii-spring-2007/b636939751c1970e44632eda4ed33ca1_8-325s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8286,
+    "title": "Quantum Physics II",
+    "description": "",
+    "coursenum": "8.05",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-05-quantum-physics-ii-fall-2013/25694246e28ccb008139c6ab57556c6a_8-05f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9296,
+    "title": "Systems Biology",
+    "description": "",
+    "coursenum": "8.591J",
+    "department": [
+      "Physics",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Biological Engineering",
+      "Biology",
+      "Computation and Systems Biology",
+      "Cell Biology",
+      "Synthetic Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9485,
+    "title": "Astrophysics II",
+    "description": "",
+    "coursenum": "8.902",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-902-astrophysics-ii-fall-2004/8eb0cd824777bdc2e37448e28f2fc393_8-902f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9815,
+    "title": "Classical Mechanics",
+    "description": "",
+    "coursenum": "8.01SC",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-01sc-classical-mechanics-fall-2016/424dd4989c1235387a32fbb5a17b80c1_8-01scf16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12735,
+    "title": "Electricity and Magnetism: Magnetic Fields and Forces",
+    "description": "",
+    "coursenum": "8.02.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.02.2x_courseimage_MITxO.jpg?v=b30b028078c4b6d1252c988cdc43767011baea17",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12801,
+    "title": "Mastering Quantum Mechanics",
+    "description": "",
+    "coursenum": "8.05x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.05.1x_sized_MITxO.jpg?v=a222e3ac0e2715c8f3b4ec6b5bcb72ae0532a22e",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12795,
+    "title": "Modern Quantum Many-body Physics for Condensed Matter Systems",
+    "description": "",
+    "coursenum": "8.513",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-513-modern-quantum-many-body-physics-for-condensed-matter-systems-fall-2021/8-513f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13074,
+    "title": "Applications of Quantum Mechanics",
+    "description": "",
+    "coursenum": "8.06x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/Course_picture.jpg?v=2315a6567979da46a01a0511e15e869c87269023",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13173,
+    "title": "Introduction to Relativity and Spacetime Physics",
+    "description": "",
+    "coursenum": "8.033",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Particle Physics",
+      "Relativity",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-033-introduction-to-relativity-and-spacetime-physics-fall-2024/mit8_033f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11528,
+    "title": "String Theory",
+    "description": "",
+    "coursenum": "8.821",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-821-string-theory-fall-2008/c0610965502f6ccbd9a5533c3fb30bf8_8-821f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13077,
+    "title": "Principles of Plasma Diagnostics",
+    "description": "",
+    "coursenum": "22.67J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/mit22_67j_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Supplemental Exam Materials"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13075,
+    "title": "Atomic and Optical Physics",
+    "description": "",
+    "coursenum": "8.421x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8421x_AtomicOpticalPhysics.jpg?v=80f20ee03f0e95bb19536ab018a164a138536e16",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13041,
+    "title": "Computational Data Science in Physics III",
+    "description": "",
+    "coursenum": "8.S50.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.S50.3x_v1_MITxO.png?v=9fbb4887f069e6621c87e46d446c58b1bd42683b",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9177,
+    "title": "Electromagnetism II",
+    "description": "",
+    "coursenum": "8.07",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-07-electromagnetism-ii-fall-2012/c6ef370f6f5d9552f6260ac2d1d89dae_8-07f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9031,
+    "title": "Physics I: Classical Mechanics with an Experimental Focus",
+    "description": "",
+    "coursenum": "8.01X",
+    "department": [
+      "Physics",
+      "Experimental Study Group"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-01x-physics-i-classical-mechanics-with-an-experimental-focus-fall-2002/83e58eb8ec840620c4ca663b6e02fdef_8-01xf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9423,
+    "title": "Introduction to Plasma Physics I",
+    "description": "",
+    "coursenum": "22.611J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Astrophysics",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c107de0abc4a3369e6434485a8004fcb_22-611jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8512,
+    "title": "Statistical Physics I",
+    "description": "",
+    "coursenum": "8.044",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-044-statistical-physics-i-spring-2013/36ac46244cc1401a0508836dc76685a2_8-044s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7862,
+    "title": "Electromagnetic Theory",
+    "description": "",
+    "coursenum": "8.311",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-311-electromagnetic-theory-spring-2004/6cf479bcf176ea801c61c128f216a5e1_8-311s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12119,
+    "title": "Introduction to Statistical Physics",
+    "description": "",
+    "coursenum": "RES.8-010",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-010-introduction-to-statistical-physics-summer-2018/res-8-010-su18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12827,
+    "title": "Vibrations and Waves",
+    "description": "",
+    "coursenum": "8.03x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.03x_CourseImage_MITxO.png?v=c1905b586b8a75d674c9c8b58f866655f4ba9bd2",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13034,
+    "title": "Relativistic Quantum Field Theory I",
+    "description": "",
+    "coursenum": "8.323",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics",
+      "Relativity",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-323-relativistic-quantum-field-theory-i-spring-2023/mit8_323_s23_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Readings",
+      "Problem-solving Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13156,
+    "title": "Astrophysics II",
+    "description": "",
+    "coursenum": "8.902",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-902-astrophysics-ii-fall-2023/8-902f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9854,
+    "title": "Quantum Information Science",
+    "description": "",
+    "coursenum": "MAS.865J",
+    "department": [
+      "Media Arts and Sciences",
+      "Electrical Engineering and Computer Science",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Theory of Computation",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/mas-865j-quantum-information-science-spring-2006/f90571e3d8ce6713e9d3ead06639903a_mas-865js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10536,
+    "title": "Systems Biology",
+    "description": "",
+    "coursenum": "8.591J",
+    "department": [
+      "Physics",
+      "Biology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/8-591j-systems-biology-fall-2004/473af933df375114f7cb2ac0a6b66974_8-591jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10323,
+    "title": "Quantum Information Science II, Part 2 - Efficient Quantum Computing - fault tolerance and complexity",
+    "description": "",
+    "coursenum": "8.371.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.371.2x+2T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7814,
+    "title": "Physics III: Vibrations and Waves",
+    "description": "",
+    "coursenum": "8.03SC",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics",
+      "Classical Mechanics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-03sc-physics-iii-vibrations-and-waves-fall-2016/05c7b1fd95fc1100e7528e7f1a0a2a2b_8-03scf16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7647,
+    "title": "Mechanics: Simple Harmonic Motion",
+    "description": "",
+    "coursenum": "8.01.4x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.01.4x+1T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7646,
+    "title": "Mechanics: Rotational Dynamics",
+    "description": "",
+    "coursenum": "8.01.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.01.3x+1T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7644,
+    "title": "Mechanics: Kinematics and Dynamics",
+    "description": "",
+    "coursenum": "8.01.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.01.1x+3T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12071,
+    "title": "Introduction to Mechanics: Rotational Dynamics",
+    "description": "",
+    "coursenum": "8.01.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.01.3x_courseImage_MITyoyo_435p-244p.jpg?v=ad82db903797ca19d9726a4db938fa16274321b8",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12082,
+    "title": "Vibrations and Waves",
+    "description": "",
+    "coursenum": "8.03x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.03x+1T2020+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12026,
+    "title": "Nuclear Weapons Education Project",
+    "description": "",
+    "coursenum": "RES.8-008",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Humanities",
+      "History",
+      "Energy",
+      "Atomic, Molecular, Optical Physics",
+      "History of Science and Technology",
+      "Nuclear"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-008-nuclear-weapons-education-project-spring-2022/res-8-008s22.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12027,
+    "title": "Nuclear Weapons – History and Future Prospects",
+    "description": "",
+    "coursenum": "8.S271",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Atomic, Molecular, Optical Physics",
+      "History of Science and Technology",
+      "Public Policy",
+      "Nuclear",
+      "Military Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/8-s271-nuclear-weapons-history-and-future-prospects-spring-2022/8-s271s22.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8924,
+    "title": "Exploring Black Holes: General Relativity & Astrophysics",
+    "description": "",
+    "coursenum": "8.224",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Relativity",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-224-exploring-black-holes-general-relativity-astrophysics-spring-2003/fa646bdf7cc03bb7a8ed08c100bf2701_8-224s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8755,
+    "title": "Electricity and Magnetism",
+    "description": "",
+    "coursenum": "8.02T",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-02t-electricity-and-magnetism-spring-2005/b9ee12912399c3131f23ee62c24db3f3_8-02ts05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Simulation Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9154,
+    "title": "Particle Physics of the Early Universe",
+    "description": "",
+    "coursenum": "8.952",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Particle Physics",
+      "Relativity",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-952-particle-physics-of-the-early-universe-fall-2004/88e02410a3e3f249501f5054ef475636_8-952f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8170,
+    "title": "Theory of Solids II",
+    "description": "",
+    "coursenum": "8.512",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Solid Mechanics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-512-theory-of-solids-ii-spring-2009/a622e46b5602640883aa13f915dc3992_8-512s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9302,
+    "title": "Cosmology",
+    "description": "",
+    "coursenum": "8.942",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-942-cosmology-fall-2001/3b655aaf9fec91409c1616fd31245776_8-942f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9375,
+    "title": "Modern Astrophysics",
+    "description": "",
+    "coursenum": "8.284",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-284-modern-astrophysics-spring-2006/fe31d84a2a4b4b8cc38607ff3f52264b_8-284s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9478,
+    "title": "The Physics of Energy",
+    "description": "",
+    "coursenum": "8.21",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Energy",
+      "Technology",
+      "Climate",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Buildings",
+      "Renewables",
+      "Combustion",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/8-21-the-physics-of-energy-fall-2009/1fdc422e81a1b4aad13fb6657648ad25_8-21f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9435,
+    "title": "Physics of Solids I",
+    "description": "",
+    "coursenum": "8.231",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-231-physics-of-solids-i-fall-2006/e79b26361ce45a8494211b3e0c2a14e0_8-231f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10010,
+    "title": "String Theory and Holographic Duality",
+    "description": "",
+    "coursenum": "8.821",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-821-string-theory-and-holographic-duality-fall-2014/529bf14b1b4a356d33946b186a3181a5_8-821f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10018,
+    "title": "Cosmic Origin of the Chemical Elements",
+    "description": "",
+    "coursenum": "RES.8-007",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Organic Chemistry",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-007-cosmic-origin-of-the-chemical-elements-fall-2019/5aa51be2c9a31a5bd87adaa05a6eca61_RES.8-007f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7865,
+    "title": "Relativity",
+    "description": "",
+    "coursenum": "8.033",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Particle Physics",
+      "Relativity",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-033-relativity-fall-2006/93306b227bb30787cd20941d837470a0_8-033f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9369,
+    "title": "Physics II: Electricity & Magnetism with an Experimental Focus",
+    "description": "",
+    "coursenum": "8.02X",
+    "department": [
+      "Physics",
+      "Experimental Study Group"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-02x-physics-ii-electricity-magnetism-with-an-experimental-focus-spring-2005/3a69054b74979fcaaad791260394da2c_8-02xs05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11953,
+    "title": "Introduction to Special Relativity",
+    "description": "",
+    "coursenum": "8.20",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Relativity"
+    ],
+    "url": "",
+    "image_src": "/courses/8-20-introduction-to-special-relativity-january-iap-2021/5bdb52627692c4121441232c89de0a02_8-20iap21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Editable Files",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7750,
+    "title": "Quantum Physics III",
+    "description": "",
+    "coursenum": "8.06",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-06-quantum-physics-iii-spring-2018/7e06e41aca118a296f881bd3c53a520f_8-06s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9324,
+    "title": "Theory of Solids I",
+    "description": "",
+    "coursenum": "8.511",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Atomic, Molecular, Optical Physics",
+      "Solid Mechanics",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-511-theory-of-solids-i-fall-2004/7441400137eddefd2821f45d9284fdc7_8-511f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9394,
+    "title": "Introduction to Neural Networks",
+    "description": "",
+    "coursenum": "9.641J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-641j-introduction-to-neural-networks-spring-2005/b5f5694dcec8c3bcf1eb6914dbeadd58_9-641js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9390,
+    "title": "Atomic and Optical Physics II",
+    "description": "",
+    "coursenum": "8.422",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-422-atomic-and-optical-physics-ii-spring-2013/9e0e7b0a495fa128b8bac270422677a4_8-422s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9491,
+    "title": "Reducing the Danger of Nuclear Weapons and Proliferation",
+    "description": "",
+    "coursenum": "RES.8-004",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "Political Science",
+      "International Relations",
+      "History of Science and Technology",
+      "Science and Technology Policy",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics",
+      "Security Studies",
+      "Military History"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/48f6e3f8258a0efdf044cb2a5794790c_res-8-004iap15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9024,
+    "title": "Experimental Physics I & II \"Junior Lab\"",
+    "description": "",
+    "coursenum": "8.13-14",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/d46df724033fc5b0de90180e229aad8b_8-13-14f16-s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11203,
+    "title": "Physics II: Electricity and Magnetism",
+    "description": "",
+    "coursenum": "8.022",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/8-022-physics-ii-electricity-and-magnetism-fall-2004/9afec2c0ef4caef7752705763d72d274_8-022f04.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11932,
+    "title": "Quantum Information Science I",
+    "description": "",
+    "coursenum": "8.370x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Theory of Computation",
+      "Quantum Mechanics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-370x-quantum-information-science-i-spring-2018/5b5df7cb09bbec13ad7c9b12f06971b3_8-370xs18.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11931,
+    "title": "Quantum Information Science II",
+    "description": "",
+    "coursenum": "8.371x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Theory of Computation",
+      "Quantum Mechanics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-371x-quantum-information-science-ii-spring-2018/337627cefe6c0426341162103c21d8f0_8-371xs18.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 12736,
+    "title": "Electricity and Magnetism: Maxwell’s Equations",
+    "description": "",
+    "coursenum": "8.02.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.02.3x_courseImage_MITxO.jpg?v=701c0558cfc13a43c8dff4a204eb3ba6bcd62bc9",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12739,
+    "title": "Electricity and Magnetism: Electrostatics",
+    "description": "",
+    "coursenum": "8.02.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.02.1x_courseimage_MITxO.jpg?v=f4f6bb9b0d61352de6bd511e7289ad38cf612bec",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12780,
+    "title": "Computational Data Science in Physics II",
+    "description": "",
+    "coursenum": "8.S50.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.S50.2x_v3_MITxO.png?v=6125cff03f3c8775648186b4135261411f619a48",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12845,
+    "title": "Einstein, Oppenheimer, Feynman: Physics in the 20th Century",
+    "description": "",
+    "coursenum": "STS.042J",
+    "department": [
+      "Science, Technology, and Society",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Humanities",
+      "History",
+      "Society",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/sts-042jf20.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Written Assignments",
+      "Readings",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7645,
+    "title": "Mechanics: Momentum and Energy",
+    "description": "",
+    "coursenum": "8.01.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.01.2x+3T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7655,
+    "title": "Electricity and Magnetism: Electrostatics",
+    "description": "",
+    "coursenum": "8.02.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.02.1x+1T2019+type@asset+block@course_image_8.02.1x.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7920,
+    "title": "Statistical Mechanics I:  Statistical Mechanics of Particles",
+    "description": "",
+    "coursenum": "8.333",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Quantum Mechanics",
+      "Particle Physics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-333-statistical-mechanics-i-statistical-mechanics-of-particles-fall-2013/451d74d26c163467208d2c423a69b95c_8-333f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7972,
+    "title": "Classical Mechanics: A Computational Approach",
+    "description": "",
+    "coursenum": "12.620J",
+    "department": [
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Electrical Engineering and Computer Science",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/12-620j-classical-mechanics-a-computational-approach-fall-2008/e574505a076be36995ab7eb41d3444fc_12-620jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7926,
+    "title": "Introduction to Computational Neuroscience",
+    "description": "",
+    "coursenum": "9.29J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Cognitive Science",
+      "Computational Biology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/c678cd0ac8b3eda7a94a776a5cc321e2_9-29js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8552,
+    "title": "Quantum Physics I",
+    "description": "",
+    "coursenum": "8.04",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-04-quantum-physics-i-spring-2016/458fa90d4ae8b2d71bca7578a12923af_8-04s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8791,
+    "title": "Relativistic Quantum Field Theory II",
+    "description": "",
+    "coursenum": "8.324",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics",
+      "Relativity",
+      "Condensed Matter Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-324-relativistic-quantum-field-theory-ii-fall-2010/8858be968143551424887e0ca2e0c40e_8-324f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8742,
+    "title": "Quantum Theory II",
+    "description": "",
+    "coursenum": "8.322",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-322-quantum-theory-ii-spring-2003/44904ba35d712b422e61110b337b7bba_8-322s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8090,
+    "title": "Classical Mechanics III",
+    "description": "",
+    "coursenum": "8.09",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-09-classical-mechanics-iii-fall-2014/dde7a20ef5a7de59cfa8e0e9423f4d44_8-09F14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8305,
+    "title": "Atomic and Optical Physics I",
+    "description": "",
+    "coursenum": "8.421",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-421-atomic-and-optical-physics-i-spring-2014/c039057064a6daa0fea6d33bb4e420eb_8-421s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8463,
+    "title": "Particle Physics II",
+    "description": "",
+    "coursenum": "8.811",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Particle Physics",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-811-particle-physics-ii-fall-2005/e093e517152a537d1c3d8707b36d6b31_8-811f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8505,
+    "title": "Quantum Theory I",
+    "description": "",
+    "coursenum": "8.321",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-321-quantum-theory-i-fall-2017/e9f2c428e97c73f5deb9746c34da7edc_8-321f17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9211,
+    "title": "Physics I: Classical Mechanics",
+    "description": "",
+    "coursenum": "8.01L",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-01l-physics-i-classical-mechanics-fall-2005/79a8cae1ee3827693301b03ac196512e_8-01lf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9534,
+    "title": "Selected Topics in Theoretical Particle Physics: Branes and Gauge Theory Dynamics",
+    "description": "",
+    "coursenum": "8.871",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Particle Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-871-selected-topics-in-theoretical-particle-physics-branes-and-gauge-theory-dynamics-fall-2004/b7d8df29da662e3bcd6f9495a53b120b_8-871f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9724,
+    "title": "Topics in Biophysics and Physical Biology",
+    "description": "",
+    "coursenum": "20.416J",
+    "department": [
+      "Biological Engineering",
+      "Biology",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Biophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/9ceac5cf6c936b97239b5161ed49515c_20-416jf14.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9718,
+    "title": "Astrophysics I",
+    "description": "",
+    "coursenum": "8.901",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-901-astrophysics-i-spring-2006/9a67f4cef2d9dbe9258bd862f4145b02_8-901s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9830,
+    "title": "Statistical Thermodynamics of Complex Liquids",
+    "description": "",
+    "coursenum": "22.52J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/b810ec94d82d16488adde930a516473a_22-52js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9864,
+    "title": "Introduction to Astronomy",
+    "description": "",
+    "coursenum": "8.282J",
+    "department": [
+      "Physics",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-282j-introduction-to-astronomy-spring-2006/45867375d62cddf6ba8edab2327438bb_8-282js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9911,
+    "title": "A WikiTextBook for Introductory Mechanics",
+    "description": "",
+    "coursenum": "RES.8-002",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-002-a-wikitextbook-for-introductory-mechanics-fall-2009/80f81927d2cdea9b41da66e9b29453bd_res-8-002f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10079,
+    "title": "Electricity and Magnetism: Maxwell’s Equations",
+    "description": "",
+    "coursenum": "8.02.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.02.3x+1T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10015,
+    "title": "Physics Demonstration Videos",
+    "description": "",
+    "coursenum": "RES.8-003",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-003-physics-demonstration-videos-spring-2012/2012171ffb07df59cdb3f93599688586_res-8-003s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10737,
+    "title": "Quantum Physics III",
+    "description": "",
+    "coursenum": "8.06",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-06-quantum-physics-iii-spring-2005/6f396c617216f1b579547f1872052d4a_8-06s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10320,
+    "title": "Quantum Information Science I, Part 2",
+    "description": "",
+    "coursenum": "8.370.2x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.370.2x+1T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10319,
+    "title": "Quantum Information Science I, Part 1",
+    "description": "",
+    "coursenum": "8.370.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.370.1x+1T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10321,
+    "title": "Quantum Information Science I, Part 3",
+    "description": "",
+    "coursenum": "8.370.3x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.370.3x+1T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10322,
+    "title": "Quantum Information Science II, Part 1 - Quantum states, noise and error correction",
+    "description": "",
+    "coursenum": "8.371.1x",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+8.371.1x+2T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10383,
+    "title": "Relativistic Quantum Field Theory III",
+    "description": "",
+    "coursenum": "8.325",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics",
+      "Particle Physics",
+      "Relativity"
+    ],
+    "url": "",
+    "image_src": "/courses/8-325-relativistic-quantum-field-theory-iii-spring-2003/274b9c5f498d2866223ea3557350d3de_8-32s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12063,
+    "title": "Effective Field Theory",
+    "description": "",
+    "coursenum": "8.EFTx",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/8.EFTx_AboutPage_image.jpg?v=09e88eba4d4d47fb2debb882f4d6c75b6b81bf96",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8393,
+    "title": "The Early Universe",
+    "description": "",
+    "coursenum": "8.286",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Astrophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-286-the-early-universe-fall-2013/6048b3f78009b55a0e0ed59426799317_8-286f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9285,
+    "title": "Physics I: Classical Mechanics",
+    "description": "",
+    "coursenum": "8.012",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-012-physics-i-classical-mechanics-fall-2008/deb48186e782c5cafb65ac9037a69cca_8-012f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8343,
+    "title": "String Theory for Undergraduates",
+    "description": "",
+    "coursenum": "8.251",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Theoretical Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/8-251-string-theory-for-undergraduates-spring-2007/b70bbfb17f7f695dd69f7191714d7246_8-251s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12118,
+    "title": "Introduction to Oscillations and Waves",
+    "description": "",
+    "coursenum": "RES.8-009",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics",
+      "Classical Mechanics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-009-introduction-to-oscillations-and-waves-summer-2017/res-8-009-sum17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9258,
+    "title": "Applied Geometric Algebra",
+    "description": "",
+    "coursenum": "RES.8-001",
+    "department": [
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/res-8-001-applied-geometric-algebra-spring-2009/cc5f442db24a29a3dd86c1a242e7439b_res-8-001s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Open Textbooks",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  }
+]

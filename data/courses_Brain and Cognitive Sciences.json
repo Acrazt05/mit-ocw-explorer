@@ -1,0 +1,2386 @@
+[
+  {
+    "id": 10053,
+    "title": "Object and Face Recognition",
+    "description": "",
+    "coursenum": "9.67",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Cognitive Science",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/9-67-object-and-face-recognition-spring-2001/450d3025a9b8764bfe5d4245775078e6_9-67s01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10727,
+    "title": "The Brain and Cognitive Sciences II",
+    "description": "",
+    "coursenum": "9.012",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2002/85f00c06e81ae6f2e98f1cb6656759c2_9-012s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10695,
+    "title": "Statistical Learning Theory and Applications",
+    "description": "",
+    "coursenum": "9.520",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Mathematics",
+      "Probability and Statistics",
+      "Cognitive Science",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/9-520-statistical-learning-theory-and-applications-spring-2003/486b2444cb41036fa4357f1663aa371f_9-520s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10665,
+    "title": "The Neural Basis of Visual Object Recognition in Monkeys and Humans",
+    "description": "",
+    "coursenum": "9.916",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Sensory-Neural Systems",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-916-the-neural-basis-of-visual-object-recognition-in-monkeys-and-humans-spring-2005/add59be4b8ce799ac9671137e269c91d_9-916s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10928,
+    "title": "Laboratory in Cognitive Science",
+    "description": "",
+    "coursenum": "9.63",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-63-laboratory-in-cognitive-science-fall-2002/90fc9dd9300507d9412a88f05922c180_9-63f02.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11950,
+    "title": "The Human Brain",
+    "description": "",
+    "coursenum": "9.13",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-13-the-human-brain-spring-2019/6a08eddd73159f17c840c47b8e052a02_MIT9_13S19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12431,
+    "title": "Nancy's Brain Talks",
+    "description": "",
+    "coursenum": "RES.9-004",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-004-nancys-brain-talks-fall-2022/mitres_9_004f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9195,
+    "title": "Computational Cognitive Science",
+    "description": "",
+    "coursenum": "9.66J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Cognitive Science",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/9-66j-computational-cognitive-science-fall-2004/5ab7a9d47bad5d2afb2e473158c147f1_9-66jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9193,
+    "title": "Noninvasive Imaging in Biology and Medicine",
+    "description": "",
+    "coursenum": "22.56J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/0baab77f2b778b713d47e0c909b38b67_22-56jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9164,
+    "title": "Natural Language and the Computer Representation of Knowledge",
+    "description": "",
+    "coursenum": "6.863J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Humanities",
+      "Artificial Intelligence",
+      "Linguistics",
+      "Cognitive Science",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-863j-natural-language-and-the-computer-representation-of-knowledge-spring-2003/b171cd450336bdae3fac60e453e624a4_6-863js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9231,
+    "title": "Introduction to Psychology",
+    "description": "",
+    "coursenum": "9.00",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-00-introduction-to-psychology-fall-2004/46f8021afcf11622131cbdf7e7a260b7_9-00f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Lecture Notes",
+      "Written Assignments",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9625,
+    "title": "Abnormal Language",
+    "description": "",
+    "coursenum": "9.56J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Linguistics and Philosophy"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Health and Medicine",
+      "Linguistics",
+      "Speech Pathology",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-56j-abnormal-language-fall-2004/68c2cf9eb780d32a5afeae11e6d8a6fe_9-56jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9529,
+    "title": "Statistics and Visualization for Data Analysis and Inference",
+    "description": "",
+    "coursenum": "RES.9-0002",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Data Mining",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-0002-statistics-and-visualization-for-data-analysis-and-inference-january-iap-2009/52083b9b5ac6136cf267983df3d428e5_res-9-0002iap09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9714,
+    "title": "Affect: Neurobiological, Psychological and Sociocultural Counterparts of \"Feelings\"",
+    "description": "",
+    "coursenum": "9.68",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/356e25657ee0f1400c712bf0029f404d_9-68s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9642,
+    "title": "Introduction to Neuroanatomy",
+    "description": "",
+    "coursenum": "9.97",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-97-introduction-to-neuroanatomy-january-iap-2003/d99596cba32e4e29269cc926ec77d997_9-97iap03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7756,
+    "title": "Probability and Causality in Human Cognition",
+    "description": "",
+    "coursenum": "9.916-A",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-916-a-probability-and-causality-in-human-cognition-spring-2003/e52de2c4e297f9e240c3be4d057d058a_9-916as03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7866,
+    "title": "Laboratory in Visual Cognition",
+    "description": "",
+    "coursenum": "9.63",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-63-laboratory-in-visual-cognition-fall-2009/def35014ef50acc077eef733da911f54_9-63f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7820,
+    "title": "Cognitive Neuroscience",
+    "description": "",
+    "coursenum": "9.10",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-10-cognitive-neuroscience-spring-2006/e7d56398d22af64ba6a4e20d266e1f2a_9-10s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7897,
+    "title": "Human Memory and Learning",
+    "description": "",
+    "coursenum": "9.081",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-081-human-memory-and-learning-fall-2002/a00841cff35496b321fb7df46b227fd9_9-081f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8429,
+    "title": "Sensory Systems",
+    "description": "",
+    "coursenum": "9.04",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-04-sensory-systems-fall-2013/f620eb0ee65a809a76c00f2e4f51acdf_9-04f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8359,
+    "title": "Advanced Animal Behavior",
+    "description": "",
+    "coursenum": "9.201",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-201-advanced-animal-behavior-spring-2000/4a65d7b8ab75793c345450652f53501d_9-201s00.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8261,
+    "title": "Experimental Methods of Adjustable Tetrode Array Neurophysiology",
+    "description": "",
+    "coursenum": "9.96",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-96-experimental-methods-of-adjustable-tetrode-array-neurophysiology-january-iap-2001/4a5258f4ddd8c16b51f60514a57a16ec_9-96iap01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7973,
+    "title": "Experimental Molecular Neurobiology",
+    "description": "",
+    "coursenum": "9.12",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Molecular Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-12-experimental-molecular-neurobiology-fall-2006/f32614f0424974af43cf4379107d3e4f_9-12f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7952,
+    "title": "Computational Cognitive Science",
+    "description": "",
+    "coursenum": "9.52-C",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Cognitive Science",
+      "Computational Science and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/9-52-c-computational-cognitive-science-spring-2003/b9cc93b89d3a9eb2220016a6ee622813_9-52s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8608,
+    "title": "Special Topics: Genetics, Neurobiology, and Pathophysiology of Psychiatric Disorders",
+    "description": "",
+    "coursenum": "9.914",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Genetics",
+      "Psychology",
+      "Pathology and Pathophysiology",
+      "Mental Health"
+    ],
+    "url": "",
+    "image_src": "/courses/9-914-special-topics-genetics-neurobiology-and-pathophysiology-of-psychiatric-disorders-fall-2008/467854e47f20952358af482bd60adced_9-914f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8963,
+    "title": "Intensive Neuroanatomy",
+    "description": "",
+    "coursenum": "9.913-A",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-913-a-intensive-neuroanatomy-january-iap-2002/6ed48db26113a9064cfb9f43ad729edf_9-913aiap02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9086,
+    "title": "Philosophical Issues in Brain Science",
+    "description": "",
+    "coursenum": "24.08J",
+    "department": [
+      "Linguistics and Philosophy",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Social Science",
+      "Philosophy",
+      "Cognitive Science",
+      "Epistemology",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/24-08j-philosophical-issues-in-brain-science-spring-2009/66a4ca20c74d235f7bc38c889365dd1f_24-08js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9153,
+    "title": "The Development of Object and Face Recognition",
+    "description": "",
+    "coursenum": "9.675",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Cognitive Science",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/9-675-the-development-of-object-and-face-recognition-spring-2006/664afdc99a6a0d7de40509f6af40d6e4_9-675s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8098,
+    "title": "Statistics for Brain and Cognitive Science",
+    "description": "",
+    "coursenum": "9.07",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/c3753145cf296381ccd5de77976b8225_9-07f16.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8309,
+    "title": "Statistical Learning Theory and Applications",
+    "description": "",
+    "coursenum": "9.520",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-520-statistical-learning-theory-and-applications-spring-2006/316d39a39abfbe64400b8d63f6a14bb2_9-520s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8303,
+    "title": "Evolutionary Psychology",
+    "description": "",
+    "coursenum": "9.250",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-250-evolutionary-psychology-spring-1999/4306f550a4d25090a1403f4baeccbe88_9-250s99.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9374,
+    "title": "Cellular Neurophysiology",
+    "description": "",
+    "coursenum": "9.16",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-16-cellular-neurophysiology-spring-2002/be8f0c39da5691d5c47d8973ace453c8_9-16s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8889,
+    "title": "Neuropharmacology",
+    "description": "",
+    "coursenum": "9.98",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Neuroscience",
+      "Pharmacology and Toxicology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-98-neuropharmacology-january-iap-2009/9c961b779141fd64056e8cf7eb69cf1d_9-98iap09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8878,
+    "title": "Cellular and Molecular Computation",
+    "description": "",
+    "coursenum": "9.530",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-530-cellular-and-molecular-computation-spring-2000/439b9e6603c122d6d14e25d3cc3a7304_9-530s00.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9436,
+    "title": "Networks for Learning: Regression and Classification",
+    "description": "",
+    "coursenum": "9.520-A",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-520-a-networks-for-learning-regression-and-classification-spring-2001/8a0fafcfb80b9458ccbc703a9c3120aa_9-520as01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9018,
+    "title": "Investigating the Neural Substrates of Remote Memory using fMRI",
+    "description": "",
+    "coursenum": "9.52-A",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-52-a-investigating-the-neural-substrates-of-remote-memory-using-fmri-spring-2003/ecab889bfb663a7a9edc2b63a61e5c7d_9-52as03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 13008,
+    "title": "Brain and Cognitive Sciences Computational Tutorial Series",
+    "description": "",
+    "coursenum": "RES.9-008",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Biology",
+      "Cognitive Science",
+      "Computation",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-008-brain-and-cognitive-sciences-computational-tutorials/mitres9_008f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Tutorial Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13179,
+    "title": "Introduction to Computational Neuroscience with Neuroblox",
+    "description": "",
+    "coursenum": "RES.9-009",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Biomedical Signal and Image Processing"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-009-introduction-to-computational-neuroscience-with-neuroblox-january-iap-2025/mitres9_009_iap2025.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12980,
+    "title": "AFNI Training Bootcamp",
+    "description": "",
+    "coursenum": "RES.9-006",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Biomedical Signal and Image Processing",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-006-afni-training-bootcamp-spring-2018/mitres9_006s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Workshop Videos",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13221,
+    "title": "Perception",
+    "description": "",
+    "coursenum": "9.35",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-35-perception-spring-2024/mit9_35_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Supplemental Exam Materials",
+      "Readings",
+      "Laboratory Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12823,
+    "title": "fMRI Bootcamp",
+    "description": "",
+    "coursenum": "RES.9-005",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Sensory-Neural Systems",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-005-fmri-bootcamp-fall-2017/mitres9_005_f17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12831,
+    "title": "Tools for Robust Science",
+    "description": "",
+    "coursenum": "9.401",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Sensory-Neural Systems",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/9-401-tools-for-robust-science-fall-2022/mit9_401_f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Readings",
+      "Written Assignments",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13121,
+    "title": "Science of Learning and Memory",
+    "description": "",
+    "coursenum": "9.00.1x",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/course_image_resized_MITx_Online.jpg?v=961bb1973c7ef6271572acff658886c0f7c654c2",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9984,
+    "title": "Brain Mechanisms for Hearing and Speech",
+    "description": "",
+    "coursenum": "HST.722J",
+    "department": [
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-722j-brain-mechanisms-for-hearing-and-speech-fall-2005/67253b4be7973fa919537d76a4f72f8d_hst-722jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10521,
+    "title": "Cognitive Neuroscience of Remembering: Creating and Controlling Memory",
+    "description": "",
+    "coursenum": "9.93",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-93-cognitive-neuroscience-of-remembering-creating-and-controlling-memory-january-iap-2002/7277e7568a810f58a162e85bcda9fe03_9-93iap02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10536,
+    "title": "Systems Biology",
+    "description": "",
+    "coursenum": "8.591J",
+    "department": [
+      "Physics",
+      "Biology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/8-591j-systems-biology-fall-2004/473af933df375114f7cb2ac0a6b66974_8-591jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10279,
+    "title": "Introduction to Neural Computation",
+    "description": "",
+    "coursenum": "9.40",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Computational Biology",
+      "Neuroscience",
+      "Biophysics",
+      "Biomedical Signal and Image Processing",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-40-introduction-to-neural-computation-spring-2018/45e32c888216f65a9424be2d8e80c3ba_9-40s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7867,
+    "title": "Infant and Early Childhood Cognition",
+    "description": "",
+    "coursenum": "9.85",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-85-infant-and-early-childhood-cognition-fall-2012/6831a5fab95d10bbdc2fcb93149bff2e_9-85f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Design Assignments",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8010,
+    "title": "Marathon Moral Reasoning Laboratory",
+    "description": "",
+    "coursenum": "9.93",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Ethics",
+      "Social Science",
+      "Philosophy",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-93-marathon-moral-reasoning-laboratory-january-iap-2007/5e1687114a7ead1910477cdfa8cfad19_9-93iap07.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8073,
+    "title": "The Visual System",
+    "description": "",
+    "coursenum": "9.036",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-036-the-visual-system-spring-2005/ed2784e27261a469b1d946a5c078f253_9-036s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7693,
+    "title": "Parkinson's Disease Workshop",
+    "description": "",
+    "coursenum": "9.458",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Neuroscience",
+      "Pathology and Pathophysiology",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/9-458-parkinsons-disease-workshop-summer-2006/e62092fa2b17b419eb4a6ce902cfb6b2_9-458su06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8487,
+    "title": "Cognitive Processes",
+    "description": "",
+    "coursenum": "9.65",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-65-cognitive-processes-spring-2004/cb933a095b1b3f28b1c18a155dbc00db_9-65s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9686,
+    "title": "Neural Coding and Perception of Sound",
+    "description": "",
+    "coursenum": "HST.723J",
+    "department": [
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-723j-neural-coding-and-perception-of-sound-spring-2005/6f16301ebe1c93153fd5d4f987b1c260_hst-723js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9650,
+    "title": "Cellular Neurobiology",
+    "description": "",
+    "coursenum": "7.29J",
+    "department": [
+      "Biology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/7-29j-cellular-neurobiology-spring-2012/3977ecfdec5532438e5c747f4756a1b1_7-29js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8569,
+    "title": "The Brain and Cognitive Sciences II",
+    "description": "",
+    "coursenum": "9.012",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-012-the-brain-and-cognitive-sciences-ii-spring-2006/eb705ded0b076c7fff3a002c3dfef593_9-012s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8573,
+    "title": "The Lexicon and Its Features",
+    "description": "",
+    "coursenum": "24.941J",
+    "department": [
+      "Linguistics and Philosophy",
+      "Electrical Engineering and Computer Science",
+      "Brain and Cognitive Sciences",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Linguistics",
+      "Cognitive Science",
+      "Phonology"
+    ],
+    "url": "",
+    "image_src": "/courses/24-941j-the-lexicon-and-its-features-spring-2007/3eef0fc94114bc40d1628059a52595bb_24-941js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8781,
+    "title": "Neuroscience of Morality",
+    "description": "",
+    "coursenum": "9.46",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-46-neuroscience-of-morality-fall-2017/af0e49b01c46cac001c50974fa7389bc_MIT9_46F17_chp.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8087,
+    "title": "Introduction to Neuroscience",
+    "description": "",
+    "coursenum": "9.01",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-01-introduction-to-neuroscience-fall-2007/29eda4c65c2805286068412b63b2ad5b_9-01f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8306,
+    "title": "Lab in Psycholinguistics",
+    "description": "",
+    "coursenum": "9.59J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Linguistics and Philosophy"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Linguistics",
+      "Cognitive Science",
+      "Semantics",
+      "Syntax"
+    ],
+    "url": "",
+    "image_src": "/courses/9-59j-lab-in-psycholinguistics-spring-2017/07f28940cbcc62fe61a17e72d5734fef_9-59s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8301,
+    "title": "Language Acquisition",
+    "description": "",
+    "coursenum": "9.57J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Linguistics and Philosophy"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Linguistics",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-57j-language-acquisition-fall-2001/0373ffb051c3334541c182d76eae0791_9-57f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9252,
+    "title": "Neural Basis of Movement",
+    "description": "",
+    "coursenum": "9.05",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience",
+      "Sensory-Neural Systems"
+    ],
+    "url": "",
+    "image_src": "/courses/9-05-neural-basis-of-movement-spring-2003/b5322ecc701cdea075fe38e479f99ff4_9-05s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9431,
+    "title": "Social Psychology",
+    "description": "",
+    "coursenum": "9.70",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-70-social-psychology-spring-2013/8db7f5ceb1665b9bd07edfb48a658742_9-70s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8632,
+    "title": "Neural Basis of Learning and Memory",
+    "description": "",
+    "coursenum": "9.03",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-03-neural-basis-of-learning-and-memory-fall-2007/c6040a5145150cf6fc64e81a4020714d_9-03f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8809,
+    "title": "Systems Neuroscience Lab",
+    "description": "",
+    "coursenum": "9.17",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-17-systems-neuroscience-lab-spring-2013/5ee841de55abb27feb71a3b684440700_9-17s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8845,
+    "title": "The Brain and Cognitive Sciences I",
+    "description": "",
+    "coursenum": "9.011",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-011-the-brain-and-cognitive-sciences-i-fall-2002/799b884196de434994e48c64ef460cf6_9-011f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9057,
+    "title": "Brains, Minds and Machines Summer Course",
+    "description": "",
+    "coursenum": "RES.9-003",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Social Science",
+      "Electrical Engineering",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Robotics and Control Systems",
+      "Neuroscience",
+      "Sensory-Neural Systems",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-003-brains-minds-and-machines-summer-course-summer-2015/d9b85b4bdedd72beb1e5cac01ea694d1_res-9-003sum15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video",
+      "Lecture Videos",
+      "Lecture Notes",
+      "Projects",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9029,
+    "title": "Special Topics in Vision Science",
+    "description": "",
+    "coursenum": "9.357",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Sensory-Neural Systems",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/9-357-special-topics-in-vision-science-fall-2001/1e80bfe160e0d5b2f7723d1b7d23cc56_9-357f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9552,
+    "title": "Language Processing",
+    "description": "",
+    "coursenum": "9.591J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Linguistics and Philosophy"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Linguistics",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-591j-language-processing-fall-2004/30bcaa012fdb093bd9e7a750c77f871d_9-591jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9733,
+    "title": "Affective Priming at Short and Extremely Short Exposures",
+    "description": "",
+    "coursenum": "9.51",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-51-affective-priming-at-short-and-extremely-short-exposures-spring-2003/1277fef5cd6fda4ca4b710ad0cfc5334_9-51s03.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Media Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8716,
+    "title": "Brain Structure and Its Origins",
+    "description": "",
+    "coursenum": "9.14",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-14-brain-structure-and-its-origins-spring-2014/43a6573560702518ef1dc30f7e92512c_9-14s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Audio",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7782,
+    "title": "Special Topics: Social Animals",
+    "description": "",
+    "coursenum": "9.916",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-916-special-topics-social-animals-fall-2009/fb6e393ab139d3833eb9eb46ec5515b1_9-916f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7868,
+    "title": "Animal Behavior",
+    "description": "",
+    "coursenum": "9.20",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Ecology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-20-animal-behavior-fall-2013/d9241d6b1c35ce1a454d77032ea1cbe4_9-20f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Lecture Notes",
+      "Presentation Assignments with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8360,
+    "title": "Pattern Recognition for Machine Vision",
+    "description": "",
+    "coursenum": "9.913",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-913-pattern-recognition-for-machine-vision-fall-2004/7b21660d6562d305d86210c7e32658d9_9-913f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Simulation Videos",
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8175,
+    "title": "A Clinical Approach to the Human Brain",
+    "description": "",
+    "coursenum": "9.22J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Health and Medicine",
+      "Anatomy and Physiology",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-22j-a-clinical-approach-to-the-human-brain-fall-2006/665e69cc2a76d951ecbe0544dd6c05e3_9-22jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8026,
+    "title": "Topics in Brain and Cognitive Sciences Human Ethology",
+    "description": "",
+    "coursenum": "9.52-B",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-52-b-topics-in-brain-and-cognitive-sciences-human-ethology-spring-2001/fd5c8cf8e50f7065a10657b549440a2e_9-52s01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9322,
+    "title": "Foundations of Cognition",
+    "description": "",
+    "coursenum": "9.69",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Social Science",
+      "Philosophy",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-69-foundations-of-cognition-spring-2003/8eacfe7ecbc347d29fd524976c54c5f3_9-69s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9394,
+    "title": "Introduction to Neural Networks",
+    "description": "",
+    "coursenum": "9.641J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-641j-introduction-to-neural-networks-spring-2005/b5f5694dcec8c3bcf1eb6914dbeadd58_9-641js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8462,
+    "title": "Reasonable Conduct in Science",
+    "description": "",
+    "coursenum": "9.911",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Ethics",
+      "Philosophy",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-911-reasonable-conduct-in-science-january-iap-2002/6fa84b41f73be08b6f3357ebc64adbc2_9-911iap02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8827,
+    "title": "Neurotechnology in Action",
+    "description": "",
+    "coursenum": "9.123",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Biological Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Biotechnology",
+      "Biomedical Instrumentation"
+    ],
+    "url": "",
+    "image_src": "/courses/9-123-neurotechnology-in-action-fall-2014/690f3e03ec2fe4ff38ac5349f74336a1_9-123f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8994,
+    "title": "Sensation And Perception",
+    "description": "",
+    "coursenum": "9.35",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Sensory-Neural Systems",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-35-sensation-and-perception-spring-2009/a2ef9bd6d361d5b3cf369e1035151d67_9-35s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11657,
+    "title": "Neuroscience and Behavior",
+    "description": "",
+    "coursenum": "9.01",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-01-neuroscience-and-behavior-fall-2003/567194b8922821a44c17ed1e6876f3e9_9-01f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Audio",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11630,
+    "title": "Language and Mind",
+    "description": "",
+    "coursenum": "9.98",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Humanities",
+      "Systems Engineering",
+      "Social Science",
+      "Linguistics",
+      "Biology",
+      "Cognitive Science",
+      "Computational Modeling and Simulation",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-98-language-and-mind-january-iap-2003/5e0ce7a65ab0b6ea41a8b506811599b0_9-98iap03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12981,
+    "title": "MEG Workshop",
+    "description": "",
+    "coursenum": "RES.9-007",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Cognitive Science",
+      "Biomedical Signal and Image Processing",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/res-9-007-meg-workshop-spring-2019/mitres9_007s19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Workshop Videos",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5045,
+    "title": "Light, Spike, and Sight: The Neuroscience of Vision",
+    "description": "",
+    "coursenum": "9.01x",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/62ad2396-74f5-4076-a07e-9c2538dc9914.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7926,
+    "title": "Introduction to Computational Neuroscience",
+    "description": "",
+    "coursenum": "9.29J",
+    "department": [
+      "Brain and Cognitive Sciences",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Cognitive Science",
+      "Computational Biology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-29j-introduction-to-computational-neuroscience-spring-2004/c678cd0ac8b3eda7a94a776a5cc321e2_9-29js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8571,
+    "title": "Psychology of Gender",
+    "description": "",
+    "coursenum": "9.75J",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Society",
+      "Gender Studies",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-75j-psychology-of-gender-spring-2003/fb02fac77b18c884aa98512b7e97dc86_9-75js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8586,
+    "title": "Developmental Cognitive Neuroscience",
+    "description": "",
+    "coursenum": "9.S915",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-s915-developmental-cognitive-neuroscience-spring-2012/8c0fe3ffcd8d02c23efc929cf76303f3_9-s915s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8931,
+    "title": "Biochemistry and Pharmacology of Synaptic Transmission",
+    "description": "",
+    "coursenum": "9.15",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Biochemistry",
+      "Pharmacology and Toxicology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-15-biochemistry-and-pharmacology-of-synaptic-transmission-fall-2007/999a1828cfd87c370be8c4f13f3305d0_9-15f07.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8299,
+    "title": "Functional MRI of High-Level Vision",
+    "description": "",
+    "coursenum": "9.71",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Neuroscience",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/9-71-functional-mri-of-high-level-vision-fall-2007/aee63f17841c908d66f95ea6d2912dab_9-71f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8513,
+    "title": "Research Topics in Neuroscience",
+    "description": "",
+    "coursenum": "9.95-A",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Biology",
+      "Cognitive Science",
+      "Neuroscience",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-95-a-research-topics-in-neuroscience-january-iap-2003/169f6a448446e5dfdc7455522167b4a1_9-95aiap03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10666,
+    "title": "Modularity, Domain-specificity, and the Organization of Knowledge",
+    "description": "",
+    "coursenum": "9.916",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Cognitive Science"
+    ],
+    "url": "",
+    "image_src": "/courses/9-916-modularity-domain-specificity-and-the-organization-of-knowledge-fall-2001/6966260549407ea15b48a7ffa9fba620_9-916f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9942,
+    "title": "Scene Understanding Symposium",
+    "description": "",
+    "coursenum": "9.459",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-459-scene-understanding-symposium-spring-2006/03241b1bed90ba403296e2da8e2d99c9_9-459s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9927,
+    "title": "Special Topics in Brain and Cognitive Sciences",
+    "description": "",
+    "coursenum": "9.912",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/9-912-special-topics-in-brain-and-cognitive-sciences-fall-2001/7bc517eaac9a56667cc3603512ec8838_9-912f01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9994,
+    "title": "Introduction to Psychology",
+    "description": "",
+    "coursenum": "9.00SC",
+    "department": [
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Cognitive Science",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/9-00sc-introduction-to-psychology-fall-2011/5e3bbd1def95cb7fe71f0f47db3bc5fb_9-00scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Exams",
+      "Open Textbooks",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

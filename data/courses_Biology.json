@@ -1,0 +1,1438 @@
+[
+  {
+    "id": 10338,
+    "title": "Brave New Planet",
+    "description": "",
+    "coursenum": "RES.7-003",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Energy",
+      "Philosophy",
+      "Biology",
+      "Climate Studies",
+      "Genetics",
+      "Science and Technology Policy",
+      "Climate",
+      "Renewables"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-003-brave-new-planet-fall-2020/24f98cd436fe0d7bac8108118827eaca_RES.7-003F20.gif",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10303,
+    "title": "Pre-7.01: Getting up to Speed in Biology",
+    "description": "",
+    "coursenum": "RES.7-001",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-001-pre-7-01-getting-up-to-speed-in-biology-summer-2019/d6688ff44379ced8d7b1be571d1a72fa_RES.7-001sum19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5092,
+    "title": "Molecular Biology – Part 3: RNA Processing and Translation",
+    "description": "",
+    "coursenum": "7.28.3x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/9856c8dc-fddc-485a-9571-6e73c312c658-b7d2dcd1eb13.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5019,
+    "title": "Molecular Biology - Part 1: DNA Replication and Repair",
+    "description": "",
+    "coursenum": "7.28.1x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/a4d6f55d-1a06-4736-a297-88e964f35e98-a7ab133a0195.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5022,
+    "title": "Molecular Biology - Part 2: Transcription and Transposition",
+    "description": "",
+    "coursenum": "7.28.2x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/197f9db0-cc55-43fe-aac7-c5a951b0e3b4-49f18fc2ca6b.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7942,
+    "title": "Experimental Biology - Communications Intensive",
+    "description": "",
+    "coursenum": "7.02CI",
+    "department": [
+      "Biology",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Literature",
+      "Biology",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/7-02ci-experimental-biology-communications-intensive-spring-2005/4184f92e4530a6b3a595725ce6c8c933_7-02cis05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8967,
+    "title": "Computational Functional Genomics",
+    "description": "",
+    "coursenum": "7.90J",
+    "department": [
+      "Biology",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Functional Genomics",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-90j-computational-functional-genomics-spring-2005/b1bd18d898fab1bfabd1026a6379b3ae_7-90js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8298,
+    "title": "Freshman Seminar: Structural Basis of Genetic Material: Nucleic Acids",
+    "description": "",
+    "coursenum": "7.A12",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Structural Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-a12-freshman-seminar-structural-basis-of-genetic-material-nucleic-acids-fall-2005/f0b11184d1cae25b413329e174abb589_7-a12f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9296,
+    "title": "Systems Biology",
+    "description": "",
+    "coursenum": "8.591J",
+    "department": [
+      "Physics",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Biological Engineering",
+      "Biology",
+      "Computation and Systems Biology",
+      "Cell Biology",
+      "Synthetic Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/8-591j-systems-biology-fall-2014/5a4e655e52f45f37185ad3d45fa4e667_8-591jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9385,
+    "title": "Developmental Biology",
+    "description": "",
+    "coursenum": "7.22",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Developmental Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-22-developmental-biology-fall-2005/5b2b58c7caf9ac5aa922a4f795488535_7-22f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8536,
+    "title": "Foundations of Computational and Systems Biology",
+    "description": "",
+    "coursenum": "7.91J",
+    "department": [
+      "Biology",
+      "Biological Engineering",
+      "Electrical Engineering and Computer Science",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Systems Engineering",
+      "Biological Engineering",
+      "Biology",
+      "Computational Modeling and Simulation",
+      "Computational Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/3fd2ad656393a3326bd168604c7ee4f9_7-91js14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Projects",
+      "Programming Assignments with Examples",
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8890,
+    "title": "Principles of Human Disease",
+    "description": "",
+    "coursenum": "7.27",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Health and Medicine",
+      "Pathology and Pathophysiology",
+      "Cancer"
+    ],
+    "url": "",
+    "image_src": "/courses/7-27-principles-of-human-disease-spring-2006/823aae293f341b2b46360a4c215e4f66_7-27s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12806,
+    "title": "7.06x Cell Biology",
+    "description": "",
+    "coursenum": "RES.7-007",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-007-7-06x-cell-biology/res7-007-s23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12797,
+    "title": "7.03x Genetics",
+    "description": "",
+    "coursenum": "RES.7-006",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-006-7-03x-genetics/res7-005.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13129,
+    "title": "Molecular Biology - Part 2: Transcription and Transposition",
+    "description": "",
+    "coursenum": "7.28.2x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/AboutImage.jpg?v=916b53b6eba37aaa3cd9a05ec11bd3c8a07246c2",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13130,
+    "title": "Molecular Biology – Part 3: RNA Processing and Translation",
+    "description": "",
+    "coursenum": "7.28.3x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/7.28.3x_course_image-01_MITxOnline.png?v=decc02abd3ccdbfd3b9bdb62a5518d307d993c0f",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13128,
+    "title": "Molecular Biology - Part 1: DNA Replication and Repair",
+    "description": "",
+    "coursenum": "7.28.1x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/7.28.1x_AboutPageImage_MITxOnline.png?v=ca8bfc1ede29f8c40f2904359856b5f9ad7d0417",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11848,
+    "title": "Introductory Biology",
+    "description": "",
+    "coursenum": "7.013",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Biochemistry",
+      "Developmental Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-013-introductory-biology-spring-2013/7ab23aa4f8fa16499c8ff2e2f74a95a5_7-013s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12957,
+    "title": "7.InT: Inclusive Teaching Module",
+    "description": "",
+    "coursenum": "RES.7-009",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-009-7-int-inclusive-teaching-module-fall-2022/res7-009f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Multiple Assignment Types with Solutions",
+      "Videos",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9492,
+    "title": "Genetics",
+    "description": "",
+    "coursenum": "7.03",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-03-genetics-fall-2004/8674ccb675182c8d12cf97462a16e9e4_7-03f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7883,
+    "title": "Introductory Biology",
+    "description": "",
+    "coursenum": "7.013",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Biochemistry",
+      "Developmental Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-013-introductory-biology-spring-2018/79a18906b43fd04853724bc6754be30d_7.013-s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11929,
+    "title": "General Biochemistry",
+    "description": "",
+    "coursenum": "7.05",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Organic Chemistry",
+      "Biochemistry",
+      "Analytical Chemistry",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/7-05-general-biochemistry-spring-2020/ee542d846a1a8a0f5367efea0e7522e0_7-05s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12833,
+    "title": "Genetics: Population Genetics and Human Traits",
+    "description": "",
+    "coursenum": "7.03.3x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/2fd709f3-54ac-4653-9d54-f65310f2656c-84c54948054b.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13131,
+    "title": "Quantitative Biology Workshop",
+    "description": "",
+    "coursenum": "7.QBWx",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/7.QBW.jpg?v=dd86f473490ab0314418125d53131a025c37eb1f",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10067,
+    "title": "Topics in Computational and Systems Biology",
+    "description": "",
+    "coursenum": "7.89J",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computational Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-89j-topics-in-computational-and-systems-biology-fall-2010/83b6d76b02613a3076201184db03d76a_7-89jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 10536,
+    "title": "Systems Biology",
+    "description": "",
+    "coursenum": "8.591J",
+    "department": [
+      "Physics",
+      "Biology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/8-591j-systems-biology-fall-2004/473af933df375114f7cb2ac0a6b66974_8-591jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10317,
+    "title": "COVID-19, SARS-CoV-2 and the Pandemic",
+    "description": "",
+    "coursenum": "7.00",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Molecular Biology",
+      "Microbiology",
+      "Virology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2020/17497d485988c885f44fbbdfce060462_7-00F20.gif",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 12110,
+    "title": "Genetics: Analysis and Applications",
+    "description": "",
+    "coursenum": "7.03.2x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/0bf58e47-9454-4c30-a1a5-081ae6b795e0-ce0bbfb6764d.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12956,
+    "title": "Inclusive Teaching Module",
+    "description": "",
+    "coursenum": "7.InT",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+7.InT+2021_Fall+type@asset+block@7.InT_course_image-03.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8416,
+    "title": "Principles and Practice of Drug Development",
+    "description": "",
+    "coursenum": "15.136J",
+    "department": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5198,
+    "title": "Biochemistry: Biomolecules, Methods, and Mechanisms",
+    "description": "",
+    "coursenum": "7.05x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/a1199821-4cc5-4c84-a738-b6aff1450e0b-8f0eafb5f67e.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9650,
+    "title": "Cellular Neurobiology",
+    "description": "",
+    "coursenum": "7.29J",
+    "department": [
+      "Biology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cognitive Science",
+      "Neurobiology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/7-29j-cellular-neurobiology-spring-2012/3977ecfdec5532438e5c747f4756a1b1_7-29js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8912,
+    "title": "Protein Folding and Human Disease",
+    "description": "",
+    "coursenum": "7.88J",
+    "department": [
+      "Biology",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Proteomics",
+      "Virology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9305,
+    "title": "Cell Biology: Structure and Functions of the Nucleus",
+    "description": "",
+    "coursenum": "7.60",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-60-cell-biology-structure-and-functions-of-the-nucleus-spring-2010/f51354139555da14896829ccf365b3eb_7-60s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9244,
+    "title": "Experimental Molecular Biology: Biotechnology II",
+    "description": "",
+    "coursenum": "7.16",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Molecular Biology",
+      "Biotechnology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/273f589bcf2c07c63378a443b6ed072a_7-16s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9796,
+    "title": "Biological Chemistry II",
+    "description": "",
+    "coursenum": "5.08J",
+    "department": [
+      "Chemistry",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Biochemistry",
+      "Structural Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7924,
+    "title": "Introduction to Biology",
+    "description": "",
+    "coursenum": "7.012",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-012-introduction-to-biology-fall-2004/0edc4641ba72c9a90e7028411a323d70_7-012f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8836,
+    "title": "Ecology I: The Earth System",
+    "description": "",
+    "coursenum": "1.018J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Biology",
+      "Ecology"
+    ],
+    "url": "",
+    "image_src": "/courses/1-018j-ecology-i-the-earth-system-fall-2009/6fb954a330c3fe950f2305df362b755a_1-018jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9126,
+    "title": "Fundamentals of Biology",
+    "description": "",
+    "coursenum": "7.01SC",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-01sc-fundamentals-of-biology-fall-2011/533499c2943939be949d7aed93782793_7-01scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Tutorial Videos",
+      "Lecture Notes",
+      "Problem Set Solutions",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7798,
+    "title": "Topics in Experimental Biology",
+    "description": "",
+    "coursenum": "7.18",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-18-topics-in-experimental-biology-fall-2005/ed1e7a6da8508ac66a0607bd9c3d7f68_7-18f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11941,
+    "title": "COVID-19, SARS-CoV-2, and the Pandemic",
+    "description": "",
+    "coursenum": "7.00",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Microbiology",
+      "Virology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-00-covid-19-sars-cov-2-and-the-pandemic-fall-2021/61632e35a3f9f70f1a34a2b14ebcd75a_7-00f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11889,
+    "title": "Cell Biology: Cell-Cell Interactions",
+    "description": "",
+    "coursenum": "7.06.3x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/53a8226e-05c4-4e28-bcce-4403cc7fb197-81b717ebaabb.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12832,
+    "title": "7.28x Molecular Biology",
+    "description": "",
+    "coursenum": "RES.7-008",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-008-7-28x-molecular-biology/res7-008.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12798,
+    "title": "Biology Teaching Assistant (TA) Training",
+    "description": "",
+    "coursenum": "RES.7-005",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-005-biology-teaching-assistant-ta-training-fall-2021/res7-005-s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments with Examples",
+      "Lecture Notes",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13119,
+    "title": "Applied Molecular Biology Lab",
+    "description": "",
+    "coursenum": "7.003",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-003-applied-molecular-biology-lab-spring-2022/7-003s22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Laboratory Assignments",
+      "Activity Assignments",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8259,
+    "title": "Perspectives in Biological Engineering",
+    "description": "",
+    "coursenum": "20.400J",
+    "department": [
+      "Biological Engineering",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-400j-perspectives-in-biological-engineering-spring-2006/69cabaea1c7006faaefb4f0c5e79283a_20-400js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 5016,
+    "title": "Introduction to Biology - The Secret of Life",
+    "description": "",
+    "coursenum": "7.00x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/389d5e5e-7679-467e-b5bb-b21c9c86ca1f-31a7731a68f2.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5025,
+    "title": "Quantitative Biology Workshop",
+    "description": "",
+    "coursenum": "7.QBWx",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/37041f86-a1df-4023-8dc8-6f0b2463dbaf-fd4f0c1d71f1.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9724,
+    "title": "Topics in Biophysics and Physical Biology",
+    "description": "",
+    "coursenum": "20.416J",
+    "department": [
+      "Biological Engineering",
+      "Biology",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Biological Engineering",
+      "Biology",
+      "Biophysics"
+    ],
+    "url": "",
+    "image_src": "/courses/20-416j-topics-in-biophysics-and-physical-biology-fall-2014/9ceac5cf6c936b97239b5161ed49515c_20-416jf14.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10260,
+    "title": "Cell Biology: Transport and Signaling",
+    "description": "",
+    "coursenum": "7.06.1x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/1bd027c1-6ac0-43c1-ae01-1d4975597282-9e134c5fed85.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10355,
+    "title": "Cell Biology: The Cytoskeleton and Cell Cycle",
+    "description": "",
+    "coursenum": "7.06.2x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/80bdc3fd-7029-4d22-aa2a-8a4b5fe4c166-1e3325083a19.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9980,
+    "title": "Experimental Molecular Genetics",
+    "description": "",
+    "coursenum": "7.15",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "Literature",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Biochemistry",
+      "Academic Writing",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-15-experimental-molecular-genetics-spring-2015/4f6ae7877e610b0025d0a7f020ab23d7_7-15s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9940,
+    "title": "Experimental Microbial Genetics",
+    "description": "",
+    "coursenum": "7.13",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Microbiology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-13-experimental-microbial-genetics-fall-2008/af93dd24cf205e5f686a19b1e214c87c_7-13f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12030,
+    "title": "BioNook Online Biology Resources",
+    "description": "",
+    "coursenum": "RES.7-004",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Biochemistry",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/res-7-004-bionook-online-biology-resources-spring-2021/res-7-004-s22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12021,
+    "title": "Genetics: The Fundamentals",
+    "description": "",
+    "coursenum": "7.03.1x",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/100103b4-353a-457b-927c-4a3f518cecc5-f79d63aec87c.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9902,
+    "title": "Introductory Biology",
+    "description": "",
+    "coursenum": "7.014",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-014-introductory-biology-spring-2005/afa5ea7484e3faf7b1aca4a5c66d8a21_7-014s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7742,
+    "title": "Introductory Biology",
+    "description": "",
+    "coursenum": "7.016",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Biochemistry",
+      "Microbiology",
+      "Virology",
+      "Cancer",
+      "Functional Genomics",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-016-introductory-biology-fall-2018/7518d9c8111daaf0764e4675f60e04ed_7-016f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13189,
+    "title": "Fundamentals of Experimental Molecular Biology",
+    "description": "",
+    "coursenum": "7.002",
+    "department": [
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-002-fundamentals-of-experimental-molecular-biology-spring-2025/7-002s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Laboratory Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  }
+]

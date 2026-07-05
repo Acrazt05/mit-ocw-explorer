@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MIT OCW Knowledge Map — Interactive Course Explorer</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0a0f;
+  --surface: #131320;
+  --surface2: #1a1a2e;
+  --surface3: #22223a;
+  --border: #2a2a45;
+  --text: #e0e0f0;
+  --text2: #9090b0;
+  --text3: #606080;
+  --accent: #7c5cfc;
+  --accent2: #4ecdc4;
+  --math: #ff6b6b;
+  --physics: #4ecdc4;
+  --eecs: #ffd93d;
+  --biology: #6bcb77;
+  --chemistry: #ff922b;
+  --economics: #845ef7;
+  --humanities: #f06595;
+  --engineering: #20c997;
+  --management: #339af0;
+  --green: #51cf66;
+  --yellow: #ffd43b;
+  --red: #ff6b6b;
+  --orange: #ff922b;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+html,body { width:100%; height:100%; overflow:hidden; font-family:'Inter',sans-serif; background:var(--bg); color:var(--text); }
+
+#app { display:flex; height:100vh; }
+
+/* Sidebar */
+#sidebar { width:380px; min-width:380px; background:var(--surface); border-right:1px solid var(--border); display:flex; flex-direction:column; z-index:10; }
+#sidebar-header { padding:20px; border-bottom:1px solid var(--border); }
+#sidebar-header h1 { font-size:18px; font-weight:700; background:linear-gradient(135deg,var(--accent),var(--accent2)); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin-bottom:4px; }
+#sidebar-header .subtitle { font-size:11px; color:var(--text3); font-family:'JetBrains Mono',monospace; }
+
+#search-wrap { padding:12px 20px; border-bottom:1px solid var(--border); }
+#search { width:100%; padding:10px 14px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--text); font-size:13px; outline:none; font-family:'Inter',sans-serif; transition:border .2s; }
+#search:focus { border-color:var(--accent); }
+#search::placeholder { color:var(--text3); }
+
+#dept-filters { padding:12px 20px; display:flex; flex-wrap:wrap; gap:6px; border-bottom:1px solid var(--border); max-height:180px; overflow-y:auto; }
+.dept-chip { padding:6px 12px; border-radius:20px; font-size:11px; font-weight:500; cursor:pointer; border:1px solid var(--border); background:var(--surface2); color:var(--text2); transition:all .2s; user-select:none; white-space:nowrap; }
+.dept-chip.active { border-color:var(--accent); color:var(--accent); }
+.dept-chip:hover { border-color:var(--text3); }
+
+#stats-bar { padding:8px 20px; display:flex; gap:16px; font-size:11px; color:var(--text3); border-bottom:1px solid var(--border); }
+.stat { display:flex; align-items:center; gap:4px; }
+.stat-val { color:var(--text); font-weight:600; font-family:'JetBrains Mono',monospace; }
+
+#path-panel { padding:12px 20px; border-bottom:1px solid var(--border); }
+#path-panel label { font-size:11px; color:var(--text3); display:block; margin-bottom:6px; }
+#path-select { width:100%; padding:8px 12px; border-radius:6px; border:1px solid var(--border); background:var(--surface2); color:var(--text); font-size:12px; outline:none; cursor:pointer; font-family:'Inter',sans-serif; }
+#path-select:focus { border-color:var(--accent); }
+
+#course-detail { flex:1; overflow-y:auto; padding:16px 20px; }
+#course-detail::-webkit-scrollbar { width:4px; }
+#course-detail::-webkit-scrollbar-thumb { background:var(--border); border-radius:2px; }
+
+.course-card { background:var(--surface2); border:1px solid var(--border); border-radius:12px; padding:16px; margin-bottom:12px; }
+.course-card .cnum { font-family:'JetBrains Mono',monospace; font-size:14px; font-weight:700; color:var(--accent); margin-bottom:4px; }
+.course-card .ctitle { font-size:14px; font-weight:600; margin-bottom:8px; line-height:1.4; }
+.course-card .cmeta { display:flex; flex-wrap:wrap; gap:6px; margin-bottom:8px; }
+.course-card .ctag { padding:3px 10px; border-radius:12px; font-size:10px; font-weight:500; background:var(--surface3); }
+.course-card .ctag.dept { background:rgba(124,92,252,.15); color:var(--accent); }
+.course-card .ctag.level { background:rgba(78,205,196,.15); color:var(--accent2); }
+.course-card .cdesc { font-size:11px; color:var(--text2); line-height:1.5; display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
+.course-card .clinks { margin-top:8px; display:flex; gap:6px; }
+.course-card .clink { font-size:10px; padding:4px 10px; border-radius:4px; border:1px solid var(--border); color:var(--text2); text-decoration:none; transition:all .15s; }
+.course-card .clink:hover { border-color:var(--accent); color:var(--accent); }
+
+.prereq-section { margin-top:12px; }
+.prereq-section .prereq-title { font-size:11px; color:var(--text3); margin-bottom:6px; text-transform:uppercase; letter-spacing:1px; }
+.prereq-flow { display:flex; align-items:center; gap:4px; flex-wrap:wrap; }
+.prereq-node { padding:4px 10px; border-radius:6px; font-size:11px; font-weight:500; font-family:'JetBrains Mono',monospace; background:var(--surface3); cursor:pointer; transition:all .15s; }
+.prereq-node:hover { background:var(--accent); color:#fff; }
+.prereq-arrow { color:var(--text3); font-size:10px; }
+
+.empty-state { text-align:center; padding:40px 20px; color:var(--text3); }
+.empty-state .icon { font-size:48px; margin-bottom:12px; }
+
+/* Legend */
+#legend { padding:12px 20px; border-bottom:1px solid var(--border); display:flex; flex-wrap:wrap; gap:8px; }
+.legend-dot { width:10px; height:10px; border-radius:50%; display:inline-block; }
+.legend-item { font-size:10px; color:var(--text3); display:flex; align-items:center; gap:4px; }
+
+/* Graph Area */
+#graph-area { flex:1; position:relative; }
+#graph { width:100%; height:100%; }
+#graph svg { width:100%; height:100%; }
+#graph-controls { position:absolute; bottom:16px; right:16px; display:flex; flex-direction:column; gap:6px; z-index:5; }
+.gctrl { width:36px; height:36px; border-radius:8px; border:1px solid var(--border); background:var(--surface2); color:var(--text); cursor:pointer; font-size:18px; display:flex; align-items:center; justify-content:center; transition:all .15s; }
+.gctrl:hover { border-color:var(--accent); background:var(--surface3); }
+
+/* Tooltip */
+#tooltip { position:absolute; padding:10px 14px; background:var(--surface3); border:1px solid var(--border); border-radius:8px; font-size:12px; pointer-events:none; z-index:20; max-width:320px; display:none; box-shadow:0 8px 32px rgba(0,0,0,.4); }
+#tooltip .tt-num { font-family:'JetBrains Mono',monospace; font-weight:700; color:var(--accent); font-size:13px; }
+#tooltip .tt-title { font-weight:600; margin:4px 0; }
+#tooltip .tt-dept { font-size:10px; color:var(--text3); }
+#tooltip .tt-desc { font-size:10px; color:var(--text2); margin-top:4px; line-height:1.4; }
+
+/* Mini-map */
+#minimap { position:absolute; bottom:16px; left:16px; width:180px; height:120px; border:1px solid var(--border); border-radius:8px; background:var(--surface2); opacity:.7; z-index:5; overflow:hidden; }
+#minimap svg { width:100%; height:100%; }
+
+/* Legend bar */
+#color-legend { position:absolute; top:16px; right:16px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; padding:10px 14px; z-index:5; }
+#color-legend .litem { display:flex; align-items:center; gap:8px; font-size:10px; color:var(--text3); margin:3px 0; }
+#color-legend .ldot { width:8px; height:8px; border-radius:50%; flex-shrink:0; }
+
+/* Loading */
+#loading-overlay { position:absolute; inset:0; display:flex; align-items:center; justify-content:center; background:rgba(10,10,15,.8); z-index:15; }
+.spinner { width:40px; height:40px; border:3px solid var(--border); border-top-color:var(--accent); border-radius:50%; animation:spin .8s linear infinite; }
+@keyframes spin { to { transform:rotate(360deg); } }
+
+/* Instructions */
+#help-hint { position:absolute; top:16px; left:16px; background:var(--surface2); border:1px solid var(--border); border-radius:8px; padding:8px 14px; font-size:11px; color:var(--text3); z-index:5; }
+#help-hint span { color:var(--text2); font-weight:500; }
+
+@media (max-width:768px) {
+  #app { flex-direction:column; }
+  #sidebar { width:100%; min-width:unset; max-height:45vh; }
+  #graph-area { height:55vh; }
+}
+</style>
+</head>
+<body>
+<div id="app">
+  <div id="sidebar">
+    <div id="sidebar-header" style="display:flex;justify-content:space-between;align-items:flex-start;">
+      <div>
+        <h1>MIT OCW Knowledge Map</h1>
+        <div class="subtitle">Interactive Curriculum Explorer</div>
+      </div>
+      <button id="btn-refresh-data" title="Update course data from MIT OCW" style="padding:6px 12px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text2);cursor:pointer;font-size:11px;white-space:nowrap;transition:all .15s;">🔄 Update</button>
+    </div>
+    <div id="search-wrap">
+      <input type="text" id="search" placeholder="🔍 Search courses... (e.g., calculus, robotics, 18.01)" autocomplete="off">
+    </div>
+    <div id="dept-filters"></div>
+    <div id="stats-bar">
+      <div class="stat"><span class="stat-val" id="stat-total">—</span> courses</div>
+      <div class="stat"><span class="stat-val" id="stat-visible">—</span> visible</div>
+      <div class="stat"><span class="stat-val" id="stat-selected">—</span> selected</div>
+    </div>
+<div id="path-panel">
+      <label>🎯 Learning Path</label>
+      <select id="path-select">
+        <option value="">— Browse freely —</option>
+      </select>
+    </div>
+    <div id="level-filters" style="padding:8px 20px;display:flex;flex-wrap:wrap;gap:6px;border-bottom:1px solid var(--border);max-height:70px;overflow-y:auto;"></div>
+    <div id="feature-filters" style="padding:8px 20px;display:flex;flex-wrap:wrap;gap:6px;border-bottom:1px solid var(--border);max-height:70px;overflow-y:auto;"></div>
+    <div id="lone-toggle" style="padding:8px 20px;display:flex;align-items:center;gap:8px;font-size:11px;color:var(--text3);border-bottom:1px solid var(--border);cursor:pointer;user-select:none;">
+      <span id="lone-check" style="width:32px;height:18px;border-radius:9px;background:var(--surface3);position:relative;transition:background .2s;flex-shrink:0;">
+        <span style="position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:var(--text3);transition:all .2s;"></span>
+      </span>
+      Hide lone nodes
+    </div>
+    <div style="padding:8px 20px;display:flex;align-items:center;gap:8px;font-size:11px;color:var(--text3);border-bottom:1px solid var(--border);">
+      <span>Sort by:</span>
+      <select id="sort-select" style="flex:1;padding:4px 8px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:11px;outline:none;font-family:Inter,sans-serif;">
+        <option value="num">Course number</option>
+        <option value="alpha">Alphabetical</option>
+        <option value="dept">Department</option>
+      </select>
+    </div>
+    <div id="course-detail">
+      <div class="empty-state">
+        <div class="icon">📚</div>
+        <div>Click a course node on the graph<br>to see details and prerequisites</div>
+      </div>
+    </div>
+  </div>
+  <div id="graph-area">
+    <div id="help-hint">🖱 <span>Scroll</span> zoom · <span>Drag</span> pan · <span>Click</span> select · <span>Shift+Click</span> multi-select</div>
+    <div id="graph"></div>
+    <div id="color-legend">
+      <div class="litem"><span class="ldot" style="background:#ff6b6b"></span>Mathematics</div>
+      <div class="litem"><span class="ldot" style="background:#4ecdc4"></span>Physics</div>
+      <div class="litem"><span class="ldot" style="background:#ffd93d"></span>EECS</div>
+      <div class="litem"><span class="ldot" style="background:#6bcb77"></span>Biology</div>
+      <div class="litem"><span class="ldot" style="background:#ff922b"></span>Chemistry</div>
+      <div class="litem"><span class="ldot" style="background:#845ef7"></span>Economics</div>
+      <div class="litem"><span class="ldot" style="background:#339af0"></span>Engineering</div>
+      <div class="litem"><span class="ldot" style="background:#f06595"></span>Humanities</div>
+    </div>
+    <div id="graph-controls">
+      <button class="gctrl" id="btn-zoom-in" title="Zoom in">+</button>
+      <button class="gctrl" id="btn-zoom-out" title="Zoom out">−</button>
+      <button class="gctrl" id="btn-reset" title="Reset view">↺</button>
+      <button class="gctrl" id="btn-fit" title="Fit all">⊡</button>
+    </div>
+    <div id="tooltip"></div>
+    <div id="loading-overlay"><div class="spinner"></div></div>
+  </div>
+</div>
+
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="data.js"></script>
+<script src="prerequisites.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

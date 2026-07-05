@@ -1,0 +1,1051 @@
+[
+  {
+    "id": 9852,
+    "title": "Biological Engineering Design",
+    "description": "",
+    "coursenum": "20.380J",
+    "department": [
+      "Biological Engineering",
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Public Health",
+      "Biomedical Enterprise",
+      "Pathology and Pathophysiology"
+    ],
+    "url": "",
+    "image_src": "/courses/20-380j-biological-engineering-design-spring-2010/c16631b7dab45a97451c3c335373fa23_20-380js10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10779,
+    "title": "Physical Chemistry",
+    "description": "",
+    "coursenum": "5.61",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Quantum Mechanics",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-61-physical-chemistry-fall-2007/1f705170357b16eb99e045a724316cde_5-61f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10897,
+    "title": "Introductory Quantum Mechanics II",
+    "description": "",
+    "coursenum": "5.74",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy"
+    ],
+    "url": "",
+    "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2004/dc94284e6bed8e2e47b66fa579b20af2_5-74s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11462,
+    "title": "Organic Chemistry I",
+    "description": "",
+    "coursenum": "5.12",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-12-organic-chemistry-i-spring-2003/7641390c3bac90c3481b9fea5e26d54e_5-12s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11977,
+    "title": "Chemical Thermodynamics I: Thermodynamics and Statistical Mechanics",
+    "description": "",
+    "coursenum": "5.601x",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5b57b66b-1ea5-467a-a643-b93ad2f0f34c-33ead18774b5.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7726,
+    "title": "Non-Equilibrium Statistical Mechanics",
+    "description": "",
+    "coursenum": "5.72",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Mathematics",
+      "Probability and Statistics",
+      "Thermodynamics",
+      "Classical Mechanics",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-72-non-equilibrium-statistical-mechanics-spring-2012/35b03ee5439763ef0fab624b90fc8601_5-72s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7884,
+    "title": "Principles of Chemical Science",
+    "description": "",
+    "coursenum": "5.112",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-112-principles-of-chemical-science-fall-2005/dba8f52717543334c11ee615d251ed27_5-112f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8062,
+    "title": "Thermodynamics & Kinetics",
+    "description": "",
+    "coursenum": "5.60",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Thermodynamics",
+      "Classical Mechanics",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-60-thermodynamics-kinetics-spring-2008/15f29189c66d698a742c562fb1f723ef_5-60s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8711,
+    "title": "Physical Chemistry II",
+    "description": "",
+    "coursenum": "5.62",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Transport Processes",
+      "Classical Mechanics",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-62-physical-chemistry-ii-spring-2008/7e210e0252be4b2092bce2aef84e994f_5-62s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8163,
+    "title": "Small-Molecule Spectroscopy and Dynamics",
+    "description": "",
+    "coursenum": "5.80",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/1f1e281d715b992b19eb4f3a56e58e34_5-80f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8336,
+    "title": "Introductory Quantum Mechanics II",
+    "description": "",
+    "coursenum": "5.74",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Quantum Mechanics",
+      "Spectroscopy"
+    ],
+    "url": "",
+    "image_src": "/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/7de906d303891bb0d15bfb4e75da6434_5-74s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9759,
+    "title": "Kitchen Chemistry",
+    "description": "",
+    "coursenum": "ES.287",
+    "department": [
+      "Experimental Study Group",
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/es-287-kitchen-chemistry-spring-2009/2e724c085079389a3db4b3ba02ef648e_es-287s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12844,
+    "title": "Chemical Thermodynamics II: Equilibrium and Kinetics",
+    "description": "",
+    "coursenum": "5.602x",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/ff4f8b7a-d7f2-452f-bc85-ce65ff097908-fc94d2321eb1.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13019,
+    "title": "Chemistry Behind the Magic: Chemical Demonstrations for the Classroom",
+    "description": "",
+    "coursenum": "RES.HS-002",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/chp_hands.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8245,
+    "title": "Introductory Quantum Mechanics I",
+    "description": "",
+    "coursenum": "5.73",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/5-73-introductory-quantum-mechanics-i-fall-2005/b5276fba9ebe0d234be2539ef9a6e3c7_5-73f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8296,
+    "title": "Organic Chemistry II",
+    "description": "",
+    "coursenum": "5.13",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-13-organic-chemistry-ii-fall-2006/514146d5f76bc25ca5e024d6480afb81_5-13f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11411,
+    "title": "Organic Chemistry II",
+    "description": "",
+    "coursenum": "5.13",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-13-organic-chemistry-ii-fall-2003/ee5e9d213b89c7e38f1ee8c5fb9e9aef_5-13f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11859,
+    "title": "Quantum Mechanics I",
+    "description": "",
+    "coursenum": "5.73",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Quantum Mechanics",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-73-quantum-mechanics-i-fall-2018/db0a558feb6fa1511bb1b3f4515dfb5d_5-73f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8285,
+    "title": "Principles of Chemical Science",
+    "description": "",
+    "coursenum": "5.111SC",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Physical Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-111sc-principles-of-chemical-science-fall-2014/afc26c2e5de67efafa76680f079d1254_5-111scf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Other Video",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13018,
+    "title": "ChemLab Boot Camp",
+    "description": "",
+    "coursenum": "RES.HS-003",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/res-hs-003-chemlab-boot-camp/mitres_hs003_chp.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10020,
+    "title": "Biological Chemistry I",
+    "description": "",
+    "coursenum": "5.07SC",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-07sc-biological-chemistry-i-fall-2013/753a9eda4508a90642831dcdc23f4f10_5-07scf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Other Video",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10335,
+    "title": "General Chemistry I: Atoms, Molecules, and Bonding",
+    "description": "",
+    "coursenum": "5.01x",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/cbf75148-ef8c-48f4-b68c-41decf6179b1-9d0229a8190a.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7761,
+    "title": "Crystal Structure Refinement",
+    "description": "",
+    "coursenum": "5.067",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/5-067-crystal-structure-refinement-fall-2009/bd6d208fddee4d887fe3104cf59a166a_5-067f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11904,
+    "title": "Laboratory Chemistry",
+    "description": "",
+    "coursenum": "5.310",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-310-laboratory-chemistry-fall-2019/52c765b12e4e9e210ea3daab31337f61_5-310f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8563,
+    "title": "Digital Lab Techniques Manual",
+    "description": "",
+    "coursenum": "RES.5-0001",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/a60170a738063d7b1cfc1d2ebe9fceb7_res-5-0001s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Tutorial Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8912,
+    "title": "Protein Folding and Human Disease",
+    "description": "",
+    "coursenum": "7.88J",
+    "department": [
+      "Biology",
+      "Chemistry",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry",
+      "Proteomics",
+      "Virology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/7-88j-protein-folding-and-human-disease-spring-2015/69d014bcb59ee3010bd02583990ffbd0_7-88js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8308,
+    "title": "Introduction to Organic Synthesis Laboratory",
+    "description": "",
+    "coursenum": "5.37",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Organic Chemistry",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/5-37-introduction-to-organic-synthesis-laboratory-spring-2009/fd981ce72401603d6cf38092cd548b9d_5-37s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8698,
+    "title": "Advanced Organic Chemistry",
+    "description": "",
+    "coursenum": "5.43",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-43-advanced-organic-chemistry-spring-2007/942a2e40f03f64ab3189562028f96cdf_5-43s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9517,
+    "title": "Introduction to Experimental Chemistry",
+    "description": "",
+    "coursenum": "5.35",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-35-introduction-to-experimental-chemistry-fall-2012/ce5292bdc254d0abddc90a2fb3390ecd_5-35f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9553,
+    "title": "Crystal Structure Analysis",
+    "description": "",
+    "coursenum": "5.069",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Atomic, Molecular, Optical Physics",
+      "Analytical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-069-crystal-structure-analysis-spring-2010/554135c46af1873203e11f6560f42e7c_5-069s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9796,
+    "title": "Biological Chemistry II",
+    "description": "",
+    "coursenum": "5.08J",
+    "department": [
+      "Chemistry",
+      "Biology"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Biology",
+      "Biochemistry",
+      "Structural Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/5-08j-biological-chemistry-ii-spring-2016/ca743816abd0bff648c7ead87a38d087_5-08js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8384,
+    "title": "Principles of Chemical Science",
+    "description": "",
+    "coursenum": "5.111",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-111-principles-of-chemical-science-fall-2008/08b6e1982462f0318068a10fe0550826_5-111f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7854,
+    "title": "Organic Chemistry I",
+    "description": "",
+    "coursenum": "5.12",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-12-organic-chemistry-i-spring-2005/d68dbfbd307333faf9def14ad70db65f_5-12s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8825,
+    "title": "Thermodynamics of Biomolecular Systems",
+    "description": "",
+    "coursenum": "20.110J",
+    "department": [
+      "Biological Engineering",
+      "Chemistry",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Biological Engineering",
+      "Thermodynamics",
+      "Biomaterials",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/20-110j-thermodynamics-of-biomolecular-systems-fall-2005/5e3823edb0ed118f8fbd4d5ed960a079_20-110jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11934,
+    "title": "General Chemistry II: Chemical Equilibrium, Kinetics, and Transition Metals",
+    "description": "",
+    "coursenum": "5.02x",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/33779baf-a086-4ede-a479-7f408c271ee3-8c8be36e7853.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7956,
+    "title": "Synthetic Organic Chemistry II",
+    "description": "",
+    "coursenum": "5.512",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Biological Engineering",
+      "Biology",
+      "Organic Chemistry",
+      "Molecular Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/5-512-synthetic-organic-chemistry-ii-spring-2005/4997b774663b6be3d3580a6cd780a4c7_5-512s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8093,
+    "title": "Chemistry Laboratory Techniques",
+    "description": "",
+    "coursenum": "5.301",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/608fbe13fdb3edc9a80e353b29b7ebe1_5-301iap12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Demonstration Videos",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8267,
+    "title": "Computational Quantum Mechanics of Molecular and Extended Systems",
+    "description": "",
+    "coursenum": "10.675J",
+    "department": [
+      "Chemical Engineering",
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Systems Engineering",
+      "Computational Science and Engineering",
+      "Quantum Mechanics",
+      "Chemical Engineering",
+      "Analytical Chemistry",
+      "Molecular Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/10-675j-computational-quantum-mechanics-of-molecular-and-extended-systems-fall-2004/e1a13dab8e206ba6f5b27984db2abc9e_10-675jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9178,
+    "title": "Biochemistry Laboratory",
+    "description": "",
+    "coursenum": "5.36",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-36-biochemistry-laboratory-spring-2009/ac1586bc3d2b67f4782780f48ccca8f2_5-36S09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9204,
+    "title": "Principles of Inorganic Chemistry III",
+    "description": "",
+    "coursenum": "5.05",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Inorganic Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-05-principles-of-inorganic-chemistry-iii-spring-2005/fb3cb7fe99b2461fa42fc0cf7028ae96_5-05s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7855,
+    "title": "Physical Chemistry",
+    "description": "",
+    "coursenum": "5.61",
+    "department": [
+      "Chemistry"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/5-61-physical-chemistry-fall-2017/aac3f83963cf867b65f821a0fa92829b_5-61f17.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

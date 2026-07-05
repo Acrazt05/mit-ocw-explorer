@@ -1,0 +1,1553 @@
+[
+  {
+    "id": 9883,
+    "title": "Photon and Neutron Scattering Spectroscopy and Its Applications in Condensed Matter",
+    "description": "",
+    "coursenum": "22.903",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Condensed Matter Physics",
+      "Nuclear Engineering",
+      "Spectroscopy"
+    ],
+    "url": "",
+    "image_src": "/courses/22-903-photon-and-neutron-scattering-spectroscopy-and-its-applications-in-condensed-matter-spring-2005/ede41a63a07b03314e1b30f627f0af02_22-903s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11485,
+    "title": "Introduction to Plasma Physics I",
+    "description": "",
+    "coursenum": "22.611J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Astrophysics",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-611j-introduction-to-plasma-physics-i-fall-2003/00ac4e8e28b0067dc35f123d743ba91d_22-611jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11896,
+    "title": "Nuclear Engineering: Science, Systems and Society",
+    "description": "",
+    "coursenum": "22.011",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Energy",
+      "Technology",
+      "Climate",
+      "Nuclear",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/22-011-nuclear-engineering-science-systems-and-society-spring-2020/1ef47499189cef79995e0dfa7138fb35_22-011s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9193,
+    "title": "Noninvasive Imaging in Biology and Medicine",
+    "description": "",
+    "coursenum": "22.56J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Biological Engineering",
+      "Health Sciences and Technology",
+      "Brain and Cognitive Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Biomedical Signal and Image Processing",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/22-56j-noninvasive-imaging-in-biology-and-medicine-fall-2005/0baab77f2b778b713d47e0c909b38b67_22-56jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9567,
+    "title": "Undergraduate Thesis Tutorial",
+    "description": "",
+    "coursenum": "22.THT",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Humanities",
+      "Literature",
+      "Nuclear Engineering",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/22-tht-undergraduate-thesis-tutorial-fall-2015/f49d46243a5c035597e75941ffec830a_22-thtf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5213,
+    "title": "Nuclear Energy: Science, Systems and Society",
+    "description": "",
+    "coursenum": "22.011x",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Earth Science"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/35d6b823-32b8-477b-87d8-937a687c8801-fd1373fa3566.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9265,
+    "title": "Materials in Nuclear Engineering",
+    "description": "",
+    "coursenum": "22.14",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Nuclear Engineering",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-14-materials-in-nuclear-engineering-spring-2015/9c0260c48c6fb9800e99c09ca0110a4a_22-14s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8667,
+    "title": "A Hands-On Introduction to Nuclear Magnetic Resonance",
+    "description": "",
+    "coursenum": "22.920",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Nuclear Physics",
+      "Biomedical Signal and Image Processing",
+      "Spectroscopy",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/22-920-a-hands-on-introduction-to-nuclear-magnetic-resonance-january-iap-1997/7e3db2f271726ace3cc2d5f42f5ff760_22-920iap97.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Simulation Videos",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8484,
+    "title": "Electromagnetic Interactions",
+    "description": "",
+    "coursenum": "22.105",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/22-105-electromagnetic-interactions-fall-2005/dfaf8ba6d6f932d4bf4750a02ca82680_22-105f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8865,
+    "title": "Principles of Radiation Interactions",
+    "description": "",
+    "coursenum": "22.55J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Radiological Engineering",
+      "Electromagnetism",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/22-55j-principles-of-radiation-interactions-fall-2004/f9189692418bf0a18d0b8d36d9a599f1_22-55jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9780,
+    "title": "Do-It-Yourself (DIY) Geiger Counters",
+    "description": "",
+    "coursenum": "22.S902",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Electronics",
+      "Electrical Engineering",
+      "Energy",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Nuclear"
+    ],
+    "url": "",
+    "image_src": "/courses/22-s902-do-it-yourself-diy-geiger-counters-january-iap-2015/70aced48c6f256b6582584632ce2b8e7_22-s902iap15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Image Gallery",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9735,
+    "title": "Essential Numerical Methods",
+    "description": "",
+    "coursenum": "22.15",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Computational Modeling and Simulation",
+      "Numerical Simulation",
+      "Differential Equations",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-15-essential-numerical-methods-fall-2014/b43308e0545888f146ccb4324e2cbec8_22-15f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Tutorial Videos",
+      "Problem Sets",
+      "Exams",
+      "Open Textbooks",
+      "Programming Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11822,
+    "title": "Applied Nuclear Physics",
+    "description": "",
+    "coursenum": "22.101",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-101-applied-nuclear-physics-fall-2003/4590c8970805f384bb2d8a9284d2ea6d_22-101f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8703,
+    "title": "Plasma Transport Theory",
+    "description": "",
+    "coursenum": "22.616",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Transport Processes",
+      "Nuclear Physics",
+      "Chemical Engineering",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-616-plasma-transport-theory-fall-2003/2e452b25b18549d6efd1369b00e0d7df_22-616f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13077,
+    "title": "Principles of Plasma Diagnostics",
+    "description": "",
+    "coursenum": "22.67J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-67j-principles-of-plasma-diagnostics-fall-2023/mit22_67j_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Supplemental Exam Materials"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9933,
+    "title": "Introduction to Electronics, Signals, and Measurement",
+    "description": "",
+    "coursenum": "6.071J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Electronics",
+      "Mathematics",
+      "Electrical Engineering",
+      "Signal Processing",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/f65b4d007b84cc4275b82686aca1a439_6-071js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9423,
+    "title": "Introduction to Plasma Physics I",
+    "description": "",
+    "coursenum": "22.611J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Astrophysics",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-611j-introduction-to-plasma-physics-i-fall-2006/c107de0abc4a3369e6434485a8004fcb_22-611jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8269,
+    "title": "Engineering of Nuclear Reactors",
+    "description": "",
+    "coursenum": "22.312",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-312-engineering-of-nuclear-reactors-fall-2015/c44a93b7289721d920ea7d7be5f44db2_22-312f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13052,
+    "title": "Introduction to Nuclear Engineering and Ionizing Radiation",
+    "description": "",
+    "coursenum": "22.01",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-spring-2024/mit22_01_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem-solving Notes",
+      "Problem Sets",
+      "Podcasts",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9901,
+    "title": "Superconducting Magnets",
+    "description": "",
+    "coursenum": "22.68J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Quantum Mechanics",
+      "Condensed Matter Physics",
+      "Electromagnetism"
+    ],
+    "url": "",
+    "image_src": "/courses/22-68j-superconducting-magnets-spring-2003/a23f486d2b0b1148ace5f5c787fff897_22-68js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12751,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8531,
+    "title": "Introduction to Modeling and Simulation",
+    "description": "",
+    "coursenum": "3.021J",
+    "department": [
+      "Materials Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Materials Science and Engineering",
+      "Computational Modeling and Simulation",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8613,
+    "title": "Integration of Reactor Design, Operations, and Safety",
+    "description": "",
+    "coursenum": "22.39",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Energy",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Nuclear Systems, Policy, and Economics",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/2c66dc4f15e2c7ad835c009b05242289_22-39f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8916,
+    "title": "Seminar: Fusion and Plasma Physics",
+    "description": "",
+    "coursenum": "22.012",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/7304a857b003afd41a370decbd08f9fe_22-012s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9114,
+    "title": "Systems Analysis of the Nuclear Fuel Cycle",
+    "description": "",
+    "coursenum": "22.251",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-251-systems-analysis-of-the-nuclear-fuel-cycle-fall-2009/49b17e5a17b7945549b05b02624073ee_22-251f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8284,
+    "title": "Nuclear Reactor Safety",
+    "description": "",
+    "coursenum": "22.091",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Energy",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-091-nuclear-reactor-safety-spring-2008/cf3f97b58e895f4fc45fb33735e04871_22-091s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8645,
+    "title": "Neutron Science and Reactor Physics",
+    "description": "",
+    "coursenum": "22.05",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Particle Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-05-neutron-science-and-reactor-physics-fall-2009/3451a78bfe068b80dbb35087d9fd72a8_22-68js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9563,
+    "title": "MHD Theory of Fusion Systems",
+    "description": "",
+    "coursenum": "22.615",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Chemistry",
+      "Nuclear Physics",
+      "Electromagnetism",
+      "Physical Chemistry",
+      "High Energy Physics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-615-mhd-theory-of-fusion-systems-spring-2007/48c6fdcd52c936a87f8852e3a8f73527_22-615s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8599,
+    "title": "Quantum Theory of Radiation Interactions",
+    "description": "",
+    "coursenum": "22.51",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Quantum Mechanics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-51-quantum-theory-of-radiation-interactions-fall-2012/d8a34810437df914ef4d9469678e86e2_22-51f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8153,
+    "title": "Physical Metallurgy",
+    "description": "",
+    "coursenum": "3.40J",
+    "department": [
+      "Materials Science and Engineering",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Materials Science and Engineering",
+      "Metallurgical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/3-40j-physical-metallurgy-fall-2009/c71ff632825c10a3cf0a2fb6e8d0ba35_3-40jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8391,
+    "title": "Structural Mechanics in Nuclear Power Technology",
+    "description": "",
+    "coursenum": "22.314J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Energy",
+      "Solid Mechanics",
+      "Structural Mechanics",
+      "Aerospace Engineering",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Nuclear Materials"
+    ],
+    "url": "",
+    "image_src": "/courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a62aa88b04b90e0108fed056752fd507_22-314jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9357,
+    "title": "Applied Nuclear Physics",
+    "description": "",
+    "coursenum": "22.101",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-101-applied-nuclear-physics-fall-2006/1e0b71568c69ca7e086a4431704af685_22-101f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Image Gallery",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7804,
+    "title": "Principles of Medical Imaging",
+    "description": "",
+    "coursenum": "22.058",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Health and Medicine",
+      "Atomic, Molecular, Optical Physics",
+      "Biomedical Signal and Image Processing",
+      "Nuclear Engineering",
+      "Spectroscopy",
+      "Biomedical Instrumentation",
+      "Medical Imaging",
+      "Radiological Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-058-principles-of-medical-imaging-fall-2002/d2144a27abd7c43e11a1f11b6d90da47_22-058f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8053,
+    "title": "Probability And Its Applications To Reliability, Quality Control, And Risk Assessment",
+    "description": "",
+    "coursenum": "22.38",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-38-probability-and-its-applications-to-reliability-quality-control-and-risk-assessment-fall-2005/6fbd15d7ca09fae7e66c97bd1a59c848_22-38f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7781,
+    "title": "Introduction to Sustainable Energy",
+    "description": "",
+    "coursenum": "22.081J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Urban Studies and Planning",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Public Administration",
+      "Electrical Engineering",
+      "Earth Science",
+      "Energy",
+      "Technology",
+      "Electric Power",
+      "Science and Technology Policy",
+      "Fossil Fuels",
+      "Nuclear",
+      "Electricity",
+      "Renewables",
+      "Combustion",
+      "Transportation",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/22-081j-introduction-to-sustainable-energy-fall-2010/61602f1b9bd68d301f9fbe3893c266d9_22-081jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7874,
+    "title": "Managing Nuclear Technology",
+    "description": "",
+    "coursenum": "22.812J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Management",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Business",
+      "Science and Technology Policy",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Electricity",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-812j-managing-nuclear-technology-spring-2004/4833c0447dd7d692c07d30137c6f1309_22-812js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8817,
+    "title": "Nuclear Systems Design Project",
+    "description": "",
+    "coursenum": "22.033",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Energy",
+      "Business",
+      "Nuclear Physics",
+      "Project Management",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Renewables",
+      "Hydrogen and Alternatives",
+      "Nuclear Systems, Policy, and Economics",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/22-033-nuclear-systems-design-project-fall-2011/2dd223d254f7cf31e2c811afdb87eeb8_22-033f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Other Video",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9477,
+    "title": "Microscopic Theory of Transport",
+    "description": "",
+    "coursenum": "22.103",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Transport Processes",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/22-103-microscopic-theory-of-transport-fall-2003/c8baab8e1f3b05127ba99dbb6e82ac5a_22-103f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11928,
+    "title": "Fundamentals of Advanced Energy Conversion",
+    "description": "",
+    "coursenum": "2.60J",
+    "department": [
+      "Mechanical Engineering",
+      "Chemical Engineering",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Energy",
+      "Transport Processes",
+      "Thermodynamics",
+      "Chemical Engineering",
+      "Fossil Fuels",
+      "Nuclear",
+      "Renewables",
+      "Combustion",
+      "Fuel Cells",
+      "Hydrogen and Alternatives"
+    ],
+    "url": "",
+    "image_src": "/courses/2-60j-fundamentals-of-advanced-energy-conversion-spring-2020/92fc5969d1aa2ec6a7e2ed62f781e38b_2-60js20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11894,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2020/fcf0a572dbb9cb7b4d22c768c8e2fc84_18-S191f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7640,
+    "title": "Nuclear Energy: Science, Systems and Society",
+    "description": "",
+    "coursenum": "22.011x",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+22.011x+3T2018+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7967,
+    "title": "Neutron Interactions and Applications",
+    "description": "",
+    "coursenum": "22.106",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Chemistry",
+      "Transport Processes",
+      "Nuclear Engineering",
+      "Chemical Engineering",
+      "Physical Chemistry"
+    ],
+    "url": "",
+    "image_src": "/courses/22-106-neutron-interactions-and-applications-spring-2010/3b37c0492045b20effef905e2cc3f6c4_22-106s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9784,
+    "title": "Career Options for Biomedical Research",
+    "description": "",
+    "coursenum": "22.A09",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Health and Medicine",
+      "Biomedicine",
+      "Nuclear Engineering",
+      "Medical Imaging",
+      "Radiological Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-a09-career-options-for-biomedical-research-fall-2006/71b90635c3eceec5b52b1b2b9fd65c7c_22-a09s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9744,
+    "title": "Nuclear Power Plant Dynamics and Control",
+    "description": "",
+    "coursenum": "22.921",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mechanical Engineering",
+      "Energy",
+      "Nuclear Engineering",
+      "Nuclear",
+      "Dynamics and Control"
+    ],
+    "url": "",
+    "image_src": "/courses/22-921-nuclear-power-plant-dynamics-and-control-january-iap-2006/49e8c791b9a4332cbd2e60860cfd5cb8_22-921iap06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9830,
+    "title": "Statistical Thermodynamics of Complex Liquids",
+    "description": "",
+    "coursenum": "22.52J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Physics",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Fluid Mechanics",
+      "Thermodynamics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-52j-statistical-thermodynamics-of-complex-liquids-spring-2004/b810ec94d82d16488adde930a516473a_22-52js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10285,
+    "title": "Ethics for Engineers: Artificial Intelligence",
+    "description": "",
+    "coursenum": "10.01",
+    "department": [
+      "Chemical Engineering",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Nuclear Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Artificial Intelligence",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/10-01-ethics-for-engineers-artificial-intelligence-spring-2020/ada7d23d0198f4fd05b613e6fb374b6c_10-01s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10284,
+    "title": "Sustainable Energy",
+    "description": "",
+    "coursenum": "22.811x",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Earth Science"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/37c5ca2e-5741-48a9-a8d6-da03aed266ab-77f539f3fcfa.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9992,
+    "title": "Engineering Risk-Benefit Analysis",
+    "description": "",
+    "coursenum": "ESD.72",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Electrical Engineering and Computer Science",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-72-engineering-risk-benefit-analysis-spring-2007/c44a0f437b8d4e8907ab90563ec79430_esd-72s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9853,
+    "title": "Thermal Hydraulics in Power Technology",
+    "description": "",
+    "coursenum": "22.313J",
+    "department": [
+      "Nuclear Science and Engineering",
+      "Mechanical Engineering",
+      "Chemical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Energy",
+      "Fluid Mechanics",
+      "Thermodynamics",
+      "Nuclear Engineering",
+      "Fossil Fuels",
+      "Nuclear"
+    ],
+    "url": "",
+    "image_src": "/courses/22-313j-thermal-hydraulics-in-power-technology-spring-2007/dd95060549e1144887b9d0dc3a37ecc4_22-313js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8241,
+    "title": "Introduction to Nuclear Engineering and Ionizing Radiation",
+    "description": "",
+    "coursenum": "22.01",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/64a937e4f745ca4557288943eac0cec7_22-01f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Instructor Insights",
+      "Podcasts",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9974,
+    "title": "Magnetic Resonance Analytic, Biochemical, and Imaging Techniques",
+    "description": "",
+    "coursenum": "HST.584J",
+    "department": [
+      "Health Sciences and Technology",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Health and Medicine",
+      "Biology",
+      "Biochemistry",
+      "Biomedical Signal and Image Processing",
+      "Spectroscopy",
+      "Biomedical Instrumentation",
+      "Medical Imaging"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/0dc1691db5c9b0896baf4df044309b83_hst-584js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8710,
+    "title": "Introduction to Applied Nuclear Physics",
+    "description": "",
+    "coursenum": "22.02",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Quantum Mechanics",
+      "Nuclear Physics",
+      "Nuclear Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/22-02-introduction-to-applied-nuclear-physics-spring-2012/65bb8bf80d67af92e9142405fb040ccb_22-02s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8801,
+    "title": "Engineering of Nuclear Systems",
+    "description": "",
+    "coursenum": "22.06",
+    "department": [
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Nuclear Physics",
+      "Nuclear Engineering",
+      "Nuclear Systems, Policy, and Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/22-06-engineering-of-nuclear-systems-fall-2010/a840f7793ae49c039f8e5bc827b4102e_22-06f10.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]

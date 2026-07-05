@@ -1,0 +1,5388 @@
+[
+  {
+    "id": 10094,
+    "title": "A Vision of Linear Algebra",
+    "description": "",
+    "coursenum": "RES.18-010",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/7cc0f4ea3cbe6ba10f16c1bad81fb872_RES-18-010S20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10722,
+    "title": "Seminar in Algebra and Number Theory: Rational Points on Elliptic Curves",
+    "description": "",
+    "coursenum": "18.704",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/071b4152ee6ad67080f897508e007042_18-704f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10424,
+    "title": "Statistics for Applications",
+    "description": "",
+    "coursenum": "18.650 (formerly 18.443)",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-443-statistics-for-applications-fall-2006/6c92ce2163e4ec36b9804b2fa4276ee8_18-443f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10326,
+    "title": "Introduction to Computational Thinking with Julia, with Applications to Modeling the COVID-19 Pandemic",
+    "description": "",
+    "coursenum": "18.S190",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/6de8ebc1dd0be8960d71d7cc53c0c6fb_18-S190s20.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10986,
+    "title": "Introduction to Numerical Analysis",
+    "description": "",
+    "coursenum": "18.330",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Algorithms and Data Structures",
+      "Numerical Simulation",
+      "Linear Algebra",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-330-introduction-to-numerical-analysis-spring-2004/28d18c4b18680fb9cec563f53a722bcc_18-330s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11291,
+    "title": "Topics in Geometry: Dirac Geometry",
+    "description": "",
+    "coursenum": "18.969",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-969-topics-in-geometry-dirac-geometry-fall-2006/3f2c8b5f012d763958c1f77f19ac2f80_18-969f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11883,
+    "title": "System Functions and the Laplace Transform",
+    "description": "",
+    "coursenum": "18.031",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-031-system-functions-and-the-laplace-transform-spring-2019/59ae678fd4601bfc791b1072bf5ebc11_18-031s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9221,
+    "title": "Matrix Methods in Data Analysis, Signal Processing, and Machine Learning",
+    "description": "",
+    "coursenum": "18.065",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Electrical Engineering",
+      "Applied Mathematics",
+      "Signal Processing",
+      "Computation",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/a24ae149b417e01db75f22ca566124e1_18-065s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9587,
+    "title": "Nonlinear Dynamics I: Chaos",
+    "description": "",
+    "coursenum": "18.353J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Computation",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-353j-nonlinear-dynamics-i-chaos-fall-2012/77a54ac6a70457dd6db42aaa1fc8ba51_18-353jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9546,
+    "title": "Project Laboratory in Mathematics",
+    "description": "",
+    "coursenum": "18.821",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-821-project-laboratory-in-mathematics-spring-2013/4d23091d2bc56fe46d100d53ae797a5f_18-821s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Other Video",
+      "Projects with Examples",
+      "Activity Assignments with Examples",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9564,
+    "title": "Number Theory II: Class Field Theory",
+    "description": "",
+    "coursenum": "18.786",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-786-number-theory-ii-class-field-theory-spring-2016/ba708ad42cb68fbea3d0f9ec2e1f79ca_18-786s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9669,
+    "title": "Geometry of Manifolds",
+    "description": "",
+    "coursenum": "18.965",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-965-geometry-of-manifolds-fall-2004/548bd1266225994fc759f41bbc27d07d_18-965f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7780,
+    "title": "Combinatorial Theory: Introduction to Graph Theory, Extremal and Enumerative Combinatorics",
+    "description": "",
+    "coursenum": "18.315",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-315-combinatorial-theory-introduction-to-graph-theory-extremal-and-enumerative-combinatorics-spring-2005/6650116cd4ad693957f971488da42503_18-315s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7787,
+    "title": "Linear Algebra",
+    "description": "",
+    "coursenum": "18.700",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-700-linear-algebra-fall-2013/6cde8d0d6f20c8b94910655107a062ee_18-700f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7840,
+    "title": "Algorithmic Aspects of Machine Learning",
+    "description": "",
+    "coursenum": "18.409",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-409-algorithmic-aspects-of-machine-learning-spring-2015/3d7ff2a0d791261f7077adb098c78ed1_18-409s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8444,
+    "title": "Differential Analysis II: Partial Differential Equations and Fourier Analysis",
+    "description": "",
+    "coursenum": "18.156",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-156-differential-analysis-ii-partial-differential-equations-and-fourier-analysis-spring-2016/da71a9757eb20c0f278233119ff54d21_18-156s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8370,
+    "title": "Topics in Algebraic Geometry: Algebraic Surfaces",
+    "description": "",
+    "coursenum": "18.727",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-727-topics-in-algebraic-geometry-algebraic-surfaces-spring-2008/8f390bc5d27018b4ea7e4fb973e14c34_18-727s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5183,
+    "title": "Fundamentals of Statistics",
+    "description": "",
+    "coursenum": "18.6501x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/54f10d8d-e1cd-44a9-9fe3-af78afe8a9ed-e646d043ea61.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7695,
+    "title": "Principles of Discrete Applied Mathematics",
+    "description": "",
+    "coursenum": "18.310",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Mathematics",
+      "Probability and Statistics",
+      "Social Science",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/f6300cde552a98c22884c27ecca1b72e_18-310f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7950,
+    "title": "Introduction to Topology",
+    "description": "",
+    "coursenum": "18.901",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-901-introduction-to-topology-fall-2004/fd6e6b71b2a84ed4cc62a976da33a264_18-901f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8582,
+    "title": "Undergraduate Seminar in Discrete Mathematics",
+    "description": "",
+    "coursenum": "18.304",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Algebra and Number Theory",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/e56a9aa6e64ad78e013c3afbd4cd0bb1_18-304s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8973,
+    "title": "Topics in Several Complex Variables",
+    "description": "",
+    "coursenum": "18.117",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-117-topics-in-several-complex-variables-spring-2005/1db5ebf0f06dd7bbe03847998f43022d_18-117s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8976,
+    "title": "Analysis II",
+    "description": "",
+    "coursenum": "18.101",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-101-analysis-ii-fall-2005/d6cb407b899efae9c3d1f5d19af09815_18-101f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8903,
+    "title": "Topics in Algebraic Topology: The Sullivan Conjecture",
+    "description": "",
+    "coursenum": "18.917",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-917-topics-in-algebraic-topology-the-sullivan-conjecture-fall-2007/974c53d171e35a7e4d95dacbf1e23cc3_18-917f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8954,
+    "title": "Nonlinear Dynamics and Waves",
+    "description": "",
+    "coursenum": "2.034J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Solid Mechanics",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/2-034j-nonlinear-dynamics-and-waves-spring-2007/a925748279d59197fcad924c0ba5a75a_2-034js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8769,
+    "title": "Differential Analysis",
+    "description": "",
+    "coursenum": "18.155",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-155-differential-analysis-fall-2004/70141aebeb7102f9ab17872367e1b30e_18-155f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9127,
+    "title": "Topics in Mathematics of Data Science",
+    "description": "",
+    "coursenum": "18.S096",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015/4c2db203773cbde2bfcad8df913ce1cc_18-s096f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9097,
+    "title": "Error-Correcting Codes Laboratory",
+    "description": "",
+    "coursenum": "18.413",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/18-413-error-correcting-codes-laboratory-spring-2004/17cae4c772031def96620a65f06a83cb_18-413s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9100,
+    "title": "Topics in Applied Mathematics: Waves and Imaging",
+    "description": "",
+    "coursenum": "18.325",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/18-325-topics-in-applied-mathematics-waves-and-imaging-fall-2015/8962188ef860f9e00e4545c619bf788f_18-325f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8140,
+    "title": "Nonlinear Dynamics II: Continuum Systems",
+    "description": "",
+    "coursenum": "18.354J",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Applied Mathematics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-354j-nonlinear-dynamics-ii-continuum-systems-spring-2015/5f04d067eae392953c52e25806c392cc_18-354js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8352,
+    "title": "Interfacial Phenomena",
+    "description": "",
+    "coursenum": "18.357",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Applied Mathematics",
+      "Fluid Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-357-interfacial-phenomena-fall-2010/f78258ab2201b6b74e15d8a91c728b9c_18-357f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9318,
+    "title": "Wavelets, Filter Banks and Applications",
+    "description": "",
+    "coursenum": "18.327",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Electrical Engineering",
+      "Applied Mathematics",
+      "Signal Processing",
+      "Algebra and Number Theory",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-327-wavelets-filter-banks-and-applications-spring-2003/80fac9361345a9f0dfd8afcded63c663_18-327s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9272,
+    "title": "Highlights of Calculus",
+    "description": "",
+    "coursenum": "RES.18-005",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-005-highlights-of-calculus-spring-2010/463a728bd2bbd5853cf04e6a3edafc0f_res-18-005s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9418,
+    "title": "Algebraic Geometry",
+    "description": "",
+    "coursenum": "18.725",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-725-algebraic-geometry-fall-2015/7189465aad2d9ddb7ece9baf6f5a92f4_18-725f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9361,
+    "title": "Double Affine Hecke Algebras in Representation Theory, Combinatorics, Geometry, and Mathematical Physics",
+    "description": "",
+    "coursenum": "18.735",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-735-double-affine-hecke-algebras-in-representation-theory-combinatorics-geometry-and-mathematical-physics-fall-2009/f537e4655a1fecbeb5796c257768ee6e_18-735f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8675,
+    "title": "Topics in Statistics: Statistical Learning Theory",
+    "description": "",
+    "coursenum": "18.465",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Mathematics",
+      "Probability and Statistics",
+      "Cognitive Science",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/00d896340dedef11b2ef02c3af894892_18-465s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8501,
+    "title": "Combinatorial Optimization",
+    "description": "",
+    "coursenum": "18.433",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/18-433-combinatorial-optimization-fall-2003/a57c259876d3e754c4931bef5590d242_18-433f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8473,
+    "title": "Seminar in Algebra and Number Theory: Computational Commutative Algebra and Algebraic Geometry",
+    "description": "",
+    "coursenum": "18.704",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Computation",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-704-seminar-in-algebra-and-number-theory-computational-commutative-algebra-and-algebraic-geometry-fall-2008/ac106d0ab0e26e5051d6b47de9445f3d_18-704f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8520,
+    "title": "Topics in Lie Theory: Tensor Categories",
+    "description": "",
+    "coursenum": "18.769",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-769-topics-in-lie-theory-tensor-categories-spring-2009/c212cf7565f06c66ca8eece523dc7837_18-769s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9462,
+    "title": "Mathematical Exposition",
+    "description": "",
+    "coursenum": "18.091",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Mathematics",
+      "Social Science",
+      "Mathematical Analysis",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/18-091-mathematical-exposition-spring-2005/5ff1f0b6938ffa773a66d3e0f9687768_18-091s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9034,
+    "title": "Random Matrix Theory and Its Applications",
+    "description": "",
+    "coursenum": "18.996",
+    "department": [
+      "Mathematics",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-996-random-matrix-theory-and-its-applications-spring-2004/1819ac3c1b925ddd9ff03c2319ed7a22_18-996s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9042,
+    "title": "High-Dimensional Statistics",
+    "description": "",
+    "coursenum": "18.S997",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s997-high-dimensional-statistics-spring-2015/a79070435c8e33ee6067851efa852f29_18-s997s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9791,
+    "title": "Calculus Revisited: Complex Variables, Differential Equations, and Linear Algebra",
+    "description": "",
+    "coursenum": "RES.18-008",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011/948b2075b983fdf29b8518199e5db13c_res-18-008f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9785,
+    "title": "Mathematical Methods in Nanophotonics",
+    "description": "",
+    "coursenum": "18.369",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Nanotechnology",
+      "Applied Mathematics",
+      "Atomic, Molecular, Optical Physics",
+      "Quantum Mechanics",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-369-mathematical-methods-in-nanophotonics-spring-2008/4eb8ee24f1c9f1c05b5614738e706921_18-369s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9753,
+    "title": "Algebraic Geometry",
+    "description": "",
+    "coursenum": "18.726",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-726-algebraic-geometry-spring-2009/571dc50635770d2079d6aff34a9267c9_18-726s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9773,
+    "title": "Introduction to Functional Analysis",
+    "description": "",
+    "coursenum": "18.102",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-102-introduction-to-functional-analysis-spring-2009/ac99036eccf333f49ac154d36d2af581_18-102s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12846,
+    "title": "Calculus 1C: Coordinate Systems & Infinite Series",
+    "description": "",
+    "coursenum": "18.01.3x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18013-courseimage-paramcurve_MITxO.png?v=6d435e6a79e06da36fd5a8ea64f0ad8537d6fa82",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13066,
+    "title": "Representations of Lie Groups",
+    "description": "",
+    "coursenum": "18.757",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-757-representations-of-lie-groups-fall-2023/mit18_757_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13155,
+    "title": "Multivariable Calculus Recitation Notes",
+    "description": "",
+    "coursenum": "RES.18-016",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-016-multivariable-calculus-recitation-notes-fall-2024/mitres_18_016_f24_v2.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem-solving Notes",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13112,
+    "title": "Calculus 1B: Integration:Enhanced",
+    "description": "",
+    "coursenum": "18.01.2GZ",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/static/images/mit-dome.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13200,
+    "title": "Projection Theory",
+    "description": "",
+    "coursenum": "18.156",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-156-projection-theory-spring-2025/mit18_156_s25_v2.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11584,
+    "title": "Multivariable Calculus",
+    "description": "",
+    "coursenum": "18.02",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-02-multivariable-calculus-spring-2006/ec3b11a9e61917ff610aaf38a3b3a08f_18-02s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11753,
+    "title": "Topics in Theoretical Computer Science: An Algorithmist's Toolkit",
+    "description": "",
+    "coursenum": "18.409",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/3f0c1f66fea1cf2d46ee60f02b2422d3_18-409f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11752,
+    "title": "Behavior of Algorithms",
+    "description": "",
+    "coursenum": "18.409",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-409-behavior-of-algorithms-spring-2002/12f350b80ee921d9be75e7d68063c0ea_18-409s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11749,
+    "title": "Introduction To MATLAB Programming",
+    "description": "",
+    "coursenum": "18.S997",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Programming Languages",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s997-introduction-to-matlab-programming-fall-2011/f5e3d4a851671a690f037c1f6e91abf9_18-s997f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Videos",
+      "Programming Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11812,
+    "title": "Advanced Algorithms",
+    "description": "",
+    "coursenum": "6.854J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-854j-advanced-algorithms-fall-2005/696395782d4185f0bbc9781d0ca36b93_6-854jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8083,
+    "title": "Theory of Numbers",
+    "description": "",
+    "coursenum": "18.781",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-781-theory-of-numbers-spring-2012/bf03a874c1b7c5c3eb194d0086a8a97b_18-781s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11685,
+    "title": "Design and Analysis of Algorithms",
+    "description": "",
+    "coursenum": "6.046J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-046j-design-and-analysis-of-algorithms-spring-2012/9a1eaa38cdc21738866f2cdd4feb1364_6-046js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8824,
+    "title": "Multivariable Calculus with Theory",
+    "description": "",
+    "coursenum": "18.024",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-024-multivariable-calculus-with-theory-spring-2011/afb0ad5b77bc215a5dcf21ed42822457_18-024s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9976,
+    "title": "Multivariable Calculus",
+    "description": "",
+    "coursenum": "18.02SC",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-02sc-multivariable-calculus-fall-2010/98f7f76b373d20b5c3f849016d8ff5a1_18-02scf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7801,
+    "title": "Single Variable Calculus",
+    "description": "",
+    "coursenum": "18.01",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-01-single-variable-calculus-fall-2006/24c4a7d9cd569a82ef34a8563e50add8_18-01f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13009,
+    "title": "Noncommutative Algebra",
+    "description": "",
+    "coursenum": "18.706",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-706-noncommutative-algebra-spring-2023/18_706_s23.png",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13059,
+    "title": "Graph Theory and Additive Combinatorics",
+    "description": "",
+    "coursenum": "18.225",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-225-graph-theory-and-additive-combinatorics-fall-2023/mit18_225_f23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Open Textbooks",
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13062,
+    "title": "Lie Groups and Lie Algebras II",
+    "description": "",
+    "coursenum": "18.755",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-755-lie-groups-and-lie-algebras-ii-spring-2024/mit18_755_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10005,
+    "title": "Geometry of Manifolds",
+    "description": "",
+    "coursenum": "18.966",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-966-geometry-of-manifolds-spring-2007/8bc4e30988fc589157a788d504ca60bc_18-966s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11080,
+    "title": "Mathematics for Computer Science",
+    "description": "",
+    "coursenum": "6.042J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-042j-mathematics-for-computer-science-fall-2005/2c12187139252b95b36930712f616406_6-042jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8374,
+    "title": "Combinatorial Analysis",
+    "description": "",
+    "coursenum": "18.314",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-314-combinatorial-analysis-fall-2014/34e26b8c8cb14f7c42b18b1384814d01_18-314f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7746,
+    "title": "Advanced Calculus for Engineers",
+    "description": "",
+    "coursenum": "18.075",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-075-advanced-calculus-for-engineers-fall-2004/19c7083c5811de132a7372c64b38fc69_18-075f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7710,
+    "title": "Functions of a Complex Variable",
+    "description": "",
+    "coursenum": "18.112",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-112-functions-of-a-complex-variable-fall-2008/b039f5767c57072ec922e985c5e3749a_18-112f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8492,
+    "title": "Introduction to Partial Differential Equations",
+    "description": "",
+    "coursenum": "18.152",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-152-introduction-to-partial-differential-equations-fall-2011/061672384c0328dd48342ee80c3828fa_18-152f11.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7697,
+    "title": "Linear Partial Differential Equations: Analysis and Numerics",
+    "description": "",
+    "coursenum": "18.303",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-303-linear-partial-differential-equations-analysis-and-numerics-fall-2014/a5c5b0303c8949d7246d46587f058cfb_18-303f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9067,
+    "title": "Linear Algebra",
+    "description": "",
+    "coursenum": "18.06SC",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-06sc-linear-algebra-fall-2011/ad862b68e2323331fd3ee944ed704f38_18-06scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem-solving Videos",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8706,
+    "title": "Complex Variables with Applications",
+    "description": "",
+    "coursenum": "18.04",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-04-complex-variables-with-applications-spring-2018/b097c95ca6e3dbf3714cc8bceb594396_18-04s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem-solving Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8503,
+    "title": "Computational Science and Engineering I",
+    "description": "",
+    "coursenum": "18.085",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Science and Engineering",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-085-computational-science-and-engineering-i-fall-2008/bb0c0ca940d1039808d65232bc727196_18-085f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8004,
+    "title": "Introduction to MATLAB",
+    "description": "",
+    "coursenum": "RES.18-002",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Programming Languages",
+      "Computational Modeling and Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-002-introduction-to-matlab-spring-2008/830547395aefdce81c5e4f16624d5c3b_res-18-002s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Programming Assignments",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11930,
+    "title": "Computational Science and Engineering I",
+    "description": "",
+    "coursenum": "18.085",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Science and Engineering",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-085-computational-science-and-engineering-i-summer-2020/3bb95e8dd1c1e46c06c2a4a7139871f9_18-085su20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights",
+      "Editable Files",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13212,
+    "title": "Elliptic Curves",
+    "description": "",
+    "coursenum": "18.783",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-783-elliptic-curves-fall-2025/mit18_783_f25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Readings",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12757,
+    "title": "Introduction to Differential Equations",
+    "description": "",
+    "coursenum": "18.03.1x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18031_about_image_MITxO.png?v=41481accea58165c33bab53898e5eccf6f96bc39",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12813,
+    "title": "Calculus 1B: Integration",
+    "description": "",
+    "coursenum": "18.01.2x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18012-courseimage-zipline_MITxO.png?v=837ce19978a9f8f12ef54ddd11accb3dce23e271",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12819,
+    "title": "Geometry and Topology in the Plane",
+    "description": "",
+    "coursenum": "18.900",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-900-geometry-and-topology-in-the-plane-spring-2023/mit18_900s23_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12785,
+    "title": "Topics in Theoretical Computer Science: Probabilistically Checkable Proofs",
+    "description": "",
+    "coursenum": "18.408",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Algorithms and Data Structures",
+      "Algebra and Number Theory",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022/18-408f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13011,
+    "title": "Differential Equations: Fourier Series and Partial Differential Equations",
+    "description": "",
+    "coursenum": "18.03.Fx",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18.03.fx_-_course_image_-_MITxO.png?v=fad302c779179bd8e2aefe0c8757d38a2f5d3c5c",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13057,
+    "title": "Probabilistic Methods in Combinatorics",
+    "description": "",
+    "coursenum": "18.226",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/mit18_226_f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights",
+      "Open Textbooks",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13061,
+    "title": "Lie Groups and Lie Algebras I",
+    "description": "",
+    "coursenum": "18.745",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-745-lie-groups-and-lie-algebras-i-fall-2020/mit18_745_f20.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13020,
+    "title": "Introduction to Probability and Statistics",
+    "description": "",
+    "coursenum": "18.05r_10",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+18.05r_10+2022_Summer+type@asset+block@mit18_05_s22_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13111,
+    "title": "Calculus 1A: Differentiation:Enhanced",
+    "description": "",
+    "coursenum": "18.01.1GZ",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/static/images/mit-dome.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13185,
+    "title": "Mathematics for Computer Science",
+    "description": "",
+    "coursenum": "6.1200J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-1200j-mathematics-for-computer-science-spring-2024/mit6_1200j_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Readings",
+      "Problem Sets",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9849,
+    "title": "Commutative Algebra",
+    "description": "",
+    "coursenum": "18.705",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-705-commutative-algebra-fall-2008/362f45b568d4e1c1891f5a303714aa9d_18-705f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9831,
+    "title": "Applied Category Theory",
+    "description": "",
+    "coursenum": "18.S097",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s097-applied-category-theory-january-iap-2019/0d866f14140a2414ef83284d4b5fee6e_18-s097iap19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Open Textbooks",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9960,
+    "title": "Modern Algebra",
+    "description": "",
+    "coursenum": "18.703",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-703-modern-algebra-spring-2013/3d09fda4ba38b046f7a515cb5d2806e0_18-703s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10478,
+    "title": "Algebraic Geometry",
+    "description": "",
+    "coursenum": "18.725",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-725-algebraic-geometry-fall-2003/4ce7ffd129e7a9f3b966d9c9a3c0cd4e_18-725f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10276,
+    "title": "Calculus 1C: Coordinate Systems & Infinite Series",
+    "description": "",
+    "coursenum": "18.01.3x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+18.01.3x+1T2020+type@asset+block@18013-courseimage-paramcurve.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12751,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Aeronautics and Astronautics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2022/18-s191f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7863,
+    "title": "Differential Equations",
+    "description": "",
+    "coursenum": "18.03",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-03-differential-equations-spring-2010/e51bbed857b0ae65e7536f120c1473d9_18-03s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8430,
+    "title": "Advanced Analytic Methods in Science and Engineering",
+    "description": "",
+    "coursenum": "18.305",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-305-advanced-analytic-methods-in-science-and-engineering-fall-2004/586808651e45ce8345333e457e66082c_18-305f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8038,
+    "title": "Mathematical Methods for Engineers II",
+    "description": "",
+    "coursenum": "18.086",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computational Science and Engineering",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-086-mathematical-methods-for-engineers-ii-spring-2006/fc63428cc87099845fc54fbf63770e86_18-086s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8030,
+    "title": "Integral Equations",
+    "description": "",
+    "coursenum": "18.307",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Applied Mathematics",
+      "Theoretical Physics",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-307-integral-equations-spring-2006/812c464b351386889e4437585d1b76c5_18-307s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7940,
+    "title": "Algebra I",
+    "description": "",
+    "coursenum": "18.701",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-701-algebra-i-fall-2010/afe1d32a60b2c66b094096708cdce61e_18-701f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8531,
+    "title": "Introduction to Modeling and Simulation",
+    "description": "",
+    "coursenum": "3.021J",
+    "department": [
+      "Materials Science and Engineering",
+      "Civil and Environmental Engineering",
+      "Chemical Engineering",
+      "Mathematics",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Systems Engineering",
+      "Materials Science and Engineering",
+      "Computational Modeling and Simulation",
+      "Quantum Mechanics",
+      "Classical Mechanics"
+    ],
+    "url": "",
+    "image_src": "/courses/3-021j-introduction-to-modeling-and-simulation-spring-2012/b719d59519dedf1007701a7a298cc80c_3-021js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9632,
+    "title": "Theoretical Environmental Analysis",
+    "description": "",
+    "coursenum": "12.009J",
+    "department": [
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Biology",
+      "Climate Studies",
+      "Atmospheric Science",
+      "Ecology"
+    ],
+    "url": "",
+    "image_src": "/courses/12-009j-theoretical-environmental-analysis-spring-2015/9e11b73d7a358907166b8c1b41463f01_12-009js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11948,
+    "title": "Theory of Computation",
+    "description": "",
+    "coursenum": "18.404J",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Theory of Computation",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-404j-theory-of-computation-fall-2020/25eb14e154bff97af5173a45a625ab51_18-404jf20_v2.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11952,
+    "title": "Introduction to Functional Analysis",
+    "description": "",
+    "coursenum": "18.102",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-102-introduction-to-functional-analysis-spring-2021/64b41398d2b67c115e2811b0f1252042_18-102s21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Lecture Videos",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11979,
+    "title": "Mathematics for Computer Science",
+    "description": "",
+    "coursenum": "6.042J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-042j-mathematics-for-computer-science-spring-2015/6-042js15.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8392,
+    "title": "Distributed Algorithms",
+    "description": "",
+    "coursenum": "6.852J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-852j-distributed-algorithms-fall-2009/cbf5c77ae27ece354f52f3d12ee55431_6-852jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8915,
+    "title": "Statistics for Applications",
+    "description": "",
+    "coursenum": "18.650 (formerly 18.443)",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-443-statistics-for-applications-spring-2015/b03ba381572707485bf4b963de173383_18-443s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8946,
+    "title": "Graduate Topology Seminar: Kan Seminar",
+    "description": "",
+    "coursenum": "18.915",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-915-graduate-topology-seminar-kan-seminar-fall-2014/470a8f4542a58b76a97f3cf6fc6c95d9_18-915f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments with Examples",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8752,
+    "title": "Geometric Combinatorics",
+    "description": "",
+    "coursenum": "18.319",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Algorithms and Data Structures",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-319-geometric-combinatorics-fall-2005/351eee6b05124290b1b8cbff97bb7ca6_18-319f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8726,
+    "title": "Mathematics of Machine Learning",
+    "description": "",
+    "coursenum": "18.657",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Data Mining",
+      "Algorithms and Data Structures",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-657-mathematics-of-machine-learning-fall-2015/1db49f0074b5bdd4f63abac031cc5a63_18-657f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9149,
+    "title": "Introduction to Numerical Analysis",
+    "description": "",
+    "coursenum": "18.330",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/18-330-introduction-to-numerical-analysis-spring-2012/5df8aa2c10fe1b90737c9f0e747b0f70_18-330s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8313,
+    "title": "Introduction to Analysis",
+    "description": "",
+    "coursenum": "18.100A",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis",
+      "Mathematical Logic"
+    ],
+    "url": "",
+    "image_src": "/courses/18-100a-introduction-to-analysis-fall-2012/98f513b4c3f97e3e7d4ad701f3e2b350_18-100af12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8288,
+    "title": "Topics in Geometry: Mirror Symmetry",
+    "description": "",
+    "coursenum": "18.969",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Particle Physics",
+      "Topology and Geometry",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-969-topics-in-geometry-mirror-symmetry-spring-2009/c77397da8d8d7c466051df7ea9fb825f_18-969s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9382,
+    "title": "Real Analysis",
+    "description": "",
+    "coursenum": "18.100C",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-100c-real-analysis-fall-2012/3b934aa7b6d8e92c843375ee21b68644_18-100cf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8690,
+    "title": "Algebraic Topology I",
+    "description": "",
+    "coursenum": "18.905",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-905-algebraic-topology-i-fall-2016/5e0c719d764c68917a8e422c4fd7c449_18-905f16.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8672,
+    "title": "Calculus Revisited: Single Variable Calculus",
+    "description": "",
+    "coursenum": "RES.18-006",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/ce75f78daa412259946bda656816f01e_res-18-006f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9503,
+    "title": "Automata, Computability, and Complexity",
+    "description": "",
+    "coursenum": "6.045J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Cryptography",
+      "Theory of Computation",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-045j-automata-computability-and-complexity-spring-2011/248aff97eaea32d07c0b4d3a3f543438_6-045js11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9023,
+    "title": "Universal Random Structures in 2D",
+    "description": "",
+    "coursenum": "18.177",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Topology and Geometry",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-177-universal-random-structures-in-2d-fall-2015/dccbcf6e0b520e923b7e729b47365c98_18-177f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9006,
+    "title": "Algebra II",
+    "description": "",
+    "coursenum": "18.702",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-702-algebra-ii-spring-2011/84953e4d395c162e6c14347cc881aa82_18-702s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9805,
+    "title": "Advanced Topics in Cryptography",
+    "description": "",
+    "coursenum": "6.876J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Cryptography",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-876j-advanced-topics-in-cryptography-spring-2003/9b5794467907520360c1e6fea0b39e1f_6-876js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11827,
+    "title": "Introduction to Partial Differential Equations",
+    "description": "",
+    "coursenum": "18.152",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-152-introduction-to-partial-differential-equations-fall-2005/0c94ae289c85d0fb865c396fbfc2664e_18-152f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10014,
+    "title": "Introduction to Lie Groups",
+    "description": "",
+    "coursenum": "18.755",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-755-introduction-to-lie-groups-fall-2004/b1061f3c51168f06a49c00484b0d175d_18-755f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10017,
+    "title": "Calculus for Beginners and Artists",
+    "description": "",
+    "coursenum": "RES.18-003",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-003-calculus-for-beginners-and-artists-spring-2005/c1f271bf97863ed8f8435220b8ec7e92_res-18-003s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11413,
+    "title": "Topics in Statistics: Nonparametrics and Robustness",
+    "description": "",
+    "coursenum": "18.465",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/e4689bd84e821cbef0e93289d30e0fc2_18-465s05.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11368,
+    "title": "Topics in Algebraic Number Theory",
+    "description": "",
+    "coursenum": "18.786",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-786-topics-in-algebraic-number-theory-spring-2006/06e3b8f52ff0b481586b699a9f7c85ef_18-786s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11369,
+    "title": "Topics in Algebraic Number Theory",
+    "description": "",
+    "coursenum": "18.786",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-786-topics-in-algebraic-number-theory-spring-2010/ad625fcdbac79d7e2633be2dd7b4aedd_18-786s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9070,
+    "title": "Linear Algebra",
+    "description": "",
+    "coursenum": "18.06",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-06-linear-algebra-spring-2010/862a5bbedf159572528b0f0766d1e611_18-06s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7917,
+    "title": "Design and Analysis of Algorithms",
+    "description": "",
+    "coursenum": "6.046J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/6afddb714577eef8db0746c89641b178_6-046js15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11084,
+    "title": "Mathematics for Computer Science",
+    "description": "",
+    "coursenum": "6.042J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-042j-mathematics-for-computer-science-fall-2010/42ba5c4fb2e9df43aa8b2bc0566b459f_6-042jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Videos",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8862,
+    "title": "Introduction to Numerical Methods",
+    "description": "",
+    "coursenum": "18.335J",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Algorithms and Data Structures",
+      "Numerical Simulation",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-335j-introduction-to-numerical-methods-spring-2019/d063f5d67a2a7d5a22b5a9e88e6a95be_18-335js19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7845,
+    "title": "Probability and Random Variables",
+    "description": "",
+    "coursenum": "18.440",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-440-probability-and-random-variables-spring-2014/73256e6260afadff2dc8f71302e4bff4_18-440s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11311,
+    "title": "Honors Differential Equations",
+    "description": "",
+    "coursenum": "18.034",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-034-honors-differential-equations-spring-2004/ade3412a58f3fa8f7cf4888d277ad571_18-034s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9224,
+    "title": "Single Variable Calculus",
+    "description": "",
+    "coursenum": "18.01SC",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-01sc-single-variable-calculus-fall-2010/7b739fdc0a8fb0302fdbe037fbaa89a3_CHP_secant.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7895,
+    "title": "Analysis I",
+    "description": "",
+    "coursenum": "18.100B",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-100b-analysis-i-fall-2010/5c88f9408009514f73f41d6b5d91fd13_18-100bf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11013,
+    "title": "Quantum Computation",
+    "description": "",
+    "coursenum": "18.435J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Physics",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Theory of Computation",
+      "Quantum Mechanics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-435j-quantum-computation-fall-2003/16e4d41cb81f9011b985fc465397aa7e_18-435jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11683,
+    "title": "Introduction to Algorithms (SMA 5503)",
+    "description": "",
+    "coursenum": "6.046J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/f79f55df6aae6289ed44a7170e19acd0_6-046jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10028,
+    "title": "Multivariable Calculus",
+    "description": "",
+    "coursenum": "18.02",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-02-multivariable-calculus-fall-2007/78c8aad99135431364661fa7434333e2_18-02f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8415,
+    "title": "Introduction to Arithmetic Geometry",
+    "description": "",
+    "coursenum": "18.782",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-782-introduction-to-arithmetic-geometry-fall-2013/9bd560220dd26c30789344c80171e4e7_18-782f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12022,
+    "title": "Number Theory I",
+    "description": "",
+    "coursenum": "18.785",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-785-number-theory-i-fall-2021/18-785f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9201,
+    "title": "Category Theory for Scientists",
+    "description": "",
+    "coursenum": "18.S996",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Mathematics",
+      "Discrete Mathematics",
+      "Mathematical Logic"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s996-category-theory-for-scientists-spring-2013/f926ffb5e08ee118183af7dfbff5f031_18_s996s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Open Textbooks",
+      "Instructor Insights",
+      "Student Work"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13202,
+    "title": "Topics in Mathematics with Applications in Finance",
+    "description": "",
+    "coursenum": "18.642",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Business",
+      "Finance",
+      "Applied Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/mit18_642_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets",
+      "Activity Assignments",
+      "Projects",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11961,
+    "title": "Elliptic Curves",
+    "description": "",
+    "coursenum": "18.783",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-783-elliptic-curves-spring-2021/743cf5e3ad82e7f2cbd2bd75b454dc5d_18-783s21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7776,
+    "title": "Measure and Integration",
+    "description": "",
+    "coursenum": "18.125",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-125-measure-and-integration-fall-2003/70d02cb821c5e62afd7fbbc2ffe49ab4_18-125f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7774,
+    "title": "Randomized Algorithms",
+    "description": "",
+    "coursenum": "6.856J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/6-856j-randomized-algorithms-fall-2002/da6d1b9b62c59cd9691c0bb342f4416a_6-856jf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8407,
+    "title": "Seminar in Topology",
+    "description": "",
+    "coursenum": "18.904",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-904-seminar-in-topology-spring-2011/d26157d4799e67615995dafb4f02b2b9_18-904s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Instructor Insights",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8443,
+    "title": "Differential Geometry",
+    "description": "",
+    "coursenum": "18.950",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-950-differential-geometry-fall-2008/3f204e57b1b685294d595b129fee7783_18-950f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8408,
+    "title": "Teaching College-Level Science and Engineering",
+    "description": "",
+    "coursenum": "5.95J",
+    "department": [
+      "Chemistry",
+      "Electrical Engineering and Computer Science",
+      "Biology",
+      "Physics",
+      "Mathematics",
+      "Civil and Environmental Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Teaching and Education",
+      "Educational Technology",
+      "Curriculum and Teaching",
+      "Education Policy",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/5-95j-teaching-college-level-science-and-engineering-fall-2015/680c27ffaa1346598119362072b1d5df_5-95jf15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Activity Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8227,
+    "title": "Linear Algebra - Communications Intensive",
+    "description": "",
+    "coursenum": "18.06CI",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Mathematics",
+      "Linear Algebra",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/18-06ci-linear-algebra-communications-intensive-spring-2004/e507be1055075a082b2dea012b3cce5e_18-06cis04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8234,
+    "title": "Calculus with Applications",
+    "description": "",
+    "coursenum": "18.013A",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-013a-calculus-with-applications-spring-2005/ee1d940f9656f4904a480cc98618a09d_18-013as05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8200,
+    "title": "Seminar in Analysis: Applications to Number Theory",
+    "description": "",
+    "coursenum": "18.104",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/f23162eb33cdccc6b5c541500488cb3b_18-104f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8070,
+    "title": "Theory of Probability",
+    "description": "",
+    "coursenum": "18.175",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-175-theory-of-probability-spring-2014/27c7527c8726658ad43f1e098d73b67e_18-175s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8007,
+    "title": "Fourier Analysis",
+    "description": "",
+    "coursenum": "18.103",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-103-fourier-analysis-fall-2013/33eb81b52351dcb5e9e74aaab3219cd0_18-103-f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8887,
+    "title": "Parallel Computing",
+    "description": "",
+    "coursenum": "18.337J",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Computer Design and Engineering",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-337j-parallel-computing-fall-2011/b2fc64557ffc6ce583790290b143a089_18-337jf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8810,
+    "title": "Numerical Methods for Partial Differential Equations",
+    "description": "",
+    "coursenum": "18.336",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Algorithms and Data Structures",
+      "Numerical Simulation",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-336-numerical-methods-for-partial-differential-equations-spring-2009/5acb453ad51bf834e5830f6727878475_18-336s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Projects with Examples",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9512,
+    "title": "The Torch or The Firehose: A Guide to Section Teaching",
+    "description": "",
+    "coursenum": "RES.18-004",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching",
+      "Higher Education"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-004-the-torch-or-the-firehose-a-guide-to-section-teaching-spring-2009/d88fdbd53c846d7405661b773ab64d9f_res-18-004s09.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9447,
+    "title": "Advanced Partial Differential Equations with Applications",
+    "description": "",
+    "coursenum": "18.306",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-306-advanced-partial-differential-equations-with-applications-fall-2009/2a719bb7112655042eb22d8e310f18fe_18-306f09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9450,
+    "title": "Seminar in Geometry",
+    "description": "",
+    "coursenum": "18.994",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-994-seminar-in-geometry-fall-2004/1441213ed8ff74c265a0c0d8fdcb6c09_18-994f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9039,
+    "title": "Calculus Revisited: Multivariable Calculus",
+    "description": "",
+    "coursenum": "RES.18-007",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-007-calculus-revisited-multivariable-calculus-fall-2011/854b435085940a70d021829d02f0b802_res-18-007f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9041,
+    "title": "Nonlinear Dynamics and Chaos",
+    "description": "",
+    "coursenum": "18.385J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2014/e26cc3c39f681a3f670f08faec11a0cf_18-385jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9007,
+    "title": "Infinite Random Matrix Theory",
+    "description": "",
+    "coursenum": "18.338J",
+    "department": [
+      "Mathematics",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Probability and Statistics",
+      "Theoretical Physics",
+      "Algebra and Number Theory",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-338j-infinite-random-matrix-theory-fall-2004/c9bcb94e91dc1350b9d9fd260bbd9535_18-338jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9050,
+    "title": "Simplicity Theory",
+    "description": "",
+    "coursenum": "18.996A",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Mathematical Logic"
+    ],
+    "url": "",
+    "image_src": "/courses/18-996a-simplicity-theory-spring-2004/6d896c1438ecb2a9fee60e7e0c30e34a_18-996as04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11370,
+    "title": "Differential Analysis",
+    "description": "",
+    "coursenum": "18.156",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-156-differential-analysis-spring-2004/32700bc544b68912a88be56dafb7350e_18-156s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11352,
+    "title": "Topics in Algebraic Geometry: Intersection Theory on Moduli Spaces",
+    "description": "",
+    "coursenum": "18.727",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/b78ae26ed033ba9b2b34711764fee532_18-727s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11532,
+    "title": "Topics in Theoretical Computer Science : Internet Research Problems",
+    "description": "",
+    "coursenum": "18.996",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Algorithms and Data Structures",
+      "Theory of Computation",
+      "Telecommunications",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/18-996-topics-in-theoretical-computer-science-internet-research-problems-spring-2002/687f335c38b538fe65f2e8c5e0a657f7_18-996as04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11509,
+    "title": "Nonlinear Dynamics and Chaos",
+    "description": "",
+    "coursenum": "18.385J",
+    "department": [
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Topology and Geometry",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-385j-nonlinear-dynamics-and-chaos-fall-2004/095728c1dcf7bdc3d4a674f09a14d823_18-385jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11750,
+    "title": "The Polynomial Method",
+    "description": "",
+    "coursenum": "18.S997",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s997-the-polynomial-method-fall-2012/cf6f5aa4ce2c6d260778f2b8f8134b44_18-s997f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11894,
+    "title": "Introduction to Computational Thinking",
+    "description": "",
+    "coursenum": "18.S191",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science",
+      "Nuclear Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Energy",
+      "Applied Mathematics",
+      "Computation",
+      "Algorithms and Data Structures",
+      "Computer Networks",
+      "Computer Design and Engineering",
+      "Climate"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s191-introduction-to-computational-thinking-fall-2020/fcf0a572dbb9cb7b4d22c768c8e2fc84_18-S191f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12434,
+    "title": "Algebra I Student Notes",
+    "description": "",
+    "coursenum": "RES.18-011",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-011-algebra-i-student-notes-fall-2021/res_18_011f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12433,
+    "title": "Algebra II Student Notes",
+    "description": "",
+    "coursenum": "RES.18-012",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-012-algebra-ii-student-notes-spring-2022/res_18_012s22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12834,
+    "title": "Differential Equations: 2x2 Systems",
+    "description": "",
+    "coursenum": "18.03.2x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18.032x_courseimage_MITxO.png?v=bb0e1eaeb2bc4ff5f079d479ece6954bd8f22ca6",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12784,
+    "title": "Topics in Combinatorics: Analysis of Boolean Functions",
+    "description": "",
+    "coursenum": "18.218",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-218-topics-in-combinatorics-analysis-of-boolean-functions-spring-2021/18-218s21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12759,
+    "title": "Nonlinear Dynamics: Chaos",
+    "description": "",
+    "coursenum": "12.006J",
+    "department": [
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Mathematics",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Earth Science",
+      "Applied Mathematics",
+      "Geophysics",
+      "Classical Mechanics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/12-006j-nonlinear-dynamics-chaos-fall-2022/12-006f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12842,
+    "title": "Linear Algebra and NxN Systems",
+    "description": "",
+    "coursenum": "18.03.3x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18.033x_CourseImage_MITxO.jpg?v=2cec25b47f7adc2971b9287e723445b02093523a",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12828,
+    "title": "Multivariable Calculus 1: Vectors and Derivatives",
+    "description": "",
+    "coursenum": "18.02.1x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18.02.1x_courseimage_orig_MITxO.png?v=bb1aaecc81c39af8a614116dc6a2fc3328a3f1a7",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12826,
+    "title": "Multivariable Calculus 2: Integrals",
+    "description": "",
+    "coursenum": "18.02.2x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18022x_courseimage_MITxO.png?v=ed97130642f5d775ea85f1c9bba64ff92f94a4ba",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12756,
+    "title": "Calculus 1A: Differentiation",
+    "description": "",
+    "coursenum": "18.01.1x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18011-courseimage-greenbldg_MITxO.png?v=f72f76ad3bdde2143e74a762c41d26df0c8187de",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12803,
+    "title": "Introduction to Metric Spaces",
+    "description": "",
+    "coursenum": "18.S190",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s190-introduction-to-metric-spaces-january-iap-2023/18-s190iap23.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Open Textbooks",
+      "Problem Sets",
+      "Instructor Insights",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12971,
+    "title": "Matrix Calculus for Machine Learning and Beyond",
+    "description": "",
+    "coursenum": "18.S096",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023/mit18_s096_iap23_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Readings",
+      "Instructor Insights",
+      "Editable Files",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13188,
+    "title": "Real Analysis",
+    "description": "",
+    "coursenum": "18.100B",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-100b-real-analysis-spring-2025/mit18_100b_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13203,
+    "title": "Principles of Discrete Applied Mathematics",
+    "description": "",
+    "coursenum": "18.200",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Mathematics",
+      "Probability and Statistics",
+      "Social Science",
+      "Applied Mathematics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/mit18_200_s24_v3.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7657,
+    "title": "Linear Algebra",
+    "description": "",
+    "coursenum": "18.06SC",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:OCW+18.06SC+2T2019+type@asset+block@LinearAlgebra18.06.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7712,
+    "title": "The Art of Counting",
+    "description": "",
+    "coursenum": "18.S66",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s66-the-art-of-counting-spring-2003/4bbe9c55a2b30dac463c4a6eeb779389_18-s66s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7937,
+    "title": "Advanced Algorithms",
+    "description": "",
+    "coursenum": "6.854J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/6-854j-advanced-algorithms-fall-2008/67859e9fc78239f07aad05ffb4f0c7a4_6-854jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8551,
+    "title": "Advanced Complexity Theory",
+    "description": "",
+    "coursenum": "18.405J",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Computation",
+      "Theory of Computation"
+    ],
+    "url": "",
+    "image_src": "/courses/18-405j-advanced-complexity-theory-spring-2016/3354225e18fb645abcf1b480c9e1766b_18-405js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8945,
+    "title": "Introduction to Stochastic Processes",
+    "description": "",
+    "coursenum": "18.445",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-445-introduction-to-stochastic-processes-spring-2015/4c04ce9f1bb7609292aaa5818ff8d1bc_18-445s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8736,
+    "title": "Mathematical Statistics",
+    "description": "",
+    "coursenum": "18.655",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Social Science",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/18-655-mathematical-statistics-spring-2016/c81fd6035b2ba5c281e6340016adb664_18-655s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9077,
+    "title": "Introduction to Representation Theory",
+    "description": "",
+    "coursenum": "18.712",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Linear Algebra"
+    ],
+    "url": "",
+    "image_src": "/courses/18-712-introduction-to-representation-theory-fall-2010/f84b09761c1daa7db84fd057d192f1c7_18-712f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8166,
+    "title": "Learn Differential Equations: Up Close with Gilbert Strang and Cleve Moler",
+    "description": "",
+    "coursenum": "RES.18-009",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Applied Mathematics",
+      "Programming Languages",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/dca2d57b2aa2ae39adce6305c70f0ce1_res-18-009f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8100,
+    "title": "Algebraic Combinatorics",
+    "description": "",
+    "coursenum": "18.212",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-212-algebraic-combinatorics-spring-2019/87640fa832c222479c69e9518d0555b3_18-212s19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8118,
+    "title": "Honors Differential Equations",
+    "description": "",
+    "coursenum": "18.034",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-034-honors-differential-equations-spring-2009/9192c90a33b36f289c6a0dc91834348a_18-034s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8655,
+    "title": "Wave Propagation",
+    "description": "",
+    "coursenum": "2.062J",
+    "department": [
+      "Mechanical Engineering",
+      "Civil and Environmental Engineering",
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Physics",
+      "Mechanical Engineering",
+      "Earth Science",
+      "Environmental Engineering",
+      "Fluid Mechanics",
+      "Quantum Mechanics",
+      "Hydrodynamics",
+      "Geophysics",
+      "Classical Mechanics",
+      "Hydrodynamics and Coastal Engineering",
+      "Ocean Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/2-062j-wave-propagation-spring-2017/ea2eda724319cfa0fe266291b8b0f0de_2-062js17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8514,
+    "title": "Principles of Applied Mathematics",
+    "description": "",
+    "coursenum": "18.311",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-311-principles-of-applied-mathematics-spring-2014/c4467586a509f48a0a3a28a4e6a62e43_18-311s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9670,
+    "title": "Algebraic Topology II",
+    "description": "",
+    "coursenum": "18.906",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-906-algebraic-topology-ii-spring-2020/dcced4a09bccf2620e2522bf6b1b3d26_18-906s17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9699,
+    "title": "Street-Fighting Mathematics",
+    "description": "",
+    "coursenum": "18.098",
+    "department": [
+      "Mathematics",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Computation",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-098-street-fighting-mathematics-january-iap-2008/99d82e3449eef5b852fd2e5034e52fd2_18-098iap08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9777,
+    "title": "Mathematical Problem Solving (Putnam Seminar)",
+    "description": "",
+    "coursenum": "18.A34",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/5a85691b36060dd915db47941bcc2872_18-a34f18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9897,
+    "title": "Topics in Algebraic Combinatorics",
+    "description": "",
+    "coursenum": "18.318",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Linear Algebra",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-318-topics-in-algebraic-combinatorics-spring-2006/9358c983098c4fa75bc1b9480858f302_18-318s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9909,
+    "title": "Statistics for Applications",
+    "description": "",
+    "coursenum": "18.650",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-650-statistics-for-applications-fall-2016/de1506da626801272f3f35bb8412e638_18-650f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9851,
+    "title": "Introduction to Computational Molecular Biology",
+    "description": "",
+    "coursenum": "18.417",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Mathematics",
+      "Biological Engineering",
+      "Biology",
+      "Computation",
+      "Computational Biology",
+      "Molecular Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/18-417-introduction-to-computational-molecular-biology-fall-2004/930803e1cdac4932b52e6b074834702b_18-417f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10081,
+    "title": "Calculus 1A: Differentiation",
+    "description": "",
+    "coursenum": "18.01.1x",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+18.01.1x+2T2019+type@asset+block@18011-courseimage-greenbldg.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9923,
+    "title": "Topics in Combinatorial Optimization",
+    "description": "",
+    "coursenum": "18.997",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computation",
+      "Theory of Computation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/18-997-topics-in-combinatorial-optimization-spring-2004/406879cfb3f4fb04d8b126b92e8b8cce_18-997s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10876,
+    "title": "Combinatorial Theory: Hyperplane Arrangements",
+    "description": "",
+    "coursenum": "18.315",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Topology and Geometry",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-315-combinatorial-theory-hyperplane-arrangements-fall-2004/27e8bdfd4f83898aba33aaf5f6ed4625_18-315f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12024,
+    "title": "Real Analysis",
+    "description": "",
+    "coursenum": "18.100A",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-100a-real-analysis-fall-2020/18-100af20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Exams",
+      "Problem Sets",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12019,
+    "title": "Calculus I: Single Variable Calculus",
+    "description": "",
+    "coursenum": "18.01",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-01-calculus-i-single-variable-calculus-fall-2020/18-01f20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12084,
+    "title": "System Functions and the Laplace Transform",
+    "description": "",
+    "coursenum": "18.031",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:OCW+18.031+2019_Spring+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13068,
+    "title": "Topics in Fourier Analysis",
+    "description": "",
+    "coursenum": "RES.18-015",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-015-topics-in-fourier-analysis-spring-2024/mitres_18_015_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13012,
+    "title": "Transfer Functions and the Laplace Transform",
+    "description": "",
+    "coursenum": "18.03.Lx",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/18.03.LX_courseimage_MITxO.png?v=4d6cb2645da92a7e1b01085979be705327797146",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13081,
+    "title": "Geometry and Quantum Field Theory",
+    "description": "",
+    "coursenum": "18.238",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Mathematics",
+      "Applied Mathematics",
+      "Quantum Mechanics",
+      "Algebra and Number Theory",
+      "Topology and Geometry"
+    ],
+    "url": "",
+    "image_src": "/courses/18-238-geometry-and-quantum-field-theory-spring-2023/mit18_238_s23.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9112,
+    "title": "Random Walks and Diffusion",
+    "description": "",
+    "coursenum": "18.366",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Mechanical Engineering",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Transport Processes",
+      "Fluid Mechanics",
+      "Chemical Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/18-366-random-walks-and-diffusion-fall-2006/f3789f44aae2de9cf675ad3fbd78e4c8_18-366f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11193,
+    "title": "Single Variable Calculus",
+    "description": "",
+    "coursenum": "18.01",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-01-single-variable-calculus-fall-2005/9c1339d31d8f122c6698a29e3a61a66e_18-01f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10409,
+    "title": "Complex Variables with Applications",
+    "description": "",
+    "coursenum": "18.04",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Algebra and Number Theory",
+      "Calculus",
+      "Mathematical Analysis"
+    ],
+    "url": "",
+    "image_src": "/courses/18-04-complex-variables-with-applications-fall-1999/1790a782d0d01699e160227fa083ce88_18-04f99.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9104,
+    "title": "Differential Equations",
+    "description": "",
+    "coursenum": "18.03SC",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-03sc-differential-equations-fall-2011/41623c6eccbf82e137bebd7e69b8a4d8_18-03scf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10082,
+    "title": "Probability and Random Variables",
+    "description": "",
+    "coursenum": "18.600",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-600-probability-and-random-variables-fall-2019/35ef15e0de4cfce22f3e53946daf5e51_18-600f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Open Textbooks",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11217,
+    "title": "Linear Partial Differential Equations",
+    "description": "",
+    "coursenum": "18.303",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Applied Mathematics",
+      "Differential Equations"
+    ],
+    "url": "",
+    "image_src": "/courses/18-303-linear-partial-differential-equations-fall-2006/236cb742d1c7af9cc510abd7175df522_18-303f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8008,
+    "title": "Calculus with Theory",
+    "description": "",
+    "coursenum": "18.014",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-014-calculus-with-theory-fall-2010/d050670d43c1617e5921e5ed9413a0f2_18-014f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9176,
+    "title": "Calculus of Several Variables",
+    "description": "",
+    "coursenum": "18.022",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Linear Algebra",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/18-022-calculus-of-several-variables-fall-2010/b1dae2b3c25146b44cb8905469aeaba4_18-022f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12968,
+    "title": "Introduction to Probability and Statistics",
+    "description": "",
+    "coursenum": "18.05",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-05-introduction-to-probability-and-statistics-spring-2022/mit18_05_s22_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Readings",
+      "Activity Assignments with Examples",
+      "Supplemental Exam Materials",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10700,
+    "title": "Topics in Mathematics with Applications in Finance",
+    "description": "",
+    "coursenum": "18.S096",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Business",
+      "Finance",
+      "Applied Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/bb7de7f57ac6a5938118fc237a68d2b7_18-s096f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12985,
+    "title": "Calculus Open Textbook",
+    "description": "",
+    "coursenum": "RES.18-001",
+    "department": [
+      "Mathematics"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Differential Equations",
+      "Calculus"
+    ],
+    "url": "",
+    "image_src": "/courses/res-18-001-calculus-fall-2023/mitres_18_001_f23_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Open Textbooks"
+    ],
+    "instructors": []
+  }
+]

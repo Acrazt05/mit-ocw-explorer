@@ -1,0 +1,5556 @@
+[
+  {
+    "id": 9867,
+    "title": "Nonlinear Programming",
+    "description": "",
+    "coursenum": "15.084J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-084j-nonlinear-programming-spring-2004/ff0e11d61d4bc1f349c5671287716c25_15-084jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10863,
+    "title": "Managing the Innovation Process",
+    "description": "",
+    "coursenum": "15.351",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-351-managing-the-innovation-process-fall-2002/d5d2af8ff92da63b2d0806b560a5b5f2_15-351f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10446,
+    "title": "Global Strategy and Organization",
+    "description": "",
+    "coursenum": "15.220",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Globalization",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-220-global-strategy-and-organization-spring-2008/4261355ede8bd74c5e64589a3c9e12d8_15-220s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10298,
+    "title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
+    "description": "",
+    "coursenum": "15.481x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/85f9f647-1833-4402-947e-121c3145b16c-dd2c7f21532f.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11001,
+    "title": "Leadership Lab",
+    "description": "",
+    "coursenum": "15.974",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Organizational Behavior",
+      "Business Ethics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-974-leadership-lab-spring-2003/e350e62719eec8409d7ce185f3f544e3_15-974s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Activity Assignments",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11294,
+    "title": "Operations Strategy",
+    "description": "",
+    "coursenum": "15.769",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-769-operations-strategy-spring-2003/45dbb70f2f822290acc0d3b3d9218f1b_15-769s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11902,
+    "title": "User Innovation in Resource Scarcity",
+    "description": "",
+    "coursenum": "15.356.2x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/11fdf50b-bfcf-4947-8246-76d8695af982-d163e2c28cb0.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11906,
+    "title": "Healthcare Finance (15.482x)",
+    "description": "",
+    "coursenum": "RES.15-005",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Health Care Management",
+      "Business",
+      "Finance"
+    ],
+    "url": "",
+    "image_src": "/courses/res-15-005-healthcare-finance-15-482x-spring-2019/48c72b1201995811dc3ec811a422f476_MIT15-005.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9165,
+    "title": "Special Seminar in Communications: Leadership and Personal Effectiveness Coaching",
+    "description": "",
+    "coursenum": "15.277",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-277-special-seminar-in-communications-leadership-and-personal-effectiveness-coaching-fall-2008/44ad182dab695df2d8bed32c7e81cfdd_15-277f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9528,
+    "title": "Individuals, Groups, and Organizations",
+    "description": "",
+    "coursenum": "15.341",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Business",
+      "Sociology",
+      "Organizational Behavior",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-341-individuals-groups-and-organizations-fall-2006/606bb963ece17ca74d967a6f31c8cc94_15-341f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9570,
+    "title": "Managing and Volunteering In the Non-Profit Sector",
+    "description": "",
+    "coursenum": "15.967",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Industrial Relations and Human Resource Management",
+      "Social Welfare"
+    ],
+    "url": "",
+    "image_src": "/courses/15-967-managing-and-volunteering-in-the-non-profit-sector-spring-2005/4818aa451216ec00831b3801bf2ab803_15-967s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9612,
+    "title": "Real Estate Finance and Investment",
+    "description": "",
+    "coursenum": "11.431J",
+    "department": [
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Finance",
+      "Real Estate"
+    ],
+    "url": "",
+    "image_src": "/courses/11-431j-real-estate-finance-and-investment-fall-2006/82608cabfe80b8745ae50e96151e90da_11-431jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9544,
+    "title": "Research Seminar in System Dynamics",
+    "description": "",
+    "coursenum": "15.879",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Management",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-879-research-seminar-in-system-dynamics-spring-2014/c46df307c6571550372ddbd646ece7d5_15-879s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Tutorial Videos",
+      "Written Assignments",
+      "Media Assignments with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7770,
+    "title": "Advanced Strategy",
+    "description": "",
+    "coursenum": "15.963",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Leadership",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-963-advanced-strategy-spring-2008/075d066c8a51a4b1a0ff295dc4367338_15-963s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7878,
+    "title": "Organizational Processes",
+    "description": "",
+    "coursenum": "15.311",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-311-organizational-processes-fall-2003/ec142bf992f660fb52027abeefb86161_15-311f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7899,
+    "title": "System Dynamics II",
+    "description": "",
+    "coursenum": "15.872",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Management",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-872-system-dynamics-ii-fall-2013/563c926e2d5d8b5a64c3248b8c4c566b_15-872f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8394,
+    "title": "MBA Study Tour: Innovation Islands - How New Zealand Became A Global Player in the Race to Innovate",
+    "description": "",
+    "coursenum": "15.228",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Management",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-228-mba-study-tour-innovation-islands-how-new-zealand-became-a-global-player-in-the-race-to-innovate-spring-2016/37514ca54502c07c4948927690ed4048_15-228s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8413,
+    "title": "Manufacturing System and Supply Chain Design",
+    "description": "",
+    "coursenum": "15.763J",
+    "department": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1a7951328ea94209e663d0aab03d627e_15-763js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8363,
+    "title": "Real Estate Capital Markets",
+    "description": "",
+    "coursenum": "11.432J",
+    "department": [
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Finance",
+      "Real Estate"
+    ],
+    "url": "",
+    "image_src": "/courses/11-432j-real-estate-capital-markets-spring-2007/ca215971ad6cb213cf6ea465f799b70f_11-432js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8207,
+    "title": "Macro and International Economics",
+    "description": "",
+    "coursenum": "15.015",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Industrial Organization",
+      "Macroeconomics",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-015-macro-and-international-economics-fall-2011/833be7e9ced74413d6ec79479099fab1_15-015f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Exams",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8260,
+    "title": "Listening to the Customer",
+    "description": "",
+    "coursenum": "15.821",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-821-listening-to-the-customer-fall-2002/10aaf0d928c41e4d8258fa35efee0628_15-821f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8224,
+    "title": "Supply Chain Planning",
+    "description": "",
+    "coursenum": "15.762J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-762j-supply-chain-planning-spring-2011/12b4faeba1b4a271a2f6630a9e35c46f_15-762js11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8005,
+    "title": "Communication for Managers",
+    "description": "",
+    "coursenum": "15.280",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-280-communication-for-managers-fall-2016/701c4ab59ec656e697a309ae50a1cbee_15-280f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8003,
+    "title": "Seminar in Corporate Entrepreneurship",
+    "description": "",
+    "coursenum": "15.369",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Management",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-369-seminar-in-corporate-entrepreneurship-fall-2015/f88c817eb1a61ca7f7b9832a40aac375_15-369f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8075,
+    "title": "Competition in Telecommunications",
+    "description": "",
+    "coursenum": "15.020",
+    "department": [
+      "Sloan School of Management",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Economics",
+      "Social Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Industrial Organization",
+      "Telecommunications"
+    ],
+    "url": "",
+    "image_src": "/courses/15-020-competition-in-telecommunications-fall-2003/292b4048a8cec5c0418751da86757274_15-020f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8058,
+    "title": "Financial Management",
+    "description": "",
+    "coursenum": "15.414",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-414-financial-management-summer-2003/c9cc72af3aa4c28321f09fbeedb02051_15-414su03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 4932,
+    "title": "The Analytics Edge",
+    "description": "",
+    "coursenum": "15.071x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/ff1df27b-3c97-42ee-a9b3-e031ffd41a4f-958fa38a4a59.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4936,
+    "title": "스타트업 기업가정신 101: 당신의 고객은 누구입니까?",
+    "description": "",
+    "coursenum": "15.390.1x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/3eee200f-8969-48c5-8edd-93bebc42a2d4-a4fb428947fd.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4949,
+    "title": "Shaping Work of the Future",
+    "description": "",
+    "coursenum": "15.662x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/09222e6c-a1bc-4307-ba80-294ea4281117-e28e19d05647.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7672,
+    "title": "Derivatives Markets: Advanced Modeling and Strategies",
+    "description": "",
+    "coursenum": "15.435x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6e8a49e3-e74b-4a74-81b7-ebaf9c82c620-e20771d7a2a2.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7694,
+    "title": "Political Economy I",
+    "description": "",
+    "coursenum": "17.100J",
+    "department": [
+      "Political Science",
+      "Sloan School of Management",
+      "Economics"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Political Economy"
+    ],
+    "url": "",
+    "image_src": "/courses/17-100j-political-economy-i-spring-2016/86cf04aef235e3e428868f3c0b37ffcf_17-100js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7930,
+    "title": "Marketing Management: Analytics, Frameworks, and Applications",
+    "description": "",
+    "coursenum": "15.810",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-810-marketing-management-analytics-frameworks-and-applications-fall-2015/04213e06e2f27145757c55a1e9eaac76_15.810s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7923,
+    "title": "Strategic Management I",
+    "description": "",
+    "coursenum": "15.902",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-902-strategic-management-i-fall-2006/35666726017efcd1bae04479a99b479e_15-902f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8547,
+    "title": "Strategic HR Management",
+    "description": "",
+    "coursenum": "15.660",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-660-strategic-hr-management-spring-2003/10124a7188f51cee59a8bd9b3a0aad44_15-660s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8979,
+    "title": "Competitive Decision-Making and Negotiation",
+    "description": "",
+    "coursenum": "15.067",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Business Ethics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-067-competitive-decision-making-and-negotiation-spring-2011/ae875a15c6b850e0943c7519c2aeb693_15-067s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8785,
+    "title": "Managing Innovation and Entrepreneurship",
+    "description": "",
+    "coursenum": "15.351",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Business",
+      "Operations Management",
+      "Marketing",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-351-managing-innovation-and-entrepreneurship-spring-2008/9a4af68c956889de81cef0718bfee56d_15-351s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8776,
+    "title": "Strategic Management II",
+    "description": "",
+    "coursenum": "15.904",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-904-strategic-management-ii-fall-2005/470543bb61f9470cdfe86cd7b5ef7eff_15-904f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8765,
+    "title": "Professional Seminar in Sustainability",
+    "description": "",
+    "coursenum": "15.972",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Earth Science",
+      "Business",
+      "Operations Management",
+      "Political Economy",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/15-972-professional-seminar-in-sustainability-spring-2010/cd9ed0262206bef5d8a24cf38369dfb3_15-972s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9139,
+    "title": "Management of Services: Concepts, Design, and Delivery",
+    "description": "",
+    "coursenum": "15.768",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-768-management-of-services-concepts-design-and-delivery-fall-2010/9aa06bab204dffa7bbe1181813decee5_15-768f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9150,
+    "title": "Architecture and Communication in Organizations",
+    "description": "",
+    "coursenum": "15.990",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Architecture",
+      "Management",
+      "Social Science",
+      "Fine Arts",
+      "Business",
+      "Organizational Behavior",
+      "Environmental Design"
+    ],
+    "url": "",
+    "image_src": "/courses/15-990-architecture-and-communication-in-organizations-fall-2003/ff82b8fe9d08f5b4674cbb676efc9c8a_15-990f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8088,
+    "title": "Power and Negotiation",
+    "description": "",
+    "coursenum": "15.665",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Business Ethics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-665-power-and-negotiation-spring-2014/e2206bcc6110c397925c9581805ad286_15-665s14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8318,
+    "title": "U-Lab: Leading Profound Innovation for a More Sustainable World",
+    "description": "",
+    "coursenum": "15.975",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Science",
+      "Innovation",
+      "Leadership",
+      "Social Science",
+      "Earth Science",
+      "Business",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/15-975-u-lab-leading-profound-innovation-for-a-more-sustainable-world-fall-2010/eba5e2562f53ef09cd47e71fd300301f_15-975f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9298,
+    "title": "Applied Macro- and International Economics",
+    "description": "",
+    "coursenum": "15.012",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Industrial Organization",
+      "Macroeconomics",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-012-applied-macro-and-international-economics-spring-2011/6ea92390245473e58d5b3c0a33d8c718_15-012s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9309,
+    "title": "Global Climate Change: Economics, Science, and Policy",
+    "description": "",
+    "coursenum": "15.023J",
+    "department": [
+      "Sloan School of Management",
+      "Earth, Atmospheric, and Planetary Sciences",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Energy",
+      "Climate Studies",
+      "Science and Technology Policy",
+      "Climate",
+      "Environmental Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/15-023j-global-climate-change-economics-science-and-policy-spring-2008/53578b977200835549f524390101a3de_15-023js08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9254,
+    "title": "Systems Optimization",
+    "description": "",
+    "coursenum": "15.057",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Business",
+      "Applied Mathematics",
+      "Supply Chain Management",
+      "Operations Management",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-057-systems-optimization-spring-2003/6e1806a6c1917facc03f44874c5b71bf_15-057s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9429,
+    "title": "Practical Information Technology Management",
+    "description": "",
+    "coursenum": "15.568A",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Information Technology",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-568a-practical-information-technology-management-spring-2005/a3519df1ca1a47f5420d5944c78b602e_15-568as05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9366,
+    "title": "Managing Innovation: Emerging Trends",
+    "description": "",
+    "coursenum": "15.352",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-352-managing-innovation-emerging-trends-spring-2005/e44c77ef19f6f320ee0cba33dcd5839c_15-352s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9401,
+    "title": "Introduction to Mathematical Programming",
+    "description": "",
+    "coursenum": "6.251J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Software Design and Engineering",
+      "Algorithms and Data Structures",
+      "Discrete Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-251j-introduction-to-mathematical-programming-fall-2009/2da5a90d49ef24dbb5298a0516122992_6-251jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8479,
+    "title": "Research Seminar in IT and Organizations: Economic Perspectives",
+    "description": "",
+    "coursenum": "15.575",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Information Technology",
+      "Operations Management",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/024ddbb681847d71525f9d51830739d9_15-575s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8493,
+    "title": "The Economics of Information: Strategy, Structure and Pricing",
+    "description": "",
+    "coursenum": "15.567",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Information Technology",
+      "Organizational Behavior",
+      "Microeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/865a081fd74c71b86e95e13b91c2af76_15-567f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9486,
+    "title": "Literature, Ethics and Authority",
+    "description": "",
+    "coursenum": "15.269B",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Leadership",
+      "Social Science",
+      "Business",
+      "Anthropology",
+      "Philosophy",
+      "Social Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-269b-literature-ethics-and-authority-fall-2002/4773f3bafe02c143ca421fbd0e8c5f87_15-269bf02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9522,
+    "title": "Analytics of Finance",
+    "description": "",
+    "coursenum": "15.450",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Econometrics",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-450-analytics-of-finance-fall-2010/45ef6e83d4fca4e1774e5ab314481824_15-450f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Exams"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9488,
+    "title": "Communication Skills for Academics",
+    "description": "",
+    "coursenum": "15.289",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "Literature",
+      "Social Science",
+      "Academic Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-289-communication-skills-for-academics-spring-2002/1523eca85e6dd9cd37dd50970bef6aeb_15-289s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9021,
+    "title": "Logistics Systems",
+    "description": "",
+    "coursenum": "ESD.260J",
+    "department": [
+      "Engineering Systems Division",
+      "Civil and Environmental Engineering",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/esd-260j-logistics-systems-fall-2006/e24dfa80ea3094c0fc1b37b1268efc93_esd-260jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9734,
+    "title": "Mission & Metrics: Finance Training for Federal Credit Program Professionals",
+    "description": "",
+    "coursenum": "RES.15-002",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Finance",
+      "Public Policy",
+      "Public Economics",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/res-15-002-mission-metrics-finance-training-for-federal-credit-program-professionals-summer-2016/fae8027142b3a1e4fe8652f19fc47b1b_res-15-002sum16.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9810,
+    "title": "Workshop in IT: Collaborative Innovation Networks",
+    "description": "",
+    "coursenum": "15.599",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Engineering",
+      "Computer Science",
+      "Innovation",
+      "Social Science",
+      "Business",
+      "Information Technology",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-599-workshop-in-it-collaborative-innovation-networks-fall-2011/272e5b76d06116e0f84f048c6f7f5762_15-599f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments",
+      "Programming Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9189,
+    "title": "Game Theory for Managers",
+    "description": "",
+    "coursenum": "15.040",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/15-040-game-theory-for-managers-spring-2004/db0ad91ebb14437a91d5cd78fa7d8d29_15-040s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9935,
+    "title": "D-Lab: Supply Chains",
+    "description": "",
+    "coursenum": "15.772J",
+    "department": [
+      "Sloan School of Management",
+      "Edgerton Center"
+    ],
+    "level": [],
+    "topics": [
+      "The Developing World",
+      "Society",
+      "Business",
+      "Supply Chain Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-772j-d-lab-supply-chains-fall-2014/bbfbe2108c45d842b113a3bd45fb73a8_15-772jf14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Design Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9919,
+    "title": "System Dynamics Self Study",
+    "description": "",
+    "coursenum": "15.988",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Management",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-988-system-dynamics-self-study-fall-1998-spring-1999/ee734d88575396c2eb654fdf2c349766_15-988f98.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9945,
+    "title": "Global Entrepreneurship Lab: Asia-Pacific",
+    "description": "",
+    "coursenum": "15.389A",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Society",
+      "Business",
+      "Finance",
+      "Globalization",
+      "Asian Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/15-389a-global-entrepreneurship-lab-asia-pacific-fall-2010/f7101323b97c39cc8d28680f3d5ec26c_15-389af10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9968,
+    "title": "Queues: Theory and Applications",
+    "description": "",
+    "coursenum": "15.072J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Business",
+      "Applied Mathematics",
+      "Operations Management",
+      "Computational Modeling and Simulation",
+      "Numerical Simulation"
+    ],
+    "url": "",
+    "image_src": "/courses/15-072j-queues-theory-and-applications-spring-2006/0f852e82b57e1ed729cdc8c5e331d7b8_15-072js06-.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9944,
+    "title": "The Theory of Operations Management",
+    "description": "",
+    "coursenum": "15.764",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-764-the-theory-of-operations-management-spring-2004/73262d492c99b4d23f2ee3236b99c42e_15-764s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9982,
+    "title": "MIT Sloan Teaching Resources Library",
+    "description": "",
+    "coursenum": "RES.15-001",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Leadership",
+      "Business",
+      "Finance",
+      "Operations Management",
+      "Organizational Behavior",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/res-15-001-mit-sloan-learningedge-fall-2008/5b5b4bed2390f371101233a9150022b3_res-15-001f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9158,
+    "title": "Finance Theory I",
+    "description": "",
+    "coursenum": "15.401",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-401-finance-theory-i-fall-2008/5ec2e66e89b03d5c5c7806672a26167e_15-401f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8821,
+    "title": "Financial Accounting",
+    "description": "",
+    "coursenum": "15.511",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Finance",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-511-financial-accounting-summer-2004/f89e7ab180350867739e28c2282599c0_15-511su04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7836,
+    "title": "Finance Theory II",
+    "description": "",
+    "coursenum": "15.402",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-402-finance-theory-ii-spring-2003/f8154fc37abd1dcc85131193e9f54ef6_15-402s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8125,
+    "title": "Global Markets, National Politics and the Competitive Advantage of Firms",
+    "description": "",
+    "coursenum": "15.223",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Globalization",
+      "Industrial Organization",
+      "Public Policy",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-223-global-markets-national-politics-and-the-competitive-advantage-of-firms-fall-2011/8d73a567f99d5905c28dc182081dbc0b_15-223f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9774,
+    "title": "Introduction to Financial and Managerial Accounting",
+    "description": "",
+    "coursenum": "15.501",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Finance",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-501-introduction-to-financial-and-managerial-accounting-spring-2004/7d38e86516db70986e22ef8bf96b2ccd_15-501s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13220,
+    "title": "Nuts and Bolts of New Ventures",
+    "description": "",
+    "coursenum": "15.393",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-393-nuts-and-bolts-of-new-ventures-january-iap-2025/mit15_393_iap25_chpimage.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Readings",
+      "Editable Files"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13025,
+    "title": "Product and Service Creation in the Internet Age",
+    "description": "",
+    "coursenum": "15.356.1x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/15.356.1x_about_image_fisherman_MITxO.jpg?v=43bfd3c72525eab1647f264780035028b6d8aa58",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9939,
+    "title": "The Law of Mergers and Acquisitions",
+    "description": "",
+    "coursenum": "15.649",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Business",
+      "Finance",
+      "Legal Studies",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/5471e0714cbfc3df4689d73ec02332ad_15-649s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9914,
+    "title": "Information Technology I",
+    "description": "",
+    "coursenum": "15.564",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Data Mining",
+      "Telecommunications",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/15-564-information-technology-i-spring-2003/c2d7aa34c1be673fc60c01b89c4a8a86_15-564s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10549,
+    "title": "Poker Theory and Analytics",
+    "description": "",
+    "coursenum": "15.S50",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Management",
+      "Probability and Statistics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-s50-poker-theory-and-analytics-january-iap-2015/d0f93b2cd45af686cfe4b6c19e96d0b4_15-s50iap15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12939,
+    "title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
+    "description": "",
+    "coursenum": "15.481X",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Business Ethics",
+      "Marketing",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-481x-adaptive-markets-financial-market-dynamics-and-human-behavior-fall-2022/mit15_481x_f22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Tutorial Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12938,
+    "title": "Optimization Methods in Business Analytics",
+    "description": "",
+    "coursenum": "15.053x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Management",
+      "Business",
+      "Applied Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-053x-optimization-methods-in-business-analytics-summer-2021/15-053s21.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Problem-solving Videos",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7731,
+    "title": "Technology Strategy for System Design and Management",
+    "description": "",
+    "coursenum": "15.965",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Operations Management",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-965-technology-strategy-for-system-design-and-management-spring-2009/3c5b8aeb83fab29622fcd76aa737ef6a_15-965s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7765,
+    "title": "Proseminar in Manufacturing",
+    "description": "",
+    "coursenum": "15.792J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering",
+      "Chemical Engineering",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-792j-proseminar-in-manufacturing-fall-2005/5198fc5d8fbf5889a017358952253827_15-792jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7861,
+    "title": "Building and Leading Effective Teams",
+    "description": "",
+    "coursenum": "15.316",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-316-building-and-leading-effective-teams-summer-2005/a16f8e988308675230659f7469f0fd3d_15-316su05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8416,
+    "title": "Principles and Practice of Drug Development",
+    "description": "",
+    "coursenum": "15.136J",
+    "department": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8367,
+    "title": "Prediction: Machine Learning and Statistics",
+    "description": "",
+    "coursenum": "15.097",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics",
+      "Algorithms and Data Structures"
+    ],
+    "url": "",
+    "image_src": "/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/c4258cee7521fcb6a170395cc220ad26_15-097s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8236,
+    "title": "The Software Business",
+    "description": "",
+    "coursenum": "15.358",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Entrepreneurship",
+      "Management",
+      "Business",
+      "Information Technology",
+      "Software Design and Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/15-358-the-software-business-fall-2005/6faca2660d899b0914b558fc95ad3f54_15-358f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8217,
+    "title": "The Law of Corporate Finance and Financial Markets",
+    "description": "",
+    "coursenum": "15.617",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Legal Studies",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/6ef80b776416864626a8e9182db8797c_15-617s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8206,
+    "title": "Optimization Methods in Management Science",
+    "description": "",
+    "coursenum": "15.053",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Social Science",
+      "Business",
+      "Applied Mathematics",
+      "Operations Management",
+      "Game Theory",
+      "Systems Optimization",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-053-optimization-methods-in-management-science-spring-2013/8136801230c6f92571b41f4dd9059c54_15-053s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8033,
+    "title": "Organizational Leadership and Change",
+    "description": "",
+    "coursenum": "15.317",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Leadership",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-317-organizational-leadership-and-change-summer-2009/08c7f3c8da5e67e541a809e389ef1dec_15-317su09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5161,
+    "title": "Supply Chains for Manufacturing: Capacity Analytics",
+    "description": "",
+    "coursenum": "15.763x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Probability and Statistics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/41256da3-1302-4450-bab2-82d235c28f9a-3aa5e6da83a8.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7719,
+    "title": "Introduction to Operations Management",
+    "description": "",
+    "coursenum": "15.760B",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-760b-introduction-to-operations-management-spring-2004/e50ed883e56faacb6e2b786972795623_15-760bs04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7653,
+    "title": "Healthcare Finance",
+    "description": "",
+    "coursenum": "15.482x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+15.482x+1T2019+type@asset+block@course_image.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7614,
+    "title": "Foundations of Modern Finance II",
+    "description": "",
+    "coursenum": "15.415.2x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/cb9eacc2-8af3-4216-808e-daa4b41bdd95-1f7bb89ec119.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7670,
+    "title": "Mathematical Methods for Quantitative Finance",
+    "description": "",
+    "coursenum": "15.455x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/1bf266b1-0a55-43e5-ae9f-f0c9a51aa515-cd41794112bc.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7615,
+    "title": "The Science and Business of Biotechnology",
+    "description": "",
+    "coursenum": "15.480x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Business",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/561e3620-fe64-4462-820a-bf2de2be2f77-ce59ffc7b939.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7941,
+    "title": "Applied Economics for Managers",
+    "description": "",
+    "coursenum": "15.024",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Microeconomics",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-024-applied-economics-for-managers-summer-2004/f9f4d234035f91f302fb02550358a462_15-024su04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7919,
+    "title": "Integer Programming and Combinatorial Optimization",
+    "description": "",
+    "coursenum": "15.083J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Computation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/7e9b1cf3cf6ee9e6dbf50f48bb1a45c1_15-083jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9715,
+    "title": "Advanced Topics in Real Estate Finance",
+    "description": "",
+    "coursenum": "11.434J",
+    "department": [
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Finance",
+      "Real Estate"
+    ],
+    "url": "",
+    "image_src": "/courses/11-434j-advanced-topics-in-real-estate-finance-spring-2007/0f368fb4ce6a3609fa363a6dcd6452cb_11-434js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9668,
+    "title": "Innovative Businesses and Breakthrough Technologies - The Legal Issues",
+    "description": "",
+    "coursenum": "15.616",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Management",
+      "Social Science",
+      "Business",
+      "Legal Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/15-616-innovative-businesses-and-breakthrough-technologies-the-legal-issues-fall-2004/2b211cb39ee02a8249715745f45b47f1_15-616f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9679,
+    "title": "Developmental Entrepreneurship",
+    "description": "",
+    "coursenum": "MAS.666",
+    "department": [
+      "Media Arts and Sciences",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Business",
+      "International Development"
+    ],
+    "url": "",
+    "image_src": "/courses/mas-666-developmental-entrepreneurship-fall-2003/85f71ca49f7aae933a806189a573046d_mas-666f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9648,
+    "title": "Systems Optimization: Models and Computation (SMA 5223)",
+    "description": "",
+    "coursenum": "15.094J",
+    "department": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Computation",
+      "Data Mining",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-094j-systems-optimization-models-and-computation-sma-5223-spring-2004/995ba6399e8d2e63387355e220776313_15-094js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9676,
+    "title": "Readings in Optimization",
+    "description": "",
+    "coursenum": "15.099",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-099-readings-in-optimization-fall-2003/87aeb842f1bebd83bb469b5a238b0574_15-099f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9634,
+    "title": "System Optimization and Analysis for Manufacturing",
+    "description": "",
+    "coursenum": "15.066J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering",
+      "Materials Science and Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Business",
+      "Operations Management",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-066j-system-optimization-and-analysis-for-manufacturing-summer-2003/fb9a0d06ec610dd2fb726ba1a1607e12_15-066jsu03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Projects with Examples",
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12060,
+    "title": "Bringing Worker Voices into Technology and Employment Strategies",
+    "description": "",
+    "coursenum": "15.699x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/15.699x_AboutImage_MITxO.jpg?v=8fcc77985e900e68caecb8824dab5af91cf96893",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8598,
+    "title": "Strategic Marketing Measurement",
+    "description": "",
+    "coursenum": "15.822",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-822-strategic-marketing-measurement-fall-2002/cbf9a9b44a6af9af92484c00bb5276f0_15-822f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8977,
+    "title": "Leadership Stories: Literature, Ethics, and Authority",
+    "description": "",
+    "coursenum": "15.269",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Literature",
+      "Management",
+      "Leadership",
+      "Business",
+      "Business Ethics",
+      "Philosophy",
+      "Fiction",
+      "Comparative Literature"
+    ],
+    "url": "",
+    "image_src": "/courses/15-269-leadership-stories-literature-ethics-and-authority-fall-2015/b143aa75a4905f49c6f7e234f0f97525_15-269f15.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Activity Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8922,
+    "title": "Management Accounting and Control",
+    "description": "",
+    "coursenum": "15.521",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-521-management-accounting-and-control-spring-2003/254875684fcb025d1cc35c9d79cc2e80_15-521s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8905,
+    "title": "Product Design and Development",
+    "description": "",
+    "coursenum": "15.783J",
+    "department": [
+      "Sloan School of Management",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Innovation",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Marketing",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/15-783j-product-design-and-development-spring-2006/4aee7a25f2f6571b121c1a958a00c83e_15-783js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8939,
+    "title": "Network Optimization",
+    "description": "",
+    "coursenum": "15.082J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Business",
+      "Applied Mathematics",
+      "Information Technology",
+      "Algorithms and Data Structures",
+      "Systems Optimization",
+      "Computer Networks",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-082j-network-optimization-fall-2010/46e0640fbe139dc81923049424ef58a5_15-082jf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8768,
+    "title": "Consumer Finance: Markets, Product Design, and FinTech",
+    "description": "",
+    "coursenum": "15.483",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Business",
+      "Finance"
+    ],
+    "url": "",
+    "image_src": "/courses/15-483-consumer-finance-markets-product-design-and-fintech-spring-2018/dcb3173f062b3f95b7e6dbcc27be0705_15-483S18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9138,
+    "title": "Introduction to System Dynamics",
+    "description": "",
+    "coursenum": "15.871",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Management",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-871-introduction-to-system-dynamics-fall-2013/7d1a72c4fd00949ba9c1d38212b92232_15-871f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8161,
+    "title": "Business Model Innovation: Global Health in Frontier Markets",
+    "description": "",
+    "coursenum": "15.232",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Health Care Management",
+      "Health and Medicine",
+      "Public Health",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-232-business-model-innovation-global-health-in-frontier-markets-fall-2013/b505202e505cef4ce0aa03880f7cd915_15-232f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8169,
+    "title": "Work, Employment, and Industrial Relations Theory",
+    "description": "",
+    "coursenum": "15.676",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Labor Economics",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-676-work-employment-and-industrial-relations-theory-spring-2008/e12e9dc0f73f7af62941505e3ed59c50_15-676s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8329,
+    "title": "Real Estate Economics",
+    "description": "",
+    "coursenum": "11.433J",
+    "department": [
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Urban Studies",
+      "Real Estate",
+      "Macroeconomics"
+    ],
+    "url": "",
+    "image_src": "/courses/11-433j-real-estate-economics-fall-2008/4d913099abe0c4065b853fd3503fc5cf_11-433jf08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9328,
+    "title": "Global Strategy and Organization",
+    "description": "",
+    "coursenum": "15.220",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Globalization",
+      "Operations Management",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-220-global-strategy-and-organization-spring-2012/5934264463a7871fd78df1b08d3a718a_15-220s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9341,
+    "title": "Organizations and Environments",
+    "description": "",
+    "coursenum": "15.342J",
+    "department": [
+      "Sloan School of Management",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Political Science",
+      "Business",
+      "Sociology",
+      "Organizational Behavior",
+      "Anthropology",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-342j-organizations-and-environments-fall-2004/4abcbad59c097c624a38138a122e06f8_15-342jf04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9397,
+    "title": "The Sociology of Strategy",
+    "description": "",
+    "coursenum": "15.968",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Sociology",
+      "Organizational Behavior",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-968-the-sociology-of-strategy-spring-2005/4d0369d5b65186af68b9e60cdcda1a50_15-968s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9353,
+    "title": "New Enterprises",
+    "description": "",
+    "coursenum": "15.390",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-390-new-enterprises-spring-2013/20ebb9d7d0fd6dfe961520a9ede7c7d9_15-390s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Tutorial Videos",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8660,
+    "title": "Blockchain and Money",
+    "description": "",
+    "coursenum": "15.S12",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Finance",
+      "Information Technology",
+      "Algorithms and Data Structures",
+      "Cryptography",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/15-s12-blockchain-and-money-fall-2018/bb820e6651426bde62c060277dfbb042_15-S12F18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8643,
+    "title": "Economy and Business in Modern China and India",
+    "description": "",
+    "coursenum": "15.225",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Society",
+      "Business",
+      "Globalization",
+      "Asian Studies",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-225-economy-and-business-in-modern-china-and-india-spring-2008/b4f0122a16c9769b230bbe64781959c4_15-225s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8692,
+    "title": "IT and Business Transformation",
+    "description": "",
+    "coursenum": "15.598",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Business",
+      "Information Technology",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-598-it-and-business-transformation-spring-2003/a624fc5bbb3b66f2847a30b397b95aed_15-598s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8668,
+    "title": "S-Lab: Laboratory for Sustainable Business",
+    "description": "",
+    "coursenum": "15.992",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Entrepreneurship",
+      "Innovation",
+      "Earth Science",
+      "Business",
+      "Globalization",
+      "Operations Management",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/15-992-s-lab-laboratory-for-sustainable-business-spring-2008/c7701b6d94032027df8c573d94df7ac4_15-992s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8709,
+    "title": "Operations Management",
+    "description": "",
+    "coursenum": "15.760A",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-760a-operations-management-spring-2002/1e24fc6088151df477fca65578420091_15-760as02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8677,
+    "title": "Marketing Strategy",
+    "description": "",
+    "coursenum": "15.834",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-834-marketing-strategy-spring-2003/a2b6b96e871cd29816fe0d3c5b541e3a_15-834s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8818,
+    "title": "Operations Strategy",
+    "description": "",
+    "coursenum": "15.769",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Globalization",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-769-operations-strategy-fall-2010/1cf33708520b0e3a311942147280d77e_15-769f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8807,
+    "title": "Law for the Entrepreneur and Manager",
+    "description": "",
+    "coursenum": "15.615",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Social Science",
+      "Business",
+      "Legal Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/15-615-law-for-the-entrepreneur-and-manager-spring-2003/6fc04c8bcfc3ad96ead69240014c1288_15-615s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9458,
+    "title": "Special Seminar in Marketing: Marketing Management",
+    "description": "",
+    "coursenum": "15.840",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/1647f8810ecc6ccd01fbb0de2903d28b_15-840s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9506,
+    "title": "Financial Accounting",
+    "description": "",
+    "coursenum": "15.515",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Finance",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-515-financial-accounting-fall-2003/2e6c015844f1f7bcde46be9fb0a8b4f8_15-515f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9525,
+    "title": "Managing Transformations in Work, Organizations, and Society",
+    "description": "",
+    "coursenum": "15.343",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Organizational Behavior",
+      "Business Ethics",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-343-managing-transformations-in-work-organizations-and-society-spring-2002/64ef5b969e17c4b98b19afcef0ba8d09_15-343s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9009,
+    "title": "Managerial Psychology",
+    "description": "",
+    "coursenum": "15.301",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-301-managerial-psychology-fall-2006/6d216e41922479b6c9b2e7d6f9577aff_15-301f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9008,
+    "title": "Strategic Organizational Design",
+    "description": "",
+    "coursenum": "15.320",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Leadership",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-320-strategic-organizational-design-spring-2011/8c5e6f0657eb94af027539b8f47ba72a_15-320s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9046,
+    "title": "Entrepreneurial Sales",
+    "description": "",
+    "coursenum": "15.387",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-387-entrepreneurial-sales-spring-2015/58d5f95e2eb28b102019e72b1a55d010_15-387s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments",
+      "Media Assignments",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9058,
+    "title": "Negotiation and Conflict Management",
+    "description": "",
+    "coursenum": "15.667",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Management",
+      "Social Science",
+      "Business",
+      "Business Ethics",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-667-negotiation-and-conflict-management-spring-2001/8a405cf94502792d40f4ae3d92661dae_15-667s01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9052,
+    "title": "Patents, Copyrights, and the Law of Intellectual Property",
+    "description": "",
+    "coursenum": "15.628J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Legal Studies",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/15-628j-patents-copyrights-and-the-law-of-intellectual-property-spring-2013/339a5a3afd29bd75cf5f5229d61319d5_15-628js13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9602,
+    "title": "Applied Macro- and International Economics II",
+    "description": "",
+    "coursenum": "15.014",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Globalization",
+      "Industrial Organization",
+      "Macroeconomics",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-014-applied-macro-and-international-economics-ii-spring-2016/d686cf6a333355c598562fc4aa8b4cdc_15-014s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Open Textbooks"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9582,
+    "title": "Applications of System Dynamics",
+    "description": "",
+    "coursenum": "15.875",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Computational Modeling and Simulation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-875-applications-of-system-dynamics-spring-2004/e76030b6a2b7481014b09c88ea400bd6_15-875s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9540,
+    "title": "Information Technology Essentials",
+    "description": "",
+    "coursenum": "15.561",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Business",
+      "Information Technology",
+      "Data Mining",
+      "Computer Networks"
+    ],
+    "url": "",
+    "image_src": "/courses/15-561-information-technology-essentials-spring-2005/2081e6767b6e151605bc73deb3a196fc_15-561s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9605,
+    "title": "Information Technology as an Integrating Force in Manufacturing",
+    "description": "",
+    "coursenum": "15.566",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Information Technology",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-566-information-technology-as-an-integrating-force-in-manufacturing-spring-2003/789bdc295d5ff9dc22f1639cb3023551_15-566s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11634,
+    "title": "Marketing Management",
+    "description": "",
+    "coursenum": "15.810",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-810-marketing-management-fall-2010/7d41908cc8a91481857be5b1c8a4fba2_15-810f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11868,
+    "title": "Product and Service Creation in the Internet Age",
+    "description": "",
+    "coursenum": "15.356.1x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/f8b0bac1-de46-4c26-bc3c-62d48ad70a32-056550060da4.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11221,
+    "title": "How to Develop \"Breakthrough\" Products and Services",
+    "description": "",
+    "coursenum": "15.356",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Entrepreneurship",
+      "Innovation",
+      "Systems Engineering",
+      "Business",
+      "Marketing",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2004/b752b33951623ddf62664ec89412aae9_15-356s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9186,
+    "title": "Economic Analysis for Business Decisions",
+    "description": "",
+    "coursenum": "15.010",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Operations Management",
+      "Microeconomics",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-010-economic-analysis-for-business-decisions-fall-2004/9cb7cd221748bae1ef902a9d1abf87e3_15-010f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9408,
+    "title": "Business Analysis Using Financial Statements",
+    "description": "",
+    "coursenum": "15.535",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Accounting",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-535-business-analysis-using-financial-statements-spring-2003/0e972319e019bc3efb280aac8978d3b0_15-535s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13224,
+    "title": "Nonlinear Optimization",
+    "description": "",
+    "coursenum": "6.7220J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Theory of Computation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/6-7220j-nonlinear-optimization-spring-2025/mit6_7220_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Lecture Notes",
+      "Exams",
+      "Exam Solutions",
+      "Supplemental Exam Materials"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13204,
+    "title": "Hands-On Deep Learning",
+    "description": "",
+    "coursenum": "15.773",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence",
+      "Business",
+      "Information Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-773-hands-on-deep-learning-spring-2024/mit15_773_s24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Programming Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7839,
+    "title": "Game Theory for Strategic Advantage",
+    "description": "",
+    "coursenum": "15.025",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Business",
+      "Business Ethics",
+      "Game Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/15-025-game-theory-for-strategic-advantage-spring-2015/e34677edbfec2edffa15537ee2711e0e_15-025s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8417,
+    "title": "Organizing for Innovative Product Development",
+    "description": "",
+    "coursenum": "15.980J",
+    "department": [
+      "Sloan School of Management",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Innovation",
+      "Systems Engineering",
+      "Business",
+      "Organizational Behavior",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/15-980j-organizing-for-innovative-product-development-spring-2007/f19932c9d04097c2fe5369be4e225846_15-980js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8387,
+    "title": "Energy Decisions, Markets, and Policies",
+    "description": "",
+    "coursenum": "15.031J",
+    "department": [
+      "Sloan School of Management",
+      "Economics",
+      "Anthropology",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Business",
+      "Globalization",
+      "Science and Technology Policy",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/eab08f39ff3c71f01d8a97fd0d2de47a_15-031js12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8211,
+    "title": "Dynamic Leadership: Using Improvisation in Business",
+    "description": "",
+    "coursenum": "15.969",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Innovation",
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-969-dynamic-leadership-using-improvisation-in-business-fall-2004/f234d7e6cfdcb3a840c9b2c73a91d11a_15-969f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8171,
+    "title": "Optimization Methods",
+    "description": "",
+    "coursenum": "15.093J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Applied Mathematics",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-093j-optimization-methods-fall-2009/2022291bbe6e5f1f39abd0b90ff17406_15-093jf09.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9316,
+    "title": "Entrepreneurial Marketing",
+    "description": "",
+    "coursenum": "15.835",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-835-entrepreneurial-marketing-spring-2002/6efc1711d37e8e136ae578131f10f11a_15-835s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9263,
+    "title": "Cross-Cultural Leadership",
+    "description": "",
+    "coursenum": "15.996",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Leadership",
+      "Social Science",
+      "Business",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-996-cross-cultural-leadership-fall-2004/93624485a418a8602c2279e4eba786c4_15-996f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9399,
+    "title": "Leading Organizations II",
+    "description": "",
+    "coursenum": "15.322",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business",
+      "Sociology",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-322-leading-organizations-ii-fall-2003/7f55ed21ef99622ec0f0045abcd5cb2f_15-322f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9371,
+    "title": "Global Health Innovation: Delivering Targeted Advice to an Organization in the Field",
+    "description": "",
+    "coursenum": "15.ES718",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Health Care Management",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/4ddcbaf15d7a201688a953d854618297_15-es718s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Presentation Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9351,
+    "title": "GlobalHealth Lab",
+    "description": "",
+    "coursenum": "15.S07",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Health Care Management",
+      "Health and Medicine",
+      "Public Health",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-s07-globalhealth-lab-spring-2013/44963b606160378480ca03449b5fee02_15-s07s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8534,
+    "title": "Executing Strategy for Results",
+    "description": "",
+    "coursenum": "15.361",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-361-executing-strategy-for-results-fall-2017/8e080ffa8439bed1f3a3f9fbd4cbe815_15-361f17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8860,
+    "title": "Doctoral Seminar in Research Methods II",
+    "description": "",
+    "coursenum": "15.348",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Social Science"
+    ],
+    "url": "",
+    "image_src": "/courses/15-348-doctoral-seminar-in-research-methods-ii-spring-2004/f258190ee7d271cf1c827e1f33306afa_15-348s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8895,
+    "title": "Shaping the Future of Work (15.662x)",
+    "description": "",
+    "coursenum": "RES.15-003",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Labor Economics",
+      "Industrial Organization",
+      "Industrial Relations and Human Resource Management",
+      "Social Welfare"
+    ],
+    "url": "",
+    "image_src": "/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/a55670dbf5fc5344ca7164f239ab901a_res-15-003s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Open Textbooks",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9475,
+    "title": "Digital Anthropology",
+    "description": "",
+    "coursenum": "MAS.966",
+    "department": [
+      "Media Arts and Sciences",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Digital Media"
+    ],
+    "url": "",
+    "image_src": "/courses/mas-966-digital-anthropology-spring-2003/d5fdf7a6a6709b806e58ab7879b21a06_mas-966s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9054,
+    "title": "Practical Leadership",
+    "description": "",
+    "coursenum": "15.974",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Leadership",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-974-practical-leadership-fall-2004/cc37f37996c4303953257a411bddf093_15-974f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9059,
+    "title": "Introduction to Operations Management",
+    "description": "",
+    "coursenum": "15.761",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-761-introduction-to-operations-management-spring-2013/829292a0a3d386faf7dce7250049abd1_15-761s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11151,
+    "title": "Organizations as Enacted Systems: Learning, Knowing and Change",
+    "description": "",
+    "coursenum": "15.963",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-963-organizations-as-enacted-systems-learning-knowing-and-change-fall-2002/dade8b8b2249a38535ba1236859ca94c_15-963f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11152,
+    "title": "Management Accounting and Control",
+    "description": "",
+    "coursenum": "15.963",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Operations Management",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-963-management-accounting-and-control-spring-2007/5b3f2e4b019f266fdab866af492f409f_15-963s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11632,
+    "title": "Marketing Management",
+    "description": "",
+    "coursenum": "15.810",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Business",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-810-marketing-management-fall-2004/e47d0a49773ff8f4eeca78dc321f6620_15-810f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11962,
+    "title": "The Science and Business of Biotechnology",
+    "description": "",
+    "coursenum": "15.480x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Health and Medicine",
+      "Business",
+      "Finance",
+      "Biomedical Enterprise"
+    ],
+    "url": "",
+    "image_src": "/courses/15-480x-the-science-and-business-of-biotechnology-fall-2021/394931123e3fc7e6a8228e10c1a48950_MIT15-480xF21.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 11949,
+    "title": "Energy Economics and Policy",
+    "description": "",
+    "coursenum": "15.038x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Earth Science"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/28d42997-fce9-4586-af18-113b9cd8e916-ed47b412feac.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11955,
+    "title": "System Dynamics: Systems Thinking and Modeling for a Complex World",
+    "description": "",
+    "coursenum": "RES.15-004",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Operations Management",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/res-15-004-system-dynamics-systems-thinking-and-modeling-for-a-complex-world-january-iap-2020/053b70bcb88e0ffc32bce16edfba06a9_MITRES15-004IAP20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12741,
+    "title": "u-lab: Leading From the Emerging Future",
+    "description": "",
+    "coursenum": "15.671.1x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/u-lab1x_banner_v2_MITxO.png?v=f6a123a09dc025f398bc8bb73a7ad7ea2e981363",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13024,
+    "title": "Bootstrapping for Entrepreneurs",
+    "description": "",
+    "coursenum": "15.356.2x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://mitxonline.mit.edu/media/original_images/Bootstrapping2_1134p-675p_MITxO.jpg?v=d04439e780aadebb867dacf6c842eaee98bcf021",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 13192,
+    "title": "Innovation Teams",
+    "description": "",
+    "coursenum": "10.807/2.907/15.371",
+    "department": [
+      "Sloan School of Management",
+      "Chemical Engineering",
+      "Mechanical Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Entrepreneurship",
+      "Innovation",
+      "Business",
+      "Project Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-371-innovation-teams-fall-2024/mitocw15_371j_f24.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Videos",
+      "Projects",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8214,
+    "title": "Management Communication for Undergraduates",
+    "description": "",
+    "coursenum": "15.279",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-279-management-communication-for-undergraduates-fall-2012/6194b09353004eab70419c9001cec392_15-279f12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 5159,
+    "title": "Supply Chains for Manufacturing: Inventory Analytics",
+    "description": "",
+    "coursenum": "15.762x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Probability and Statistics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/3dbb7e34-528e-4bf9-a64a-f021c4161fdd-c667d1f604b0.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5074,
+    "title": "Girişimcilik 102: Müşteriniz için ne yapabilirsiniz?",
+    "description": "",
+    "coursenum": "15.390.2x_TUR_1",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/7e5fc60a-59ac-4baf-a6ea-c9ca3bdc2db1.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4939,
+    "title": "创业101: 你的客户是谁？",
+    "description": "",
+    "coursenum": "15.390.1x_CHI",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5a7f0f7d-57e1-4da1-99f9-650b9e494006-ead7b5020bba.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4942,
+    "title": "스타트업 기업가정신 102: 당신의 고객을 위해 무엇을 할 수 있습니까?",
+    "description": "",
+    "coursenum": "15.390.2x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/a09ca059-6eb4-4ce9-8996-1ce612d9190f-1c556850d98a.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5071,
+    "title": "Girişimcilik 101: Müşterinizi tanıyın",
+    "description": "",
+    "coursenum": "15.390.1x_2_TUR",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/ecbe11aa-577e-4a07-a65b-565795d6b3ba.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 5203,
+    "title": "Healthcare Finance",
+    "description": "",
+    "coursenum": "15.482x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Business",
+      "Biology"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/6b95b131-a16f-45cc-8716-a355a496654b-69ac22f779a6.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 4945,
+    "title": "创业102: 你能为客户做什么？",
+    "description": "",
+    "coursenum": "15.390.2x_CHI",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/5c007854-f68e-4250-baea-947784565550-f31090d18987.small.jpg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7613,
+    "title": "Foundations of Modern Finance I",
+    "description": "",
+    "coursenum": "15.415.1x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/8a1c5e35-6538-428c-a707-27d94c907187-8bb1447acc40.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7669,
+    "title": "Financial Accounting",
+    "description": "",
+    "coursenum": "15.516x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Probability and Statistics",
+      "Economics"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/7c566601-6ddb-4013-aa8e-e0cf29482e35-fb2b80811d13.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 7711,
+    "title": "Financial and Managerial Accounting",
+    "description": "",
+    "coursenum": "15.514",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Finance",
+      "Accounting"
+    ],
+    "url": "",
+    "image_src": "/courses/15-514-financial-and-managerial-accounting-summer-2003/7b2d173a6a37c4c9b30a9b959048ae60_15-514su03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7904,
+    "title": "Entrepreneurial Finance",
+    "description": "",
+    "coursenum": "15.431",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-431-entrepreneurial-finance-spring-2011/b2b18a4faac95bb76b6ceaa47bbe7045_15-431s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7907,
+    "title": "Advanced Communication for Leaders",
+    "description": "",
+    "coursenum": "15.281",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Management",
+      "Leadership",
+      "Social Science",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-281-advanced-communication-for-leaders-spring-2016/e944febd92d92de176622eafcc520526_15-281s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7925,
+    "title": "Nonlinear Programming",
+    "description": "",
+    "coursenum": "6.252J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Theory of Computation",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/6-252j-nonlinear-programming-spring-2003/c12ae12dacf33b5f6608291268c9f861_6-252js03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8578,
+    "title": "How to Win at Texas Hold'em Poker",
+    "description": "",
+    "coursenum": "15.S50",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-s50-how-to-win-at-texas-holdem-poker-january-iap-2016/64244208708d59729ad2d6eaf4aca647_15-s50iap16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8553,
+    "title": "Managerial Psychology Laboratory",
+    "description": "",
+    "coursenum": "15.310",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-310-managerial-psychology-laboratory-spring-2003/e06bd15759eae6b9f6a84d108ed2eb79_15-310s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments",
+      "Activity Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8626,
+    "title": "Global Markets, National Politics and the Competitive Advantage of Firms",
+    "description": "",
+    "coursenum": "15.224",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Business",
+      "Globalization",
+      "Industrial Organization",
+      "Public Policy",
+      "International Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/7a4b90011d4ecbf71eac5a3ed053c8f0_15-224s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8540,
+    "title": "Generating Business Value from Information Technology",
+    "description": "",
+    "coursenum": "15.571",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Information Technology",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-571-generating-business-value-from-information-technology-spring-2009/1684155bfec94247a16ba7170f0ba708_15-571s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8953,
+    "title": "Urban Labor Markets and Employment Policy",
+    "description": "",
+    "coursenum": "15.677J",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Labor Economics",
+      "Industrial Organization",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-677j-urban-labor-markets-and-employment-policy-spring-2005/bdb5f651751b19478d5d37007ce4ddb5_15-677js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8960,
+    "title": "New Executive Thinking Social-Impact Technology Projects",
+    "description": "",
+    "coursenum": "15.960",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Management",
+      "Business",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-960-new-executive-thinking-social-impact-technology-projects-fall-2017-spring-2018/1f9ff7c87438d41a064fcd6b9a92589f_MIT15-960S17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video",
+      "Projects with Examples",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8799,
+    "title": "Tools for Analysis: Design for Real Estate and Infrastructure Development",
+    "description": "",
+    "coursenum": "IDS.720J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Real Estate",
+      "Urban Planning",
+      "Computational Modeling and Simulation",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/e91e3ad436df40c9fa47fddb025ba7b3_ids-712s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8719,
+    "title": "Early Stage Capital",
+    "description": "",
+    "coursenum": "15.391",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Business",
+      "Finance"
+    ],
+    "url": "",
+    "image_src": "/courses/15-391-early-stage-capital-fall-2010/b8cb8ceba3fb91b97b254bed42c741e4_15-391f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9108,
+    "title": "Data, Models, and Decisions",
+    "description": "",
+    "coursenum": "15.060",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Management",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Business",
+      "Supply Chain Management",
+      "Operations Management",
+      "Data Mining",
+      "Systems Optimization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-060-data-models-and-decisions-fall-2014/a784635a0bb2514a81bdc6ea4db39f84_15.060f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9113,
+    "title": "Doctoral Seminar in Research Methods I",
+    "description": "",
+    "coursenum": "15.347",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science"
+    ],
+    "url": "",
+    "image_src": "/courses/15-347-doctoral-seminar-in-research-methods-i-fall-2004/045c4385af53ec583c49811cd0fc0067_15-347f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8113,
+    "title": "Global Entrepreneurship Lab: Latin America, the Middle East, and Africa",
+    "description": "",
+    "coursenum": "15.389B",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Globalization",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-389b-global-entrepreneurship-lab-latin-america-the-middle-east-and-africa-fall-2010/67cf27dab8e94e962b31b3eab75b72a8_15-389bf10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8150,
+    "title": "Fundamentals of Probability",
+    "description": "",
+    "coursenum": "6.436J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/6-436j-fundamentals-of-probability-fall-2018/9333adb234a206385d9ddd1de8bae72e_6-436F18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8273,
+    "title": "Team Project",
+    "description": "",
+    "coursenum": "15.328",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Innovation",
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-328-team-project-fall-2003/23b9aebf3621c1b2b6af83d05ec66386_15-328f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8469,
+    "title": "Engineering, Economics and Regulation of the Electric Power Sector",
+    "description": "",
+    "coursenum": "IDS.505J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Industrial Organization",
+      "Public Policy",
+      "Electricity",
+      "Renewables"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/c7a7c58a4c930f5ab008559fb1fa4002_ids-505j10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8499,
+    "title": "Leadership Tools and Teams: A Product Development Lab",
+    "description": "",
+    "coursenum": "15.978",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-978-leadership-tools-and-teams-a-product-development-lab-spring-2007/90bf940ac4418bbc329529e13c104771_15-978s07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8523,
+    "title": "Technology Strategy",
+    "description": "",
+    "coursenum": "15.912",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Information Technology",
+      "Marketing"
+    ],
+    "url": "",
+    "image_src": "/courses/15-912-technology-strategy-fall-2008/faf84429178c7b3945107a2b5344b898_15-912f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9202,
+    "title": "Communicating With Data",
+    "description": "",
+    "coursenum": "15.063",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Social Science",
+      "Business",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-063-communicating-with-data-summer-2003/0a995b63206bfbd5c2a940adf446cf6d_15-063su03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9205,
+    "title": "Practice of Finance: Advanced Corporate Risk Management",
+    "description": "",
+    "coursenum": "15.997",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Operations Management",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/661291beef5372b0e03465c8785316da_15-997s09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9248,
+    "title": "Designing and Leading the Entrepreneurial Organization",
+    "description": "",
+    "coursenum": "15.394",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Leadership",
+      "Business",
+      "Organizational Behavior",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/43fd18793f319c39dfde72210c11ed40_15-394s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9222,
+    "title": "Managing Global Integration",
+    "description": "",
+    "coursenum": "15.229",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Globalization",
+      "Organizational Behavior"
+    ],
+    "url": "",
+    "image_src": "/courses/15-229-managing-global-integration-spring-2012/49f57fa6b961cbfbebd53a54c1ea5381_15-229s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9537,
+    "title": "Special Seminar in Applied Probability and Stochastic Processes",
+    "description": "",
+    "coursenum": "15.098",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics",
+      "Applied Mathematics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-098-special-seminar-in-applied-probability-and-stochastic-processes-spring-2006/815a113e9900789028b2fcfa3f0771c8_15-098s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 9557,
+    "title": "Entrepreneurship Without Borders",
+    "description": "",
+    "coursenum": "15.395",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance"
+    ],
+    "url": "",
+    "image_src": "/courses/15-395-entrepreneurship-without-borders-fall-2016/499843eaf4c82850da0830494b51eee7_15-395f16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9694,
+    "title": "How to Develop Breakthrough Products and Services",
+    "description": "",
+    "coursenum": "15.356",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-356-how-to-develop-breakthrough-products-and-services-spring-2012/e9364f2c78325737c5785e372c8330cc_15-356s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9677,
+    "title": "People and Organizations",
+    "description": "",
+    "coursenum": "15.668",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Leadership",
+      "Business",
+      "Organizational Behavior",
+      "Industrial Relations and Human Resource Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-668-people-and-organizations-fall-2010/ef68e6edf73d5b102c004d27c1bebc4f_15-668f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9737,
+    "title": "Seminar in Operations Management",
+    "description": "",
+    "coursenum": "15.795",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-795-seminar-in-operations-management-fall-2002/3283cfa6a154cb2b955581b84da4b4d4_15-795f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9772,
+    "title": "Taxes and Business Strategy",
+    "description": "",
+    "coursenum": "15.518",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-518-taxes-and-business-strategy-fall-2002/cff5dc4d0545e629a5268d9d510be65a_15-518f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9881,
+    "title": "Ethical Practice: Leading Through Professionalism, Social Responsibility, and System Design",
+    "description": "",
+    "coursenum": "15.270",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Business",
+      "Business Ethics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-270-ethical-practice-leading-through-professionalism-social-responsibility-and-system-design-spring-2016/1f13debf11c2d66e1596d0e64b19c32a_15-270s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9847,
+    "title": "Data Mining",
+    "description": "",
+    "coursenum": "15.062",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Management",
+      "Business",
+      "Information Technology",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-062-data-mining-spring-2003/4a7476b85098f9833de199026f9cc35c_15-062s03.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Exams",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10074,
+    "title": "The Analytics Edge",
+    "description": "",
+    "coursenum": "15.071",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Management",
+      "Probability and Statistics",
+      "Business",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-071-the-analytics-edge-spring-2017/64a9c191dbc2c2d349db7f00f49cfcd2_MIT15-071S17.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10489,
+    "title": "Managerial Psychology Laboratory",
+    "description": "",
+    "coursenum": "15.301",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Management",
+      "Social Science",
+      "Business",
+      "Organizational Behavior",
+      "Psychology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-301-managerial-psychology-laboratory-fall-2004/d0dbd041344e5487ede77debff1d83f4_15-301f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10343,
+    "title": "FinTech: Shaping the Financial World",
+    "description": "",
+    "coursenum": "15.S08",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Innovation",
+      "Artificial Intelligence",
+      "Business",
+      "Finance",
+      "Information Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-s08-fintech-shaping-the-financial-world-spring-2020/b6d26d8a1afdc660d742c93abcba73e1_15-s08s20.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Lecture Notes",
+      "Written Assignments",
+      "Instructor Insights",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10302,
+    "title": "Financial Regulation: From the Global Financial Crisis to Fintech and the COVID Pandemic",
+    "description": "",
+    "coursenum": "15.S05x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/751ceea1-6c7f-4325-b259-f9fae48983b3-33f3c82a7ee6.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 10318,
+    "title": "Cultivating Entrepreneurship & Antifragility to Thrive in a Fast-Paced World",
+    "description": "",
+    "coursenum": "15.S19x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/a0f366f2-c344-47a1-b287-31c94d679544-32917bc4ca55.small.jpeg",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 9996,
+    "title": "Management of Supply Networks for Products and Services",
+    "description": "",
+    "coursenum": "15.778",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-778-management-of-supply-networks-for-products-and-services-summer-2004/9bf35c1430ffa1e1c8a85a3f1ddab849_15-778su07.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12089,
+    "title": "Optimization Methods in Business Analytics",
+    "description": "",
+    "coursenum": "15.053x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+15.053x+3T2016+type@asset+block@15.053xCourseImage_copy.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 12096,
+    "title": "Adaptive Markets: Financial Market Dynamics and Human Behavior",
+    "description": "",
+    "coursenum": "15.481x",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [],
+    "url": "",
+    "image_src": "https://openlearninglibrary.mit.edu/asset-v1:MITx+15.481x+1T2021+type@asset+block@course_image.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 8032,
+    "title": "Investments",
+    "description": "",
+    "coursenum": "15.433",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Finance",
+      "Financial Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-433-investments-spring-2003/a0ae275afebab36900de08b215df78dc_15-433s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9076,
+    "title": "Integrating eSystems & Global Information Systems",
+    "description": "",
+    "coursenum": "15.565J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Organizational Behavior",
+      "Data Mining",
+      "Telecommunications"
+    ],
+    "url": "",
+    "image_src": "/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7b1a1a52b467a6e13a0fec98f5175d52_15-565js02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9906,
+    "title": "Advanced Stochastic Processes",
+    "description": "",
+    "coursenum": "15.070J",
+    "department": [
+      "Sloan School of Management",
+      "Electrical Engineering and Computer Science"
+    ],
+    "level": [],
+    "topics": [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    "url": "",
+    "image_src": "/courses/15-070j-advanced-stochastic-processes-fall-2013/bc82ac63f556b45542d307b691766671_15-070jf13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Instructor Insights",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8353,
+    "title": "Pricing",
+    "description": "",
+    "coursenum": "15.818",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Business",
+      "Operations Management",
+      "Marketing",
+      "Microeconomics",
+      "Industrial Organization"
+    ],
+    "url": "",
+    "image_src": "/courses/15-818-pricing-spring-2010/47abe09fd375913b9636aa3305aa092a_15-818s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8432,
+    "title": "Logistical and Transportation Planning Methods",
+    "description": "",
+    "coursenum": "1.203J",
+    "department": [
+      "Civil and Environmental Engineering",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Mathematics",
+      "Systems Engineering",
+      "Probability and Statistics",
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning",
+      "Systems Optimization",
+      "Transportation Planning"
+    ],
+    "url": "",
+    "image_src": "/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/8c16650624f18bbf15e018ae956d456b_1-203jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8670,
+    "title": "Statistical Thinking and Data Analysis",
+    "description": "",
+    "coursenum": "15.075J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/c3ba8e3261f34300d7ffebdbecb89f43_15-075f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13228,
+    "title": "Scaling Entrepreneurial Ventures",
+    "description": "",
+    "coursenum": "15.392",
+    "department": [
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Entrepreneurship",
+      "Innovation",
+      "Management",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/15-392-scaling-entrepreneurial-ventures-spring-2026/mit15_392s26.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Readings"
+    ],
+    "instructors": []
+  }
+]

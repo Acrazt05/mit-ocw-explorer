@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 10304,
+    "title": "Policy for Science, Technology and Innovation",
+    "description": "",
+    "coursenum": "STS.081x",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "History",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "https://prod-discovery.edx-cdn.org/media/course/image/374f2ac3-b3d8-4f77-89f3-2bf0311d129c-7f6be9ee0928.small.png",
+    "run_title": "",
+    "course_feature_tags": null,
+    "instructors": []
+  },
+  {
+    "id": 11969,
+    "title": "Social Theory and Analysis",
+    "description": "",
+    "coursenum": "21A.859J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Sociology",
+      "Anthropology",
+      "Social Justice",
+      "Ethnography",
+      "Political Economy",
+      "Cultural Anthropology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-859j-social-theory-and-analysis-spring-2021/c5354abe72885ab8003943dc39c484a5_21A-859Js21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9531,
+    "title": "Nature, Environment, and Empire",
+    "description": "",
+    "coursenum": "21H.968J",
+    "department": [
+      "History",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Humanities",
+      "History",
+      "Earth Science",
+      "Biology",
+      "Environmental Science",
+      "Modern History",
+      "Ecology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/21h-968j-nature-environment-and-empire-spring-2010/3586c63b824130d2632a83e77b087a62_21h-968js10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Image Gallery",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9597,
+    "title": "Evolution and Society",
+    "description": "",
+    "coursenum": "STS.009",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-009-evolution-and-society-spring-2012/f0d7922b236c980ea0d0030ec530ffb3_sts-009s12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9719,
+    "title": "Cross-Cultural Investigations: Technology and Development",
+    "description": "",
+    "coursenum": "21A.801J",
+    "department": [
+      "Anthropology",
+      "Edgerton Center",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Anthropology",
+      "Ethnography",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-801j-cross-cultural-investigations-technology-and-development-fall-2012/828908a378436271bf87b95537b87287_21a-801jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9649,
+    "title": "Introduction to Global Medicine: Bioscience, Technologies, Disparities, Strategies",
+    "description": "",
+    "coursenum": "HST.934J",
+    "department": [
+      "Health Sciences and Technology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Humanities",
+      "Ethics",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Public Health",
+      "Biomedicine",
+      "Philosophy",
+      "Biotechnology"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-934j-introduction-to-global-medicine-bioscience-technologies-disparities-strategies-spring-2010/16a6ec7ae0cddf5d9b891c00bd0e7636_hst-934js10.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 7802,
+    "title": "Technology in a  Dangerous World",
+    "description": "",
+    "coursenum": "STS.069",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Public Administration",
+      "Sociology",
+      "Science and Technology Policy",
+      "Security Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-069-technology-in-a-dangerous-world-fall-2002/a44c967d7fbde8fa4f22ab5e41dbbf38_sts-069f02.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Workshop Videos",
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7778,
+    "title": "Youth Political Participation",
+    "description": "",
+    "coursenum": "STS.080",
+    "department": [
+      "Science, Technology, and Society",
+      "Urban Studies and Planning"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "History",
+      "Social Science",
+      "Political Science",
+      "Sociology",
+      "Social Justice",
+      "American History",
+      "American Politics",
+      "Comparative Politics"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-080-youth-political-participation-spring-2016/cf6362af96371f7cf0e180fb42b287e6_sts-080s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Activity Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7819,
+    "title": "Cold War Science",
+    "description": "",
+    "coursenum": "STS.436",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Modern History",
+      "Military History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-436-cold-war-science-fall-2008/42ddc305accda720f1550239bb7c2fc2_sts-436f08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8396,
+    "title": "The History of MIT",
+    "description": "",
+    "coursenum": "STS.050",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "American History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-050-the-history-of-mit-spring-2016/c64bfb42612c8825bc86256f98b1ced2_STS-050S16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8231,
+    "title": "Energy and Environment in American History: 1705-2005",
+    "description": "",
+    "coursenum": "STS.038",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Technology",
+      "American History",
+      "History of Science and Technology",
+      "Fossil Fuels",
+      "Electricity",
+      "Buildings",
+      "Environmental Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-038-energy-and-environment-in-american-history-1705-2005-fall-2006/c1565ee7ab52d5855e48543550acfe8e_sts-038f06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7944,
+    "title": "Cultures of Computing",
+    "description": "",
+    "coursenum": "21A.350J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society",
+      "Women's and Gender Studies"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Anthropology",
+      "Philosophy",
+      "History of Science and Technology",
+      "Cultural Anthropology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-350j-cultures-of-computing-fall-2011/459c4011fd958280eb4ba63c2743b8b0_21a-350jf11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7939,
+    "title": "American Science: Ethical Conflicts and Political Choices",
+    "description": "",
+    "coursenum": "STS.011",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "History",
+      "Social Science",
+      "Political Science",
+      "Philosophy",
+      "American History",
+      "American Politics",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-011-american-science-ethical-conflicts-and-political-choices-fall-2007/80f83ed3c641ede1575b9e2300f7ab6c_sts-011f07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Other Video",
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8955,
+    "title": "Social Studies of Bioscience and Biotech",
+    "description": "",
+    "coursenum": "HST.930J",
+    "department": [
+      "Health Sciences and Technology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Economics",
+      "Social Science",
+      "Health and Medicine",
+      "Biomedicine",
+      "Business",
+      "Business Ethics",
+      "Political Economy",
+      "Biotechnology",
+      "Biomedical Enterprise"
+    ],
+    "url": "",
+    "image_src": "/courses/hst-930j-social-studies-of-bioscience-and-biotech-fall-2005/b9c558877d2b77deddf4929b8b943e42_hst-930jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8901,
+    "title": "Principles and Practice of Science Communication",
+    "description": "",
+    "coursenum": "STS.014",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-014-principles-and-practice-of-science-communication-spring-2006/c0b6782882b2d28894174f5d646165e2_sts-014s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8759,
+    "title": "Technology and Innovation in Africa",
+    "description": "",
+    "coursenum": "STS.089",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Innovation",
+      "Social Science",
+      "The Developing World",
+      "Society",
+      "Business",
+      "Anthropology",
+      "Ethnography",
+      "History of Science and Technology",
+      "African History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-089-technology-and-innovation-in-africa-fall-2014/ecc4410b90b65389c0d95da4a42ba6ac_sts-089f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9407,
+    "title": "Engineering Apollo: The Moon Project as a Complex System",
+    "description": "",
+    "coursenum": "STS.471J",
+    "department": [
+      "Science, Technology, and Society",
+      "Aeronautics and Astronautics",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-471j-engineering-apollo-the-moon-project-as-a-complex-system-spring-2007/0e13c467a5a66eea788b98bbe644c1b5_sts-471js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples",
+      "Presentation Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8637,
+    "title": "Technology and the Literary Imagination",
+    "description": "",
+    "coursenum": "STS.464",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Anthropology",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-464-technology-and-the-literary-imagination-spring-2008/4498cb8a836084a84fa2372bbeaba16a_sts-464s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8472,
+    "title": "Scientific Visualization across Disciplines: A Critical Introduction",
+    "description": "",
+    "coursenum": "STS.067",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-067-scientific-visualization-across-disciplines-a-critical-introduction-spring-2005/4df7913a5a28be34eb538497d96a9019_sts-067s05.gif",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects",
+      "Problem Sets",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8861,
+    "title": "The History of Computing",
+    "description": "",
+    "coursenum": "STS.035",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-035-the-history-of-computing-spring-2004/8bbb39d490f56909d1a1a9d1d76ae068_sts-035s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9036,
+    "title": "Research Seminar in Deep Sea Archaeology",
+    "description": "",
+    "coursenum": "STS.467",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Earth Science",
+      "Oceanography",
+      "Ocean Engineering",
+      "Archaeology",
+      "Ocean Exploration"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-467-research-seminar-in-deep-sea-archaeology-spring-2002/3119219a723b4fb84d9eb9292f583d0c_sts-467s02.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 13118,
+    "title": "MIT Project on Embodied Education",
+    "description": "",
+    "coursenum": "RES.STS-001",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    "url": "",
+    "image_src": "/courses/res-sts-001-mit-project-on-embodied-education-fall-2024/mitres_sts_001_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 11775,
+    "title": "Toward the Scientific Revolution",
+    "description": "",
+    "coursenum": "STS.002",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-002-toward-the-scientific-revolution-fall-2003/40e5449c488681ba419a48557b364210_sts-002f03.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 12999,
+    "title": "Science of Race, Sex, and Gender",
+    "description": "",
+    "coursenum": "WGS.225J",
+    "department": [
+      "Women's and Gender Studies",
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Society",
+      "Anthropology",
+      "Gender Studies",
+      "Women's Studies",
+      "African American Studies",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/mitwgs_225_s23_chp.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12964,
+    "title": "The Anthropology of Sound",
+    "description": "",
+    "coursenum": "21A.505J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-505j-the-anthropology-of-sound-spring-2022/21a-505js22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Readings",
+      "Activity Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9998,
+    "title": "Histories of Information, Communication, and Computing Technologies",
+    "description": "",
+    "coursenum": "STS.460",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Humanities",
+      "History",
+      "Social Science",
+      "History of Science and Technology",
+      "Historical Methods"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-460-histories-of-information-communication-and-computing-technologies-spring-2015/4dd5f63677339373553e27ffd93f1c74_sts-460s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9860,
+    "title": "The Structure of Engineering Revolutions",
+    "description": "",
+    "coursenum": "6.933J",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Entrepreneurship",
+      "Innovation",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/6-933j-the-structure-of-engineering-revolutions-fall-2001/e0dd394eb0aa73b6db77683553e64a01_6-933jf01.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9893,
+    "title": "Disease and Society in America",
+    "description": "",
+    "coursenum": "STS.005",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Political Science",
+      "Health and Medicine",
+      "Public Health",
+      "Sociology",
+      "American History",
+      "American Politics",
+      "History of Science and Technology",
+      "Epidemiology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-005-disease-and-society-in-america-fall-2005/2bccab6b491ce8cd49ddafcfcc875925_sts-005f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9946,
+    "title": "Technology in American History",
+    "description": "",
+    "coursenum": "STS.001",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "American History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-001-technology-in-american-history-spring-2006/20a2c4124e4c18fbf27c05ace514dada_sts-001s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10711,
+    "title": "Integrating Doctoral Seminar on Emerging Technologies",
+    "description": "",
+    "coursenum": "IDS.900",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Political Science",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/4d63e1c36654adeeea823324382715be_ids-900jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10391,
+    "title": "The History of MIT",
+    "description": "",
+    "coursenum": "STS.050",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Teaching and Education",
+      "Higher Education",
+      "American History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-050-the-history-of-mit-spring-2011/004754980a4063dc1c10535427207de2_sts-050s11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10471,
+    "title": "Cultural History of Technology",
+    "description": "",
+    "coursenum": "STS.464",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-464-cultural-history-of-technology-spring-2005/84cd4c039927b4c80cabdcdda9244094_sts-464s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7764,
+    "title": "Technology and Gender in American History",
+    "description": "",
+    "coursenum": "STS.049J",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Society",
+      "Anthropology",
+      "Gender Studies",
+      "Social Anthropology",
+      "American History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-049j-technology-and-gender-in-american-history-spring-2004/58facf5613a069dd3e7086f6ee759139_sts-049js04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7849,
+    "title": "Neuroscience and Society",
+    "description": "",
+    "coursenum": "STS.010",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Sociology",
+      "Biology",
+      "Neuroscience"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-010-neuroscience-and-society-spring-2010/c104c1041dde7d941ec6d48bb9251368_sts-010s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8183,
+    "title": "Science, Technology, & World",
+    "description": "",
+    "coursenum": "STS.004",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Sociology",
+      "Anthropology",
+      "Photography"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-004-science-technology-world-fall-2013/8d90c06a6adeaa31ff4a68ce517b9558_sts-004f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8249,
+    "title": "Drugs, Politics, and Culture",
+    "description": "",
+    "coursenum": "STS.062J",
+    "department": [
+      "Science, Technology, and Society",
+      "Anthropology"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Health and Medicine",
+      "Public Health",
+      "Sociology",
+      "Pharmacology and Toxicology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-062j-drugs-politics-and-culture-spring-2006/9061e9c98a9bbfc81fb89b9719bbc784_sts-062js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7922,
+    "title": "Anthropology of Biology",
+    "description": "",
+    "coursenum": "21A.303J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Anthropology",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-303j-anthropology-of-biology-fall-2013/ad1ac96359204b5739ba49d1a4fbb5b2_21a-303f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7932,
+    "title": "DV Lab: Documenting Science Through Video and New Media",
+    "description": "",
+    "coursenum": "21A.550J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Social Science",
+      "Visual Arts",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Film and Video"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/0e4f4a9f190db492a6890d5dc8539cf1_21a-550jf12.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Lecture Videos",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8468,
+    "title": "Making the Modern World: The Industrial Revolution in Global Perspective",
+    "description": "",
+    "coursenum": "STS.025J",
+    "department": [
+      "Science, Technology, and Society",
+      "History"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Business",
+      "Globalization",
+      "World History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-025j-making-the-modern-world-the-industrial-revolution-in-global-perspective-fall-2009/f689f4294ffc3de5aef7d9413c53dfee_sts-025jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8948,
+    "title": "Science Communication: A Practical Guide",
+    "description": "",
+    "coursenum": "STS.034",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Literature",
+      "Nonfiction Prose",
+      "Academic Writing",
+      "Technical Writing"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-034-science-communication-a-practical-guide-fall-2011/2fa9429651d9e74f1d77c10c0d0e0f15_sts-034f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9131,
+    "title": "Art, Craft, Science",
+    "description": "",
+    "coursenum": "21A.501J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Economics",
+      "Social Science",
+      "Fine Arts",
+      "Anthropology",
+      "Industrial Organization",
+      "Cultural Anthropology",
+      "International Development"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-501j-art-craft-science-spring-2013/273e847de801972b18977a2d9fb9b11c_21a-501js13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9125,
+    "title": "Social and Political Implications of Technology",
+    "description": "",
+    "coursenum": "STS.462",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Political Science",
+      "Sociology",
+      "Anthropology",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-462-social-and-political-implications-of-technology-spring-2006/d9c39961316d019e5bc0e597259dc62f_sts-462s06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8331,
+    "title": "Technology and Change in Rural America",
+    "description": "",
+    "coursenum": "STS.428",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology",
+      "American History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-428-technology-and-change-in-rural-america-fall-2004/b41491eabe238e787812d47cfef9976b_sts-428f04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9295,
+    "title": "The Anthropology of Cybercultures",
+    "description": "",
+    "coursenum": "21A.850J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Ethnography",
+      "Digital Media",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-850j-the-anthropology-of-cybercultures-spring-2009/40fa3e4b5b07dba8e8ea4989091af0fa_21a-850js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9291,
+    "title": "The Civil War and the Emergence of Modern America, 1861-1890",
+    "description": "",
+    "coursenum": "STS.427",
+    "department": [
+      "Science, Technology, and Society",
+      "History"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "American History",
+      "History of Science and Technology",
+      "Historiography"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-427-the-civil-war-and-the-emergence-of-modern-america-1861-1890-spring-2015/14164a5244fb89f76e46ab9a5b1b9d6d_sts-427s15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9373,
+    "title": "Technology in History",
+    "description": "",
+    "coursenum": "STS.007",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-007-technology-in-history-fall-2010/67f0513b2cd59b2e7327f0409e51d842_sts-007f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8826,
+    "title": "Technologies for Creative Learning",
+    "description": "",
+    "coursenum": "MAS.714J",
+    "department": [
+      "Media Arts and Sciences",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Teaching and Education",
+      "Educational Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/mas-714j-technologies-for-creative-learning-fall-2009/52f5b523c692d20747464e48c72e1b96_mas-714jf09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Activity Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9032,
+    "title": "Godzilla and the Bullet Train: Technology and Culture in Modern Japan",
+    "description": "",
+    "coursenum": "STS.S28",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Media Studies",
+      "Fine Arts",
+      "Society",
+      "Asian Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/0152916b49e4632245e4c44653e500c8_sts-s28f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9603,
+    "title": "Technology and Culture",
+    "description": "",
+    "coursenum": "21A.500J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Public Administration",
+      "Anthropology",
+      "Cultural Anthropology",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-500j-technology-and-culture-spring-2014/f1cd6bcadcafa863724bd6c0fabc3bb8_21a-500js14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9595,
+    "title": "Innovation Systems for Science, Technology, Energy, Manufacturing, and Health",
+    "description": "",
+    "coursenum": "STS.081",
+    "department": [
+      "Science, Technology, and Society",
+      "Political Science"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Society",
+      "Public Economics"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-081-innovation-systems-for-science-technology-energy-manufacturing-and-health-spring-2017/9ae6895d9c36f212a37890131aeeb259_sts-081js17.JPG",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Videos",
+      "Written Assignments",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13226,
+    "title": "Art, Craft, Science",
+    "description": "",
+    "coursenum": "21A.501J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Visual Arts",
+      "Fine Arts",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-501j-art-craft-science-fall-2024/mit21a_501j_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments with Examples",
+      "Readings",
+      "Student Work",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7817,
+    "title": "The Rise of Modern Science",
+    "description": "",
+    "coursenum": "STS.003",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "History of Science and Technology",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-003-the-rise-of-modern-science-fall-2010/b8694daab935c47b94c5957f8d920ff7_sts-003f10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9317,
+    "title": "Food and Power in the Twentieth Century",
+    "description": "",
+    "coursenum": "STS.429",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Political Economy",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-429-food-and-power-in-the-twentieth-century-spring-2005/07af7c30518ea6fb9e698cd1c27b8cf7_sts-429s05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Activity Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8477,
+    "title": "Finance and Society",
+    "description": "",
+    "coursenum": "STS.002",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Economics",
+      "Social Science",
+      "Society",
+      "Business",
+      "Finance",
+      "World History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-002-finance-and-society-spring-2016/8d7ef90460c5050b860ee1f1039555c6_sts-002s16.jpg",
+    "run_title": "",
+    "course_feature_tags": [],
+    "instructors": []
+  },
+  {
+    "id": 8863,
+    "title": "Ethics and the Law on the Electronic Frontier",
+    "description": "",
+    "coursenum": "6.805",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Communication",
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Social Science",
+      "Public Administration",
+      "Philosophy",
+      "Legal Studies",
+      "Data Mining",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/6-805-ethics-and-the-law-on-the-electronic-frontier-fall-2005/6c7b5d06ab81aa95a81cc476256d8658_6-805f05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Exams",
+      "Lecture Notes",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9445,
+    "title": "Readings in American History Since 1877",
+    "description": "",
+    "coursenum": "21H.952J",
+    "department": [
+      "History",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "American History",
+      "Modern History",
+      "Comparative History",
+      "Historical Methods"
+    ],
+    "url": "",
+    "image_src": "/courses/21h-952j-readings-in-american-history-since-1877-fall-2003/f394f3fa94cb0f5be7236e1f8b7ffe93_21h-952jf03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12132,
+    "title": "The Anthropology of Biology",
+    "description": "",
+    "coursenum": "21A.303J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Anthropology",
+      "Biological Anthropology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-303j-the-anthropology-of-biology-spring-2022/21a-303js22.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments",
+      "Readings"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12845,
+    "title": "Einstein, Oppenheimer, Feynman: Physics in the 20th Century",
+    "description": "",
+    "coursenum": "STS.042J",
+    "department": [
+      "Science, Technology, and Society",
+      "Physics"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Physics",
+      "Humanities",
+      "History",
+      "Society",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-042-einstein-oppenheimer-feynman-physics-in-the-20th-century-fall-2020/sts-042jf20.jpeg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Lecture Videos",
+      "Written Assignments",
+      "Readings",
+      "Podcasts"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13167,
+    "title": "Foundations of Information Policy",
+    "description": "",
+    "coursenum": "6.4590",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Social Science",
+      "Public Administration",
+      "Science and Technology Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/6-4590-foundations-of-information-policy-fall-2024/mit6_4590_f24.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Readings",
+      "Written Assignments with Examples",
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7959,
+    "title": "Introduction to the History of Technology",
+    "description": "",
+    "coursenum": "STS.340J",
+    "department": [
+      "Science, Technology, and Society",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Modern History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-340j-introduction-to-the-history-of-technology-fall-2006/27098a7eed5bb9aa5684fd33a63aa13a_sts-340jf06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8982,
+    "title": "Technology and Nature in American History",
+    "description": "",
+    "coursenum": "STS.036",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Humanities",
+      "History",
+      "Social Science",
+      "Urban Studies",
+      "Civil Engineering",
+      "Urban Planning",
+      "American History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-036-technology-and-nature-in-american-history-spring-2008/a3ca54f06d2115ca3f56159706830374_sts-036s08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9117,
+    "title": "History and Anthropology of Medicine and Biology",
+    "description": "",
+    "coursenum": "STS.330",
+    "department": [
+      "Science, Technology, and Society",
+      "Anthropology"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-330-history-and-anthropology-of-medicine-and-biology-spring-2013/40daf3963cac93557871ea6e96019fd6_sts-330s13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8634,
+    "title": "History of Science",
+    "description": "",
+    "coursenum": "STS.310",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "History of Science and Technology",
+      "Intellectual History"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-310-history-of-science-fall-2015/4fd7053a21a2d566831326378912cb2f_STS-310f15.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8456,
+    "title": "The Civil War and Reconstruction",
+    "description": "",
+    "coursenum": "21H.116J",
+    "department": [
+      "History",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Public Administration",
+      "Philosophy",
+      "American History",
+      "Political Philosophy",
+      "Military Studies",
+      "Military History"
+    ],
+    "url": "",
+    "image_src": "/courses/21h-116j-the-civil-war-and-reconstruction-fall-2005/308327398a65b84494def71785d8425c_21h-116jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9182,
+    "title": "Social Study of Science and Technology",
+    "description": "",
+    "coursenum": "STS.350",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "History",
+      "Social Science",
+      "Sociology",
+      "Philosophy",
+      "History of Science and Technology"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-350-social-study-of-science-and-technology-spring-2004/c5c0728bfb0c5e68c99dbfce89777ef7_sts-350s04.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9577,
+    "title": "Environmental Conflict",
+    "description": "",
+    "coursenum": "21A.429J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Social Science",
+      "Earth Science",
+      "Sociology",
+      "Anthropology",
+      "Biology",
+      "Ethnography",
+      "Environmental Science",
+      "Ecology"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-429j-environmental-conflict-fall-2016/38d349147a2d4f09e7e8f31377fc6436_21A-429Jf16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9818,
+    "title": "The Anthropology of Sound",
+    "description": "",
+    "coursenum": "21A.360J",
+    "department": [
+      "Anthropology",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Music",
+      "Social Science",
+      "Media Studies",
+      "Fine Arts",
+      "Anthropology",
+      "Cultural Anthropology",
+      "Music Theory"
+    ],
+    "url": "",
+    "image_src": "/courses/21a-360j-the-anthropology-of-sound-spring-2008/95362a98cfad52b4169866c0b12822d0_21a-360js08.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10057,
+    "title": "Bioethics",
+    "description": "",
+    "coursenum": "24.06J",
+    "department": [
+      "Linguistics and Philosophy",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Humanities",
+      "Ethics",
+      "Health and Medicine",
+      "Public Health",
+      "Business",
+      "Business Ethics",
+      "Philosophy"
+    ],
+    "url": "",
+    "image_src": "/courses/24-06j-bioethics-spring-2009/04de2a9b907a63d079de7aae077cc8a8_24-06js09.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10033,
+    "title": "Energy, Environment, and Society: Global Politics, Technologies, and Ecologies of the Water-Energy-Food Crises",
+    "description": "",
+    "coursenum": "STS.032",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Public Administration",
+      "The Developing World",
+      "Society",
+      "Global Poverty",
+      "Environmental Policy"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-032-energy-environment-and-society-global-politics-technologies-and-ecologies-of-the-water-energy-food-crises-spring-2018/e6c21dc5cac0f39d72eaa556521cb649_sts-032s18.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10280,
+    "title": "Science Activism: Gender, Race, and Power",
+    "description": "",
+    "coursenum": "WGS.160J",
+    "department": [
+      "Women's and Gender Studies",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Science",
+      "Earth Science",
+      "Society",
+      "Gender Studies",
+      "Women's Studies",
+      "Climate Studies"
+    ],
+    "url": "",
+    "image_src": "/courses/wgs-160j-science-activism-gender-race-and-power-fall-2019/617943f26aa7e9b945f1db07e427effd_WGS-160f19.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9949,
+    "title": "Ethnography",
+    "description": "",
+    "coursenum": "STS.360",
+    "department": [
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    "url": "",
+    "image_src": "/courses/sts-360-ethnography-spring-2003/075fb6eeb394dc8cbcdd4cad691c9465_sts-360s03.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  }
+]

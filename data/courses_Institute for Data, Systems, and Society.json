@@ -1,0 +1,611 @@
+[
+  {
+    "id": 8413,
+    "title": "Manufacturing System and Supply Chain Design",
+    "description": "",
+    "coursenum": "15.763J",
+    "department": [
+      "Sloan School of Management",
+      "Civil and Environmental Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-763j-manufacturing-system-and-supply-chain-design-spring-2005/1a7951328ea94209e663d0aab03d627e_15-763js05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8224,
+    "title": "Supply Chain Planning",
+    "description": "",
+    "coursenum": "15.762J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society",
+      "Civil and Environmental Engineering"
+    ],
+    "level": [],
+    "topics": [
+      "Business",
+      "Supply Chain Management",
+      "Operations Management"
+    ],
+    "url": "",
+    "image_src": "/courses/15-762j-supply-chain-planning-spring-2011/12b4faeba1b4a271a2f6630a9e35c46f_15-762js11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Problem Sets",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 7714,
+    "title": "Technology, Law, and the Working Environment",
+    "description": "",
+    "coursenum": "10.805J",
+    "department": [
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Social Science",
+      "Public Administration",
+      "Health and Medicine",
+      "Public Health",
+      "Business",
+      "Legal Studies",
+      "Environmental Engineering",
+      "Science and Technology Policy",
+      "Industrial Relations and Human Resource Management",
+      "Environmental Management"
+    ],
+    "url": "",
+    "image_src": "/courses/10-805j-technology-law-and-the-working-environment-spring-2006/e3691271310ab6309b114e785daf6605_10-805js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8621,
+    "title": "Space Systems Engineering",
+    "description": "",
+    "coursenum": "16.89J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-89j-space-systems-engineering-spring-2007/2a01cea04000d318a1d63c46d451a0d4_16-89js07.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects with Examples",
+      "Design Assignments",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9144,
+    "title": "Software Engineering Concepts",
+    "description": "",
+    "coursenum": "16.355J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Systems Engineering",
+      "Business",
+      "Software Design and Engineering",
+      "Project Management",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/16-355j-software-engineering-concepts-fall-2005/8418b32501d762759b8279b1e289ae3f_16-355jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9135,
+    "title": "System Safety",
+    "description": "",
+    "coursenum": "16.63J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-63j-system-safety-spring-2016/fb6e7f0f774b88759b1f9d0bb33d1259_16-63js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9105,
+    "title": "Doctoral Seminar in Engineering Systems",
+    "description": "",
+    "coursenum": "IDS.900",
+    "department": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-900-doctoral-seminar-in-engineering-systems-fall-2011/5d8a7b8f83eaae7c74e42331cf763928_ids-900f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Presentation Assignments",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 12104,
+    "title": "IDS.333 Risk and Decision Analysis",
+    "description": "",
+    "coursenum": "IDS.333",
+    "department": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-333-risk-and-decision-analysis-fall-2021/ids-333f21.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Video Materials",
+      "Instructor Insights",
+      "Projects with Examples",
+      "Media Assignments",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 13201,
+    "title": "Interactive Data Visualization and Society",
+    "description": "",
+    "coursenum": "6.C35",
+    "department": [
+      "Electrical Engineering and Computer Science",
+      "Urban Studies and Planning",
+      "Comparative Media Studies/Writing",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Humanities",
+      "Ethics",
+      "Social Science",
+      "Urban Studies",
+      "Philosophy",
+      "Housing Development",
+      "Graphics and Visualization"
+    ],
+    "url": "",
+    "image_src": "/courses/6-c35-interactive-data-visualization-and-society-spring-2025/mit6_c35_s25.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Multiple Assignment Types",
+      "Projects",
+      "Readings",
+      "Laboratory Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10711,
+    "title": "Integrating Doctoral Seminar on Emerging Technologies",
+    "description": "",
+    "coursenum": "IDS.900",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Political Science",
+      "Science, Technology, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/4d63e1c36654adeeea823324382715be_ids-900jf05.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8416,
+    "title": "Principles and Practice of Drug Development",
+    "description": "",
+    "coursenum": "15.136J",
+    "department": [
+      "Sloan School of Management",
+      "Biology",
+      "Chemical Engineering",
+      "Institute for Data, Systems, and Society",
+      "Health Sciences and Technology"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Health Care Management",
+      "Health and Medicine",
+      "Business",
+      "Biology",
+      "Biochemistry",
+      "Stem Cells",
+      "Chemical Engineering",
+      "Pharmacology and Toxicology",
+      "Cell Biology"
+    ],
+    "url": "",
+    "image_src": "/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/6a1650c5646197f89ec68035e81a19f4_15-136f13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Presentation Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8545,
+    "title": "System Safety",
+    "description": "",
+    "coursenum": "16.863J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Operations Management",
+      "Aerospace Engineering"
+    ],
+    "url": "",
+    "image_src": "/courses/16-863j-system-safety-spring-2016/40b9cb5fdf60d814b4a50963694a75e2_16-863js16.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Open Textbooks",
+      "Written Assignments",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8799,
+    "title": "Tools for Analysis: Design for Real Estate and Infrastructure Development",
+    "description": "",
+    "coursenum": "IDS.720J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Urban Studies and Planning",
+      "Sloan School of Management"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Social Science",
+      "Business",
+      "Urban Studies",
+      "Real Estate",
+      "Urban Planning",
+      "Computational Modeling and Simulation",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-720j-tools-for-analysis-design-for-real-estate-and-infrastructure-development-spring-2010/e91e3ad436df40c9fa47fddb025ba7b3_ids-712s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Projects"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8469,
+    "title": "Engineering, Economics and Regulation of the Electric Power Sector",
+    "description": "",
+    "coursenum": "IDS.505J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Electrical Engineering and Computer Science",
+      "Sloan School of Management",
+      "Engineering Systems Division"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Economics",
+      "Social Science",
+      "Public Administration",
+      "Energy",
+      "Industrial Organization",
+      "Public Policy",
+      "Electricity",
+      "Renewables"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-505j-engineering-economics-and-regulation-of-the-electric-power-sector-spring-2010/c7a7c58a4c930f5ab008559fb1fa4002_ids-505j10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Activity Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9161,
+    "title": "Leadership Development",
+    "description": "",
+    "coursenum": "IDS.910",
+    "department": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-910-leadership-development-fall-2014/fe14e7ef33719033b5e8ea3de861209a_ids-910f14.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Presentation Assignments",
+      "Written Assignments",
+      "Instructor Insights"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9184,
+    "title": "Multidisciplinary System Design Optimization",
+    "description": "",
+    "coursenum": "IDS.338J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Aeronautics and Astronautics"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Systems Engineering",
+      "Business",
+      "Systems Optimization",
+      "Project Management",
+      "Systems Design"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/9021d53e7c8531a050f752695115501c_ids-77s10.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Presentation Assignments with Examples",
+      "Written Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 10832,
+    "title": "Leadership Development",
+    "description": "",
+    "coursenum": "IDS.910",
+    "department": [
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Leadership",
+      "Business"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-910-leadership-development-fall-2002/e14522d5d32e33a270c1602a248c85fa_ids-910f02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Written Assignments"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8160,
+    "title": "Aerospace Biomedical and Life Support Engineering",
+    "description": "",
+    "coursenum": "16.423J",
+    "department": [
+      "Aeronautics and Astronautics",
+      "Health Sciences and Technology",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Biological Engineering",
+      "Health and Medicine",
+      "Biomechanics",
+      "Aerospace Engineering",
+      "Biomedical Instrumentation",
+      "Bioastronautics"
+    ],
+    "url": "",
+    "image_src": "/courses/16-423j-aerospace-biomedical-and-life-support-engineering-spring-2006/ae295f205947c1937ece436557f4e472_16-423js06.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Written Assignments",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9076,
+    "title": "Integrating eSystems & Global Information Systems",
+    "description": "",
+    "coursenum": "15.565J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Electrical Engineering",
+      "Business",
+      "Information Technology",
+      "Organizational Behavior",
+      "Data Mining",
+      "Telecommunications"
+    ],
+    "url": "",
+    "image_src": "/courses/15-565j-integrating-esystems-global-information-systems-spring-2002/7b1a1a52b467a6e13a0fec98f5175d52_15-565js02.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects",
+      "Written Assignments with Examples",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 9376,
+    "title": "Modeling and Assessment for Policy",
+    "description": "",
+    "coursenum": "IDS.410J",
+    "department": [
+      "Institute for Data, Systems, and Society",
+      "Earth, Atmospheric, and Planetary Sciences"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Science",
+      "Computer Science",
+      "Systems Engineering",
+      "Social Science",
+      "Public Administration",
+      "Earth Science",
+      "Environmental Engineering",
+      "Data Mining",
+      "Environmental Science",
+      "Computational Modeling and Simulation",
+      "Climate Studies",
+      "Atmospheric Science",
+      "Science and Technology Policy",
+      "Public Policy",
+      "Environmental Management",
+      "Environmental Policy",
+      "Sustainability"
+    ],
+    "url": "",
+    "image_src": "/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/8d1465f89eaf61f058e2381d62bd1ac4_ids-410js13.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Projects with Examples",
+      "Written Assignments with Examples",
+      "Instructor Insights",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  },
+  {
+    "id": 8670,
+    "title": "Statistical Thinking and Data Analysis",
+    "description": "",
+    "coursenum": "15.075J",
+    "department": [
+      "Sloan School of Management",
+      "Institute for Data, Systems, and Society"
+    ],
+    "level": [],
+    "topics": [
+      "Engineering",
+      "Computer Science",
+      "Mathematics",
+      "Probability and Statistics",
+      "Data Mining"
+    ],
+    "url": "",
+    "image_src": "/courses/15-075j-statistical-thinking-and-data-analysis-fall-2011/c3ba8e3261f34300d7ffebdbecb89f43_15-075f11.jpg",
+    "run_title": "",
+    "course_feature_tags": [
+      "Lecture Notes",
+      "Programming Assignments with Examples",
+      "Problem Sets",
+      "Problem Set Solutions",
+      "Exams",
+      "Exam Solutions"
+    ],
+    "instructors": []
+  }
+]
