@@ -78,7 +78,7 @@ let GATEWAY_SET = new Set();
 })();
 
 const g = svg.append('g');
-const zoom = d3.zoom().scaleExtent([0.08,5]).on('zoom',(e)=>{g.attr('transform',e.transform);});
+const zoom = d3.zoom().scaleExtent([0.08,5]).on('zoom',(e)=>{g.attr('transform',e.transform);tooltip.style.display='none';});
 svg.call(zoom);
 svg.on('click',(e)=>{if(e.target===svg.node()){selectNode(null);}});
 
@@ -292,6 +292,7 @@ function highlight(node){
 
 function selectNode(node){
   state.selectedNode = node;
+  tooltip.style.display = 'none';
   highlight(node);
   updateDetail(node);
   exportBar.style.display = node ? 'block' : 'none';
