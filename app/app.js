@@ -30,6 +30,14 @@ const statSelected = document.getElementById('stat-selected');
 const levelFiltersEl = document.getElementById('level-filters');
 const featureFiltersEl = document.getElementById('feature-filters');
 const sortSelect = document.getElementById('sort-select');
+const exportBar = document.getElementById('export-bar');
+const btnExportPdf = document.getElementById('btn-export-pdf');
+const btnToggleFilters = document.getElementById('btn-toggle-filters');
+const advancedFilters = document.getElementById('advanced-filters');
+const filtersToggleIcon = document.getElementById('filters-toggle-icon');
+const btnToggleDepts = document.getElementById('btn-toggle-depts');
+const deptFiltersWrap = document.getElementById('dept-filters-wrap');
+const deptsToggleIcon = document.getElementById('depts-toggle-icon');
 
 // ========== D3 SETUP ==========
 const W = () => graphEl.clientWidth;
@@ -45,9 +53,29 @@ const merge = glow.append('feMerge');
 merge.append('feMergeNode').attr('in','blur');
 merge.append('feMergeNode').attr('in','SourceGraphic');
 
-// Arrows
-defs.append('marker').attr('id','arrow').attr('viewBox','0 -5 10 10').attr('refX',16).attr('refY',0).attr('markerWidth',5).attr('markerHeight',5).attr('orient','auto').append('path').attr('d','M0,-5L10,0L0,5').attr('fill','#2a2a45');
-defs.append('marker').attr('id','arrow-hl').attr('viewBox','0 -5 10 10').attr('refX',16).attr('refY',0).attr('markerWidth',5).attr('markerHeight',5).attr('orient','auto').append('path').attr('d','M0,-5L10,0L0,5').attr('fill','#7c5cfc');
+// Arrows — larger and more visible
+defs.append('marker').attr('id','arrow').attr('viewBox','0 -6 12 12').attr('refX',18).attr('refY',0).attr('markerWidth',8).attr('markerHeight',8).attr('orient','auto').append('path').attr('d','M0,-6L12,0L0,6').attr('fill','#4a4a7a');
+defs.append('marker').attr('id','arrow-hl').attr('viewBox','0 -6 12 12').attr('refX',18).attr('refY',0).attr('markerWidth',8).attr('markerHeight',8).attr('orient','auto').append('path').attr('d','M0,-6L12,0L0,6').attr('fill','#7c5cfc');
+
+// Star for gateway courses
+const starPath = defs.append('symbol').attr('id','star').attr('viewBox','-8 -8 16 16');
+starPath.append('path').attr('d','M0,-7 L1.6,-2.2 L6.7,-2.2 L2.6,1.1 L4.1,6 L0,3 L-4.1,6 L-2.6,1.1 L-6.7,-2.2 L-1.6,-2.2 Z').attr('fill','#ffd43b').attr('stroke','#b8860b').attr('stroke-width',0.5);
+
+// Compute gateway courses — courses that unlock the most
+let GATEWAY_SET = new Set();
+(function computeGateways(){
+  const counts = {};
+  for(const [cid,preqs] of Object.entries(PREREQUISITES)){
+    for(const p of preqs){
+      if(p==='GIR') continue;
+      counts[p] = (counts[p]||0) + 1;
+    }
+  }
+  // Top 5% by unlock count, minimum 3 unlocks
+  const sorted = Object.entries(counts).sort((a,b)=>b[1]-a[1]);
+  const threshold = Math.max(3, Math.round(sorted.length*0.05));
+  sorted.slice(0, threshold).forEach(([id])=>{ GATEWAY_SET.add(id); });
+})();
 
 const g = svg.append('g');
 const zoom = d3.zoom().scaleExtent([0.08,5]).on('zoom',(e)=>{g.attr('transform',e.transform);});
@@ -128,6 +156,8 @@ function render(gd){
   const ng = g.selectAll('.ng').data(gd.nodes).join('g').attr('class','ng').attr('cursor','pointer');
   ng.append('circle').attr('r',d=>d.radius).attr('fill',d=>d.color).attr('stroke',d=>d3.color(d.color).darker(0.5)).attr('stroke-width',1).attr('stroke-opacity',0.4).attr('opacity',0.85);
   ng.append('text').text(d=>d.id).attr('x',0).attr('y',-9).attr('text-anchor','middle').attr('fill','#7070a0').attr('font-size','7px').attr('font-family','JetBrains Mono,monospace').attr('pointer-events','none').attr('opacity',0.65);
+  // Star badge for gateway courses
+  ng.filter(d=>GATEWAY_SET.has(d.id)).append('use').attr('href','#star').attr('x',-6).attr('y',4).attr('width',12).attr('height',12).attr('class','gw-star').attr('pointer-events','none');
 
   ng.on('mouseover',(ev,d)=>{
     if(state.selectedNode&&state.selectedNode.id===d.id) return;
@@ -264,6 +294,7 @@ function selectNode(node){
   state.selectedNode = node;
   highlight(node);
   updateDetail(node);
+  exportBar.style.display = node ? 'block' : 'none';
 }
 
 // ========== DETAIL PANEL ==========
@@ -320,7 +351,32 @@ function buildDeptFilters(){
     if(state.activeDepts.has(dept)) state.activeDepts.delete(dept); else state.activeDepts.add(dept);
     buildDeptFilters(); refresh();
   });});
+  // Count active departments in button label
+  const activeCount = state.activeDepts.size;
+  btnToggleDepts.querySelector('span:last-child').textContent = activeCount ? `Departments (${activeCount} selected)` : 'Departments';
 }
+
+// Department toggle
+let deptsExpanded = true;
+btnToggleDepts.addEventListener('click', ()=>{
+  deptsExpanded = !deptsExpanded;
+  if(deptsExpanded){
+    deptFiltersWrap.style.maxHeight = '200px';
+    deptsToggleIcon.textContent = '▾';
+    btnToggleDepts.style.borderColor = 'var(--accent)';
+    btnToggleDepts.style.color = 'var(--accent)';
+  } else {
+    deptFiltersWrap.style.maxHeight = '0';
+    deptsToggleIcon.textContent = '▸';
+    btnToggleDepts.style.borderColor = 'var(--border)';
+    btnToggleDepts.style.color = 'var(--text2)';
+  }
+});
+// Start departments expanded
+deptFiltersWrap.style.maxHeight = '200px';
+deptsToggleIcon.textContent = '▾';
+btnToggleDepts.style.borderColor = 'var(--accent)';
+btnToggleDepts.style.color = 'var(--accent)';
 
 // ========== LEARNING PATHS ==========
 const LEARNING_PATHS = {
@@ -410,7 +466,7 @@ loneToggle.addEventListener('click',()=>{
   state.hideLone = !state.hideLone;
   if(state.hideLone){
     loneCheck.style.background = 'var(--accent)';
-    loneCheck.firstElementChild.style.left = '16px';
+    loneCheck.firstElementChild.style.left = '14px';
     loneCheck.firstElementChild.style.background = '#fff';
   } else {
     loneCheck.style.background = 'var(--surface3)';
@@ -418,6 +474,87 @@ loneToggle.addEventListener('click',()=>{
     loneCheck.firstElementChild.style.background = 'var(--text3)';
   }
   refresh();
+});
+
+// ========== PDF EXPORT ==========
+btnExportPdf.addEventListener('click', ()=>{
+  const node = state.selectedNode;
+  if(!node) return;
+  const chain = buildChain(node.id);
+  const chainNodes = chain.map(id=>COURSE_MAP[id]).filter(Boolean);
+  const chainNames = chain.map(id=>{
+    const c = COURSE_MAP[id];
+    return c ? `${c.id}: ${c.title}` : id;
+  });
+  const pathName = pathSelect.selectedOptions[0]?.textContent || 'Custom Path';
+
+  const printWin = window.open('','_blank','width=900,height=700');
+  printWin.document.write(`<!DOCTYPE html>
+<html><head><meta charset="UTF-8"><title>MIT OCW Learning Path — ${node.id}</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:'Segoe UI',system-ui,sans-serif;color:#1a1a2e;padding:40px 60px;max-width:900px;margin:0 auto}
+h1{font-size:24px;margin-bottom:4px;color:#7c5cfc}
+h2{font-size:14px;color:#666;font-weight:400;margin-bottom:24px}
+.path-flow{display:flex;align-items:center;flex-wrap:wrap;gap:6px;margin-bottom:32px;padding:16px;background:#f5f3ff;border-radius:12px;overflow-x:auto}
+.path-chip{padding:6px 14px;border-radius:8px;font-family:'JetBrains Mono',monospace;font-size:13px;font-weight:600;background:#e8e4ff;color:#5c3cf0;white-space:nowrap}
+.path-arrow{color:#999;font-weight:700}
+.path-chip.target{background:#7c5cfc;color:#fff}
+.course-block{border:1px solid #e0e0e8;border-radius:12px;padding:20px;margin-bottom:16px;page-break-inside:avoid;background:#fafafa}
+.course-block .cnum{font-family:'JetBrains Mono',monospace;font-size:16px;font-weight:700;color:#7c5cfc;margin-bottom:4px}
+.course-block .ctitle{font-size:16px;font-weight:600;margin-bottom:8px}
+.course-block .cmeta{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px}
+.course-block .ctag{padding:3px 10px;border-radius:12px;font-size:10px;font-weight:500;background:#e8e4ff;color:#5c3cf0}
+.course-block .ctag.dept{background:#fff0e0;color:#c06000}
+.course-block .cdesc{font-size:12px;color:#555;line-height:1.6}
+.course-block .cprereq{font-size:11px;color:#888;margin-top:8px}
+.course-block .clinks{margin-top:10px}
+.course-block .clinks a{font-size:11px;color:#7c5cfc;text-decoration:none;margin-right:12px}
+.gateway-badge{display:inline-block;background:#ffe066;color:#8a6d00;padding:2px 8px;border-radius:8px;font-size:10px;font-weight:700;margin-left:6px}
+.footer{text-align:center;margin-top:40px;font-size:11px;color:#aaa;border-top:1px solid #eee;padding-top:20px}
+@media print{body{padding:20px 30px}}
+</style></head><body>
+<h1>📚 ${pathName}</h1>
+<h2>Full prerequisite chain for <strong>${node.id}: ${node.title}</strong> — generated by MIT OCW Knowledge Map</h2>
+<div class="path-flow">${chain.map((id,i)=>(i>0?'<span class="path-arrow">→</span>':'')+`<span class="path-chip${id===node.id?' target':''}">${id}</span>`).join('')}</div>
+<h2 style="margin-bottom:16px;">Course Details (${chainNodes.length} courses)</h2>
+${
+  chainNodes.map((c,i)=>{
+    const pre = getPrerequisites(c.id).filter(isAvailable);
+    const unl = (UNLOCKS[c.id]||[]).filter(isAvailable);
+    const isGateway = GATEWAY_SET.has(c.id);
+    return `<div class="course-block">
+      <div class="cnum">${i+1}. ${c.id} ${isGateway?'<span class="gateway-badge">⭐ Gateway</span>':''}</div>
+      <div class="ctitle">${c.title}</div>
+      <div class="cmeta"><span class="ctag dept">${c.department}</span>${(c.level||[]).map(l=>`<span class="ctag">${l}</span>`).join('')}${(c.features||[]).slice(0,3).map(f=>`<span class="ctag">${f}</span>`).join('')}</div>
+      <div class="cdesc">${c.description||'No description available.'}</div>
+      ${pre.length?`<div class="cprereq">⬆ Prerequisites: ${pre.join(', ')}</div>`:''}
+      ${unl.length?`<div class="cprereq">⬇ Unlocks: ${unl.slice(0,8).join(', ')}${unl.length>8?' +'+(unl.length-8)+' more':''}</div>`:''}
+      <div class="clinks"><a href="https://ocw.mit.edu/search/?q=${encodeURIComponent(c.id)}" target="_blank">OCW Search ↗</a></div>
+    </div>`;
+  }).join('\n')
+}
+<div class="footer">MIT OCW Knowledge Map · ${new Date().toLocaleDateString()} · Click browser Print → Save as PDF</div>
+</body></html>`);
+  printWin.document.close();
+  setTimeout(()=>printWin.print(), 400);
+});
+
+// ========== FILTERS TOGGLE ==========
+let filtersExpanded = false;
+btnToggleFilters.addEventListener('click', ()=>{
+  filtersExpanded = !filtersExpanded;
+  if(filtersExpanded){
+    advancedFilters.style.maxHeight = '340px';
+    filtersToggleIcon.textContent = '▾';
+    btnToggleFilters.style.borderColor = 'var(--accent)';
+    btnToggleFilters.style.color = 'var(--accent)';
+  } else {
+    advancedFilters.style.maxHeight = '0';
+    filtersToggleIcon.textContent = '▸';
+    btnToggleFilters.style.borderColor = 'var(--border)';
+    btnToggleFilters.style.color = 'var(--text2)';
+  }
 });
 
 // ========== CONTROLS ==========

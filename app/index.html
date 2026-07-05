@@ -146,32 +146,52 @@ html,body { width:100%; height:100%; overflow:hidden; font-family:'Inter',sans-s
     <div id="search-wrap">
       <input type="text" id="search" placeholder="🔍 Search courses... (e.g., calculus, robotics, 18.01)" autocomplete="off">
     </div>
-    <div id="dept-filters"></div>
+    <div id="dept-toggle-wrap" style="padding:5px 20px;border-bottom:1px solid var(--border);">
+      <button id="btn-toggle-depts" style="width:100%;padding:5px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text2);cursor:pointer;font-size:11px;transition:all .15s;display:flex;align-items:center;justify-content:center;gap:6px;">
+        <span id="depts-toggle-icon">▸</span> <span>Departments</span>
+      </button>
+    </div>
+    <div id="dept-filters-wrap" style="overflow:hidden;max-height:0;transition:max-height .3s ease;border-bottom:1px solid var(--border);">
+      <div id="dept-filters" style="padding:8px 20px;display:flex;flex-wrap:wrap;gap:5px;max-height:160px;overflow-y:auto;"></div>
+    </div>
     <div id="stats-bar">
       <div class="stat"><span class="stat-val" id="stat-total">—</span> courses</div>
       <div class="stat"><span class="stat-val" id="stat-visible">—</span> visible</div>
       <div class="stat"><span class="stat-val" id="stat-selected">—</span> selected</div>
     </div>
-<div id="path-panel">
-      <label>🎯 Learning Path</label>
-      <select id="path-select">
+    <div id="filters-toggle-wrap" style="padding:5px 20px;border-bottom:1px solid var(--border);">
+      <button id="btn-toggle-filters" style="width:100%;padding:5px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text2);cursor:pointer;font-size:11px;transition:all .15s;display:flex;align-items:center;justify-content:center;gap:6px;">
+        <span id="filters-toggle-icon">▸</span> <span>Filters & Options</span>
+      </button>
+    </div>
+    <div id="advanced-filters" style="overflow:hidden;max-height:0;transition:max-height .3s ease;border-bottom:1px solid var(--border);">
+      <div style="padding:8px 20px;">
+        <div style="font-size:10px;color:var(--text3);margin-bottom:4px;text-transform:uppercase;letter-spacing:1px;">Level</div>
+        <div id="level-filters" style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;"></div>
+        <div style="font-size:10px;color:var(--text3);margin-bottom:4px;text-transform:uppercase;letter-spacing:1px;">Features</div>
+        <div id="feature-filters" style="display:flex;flex-wrap:wrap;gap:4px;margin-bottom:8px;"></div>
+        <div style="display:flex;align-items:center;justify-content:space-between;gap:8px;">
+          <div id="lone-toggle" style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text3);cursor:pointer;user-select:none;flex-shrink:0;">
+            <span id="lone-check" style="width:28px;height:16px;border-radius:8px;background:var(--surface3);position:relative;transition:background .2s;flex-shrink:0;">
+              <span style="position:absolute;top:1px;left:2px;width:12px;height:12px;border-radius:50%;background:var(--text3);transition:all .2s;"></span>
+            </span>
+            Hide lone
+          </div>
+          <div style="display:flex;align-items:center;gap:6px;font-size:11px;color:var(--text3);">
+            <span>Sort:</span>
+            <select id="sort-select" style="padding:3px 6px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:11px;outline:none;font-family:Inter,sans-serif;">
+              <option value="num">Course #</option>
+              <option value="alpha">A–Z</option>
+              <option value="dept">Dept</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="path-panel" style="padding:8px 20px;border-bottom:1px solid var(--border);">
+      <label style="font-size:10px;color:var(--text3);display:block;margin-bottom:4px;text-transform:uppercase;letter-spacing:1px;">🎯 Learning Path</label>
+      <select id="path-select" style="width:100%;padding:6px 10px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:11px;outline:none;cursor:pointer;font-family:'Inter',sans-serif;">
         <option value="">— Browse freely —</option>
-      </select>
-    </div>
-    <div id="level-filters" style="padding:8px 20px;display:flex;flex-wrap:wrap;gap:6px;border-bottom:1px solid var(--border);max-height:70px;overflow-y:auto;"></div>
-    <div id="feature-filters" style="padding:8px 20px;display:flex;flex-wrap:wrap;gap:6px;border-bottom:1px solid var(--border);max-height:70px;overflow-y:auto;"></div>
-    <div id="lone-toggle" style="padding:8px 20px;display:flex;align-items:center;gap:8px;font-size:11px;color:var(--text3);border-bottom:1px solid var(--border);cursor:pointer;user-select:none;">
-      <span id="lone-check" style="width:32px;height:18px;border-radius:9px;background:var(--surface3);position:relative;transition:background .2s;flex-shrink:0;">
-        <span style="position:absolute;top:2px;left:2px;width:14px;height:14px;border-radius:50%;background:var(--text3);transition:all .2s;"></span>
-      </span>
-      Hide lone nodes
-    </div>
-    <div style="padding:8px 20px;display:flex;align-items:center;gap:8px;font-size:11px;color:var(--text3);border-bottom:1px solid var(--border);">
-      <span>Sort by:</span>
-      <select id="sort-select" style="flex:1;padding:4px 8px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text);font-size:11px;outline:none;font-family:Inter,sans-serif;">
-        <option value="num">Course number</option>
-        <option value="alpha">Alphabetical</option>
-        <option value="dept">Department</option>
       </select>
     </div>
     <div id="course-detail">
@@ -179,6 +199,9 @@ html,body { width:100%; height:100%; overflow:hidden; font-family:'Inter',sans-s
         <div class="icon">📚</div>
         <div>Click a course node on the graph<br>to see details and prerequisites</div>
       </div>
+    </div>
+    <div id="export-bar" style="padding:8px 20px;border-top:1px solid var(--border);display:none;">
+      <button id="btn-export-pdf" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--surface2);color:var(--text);cursor:pointer;font-size:12px;transition:all .15s;">🖨 Export Path to PDF</button>
     </div>
   </div>
   <div id="graph-area">
