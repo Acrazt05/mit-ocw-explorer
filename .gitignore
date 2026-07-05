@@ -18,9 +18,9 @@ build/
 Thumbs.db
 
 # Scraped / generated data (large files)
-data/all_courses.json
-data/courses_*.json
-app/data.js
+#data/all_courses.json
+#data/courses_*.json
+#app/data.js
 
 # Logs
 *.log
