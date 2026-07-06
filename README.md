@@ -14,12 +14,15 @@ See prerequisites, discover learning paths, find gateway courses, and export pri
 ## ✨ Features
 
 - **Interactive force-directed graph** — 2,811 course nodes, 1,300+ prerequisite edges
+- **Multi-course planning** — Shift+Click to select multiple courses; merged prerequisite chain with topological ordering
+- **Taken course tracking** — Right-click any node to mark it as ✔ taken; option to cascade-mark all prerequisites. Taken courses are excluded from plans and persisted via localStorage
+- **Save & load plans** — Name and save course selections to localStorage; export all plans as a `.json` file and import from file
 - **Department filtering** — 40+ MIT departments with color-coded nodes
 - **Level & feature filters** — Undergraduate/Graduate, Video lectures, Notes, Problem sets, etc.
 - **12 built-in learning paths** — Robotics, AI/ML, Quantum Computing, Biotech, Economics, Physics, Pure Math, CS Theory, Control Systems, Aerospace, Data Science, Energy
 - **Gateway course stars ⭐** — Automatically identifies courses that unlock the most subsequent courses
 - **Prerequisite chain highlighting** — Click any course to see its full ancestor chain with gradient coloring
-- **PDF export** — Print a complete, numbered roadmap with course descriptions, prerequisites, and unlocks
+- **PDF export** — Print a complete, numbered roadmap with course descriptions, prerequisites, unlocks, AND a tree graph diagram
 - **Collapsible sidebar** — Clean, minimal UI that maximizes graph real estate
 - **Zoom, pan, drag, search** — Full D3.js interactivity with minimap and view controls
 
@@ -92,6 +95,8 @@ mit-ocw-knowledge-map/
 | **Pan**           | Drag background               |
 | **Zoom**          | Scroll wheel / Trackpad pinch |
 | **Select course** | Click node                    |
+| **Add to plan**   | Shift+Click node              |
+| **Mark taken**    | Right-click node              |
 | **Move node**     | Drag node                     |
 | **Deselect**      | Click background              |
 
@@ -101,8 +106,9 @@ mit-ocw-knowledge-map/
 2. **Departments** — Toggle section to filter by department (collapsible)
 3. **Filters & Options** — Level (UG/Grad), Features (Videos, Notes, etc.), Hide lone nodes, Sort
 4. **Learning Path** — Select a curated path to highlight specific courses
-5. **Detail Panel** — Shows selected course info, prerequisites, unlocks, full chain
-6. **Export PDF** — Appears when a course is selected; opens a printable roadmap
+5. **Detail Panel** — Shows selected courses with merged prerequisite chain, common unlocks, and full chain visualization. Each course card has a ✕ remove button and OCW search link.
+6. **Export PDF / Save Plan** — Appears when courses are selected. Export a complete PDF roadmap (with tree graph) or save the selection as a named plan.
+7. **Saved Plans** — Load, delete, or export/import plans from the sidebar footer. Plans persist in localStorage. Use ⬇ File / ⬆ File to backup or restore all plans.
 
 ## 🏗️ Architecture
 

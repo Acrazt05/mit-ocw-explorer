@@ -3,6 +3,13 @@
 'use strict';
 
 // ========== STATE ==========
+const STORAGE_KEY_TAKEN = 'mit-ocw-taken-courses';
+const STORAGE_KEY_SAVED = 'mit-ocw-saved-plans';
+const STORAGE_KEY_EXCLUSIONS = 'mit-ocw-excluded-courses';
+
+function loadSetFromStorage(key){ try { const d=localStorage.getItem(key); return d ? new Set(JSON.parse(d)) : new Set(); } catch(e){ return new Set(); } }
+function saveSetToStorage(key, s){ localStorage.setItem(key, JSON.stringify([...s])); }
+
 const state = {
   nodes: [],
   links: [],
@@ -15,6 +22,8 @@ const state = {
   activeLevels: new Set(),
   activeFeatures: new Set(),
   activeSort: 'num',
+  takenCourses: loadSetFromStorage(STORAGE_KEY_TAKEN),
+  excludedCourses: loadSetFromStorage(STORAGE_KEY_EXCLUSIONS),
 };
 
 // ========== DOM ELEMENTS ==========
@@ -176,6 +185,21 @@ function render(gd){
   });
   ng.on('click',(ev,d)=>{ev.stopPropagation();
     if(ev.shiftKey) addNodeToSelection(d); else selectNode(d);
+  });
+  ng.on('contextmenu',(ev,d)=>{ev.preventDefault();ev.stopPropagation();toggleTaken(d);});
+
+  // Taken-course checkmarks
+  ng.each(function(d){
+    if(state.takenCourses.has(d.id)){
+      const sel = d3.select(this);
+      const r = d.radius;
+      sel.append('text')
+        .attr('class','taken-check')
+        .attr('x',0).attr('y',r*0.7).attr('text-anchor','middle')
+        .attr('fill','#51cf66').attr('font-size',`${r*2.5}px`).attr('font-weight','900')
+        .attr('pointer-events','none').attr('stroke','#1a5c1a').attr('stroke-width',0.8)
+        .text('✔');
+    }
   });
   ng.call(d3.drag().on('start',(ev,d)=>{if(!ev.active) simulation.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y;})
     .on('drag',(ev,d)=>{d.fx=ev.x;d.fy=ev.y;})
@@ -409,12 +433,15 @@ function updateDetail(){
 }
 
 function buildChain(cid,visited=new Set(),depth=0){
-  if(visited.has(cid)||depth>8) return [cid];
+  if(visited.has(cid)||depth>8) return [];
   visited.add(cid);
   const pre = getPrerequisites(cid).filter(isAvailable).filter(p=>COURSE_MAP[p]);
   const all = [];
-  for(const p of pre) all.push(...buildChain(p,visited,depth+1));
-  all.push(cid); return [...new Set(all)];
+  for(const p of pre) {
+    if(!state.takenCourses.has(p)) all.push(...buildChain(p,visited,depth+1));
+  }
+  if(!state.takenCourses.has(cid)) all.push(cid);
+  return [...new Set(all)];
 }
 
 function centerOnNode(node){
@@ -554,6 +581,124 @@ function refresh(){
     statSelected.textContent = state.selectedNodes.length;
     exportBar.style.display = state.selectedNodes.length ? 'block' : 'none';
   }
+}
+
+// ========== TAKEN COURSES ==========
+function toggleTaken(node){
+  if(state.takenCourses.has(node.id)){
+    state.takenCourses.delete(node.id);
+    saveSetToStorage(STORAGE_KEY_TAKEN, state.takenCourses);
+    applyTakenCheckmarks();
+    // Rebuild plan: refresh highlights and detail (course may now re-appear in plan)
+    if(state.selectedNodes.length){
+      highlightAll();
+      updateDetail();
+    }
+  } else {
+    const preqs = getPrerequisites(node.id).filter(isAvailable).filter(p=>COURSE_MAP[p]);
+    if(preqs.length>0){
+      const cascade = confirm(`Mark "${node.id}: ${node.title}" as taken?\n\nIt has ${preqs.length} prerequisite(s): ${preqs.slice(0,5).join(', ')}${preqs.length>5?'...':''}\n\nClick OK to also mark all prerequisites as taken.\nClick Cancel to mark only this course.`);
+      if(cascade){
+        const stack = [...preqs];
+        while(stack.length){
+          const pid = stack.pop();
+          if(!state.takenCourses.has(pid)){
+            state.takenCourses.add(pid);
+            const pp = getPrerequisites(pid).filter(isAvailable).filter(p=>COURSE_MAP[p]);
+            for(const p of pp) if(!state.takenCourses.has(p)) stack.push(p);
+          }
+        }
+      }
+    }
+    state.takenCourses.add(node.id);
+    saveSetToStorage(STORAGE_KEY_TAKEN, state.takenCourses);
+    applyTakenCheckmarks();
+    // If this node was selected, remove it from selection
+    const wasSelected = state.selectedNodes.some(n=>n.id===node.id);
+    if(wasSelected){
+      state.selectedNodes = state.selectedNodes.filter(n=>n.id!==node.id);
+    }
+    // Rebuild plan to exclude taken courses
+    if(state.selectedNodes.length){
+      highlightAll();
+      updateDetail();
+      statSelected.textContent = state.selectedNodes.length;
+      exportBar.style.display = 'block';
+    } else {
+      selectNode(null);
+    }
+  }
+}
+
+function applyTakenCheckmarks(){
+  // Remove existing checkmarks
+  g.selectAll('.taken-check').remove();
+  // Re-add checkmarks on nodes that are taken
+  g.selectAll('.ng').each(function(d){
+    if(state.takenCourses.has(d.id)){
+      const sel = d3.select(this);
+      const r = d.radius;
+      sel.append('text')
+        .attr('class','taken-check')
+        .attr('x',0).attr('y',r*0.7).attr('text-anchor','middle')
+        .attr('fill','#51cf66').attr('font-size',`${r*2.5}px`).attr('font-weight','900')
+        .attr('pointer-events','none').attr('stroke','#1a5c1a').attr('stroke-width',0.8)
+        .text('✔');
+    }
+  });
+}
+
+// ========== SAVE / LOAD PLAN ==========
+function getSavedPlans(){
+  try { const d=localStorage.getItem(STORAGE_KEY_SAVED); return d ? JSON.parse(d) : []; } catch(e){ return []; }
+}
+function savePlanToStorage(name){
+  const plans = getSavedPlans();
+  const ids = state.selectedNodes.map(n=>n.id);
+  // Remove existing plan with same name
+  const filtered = plans.filter(p=>p.name!==name);
+  filtered.push({name, courses:ids, date: new Date().toISOString()});
+  localStorage.setItem(STORAGE_KEY_SAVED, JSON.stringify(filtered));
+  updateSavedPlansUI();
+}
+function loadPlan(name){
+  const plans = getSavedPlans();
+  const plan = plans.find(p=>p.name===name);
+  if(!plan) return;
+  state.selectedNodes = plan.courses.map(id=>{
+    const cn = state.nodes.find(n=>n.id===id);
+    return cn || {id, title:'', department:'', group:'other', color:'#888', level:[], features:[], radius:5};
+  }).filter(n=>n);
+  highlightAll();
+  updateDetail();
+  exportBar.style.display = state.selectedNodes.length ? 'block' : 'none';
+  statSelected.textContent = state.selectedNodes.length;
+}
+function deletePlan(name){
+  const plans = getSavedPlans().filter(p=>p.name!==name);
+  localStorage.setItem(STORAGE_KEY_SAVED, JSON.stringify(plans));
+  updateSavedPlansUI();
+}
+function updateSavedPlansUI(){
+  const container = document.getElementById('saved-plans-list');
+  if(!container) return;
+  const plans = getSavedPlans();
+  if(!plans.length){
+    container.innerHTML = `<div style="font-size:10px;color:var(--text3);padding:4px 0;">No saved plans yet.</div>`;
+    return;
+  }
+  container.innerHTML = plans.map(p=>{
+    return `<div style="display:flex;align-items:center;justify-content:space-between;padding:4px 0;gap:6px;">
+      <span style="font-size:11px;color:var(--text);cursor:pointer;flex:1;" class="load-plan-btn" data-name="${p.name.replace(/"/g,'"')}">📋 ${p.name} <span style="color:var(--text3);font-size:9px;">(${p.courses.length} courses)</span></span>
+      <button class="del-plan-btn" data-name="${p.name.replace(/"/g,'"')}" style="padding:1px 6px;border-radius:3px;border:1px solid #ff6b6b;background:transparent;color:#ff6b6b;cursor:pointer;font-size:9px;">✕</button>
+    </div>`;
+  }).join('');
+  container.querySelectorAll('.load-plan-btn').forEach(el=>{
+    el.addEventListener('click',()=>loadPlan(el.dataset.name));
+  });
+  container.querySelectorAll('.del-plan-btn').forEach(el=>{
+    el.addEventListener('click',(e)=>{e.stopPropagation();deletePlan(el.dataset.name);});
+  });
 }
 
 // ========== LONE NODE TOGGLE ==========
@@ -788,7 +933,57 @@ document.getElementById('btn-fit').addEventListener('click',()=>{
   svg.transition().duration(500).call(zoom.transform,d3.zoomIdentity.translate(W()/2-scale*(b.x+b.width/2),H()/2-scale*(b.y+b.height/2)).scale(scale));
 });
 
+// ========== SAVE PLAN BUTTON ==========
+const btnSavePlan = document.getElementById('btn-save-plan');
+btnSavePlan.addEventListener('click', ()=>{
+  const name = prompt('Plan name:', 'My Plan');
+  if(name && name.trim()) savePlanToStorage(name.trim());
+});
+
+// ========== FILE EXPORT / IMPORT ==========
+document.getElementById('btn-file-save').addEventListener('click', ()=>{
+  const plans = getSavedPlans();
+  const data = JSON.stringify(plans, null, 2);
+  const blob = new Blob([data], {type:'application/json'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = `mit-ocw-plans-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
+});
+
+document.getElementById('btn-file-load').addEventListener('click', ()=>{
+  const inp = document.createElement('input');
+  inp.type = 'file';
+  inp.accept = '.json';
+  inp.addEventListener('change', ()=>{
+    const file = inp.files[0];
+    if(!file) return;
+    const reader = new FileReader();
+    reader.onload = ()=>{
+      try {
+        const plans = JSON.parse(reader.result);
+        if(!Array.isArray(plans)) throw new Error('Invalid format');
+        // Validate structure
+        for(const p of plans){
+          if(!p.name || !Array.isArray(p.courses)) throw new Error('Invalid plan structure');
+        }
+        if(confirm(`Load ${plans.length} plan(s) from file? This will replace all current saved plans.`)){
+          localStorage.setItem(STORAGE_KEY_SAVED, JSON.stringify(plans));
+          updateSavedPlansUI();
+        }
+      } catch(e){
+        alert('Invalid plan file format.');
+      }
+    };
+    reader.readAsText(file);
+  });
+  inp.click();
+});
+
 // ========== INIT ==========
+updateSavedPlansUI();
 buildDeptFilters();
 buildLevelFilters();
 buildFeatureFilters();
