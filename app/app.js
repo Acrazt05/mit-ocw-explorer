@@ -641,11 +641,124 @@ ${
     </div>`;
   }).join('\n')
 }
-<div class="footer">MIT OCW Knowledge Map · ${new Date().toLocaleDateString()} · Click browser Print → Save as PDF</div>
+<div class="footer" style="page-break-after:always;">MIT OCW Knowledge Map · ${new Date().toLocaleDateString()} · Click browser Print → Save as PDF</div>
+${buildTreeGraphPage(sortedChain, selIds)}
 </body></html>`);
   printWin.document.close();
   setTimeout(()=>printWin.print(), 400);
 });
+
+function buildTreeGraphPage(sortedChain, selIds){
+  // Build reverse index: which courses depend on each prerequisite
+  const children = {};
+  for(const cid of sortedChain){
+    children[cid] = [];
+  }
+  for(const cid of sortedChain){
+    const preqs = getPrerequisites(cid).filter(id=>sortedChain.includes(id));
+    for(const p of preqs){
+      if(children[p]) children[p].push(cid);
+    }
+  }
+
+  // Find roots (courses with no prerequisites in the chain)
+  const roots = sortedChain.filter(cid=>{
+    const preqs = getPrerequisites(cid).filter(id=>sortedChain.includes(id));
+    return preqs.length===0;
+  });
+  if(!roots.length) return '';
+
+  // BFS to assign layers (depth from roots)
+  const layer = {};
+  const queue = roots.map(r=>({id:r, d:0}));
+  for(const qi of queue){
+    if(layer[qi.id]!==undefined) continue;
+    layer[qi.id] = qi.d;
+    for(const ch of (children[qi.id]||[])){
+      queue.push({id:ch, d:qi.d+1});
+    }
+  }
+  // Ensure all nodes have a layer
+  for(const cid of sortedChain){
+    if(layer[cid]===undefined) layer[cid]=0;
+  }
+
+  // Group nodes by layer
+  const maxLayer = Math.max(0, ...Object.values(layer));
+  const layers = {};
+  for(const cid of sortedChain){
+    const l = layer[cid];
+    if(!layers[l]) layers[l]=[];
+    layers[l].push(cid);
+  }
+
+  // Layout params for landscape fit — top-to-bottom tree
+  const nodeW = 70, nodeH = 24;
+  const gapX = 18, gapY = 80; // swapped: horizontal gap is small, vertical gap is large
+  const totLayers = maxLayer+1;
+  // Calculate max nodes in any layer (now horizontal width)
+  let maxPerLayer = 0;
+  for(let l=0; l<=maxLayer; l++){
+    maxPerLayer = Math.max(maxPerLayer, (layers[l]||[]).length);
+  }
+  const colW = nodeW+gapX;
+  const svgW = maxPerLayer*colW+40;
+  const svgH = totLayers*(nodeH+gapY)+60;
+
+  // Helper to darken a hex color
+  function darkenHex(hex, amt){
+    let r=128,g=128,b=128;
+    if(hex&&hex.length>=7){
+      r=parseInt(hex.slice(1,3),16); g=parseInt(hex.slice(3,5),16); b=parseInt(hex.slice(5,7),16);
+    }
+    r=Math.max(0,Math.round(r*(1-amt))); g=Math.max(0,Math.round(g*(1-amt))); b=Math.max(0,Math.round(b*(1-amt)));
+    return '#'+[r,g,b].map(v=>v.toString(16).padStart(2,'0')).join('');
+  }
+
+  // Build SVG — layers go top-to-bottom (y), nodes within layer spread horizontally (x)
+  let svg = `<div class="tree-page" style="page-break-before:always;"><h2 style="color:#7c5cfc;margin-bottom:12px;">🌳 Prerequisite Tree</h2>`;
+  svg += `<p style="font-size:11px;color:#666;margin-bottom:16px;">Read top-to-bottom: earlier courses at top, selected courses in <span style="background:#7c5cfc;color:#fff;padding:1px 6px;border-radius:3px;">purple</span>. Click any course for OCW Search.</p>`;
+  svg += `<svg viewBox="0 0 ${svgW} ${svgH}" style="width:100%;max-height:100%;font-family:'JetBrains Mono',monospace;">`;
+
+  // Position nodes: layers go top→bottom (y), nodes spread left→right (x)
+  const positions = {};
+  for(let l=0; l<=maxLayer; l++){
+    const ids = layers[l]||[];
+    const y = l*(nodeH+gapY)+30;
+    const totalW = ids.length*colW;
+    const startX = (svgW-totalW)/2 + colW/2;
+    ids.forEach((cid,i)=>{
+      positions[cid] = {x: startX+i*colW, y};
+    });
+  }
+
+  // Draw edges (from parent layer to child layer)
+  for(const cid of sortedChain){
+    const preqs = getPrerequisites(cid).filter(id=>sortedChain.includes(id));
+    for(const p of preqs){
+      const from = positions[p], to = positions[cid];
+      if(!from||!to) continue;
+      svg += `<line x1="${from.x}" y1="${from.y+nodeH/2}" x2="${to.x}" y2="${to.y-nodeH/2}" stroke="#ccc" stroke-width="1" stroke-dasharray="4,2"/>`;
+    }
+  }
+
+  // Draw nodes
+  for(const cid of sortedChain){
+    const pos = positions[cid];
+    if(!pos) continue;
+    const c = COURSE_MAP[cid];
+    const color = c ? c.color : '#888';
+    const isSel = selIds.has(cid);
+    const bg = isSel ? '#7c5cfc' : color;
+    const stroke = isSel ? '#5a3ce0' : darkenHex(bg, 0.4);
+    const ocwUrl = `https://ocw.mit.edu/search/?q=${encodeURIComponent(cid)}`;
+    svg += `<a href="${ocwUrl}" target="_blank"><rect x="${pos.x-nodeW/2}" y="${pos.y-nodeH/2}" width="${nodeW}" height="${nodeH}" rx="4" fill="${bg}" stroke="${stroke}" stroke-width="${isSel?2:1}"/><text x="${pos.x}" y="${pos.y+4}" text-anchor="middle" fill="#fff" font-size="9" font-weight="${isSel?'700':'500'}">${cid}</text></a>`;
+  }
+
+  svg += `</svg></div>`;
+
+  return svg;
+}
 
 // ========== FILTERS TOGGLE ==========
 let filtersExpanded = false;
