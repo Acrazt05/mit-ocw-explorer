@@ -6,7 +6,8 @@
 const state = {
   nodes: [],
   links: [],
-  selectedNode: null,
+  selectedNodes: [],
+  get selectedNode(){ return this.selectedNodes[0]||null; },
   activeDepts: new Set(),
   searchQuery: '',
   path: null,
@@ -146,7 +147,7 @@ function render(gd){
 
   statTotal.textContent = COURSES.length;
   statVisible.textContent = gd.nodes.length;
-  statSelected.textContent = state.selectedNode?1:0;
+  statSelected.textContent = state.selectedNodes.length;
 
   // Links
   g.selectAll('.lg').data(gd.links).join('g').attr('class','lg').append('line')
@@ -160,7 +161,7 @@ function render(gd){
   ng.filter(d=>GATEWAY_SET.has(d.id)).append('use').attr('href','#star').attr('x',-6).attr('y',4).attr('width',12).attr('height',12).attr('class','gw-star').attr('pointer-events','none');
 
   ng.on('mouseover',(ev,d)=>{
-    if(state.selectedNode&&state.selectedNode.id===d.id) return;
+    if(state.selectedNodes.some(n=>n.id===d.id)) return;
     d3.select(ev.currentTarget).select('circle').transition().duration(120).attr('r',d.radius*2.2).attr('filter','url(#glow)').attr('opacity',1);
     const pre = getPrerequisites(d.id).filter(isAvailable);
     const unl = getUnlocks(d.id).filter(isAvailable);
@@ -169,11 +170,13 @@ function render(gd){
     tooltip.style.display='block'; tooltip.style.left=(mx+14)+'px'; tooltip.style.top=(my+14)+'px';
   });
   ng.on('mouseout',(ev,d)=>{
-    if(state.selectedNode&&state.selectedNode.id===d.id) return;
+    if(state.selectedNodes.some(n=>n.id===d.id)) return;
     d3.select(ev.currentTarget).select('circle').transition().duration(120).attr('r',d.radius).attr('filter',null).attr('opacity',0.85);
     tooltip.style.display='none';
   });
-  ng.on('click',(ev,d)=>{ev.stopPropagation();selectNode(d);});
+  ng.on('click',(ev,d)=>{ev.stopPropagation();
+    if(ev.shiftKey) addNodeToSelection(d); else selectNode(d);
+  });
   ng.call(d3.drag().on('start',(ev,d)=>{if(!ev.active) simulation.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y;})
     .on('drag',(ev,d)=>{d.fx=ev.x;d.fy=ev.y;})
     .on('end',(ev,d)=>{if(!ev.active) simulation.alphaTarget(0);d.fx=null;d.fy=null;}));
@@ -192,132 +195,217 @@ function render(gd){
       g.selectAll('.ng').attr('transform',d=>`translate(${d.x},${d.y})`);
     });
 
-  if(state.selectedNode) highlight(state.selectedNode);
+  if(state.selectedNodes.length) highlightAll();
 }
 
 // ========== HIGHLIGHT ==========
-function highlight(node){
+function highlightAll(){
   // Reset all
   g.selectAll('.ng circle').transition().duration(200).attr('opacity',0.85).attr('r',d=>d.radius).attr('filter',null).attr('stroke',d=>d3.color(d.color).darker(0.5)).attr('stroke-width',1).attr('stroke-opacity',0.4);
   g.selectAll('.ng text').transition().duration(200).attr('opacity',0.65);
   g.selectAll('.lg line').transition().duration(200).attr('stroke','#2a2a45').attr('stroke-width',0.7).attr('stroke-opacity',0.5).attr('marker-end','url(#arrow)');
-  if(!node) return;
+  if(!state.selectedNodes.length) return;
 
-  const nid = node.id;
-  const pre = getPrerequisites(nid).filter(id=>COURSE_MAP[id]);
-  const unl = getUnlocks(nid).filter(id=>COURSE_MAP[id]);
-  const chain = buildChain(nid); // full ancestor chain from root to selected
-  const chainSet = new Set(chain);
-  const rel = new Set([nid,...pre,...unl]);
+  const sels = state.selectedNodes;
+  const selIds = new Set(sels.map(n=>n.id));
 
-  // Position index in chain for gradient coloring (0=root, last=selected)
-  const chainPos = {};
-  chain.forEach((id,i)=>{ chainPos[id] = i; });
-  const chainLen = chain.length;
+  // Merge chains from all selected nodes
+  const allChains = new Set();
+  const allPre = new Set();
+  const allUnl = new Set();
+  const chainEdges = new Set();
 
-  // Node sizing and coloring
+  for(const node of sels){
+    const chain = buildChain(node.id);
+    chain.forEach(id=>allChains.add(id));
+    getPrerequisites(node.id).filter(id=>COURSE_MAP[id]).forEach(id=>allPre.add(id));
+    getUnlocks(node.id).filter(id=>COURSE_MAP[id]).forEach(id=>allUnl.add(id));
+    for(let i=0; i<chain.length-1; i++) chainEdges.add(chain[i]+'→'+chain[i+1]);
+  }
+
+  // Compute shortest distance to any selected node (for ordering)
+  const dist = {};
+  for(const nid of allChains){
+    let best = Infinity;
+    for(const sel of sels){
+      const chain = buildChain(sel.id);
+      const idx = chain.indexOf(nid);
+      if(idx>=0 && idx<best) best = idx;
+    }
+    dist[nid] = best===Infinity ? 999 : best;
+  }
+  const maxDist = Math.max(1, ...Object.values(dist));
+
+  const rel = new Set([...allPre, ...allUnl]);
+
   g.selectAll('.ng circle').transition().duration(200)
     .attr('opacity',d=>{
-      if(d.id===nid) return 1;
-      if(chainSet.has(d.id)) return 1;
-      if(unl.includes(d.id)) return 0.7;
+      if(selIds.has(d.id)) return 1;
+      if(allChains.has(d.id)) return 1;
+      if(allUnl.has(d.id)) return 0.7;
       return 0.08;
     })
     .attr('r',d=>{
-      if(d.id===nid) return d.radius*3;
-      if(chainSet.has(d.id)) return d.radius*2;
-      if(unl.includes(d.id)) return d.radius*1.4;
+      if(selIds.has(d.id)) return d.radius*3;
+      if(allChains.has(d.id)) return d.radius*2;
+      if(allUnl.has(d.id)) return d.radius*1.4;
       return d.radius;
     })
-    .attr('filter',d=>d.id===nid?'url(#glow)':null)
+    .attr('filter',d=>selIds.has(d.id)?'url(#glow)':null)
     .attr('stroke',d=>{
-      if(d.id===nid) return '#fff';
-      if(chainSet.has(d.id)){
-        // Gradient from orange (root) to gold (mid) to white (near selected)
-        const t = chainPos[d.id] / Math.max(chainLen-1,1);
+      if(selIds.has(d.id)) return '#fff';
+      if(allChains.has(d.id)){
+        const t = (dist[d.id]||0) / maxDist;
         const r = Math.round(255*t + 100*(1-t));
         const g = Math.round(180*t + 80*(1-t));
         const b = Math.round(80*t + 40*(1-t));
         return `rgb(${r},${g},${b})`;
       }
-      if(unl.includes(d.id)) return '#51cf66';
+      if(allUnl.has(d.id)) return '#51cf66';
       return d3.color(d.color).darker(0.5);
     })
     .attr('stroke-width',d=>{
-      if(d.id===nid) return 3.5;
-      if(chainSet.has(d.id)) return 2.5;
-      if(unl.includes(d.id)) return 2;
+      if(selIds.has(d.id)) return 3.5;
+      if(allChains.has(d.id)) return 2.5;
+      if(allUnl.has(d.id)) return 2;
       return 1;
     }).attr('stroke-opacity',1);
 
-  // Labels
   g.selectAll('.ng text').transition().duration(200)
-    .attr('opacity',d=>rel.has(d.id)?1:0.05)
-    .attr('font-weight',d=>d.id===nid?'700':chainSet.has(d.id)?'600':unl.includes(d.id)?'500':'400');
-
-  // Edges - highlight chain path edges specially
-  const chainEdges = new Set();
-  for(let i=0; i<chain.length-1; i++){
-    chainEdges.add(chain[i]+'→'+chain[i+1]);
-  }
+    .attr('opacity',d=>rel.has(d.id)||allChains.has(d.id)?1:0.05)
+    .attr('font-weight',d=>selIds.has(d.id)?'700':allChains.has(d.id)?'600':allUnl.has(d.id)?'500':'400');
 
   g.selectAll('.lg line').transition().duration(200)
     .attr('stroke',d=>{
       const key = d.source.id+'→'+d.target.id;
-      if(chainEdges.has(key)) return '#ffa040'; // chain path edge
-      if(d.source.id===nid||d.target.id===nid) return '#7c5cfc';
-      if(d.source.id===nid&&unl.includes(d.target.id)) return '#51cf66';
-      if(pre.includes(d.source.id)&&d.target.id===nid) return '#ff6b6b';
+      if(chainEdges.has(key)) return '#ffa040';
+      if(selIds.has(d.source.id)||selIds.has(d.target.id)) return '#7c5cfc';
       return '#2a2a45';
     })
     .attr('stroke-width',d=>{
       const key = d.source.id+'→'+d.target.id;
       if(chainEdges.has(key)) return 3;
-      if(d.source.id===nid||d.target.id===nid) return 2.2;
+      if(selIds.has(d.source.id)||selIds.has(d.target.id)) return 2.2;
       return 0.7;
     })
     .attr('stroke-opacity',d=>{
       const key = d.source.id+'→'+d.target.id;
       if(chainEdges.has(key)) return 1;
-      if(d.source.id===nid||d.target.id===nid) return 0.9;
+      if(selIds.has(d.source.id)||selIds.has(d.target.id)) return 0.9;
       return 0.2;
     })
     .attr('marker-end',d=>{
       const key = d.source.id+'→'+d.target.id;
       if(chainEdges.has(key)) return 'url(#arrow-hl)';
-      if(d.source.id===nid||d.target.id===nid) return 'url(#arrow-hl)';
+      if(selIds.has(d.source.id)||selIds.has(d.target.id)) return 'url(#arrow-hl)';
       return 'url(#arrow)';
     });
 }
 
 function selectNode(node){
-  state.selectedNode = node;
+  state.selectedNodes = node ? [node] : [];
   tooltip.style.display = 'none';
-  highlight(node);
-  updateDetail(node);
+  highlightAll();
+  updateDetail();
   exportBar.style.display = node ? 'block' : 'none';
 }
 
+function addNodeToSelection(node){
+  // Toggle: if already selected, remove; otherwise add
+  const idx = state.selectedNodes.findIndex(n=>n.id===node.id);
+  if(idx>=0) state.selectedNodes.splice(idx,1);
+  else state.selectedNodes.push(node);
+  tooltip.style.display = 'none';
+  highlightAll();
+  updateDetail();
+  exportBar.style.display = state.selectedNodes.length ? 'block' : 'none';
+}
+
 // ========== DETAIL PANEL ==========
-function updateDetail(node){
-  if(!node){courseDetail.innerHTML=`<div class="empty-state"><div class="icon">📚</div><div>Click a course node<br>to see details & prerequisites</div></div>`;statSelected.textContent='0';return;}
-  statSelected.textContent='1';
-  const pre = getPrerequisites(node.id).filter(isAvailable);
-  const unl = getUnlocks(node.id).filter(isAvailable);
-  const chain = buildChain(node.id);
-  let h = `<div class="course-card"><div class="cnum">${node.id}</div><div class="ctitle">${node.title}</div><div class="cmeta"><span class="ctag dept">${node.department}</span>`;
-  node.level.forEach(l=>{h+=`<span class="ctag level">${l}</span>`;});
-  node.features.slice(0,3).forEach(f=>{h+=`<span class="ctag">${f}</span>`;});
-  h+=`</div>${node.desc?`<div class="cdesc">${node.desc}</div>`:''}`;
-  if(pre.length){h+=`<div class="prereq-section"><div class="prereq-title">⬆ Prerequisites (${pre.length})</div><div class="prereq-flow">`;pre.forEach(p=>{h+=`<span class="prereq-node" data-id="${p}">${p}</span>`;});h+=`</div></div>`;}
-  if(unl.length){h+=`<div class="prereq-section"><div class="prereq-title">⬇ Unlocks (${unl.length})</div><div class="prereq-flow">`;unl.slice(0,20).forEach(u=>{h+=`<span class="prereq-node" data-id="${u}">${u}</span>`;});if(unl.length>20)h+=`<span class="prereq-node">+${unl.length-20} more</span>`;h+=`</div></div>`;}
-  h+=`<div class="prereq-section"><div class="prereq-title">🧭 Full Chain</div><div class="prereq-flow">`;
-  chain.forEach((id,i)=>{if(i>0)h+=`<span class="prereq-arrow">→</span>`;h+=`<span class="prereq-node" data-id="${id}" style="${id===node.id?'background:var(--accent);color:#fff':''}">${id}</span>`;});
-  h+=`</div></div><div class="clinks">`;
-  const ocwUrl = `https://ocw.mit.edu/search/?q=${encodeURIComponent(node.id)}`;
-  h+=`<a class="clink" href="${ocwUrl}" target="_blank">OCW Search ↗</a></div></div>`;
+function updateDetail(){
+  if(!state.selectedNodes.length){
+    courseDetail.innerHTML=`<div class="empty-state"><div class="icon">📚</div><div>Click a course node<br>or <strong>Shift+Click</strong> to select multiple</div></div>`;
+    statSelected.textContent='0';
+    return;
+  }
+  statSelected.textContent = state.selectedNodes.length;
+
+  // Merge all chains
+  const mergedChains = new Set();
+  const allPre = new Set();
+  const allUnl = new Set();
+  for(const node of state.selectedNodes){
+    buildChain(node.id).forEach(id=>mergedChains.add(id));
+    getPrerequisites(node.id).filter(isAvailable).forEach(id=>allPre.add(id));
+    getUnlocks(node.id).filter(isAvailable).forEach(id=>allUnl.add(id));
+  }
+  const selIds = new Set(state.selectedNodes.map(n=>n.id));
+
+  // Show selected courses as cards, then merged chain
+  let h = `<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap;">
+    <span style="font-size:10px;color:var(--text3);text-transform:uppercase;letter-spacing:1px;">Selected (${state.selectedNodes.length})</span>
+    <button id="btn-clear-sel" style="padding:3px 10px;border-radius:4px;border:1px solid var(--border);background:var(--surface2);color:var(--text2);cursor:pointer;font-size:10px;">✕ Clear</button>
+  </div>`;
+
+  for(const node of state.selectedNodes){
+    h+=`<div class="course-card" style="border-color:var(--accent);border-width:2px;">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+        <div class="cnum">${node.id}</div>
+        <button class="btn-remove-sel" data-id="${node.id}" style="padding:2px 8px;border-radius:4px;border:1px solid #ff6b6b;background:transparent;color:#ff6b6b;cursor:pointer;font-size:10px;">✕</button>
+      </div>
+      <div class="ctitle">${node.title}</div>
+      <div class="cmeta"><span class="ctag dept">${node.department}</span>`;
+    (node.level||[]).forEach(l=>{h+=`<span class="ctag level">${l}</span>`;});
+    (node.features||[]).slice(0,3).forEach(f=>{h+=`<span class="ctag">${f}</span>`;});
+    h+=`</div>${node.desc?`<div class="cdesc">${node.desc}</div>`:''}
+      <div class="clinks"><a class="clink" href="https://ocw.mit.edu/search/?q=${encodeURIComponent(node.id)}" target="_blank">OCW Search ↗</a></div>
+    </div>`;
+  }
+
+  // Merged prerequisite chain
+  const sortedChain = [...mergedChains].sort((a,b)=>{
+    const da = Math.min(...state.selectedNodes.map(s=>{const c=buildChain(s.id);const i=c.indexOf(a);return i>=0?i:999;}));
+    const db = Math.min(...state.selectedNodes.map(s=>{const c=buildChain(s.id);const i=c.indexOf(b);return i>=0?i:999;}));
+    return da-db;
+  });
+
+  h+=`<div class="prereq-section"><div class="prereq-title">🧭 Merged Prerequisite Chain (${mergedChains.size} courses)</div><div class="prereq-flow">`;
+  sortedChain.forEach((id,i)=>{
+    if(i>0) h+=`<span class="prereq-arrow">→</span>`;
+    h+=`<span class="prereq-node" data-id="${id}" style="${selIds.has(id)?'background:var(--accent);color:#fff;font-weight:700;':''}">${id}</span>`;
+  });
+  h+=`</div></div>`;
+
+  if(allUnl.size){
+    h+=`<div class="prereq-section"><div class="prereq-title">⬇ Common Unlocks (${allUnl.size})</div><div class="prereq-flow">`;
+    [...allUnl].slice(0,20).forEach(u=>{h+=`<span class="prereq-node" data-id="${u}">${u}</span>`;});
+    if(allUnl.size>20) h+=`<span class="prereq-node">+${allUnl.size-20} more</span>`;
+    h+=`</div></div>`;
+  }
+
   courseDetail.innerHTML = h;
-  courseDetail.querySelectorAll('.prereq-node').forEach(el=>{el.addEventListener('click',()=>{const id=el.dataset.id;if(!id)return;const n=state.nodes.find(x=>x.id===id);if(n){selectNode(n);centerOnNode(n);}});});
+
+  // Bind handlers
+  const btnClear = document.getElementById('btn-clear-sel');
+  if(btnClear) btnClear.addEventListener('click',()=>{selectNode(null);});
+  courseDetail.querySelectorAll('.btn-remove-sel').forEach(el=>{
+    el.addEventListener('click',()=>{
+      const id = el.dataset.id;
+      state.selectedNodes = state.selectedNodes.filter(n=>n.id!==id);
+      highlightAll();
+      updateDetail();
+      statSelected.textContent = state.selectedNodes.length;
+      exportBar.style.display = state.selectedNodes.length ? 'block' : 'none';
+      if(!state.selectedNodes.length) courseDetail.innerHTML=`<div class="empty-state"><div class="icon">📚</div><div>Click a course node<br>or <strong>Shift+Click</strong> to select multiple</div></div>`;
+    });
+  });
+  courseDetail.querySelectorAll('.prereq-node').forEach(el=>{
+    el.addEventListener('click',()=>{
+      const id=el.dataset.id; if(!id)return;
+      const n=state.nodes.find(x=>x.id===id);
+      if(n){selectNode(n);centerOnNode(n);}
+    });
+  });
 }
 
 function buildChain(cid,visited=new Set(),depth=0){
@@ -454,9 +542,17 @@ btnRefreshData.addEventListener('click', ()=>{
 function refresh(){
   const gd = buildGraph();
   render(gd);
-  if(state.selectedNode){
-    const found = gd.nodes.find(n=>n.id===state.selectedNode.id);
-    if(found) selectNode(found); else selectNode(null);
+  if(state.selectedNodes.length){
+    const restored = [];
+    for(const sel of state.selectedNodes){
+      const found = gd.nodes.find(n=>n.id===sel.id);
+      if(found) restored.push(found);
+    }
+    state.selectedNodes = restored;
+    highlightAll();
+    updateDetail();
+    statSelected.textContent = state.selectedNodes.length;
+    exportBar.style.display = state.selectedNodes.length ? 'block' : 'none';
   }
 }
 
@@ -479,19 +575,29 @@ loneToggle.addEventListener('click',()=>{
 
 // ========== PDF EXPORT ==========
 btnExportPdf.addEventListener('click', ()=>{
-  const node = state.selectedNode;
-  if(!node) return;
-  const chain = buildChain(node.id);
-  const chainNodes = chain.map(id=>COURSE_MAP[id]).filter(Boolean);
-  const chainNames = chain.map(id=>{
-    const c = COURSE_MAP[id];
-    return c ? `${c.id}: ${c.title}` : id;
+  if(!state.selectedNodes.length) return;
+
+  // Merge chains from all selected courses
+  const selIds = new Set(state.selectedNodes.map(n=>n.id));
+  const mergedChains = new Set();
+  for(const node of state.selectedNodes){
+    buildChain(node.id).forEach(id=>mergedChains.add(id));
+  }
+
+  // Sort chain topologically (prerequisites first)
+  const sortedChain = [...mergedChains].sort((a,b)=>{
+    const da = Math.min(...state.selectedNodes.map(s=>{const c=buildChain(s.id);const i=c.indexOf(a);return i>=0?i:999;}));
+    const db = Math.min(...state.selectedNodes.map(s=>{const c=buildChain(s.id);const i=c.indexOf(b);return i>=0?i:999;}));
+    return da-db;
   });
-  const pathName = pathSelect.selectedOptions[0]?.textContent || 'Custom Path';
+
+  const chainNodes = sortedChain.map(id=>COURSE_MAP[id]).filter(Boolean);
+  const selTitles = state.selectedNodes.map(n=>`${n.id}: ${n.title}`).join(', ');
+  const pathName = pathSelect.selectedOptions[0]?.textContent || 'Custom Plan';
 
   const printWin = window.open('','_blank','width=900,height=700');
   printWin.document.write(`<!DOCTYPE html>
-<html><head><meta charset="UTF-8"><title>MIT OCW Learning Path — ${node.id}</title>
+<html><head><meta charset="UTF-8"><title>MIT OCW Learning Plan — ${state.selectedNodes.length} courses</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:'Segoe UI',system-ui,sans-serif;color:#1a1a2e;padding:40px 60px;max-width:900px;margin:0 auto}
@@ -516,8 +622,8 @@ h2{font-size:14px;color:#666;font-weight:400;margin-bottom:24px}
 @media print{body{padding:20px 30px}}
 </style></head><body>
 <h1>📚 ${pathName}</h1>
-<h2>Full prerequisite chain for <strong>${node.id}: ${node.title}</strong> — generated by MIT OCW Knowledge Map</h2>
-<div class="path-flow">${chain.map((id,i)=>(i>0?'<span class="path-arrow">→</span>':'')+`<span class="path-chip${id===node.id?' target':''}">${id}</span>`).join('')}</div>
+<h2>Merged prerequisite plan for <strong>${state.selectedNodes.length} course${state.selectedNodes.length>1?'s':''}: ${selTitles}</strong></h2>
+<div class="path-flow">${sortedChain.map((id,i)=>(i>0?'<span class="path-arrow">→</span>':'')+`<span class="path-chip${selIds.has(id)?' target':''}">${id}</span>`).join('')}</div>
 <h2 style="margin-bottom:16px;">Course Details (${chainNodes.length} courses)</h2>
 ${
   chainNodes.map((c,i)=>{
@@ -525,7 +631,7 @@ ${
     const unl = (UNLOCKS[c.id]||[]).filter(isAvailable);
     const isGateway = GATEWAY_SET.has(c.id);
     return `<div class="course-block">
-      <div class="cnum">${i+1}. ${c.id} ${isGateway?'<span class="gateway-badge">⭐ Gateway</span>':''}</div>
+      <div class="cnum">${i+1}. ${c.id} ${selIds.has(c.id)?'<span class="gateway-badge" style="background:#7c5cfc;color:#fff;">🎯 Selected</span>':''} ${isGateway?'<span class="gateway-badge">⭐ Gateway</span>':''}</div>
       <div class="ctitle">${c.title}</div>
       <div class="cmeta"><span class="ctag dept">${c.department}</span>${(c.level||[]).map(l=>`<span class="ctag">${l}</span>`).join('')}${(c.features||[]).slice(0,3).map(f=>`<span class="ctag">${f}</span>`).join('')}</div>
       <div class="cdesc">${c.description||'No description available.'}</div>
